@@ -1,11 +1,6 @@
 {
   "tickers": [
     {
-      "symbol": "AAPL",
-      "name": "Apple",
-      "market": "US"
-    },
-    {
       "symbol": "TSLA",
       "name": "Tesla",
       "market": "US"
@@ -26,5 +21,5 @@
       "market": "US"
     }
   ],
-  "lastUpdated": "2026-06-18T13:12:48.762Z"
+  "lastUpdated": "2026-06-18T13:12:51.552Z"
 }
