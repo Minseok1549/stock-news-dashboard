@@ -1,76 +1,76 @@
 {
-  "generatedAt": "2026-06-18T13:49:13.872Z",
+  "generatedAt": "2026-06-18T17:58:49.169Z",
   "articles": {
     "INTC": [
       {
-        "title": "U.S. Stocks Move | Intel (INTC.US) Surges Over 10% at Open, to Partner with Apple on U.S. Chip Manufacturing - 富途牛牛",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRS1FeDBKZXZNd1E4MjhjdWNhdGhvbEFZazNIMWFLbHgxZnlTWHFJd0dkLVdLSFZhcUc1cHkzRWRUQ1pFVjhZcHNyZ21CMUtTU25GT09nMTJiOUhVbzRBZHBVX3JURVNIUmo1TENPRWtzZjAwSEh3UU56S2doek1QTE9hWDBKQ2xTS1VISnI2MXByc1ZzR0E?oc=5",
-        "source": "富途牛牛",
-        "publishedAt": "2026-06-18T13:46:26.000Z",
-        "summary": "인텔이 애플과 미국 내 반도체 생산을 위해 협력한다는 소식이 전해지면서 인텔의 주가가 개장 직후 10% 이상 급등했습니다. 이번 파트너십은 미국 내 반도체 제조 역량을 강화하려는 전략적 움직임으로 풀이됩니다."
+        "title": "Intel (INTC) Partners with Apple for U.S. Chip Manufacturing, Sh - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalJBOExzcVFyZlp0ZDdUNDlGb3k3b2pObzdvMktMSjJ4Rmx6WF9hb1d1T05NZWRHSy1naEUzazI1Y0NaVFZKVk8tbzhacHJoeXZjNThSbFlUWWx2akcyN2M4dmtoS1RGeW9kQkpCZ25OTUdlbjF0YlRORVRxY2dYWGRoR28yazQ4aF85U2FfNmRPdExid2d1NGhMSURVdEJPeGlfUHVTbHhac1Bx?oc=5",
+        "source": "GuruFocus",
+        "publishedAt": "2026-06-18T17:43:29.000Z",
+        "summary": "*   Task: Summarize the provided news article in Korean.\n    *   Length: 2-3 sentences.\n    *   Input:\n        *   Title: \"Intel (INTC) Partners with Apple for U.S. Chip Manufacturing, Sh - GuruFocus\"\n        *   Content: A link and the source \"GuruFocus\".\n\n    *   The input consists almost entirely of a title and a link.\n    *   Title: \"Intel (INTC) Partners with Apple for U.S. Chip Manufacturing\"\n    *   Key entities: Intel, Apple.\n    *   Action: Partnering for U.S. chip manufacturing.\n\n    *   *Draft 1 (Literal):* 인텔이 미국 내 칩 제조를 위해 애플과 파트너십을 맺었습니다. 이 소식은 구루포커스에서 보도되었습니다.\n    *   *Draft 2 (Refining):* 인텔이 미국 내 반도체 생산을 위해 애플과 협력하기로 했습니다. 이번 파트너십은 미국 내 칩 제조 역량을 강화하기 위한 전략으로 보입니다.\n\n    *   The prompt asks for a summary of the \"news article,\" but only a title is provided. I must base the summary on the title provided.\n    *   Title says: \"Intel Partners with Apple for U.S. Chip Manufacturing.\"\n\n    *   *Sentence 1:* 인텔이 미국 내 반도체 제조를 위해 애플과 파트너십을 체결했습니다. (Intel has entered a partnership with Apple for semiconductor manufacturing within the US.)\n    *   *Sentence 2:* 이번 협력을 통해 양사는 미국 내 칩 생산 역량을 강화할 것으로 보입니다. (Through this cooperation, both companies are expected to strengthen their chip production capabilities in the US.)\n\n    *   Korean? Yes.\n    *   2-3 sentences? Yes (2 sentences).\n    *   Accurate to input? Yes."
       },
       {
-        "title": "Stock Market Today: Dow Brushes Off Fed, Rises After Jobless Claims; Trump Spurs Intel Shares (Live Coverage)",
-        "url": "https://finance.yahoo.com/m/7d9d2b46-4a95-3f5e-8492-d6e8307ce329/stock-market-today%3A-dow.html?.tsrc=rss",
+        "title": "Stock Market Today, June 18: Intel Surges As Market Gains on U.S.-Iran Agreement",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/06/18/stock-market-today-june-18-intel-surges-as-market-gains-on-u-s-iran-agreement/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-18T13:44:11.000Z",
-        "summary": "목요일 뉴욕 증시에서 다우 지수는 전날의 하락세를 딛고 반등에 성공했습니다. 특히 트럼프 당선인의 발언에 힘입어 인텔의 주가가 큰 폭으로 상승했습니다."
+        "publishedAt": "2026-06-18T17:38:20.000Z",
+        "summary": "*   Title: Stock Market Today, June 18: Intel Surges As Market Gains on U.S.-Iran Agreement\n    *   Content: On June 18, 2026, investors welcomed U.S.-Iran progress, helping indexes overcome yesterday's rate hike fears.\n    *   Task: Summarize in Korean in 2-3 sentences.\n\n    *   Date: June 18, 2026.\n    *   Main Event: U.S.-Iran agreement/progress.\n    *   Market Reaction: Stock indexes rose, overcoming previous fears of interest rate hikes.\n    *   Specific Stock mentioned: Intel surged.\n\n    *   *Draft 1 (Literal):* 2026년 6월 18일, 미국과 이란의 합의 진전으로 인해 시장이 상승했습니다. 인텔 주가가 급등했으며, 지수들은 전날의 금리 인상 우려를 극복했습니다.\n    *   *Draft 2 (More natural):* 2026년 6월 18일, 미국과 이란의 합의 진전 소식에 투자 심리가 개선되며 증시가 상승했습니다. 특히 인텔의 주가가 급등했으며, 시장은 전날의 금리 인상 우려를 털어내고 반등에 성공했습니다.\n\n    *   Check against constraints: Korean? Yes. 2-3 sentences? Yes. Accurate? Yes."
       },
       {
-        "title": "Intel Shares Surge After Trump Announces Apple Partnership - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFJLWllMc0xIMjdEd3l2S0JqQlJ4dkM4UEo3WEtQdkQ0M0EtQngtcE5vVjNybVZFNWFVSkkwVjhkeW9vVlBxd0Y2V1l4TWhqMDdMNWh0NXFUUElIdm1UZDFWT2t4cDVVQkk5N2FEMFI2T3JKMm1sdGE5YmFYWklHdUJNY0dkMkc2OWFrYnk1bGZmc2ZXZlRubm1IWjdBblNoeTZkaHNB?oc=5",
-        "source": "WSJ",
-        "publishedAt": "2026-06-18T13:41:00.000Z",
-        "summary": "트럼프 당선인이 애플과 인텔의 파트너십을 발표함에 따라 인텔의 주가가 급등했습니다. 이번 협력 소식은 시장의 큰 관심을 받으며 투자 심리를 긍정적으로 자극했습니다."
+        "title": "Intel, Apple, Accenture, Micron, SpaceX, and More Stocks That Explain Today’s Market - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRW5hcWtmMU15WHlIYWRIUXk3TXVzcGlRekZfb1F1Nlh3VFFQVnhBVnhOQ21lb01ULWp0cGliOF9hS0E2VHptc3hXREQ3S3VDZzdIM19ybG5lZk1uVUhxYVVDcm8zSG9CY0dzRFNpQWZ3S2xObGJ0QlNQZWdac2tZVDYyVk1NcVZSZzdFZFJyUm1mZUZYVTUyTVJGVjFMUQ?oc=5",
+        "source": "Barron's",
+        "publishedAt": "2026-06-18T17:05:00.000Z",
+        "summary": "\n*   Task: Summarize a news article in Korean.\n*   Constraint: 2-3 sentences.\n*   Input:\n    *   Title: \"Intel, Apple, Accenture, Micron, SpaceX, and More Stocks That Explain Today’s Market - Barron's\"\n    *   Content: Just a link to the Barron's article.\n\n    *   The provided content is essentially just a headline and a URL. There is no actual body text provided.\n    *   Headline: \"Intel, Apple, Accenture, Micron, SpaceX, and More Stocks That Explain Today’s Market\".\n    *   Source: Barron's.\n\n    *   Since there's no full text, I have to rely on the title.\n    *   The title suggests an analysis of current market trends through the lens of several key stocks (Intel, Apple, Accenture, Micron, SpaceX, etc.).\n    *   It's a market overview/analysis piece.\n\n    *   *Draft 1 (Literal):* 배런스(Barron's)는 인텔, 애플, 액센추어, 마이크론, 스페이스X 등의 주식을 통해 현재 시장 상황을 설명하는 기사를 보도했습니다. 이 기사는 주요 기업들의 주가 흐름을 분석하여 시장의 전반적인 동향을 파악하고자 합니다.\n    *   *Draft 2 (Refined):* 배런스는 인텔, 애플, 마이크론, 스페이스X 등 주요 기업들의 주식 흐름을 통해 현재 금융 시장의 전반적인 동향을 분석했습니다. 다양한 업종의 대표 주식들을 통해 시장의 핵심 이슈와 방향성을 설명하고 있습니다.\n\n    *   The user asked for a summary of the *article*, but only provided the *title*. I should provide a summary based on the title while noting that the full text wasn't provided, OR simply summarize the intent of the title. Usually, in these prompt styles, the user expects a summary of the *topic* mentioned.\n\n    *   *Selected Summary:*\n        배런스(Barron's)는 인텔, 애플, 마이크론, 스페이스X 등 주요 기업들의 주가 흐름을 통해 현재 시장의 전반적인 동향을 분석했습니다. 다양한 업종의 핵심 종목들을 살펴봄으로써 오늘날 시장 상황을 설명하는 기사입니다."
       },
       {
-        "title": "11 Words From Nvidia CFO Colette Kress That Should Have AMD and Intel Investors Worried",
-        "url": "https://www.fool.com/investing/2026/06/18/11-words-from-nvidia-cfo-colette-kress-that-should/?.tsrc=rss",
+        "title": "Stock Market Today: Nasdaq Climbs On Iran Peace Deal; Moderna Breaks Out; JPMorgan Reverses (Live Coverage)",
+        "url": "https://finance.yahoo.com/m/7d9d2b46-4a95-3f5e-8492-d6e8307ce329/stock-market-today%3A-nasdaq.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-18T13:40:00.000Z",
-        "summary": "엔비디아의 콜레트 크레스 최고재무책임자(CFO)가 자사가 이전에 진출한 적 없는 2천억 달러 규모의 신규 시장에 진입한다고 밝혔습니다. 이에 따라 기존 시장을 주도하던 AMD와 인텔 투자자들에게 큰 위협이 될 것으로 보입니다."
+        "publishedAt": "2026-06-18T17:04:40.000Z",
+        "summary": "\n*   Input: A news snippet (title and content).\n    *   Task: Summarize in Korean.\n    *   Length: 2-3 sentences.\n    *   Source content:\n        *   Title: \"Stock Market Today: Nasdaq Climbs On Iran Peace Deal; Moderna Breaks Out; JPMorgan Reverses (Live Coverage)\"\n        *   Content: \"Stock Market Today; The Dow Jones index rises Thursday following reports of a signed U.S.-Iran Peace deal. Moderna breaks out past a buy point.\"\n\n    *   Main event: U.S.-Iran peace deal signed.\n    *   Market impact: Nasdaq and Dow Jones indices are rising.\n    *   Specific stocks: Moderna is breaking out (surging/hitting a buy point), JPMorgan is reversing.\n\n    *   *Draft 1 (Literal):* 미국-이란 평화 협정 체결 소식에 나스닥과 다우존스 지수가 상승했습니다. 모더나는 매수 지점을 돌파하며 급등했고, JP모건은 추세를 반전시켰습니다.\n    *   *Draft 2 (More polished):* 미국과 이란의 평화 협정 체결 소식으로 인해 다우존스와 나스닥 지수가 상승세를 보였습니다. 특히 모더나 주가가 매수 지점을 돌파하며 강세를 보인 가운데, JP모건은 하락세를 되돌리는 양상을 나타냈습니다.\n\n    *   Check constraints: Korean? Yes. 2-3 sentences? Yes. Summary of content? Yes."
       },
       {
-        "title": "Intel Stock Soars After Trump Reveals Apple Partnership, Nvidia Tie-Up And U.S. Stake - Intel (NASDAQ:INT - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ2ZYeVVtTGhJTHhoMFVtM0xZdlpFRWdZWnN4cFVYcXJReXoxbXlNRDUtWTRjREI1RkMwTXZ5UTNUejZHVjk1bk9wVEo3QzRscC1aRndzejVBR1dsVWNFdnBtME9OOFFYdEtxZi1jMWVvanRrZ3RXa0xOVHhzVERDT0Z6dG50VTQzN2pyTnFKWXRZQ3lhZi1qTXNMMk5mVEREbHg2aTVhMzgtcGVteUllM2ZTdVZoMFA5dEFKbDZEUHY4dDlBWWZTU2JXU29wZTF6OXhkVm1Nc1VEZjZoVXI2VlZES2NBTkU?oc=5",
-        "source": "Benzinga",
-        "publishedAt": "2026-06-18T13:19:02.000Z",
-        "summary": "트럼프 당선인이 인텔과 애플, 엔비디아 간의 협력 및 미국 정부의 지분 참여 계획을 발표하면서 인텔의 주가가 급등했습니다. 이번 발표로 인텔의 반도체 시장 내 입지가 강화될 것이라는 기대감이 투자자들에게 크게 작용하고 있습니다."
-      },
-      {
-        "title": "Intel Stock Jumps On Reported Apple Chip Business",
-        "url": "https://finance.yahoo.com/m/6415fb5d-0784-3e6f-8fdb-1e5808f1cc6b/intel-stock-jumps-on-reported.html?.tsrc=rss",
+        "title": "Why Direxion Daily Semiconductor Bull 3X ETF Jumped 20% Today",
+        "url": "https://www.fool.com/investing/2026/06/18/why-direxion-daily-semiconductor-bull-3x-etf-jumpe/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-18T13:15:08.000Z",
-        "summary": "도널드 트럼프 미국 대통령이 애플과 인텔이 반도체 위탁 생산 계약을 체결했다고 밝히면서 인텔의 주가가 상승했습니다. 이번 발표는 인텔의 파운드리 사업에 대한 기대감을 높이며 시장의 긍정적인 반응을 이끌어냈습니다."
+        "publishedAt": "2026-06-18T16:58:07.000Z",
+        "summary": "*   Title: \"Why Direxion Daily Semiconductor Bull 3X ETF Jumped 20% Today\"\n    *   Content: \"A social media post from President Trump sent chip stocks soaring. The Direxion Daily Semiconductor Bull 3X ETF led the charge, as expected.\"\n    *   Goal: Summarize in Korean, 2-3 sentences.\n\n    *   What happened? Direxion Daily Semiconductor Bull 3X ETF rose by 20%.\n    *   Why? A social media post by President Trump caused chip stocks to soar.\n    *   Key entities: Trump, Chip stocks, Direxion Daily Semiconductor Bull 3X ETF.\n\n    *   *Draft 1 (Literal):* 트럼프 대통령의 소셜 미디어 게시물로 인해 반도체 주가가 급등했습니다. 이에 따라 Direxion Daily Semiconductor Bull 3X ETF가 예상대로 20% 상승하며 상승세를 이끌었습니다.\n    *   *Draft 2 (More natural):* 트럼프 전 대통령의 SNS 게시물 영향으로 반도체 관련 주가들이 일제히 급등했습니다. 특히 'Direxion Daily Semiconductor Bull 3X ETF'가 20%나 오르며 이러한 상승세를 주도했습니다.\n\n    *   Language: Korean.\n    *   Length: 2-3 sentences. (Draft 2 is 2 sentences).\n    *   Accuracy: Covers both the cause (Trump's post) and the result (ETF 20% jump)."
       },
       {
-        "title": "Intel Stock Jumps On Reported Apple Chip Business - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZUZPNTlqY09GM0pOVzJQcFNLR1B1XzFqeGw4amQ2Yk1nc1BCVVJ5TzZ6THEyN1ZqYjhxR1M1clEzTmg4UlVXUnFjbzBWWnVCMVY2ZUNnLVIzdFhaTXZEUDQwUnQwcFdTVFVieVd6MTUxdWZPWk8wTkk1YWNJNDhOeDB3aW5jdw?oc=5",
-        "source": "Investor's Business Daily",
-        "publishedAt": "2026-06-18T13:15:00.000Z",
-        "summary": "인텔이 애플의 칩 제조 사업을 수주했다는 소식이 전해지면서 주가가 큰 폭으로 상승했습니다. 이번 계약은 인텔의 파운드리 사업 확장에 긍정적인 신호로 해석되며 투자자들의 주목을 받고 있습니다."
-      },
-      {
-        "title": "Trump Says Apple and Intel Are Working Together. Intel's Stock Is Rising On the News - Investopedia",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWTh5eDdicXBJQWt4elVUWXRyTmlrZE53SU1rZzBLTmwzdFlzOXNFakJmYlVOZ1N0Q2FrdFpPOENVTjB0WFVBN1hCbUxPUHFKU3BoTVNHMnlyMDBjLVNmLW9GeWVhU3NOYW9BcUpZOXQ0OGhGaHJqdEJJSXZCZ0xDbFMtY1NrVTJxQnBuaDFXRjk4M1lYdzBmVVM0dndTelRfQ2V3UlBFVkFzUmh4UnlacEd2Z3laZm9jb1BBdllsRGRKdHl0LXJXTw?oc=5",
-        "source": "Investopedia",
-        "publishedAt": "2026-06-18T13:08:15.000Z",
-        "summary": "트럼프 전 대통령이 애플과 인텔이 협력하고 있다고 언급하면서 인텔의 주가가 상승세를 보이고 있습니다. 이번 발언은 양사의 파트너십에 대한 기대감을 높이며 투자자들의 주목을 받고 있습니다."
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday as Interim US-Iran Deal Lifts Risk Sentiment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125723601.html?.tsrc=rss",
+        "title": "Update: US Equity Indexes Jump as Crude Oil Heads for Pre-War Levels Ahead of Iran Reopening Hormuz Chokepoint",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-jump-crude-165558076.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-18T12:57:23.000Z",
-        "summary": "제공해주신 기사 내용을 요약하면 다음과 같습니다.\n\n미국과 이란의 임시 합의 소식으로 투자 심리가 개선되면서, 목요일 개장 전 시장에서 SPY ETF와 주가지수 선물 모두 상승세를 보이고 있습니다. 이번 소식이 위험 자산에 대한 선호도를 높이며 시장 전반에 긍정적인 영향을 미치고 있습니다."
+        "publishedAt": "2026-06-18T16:55:58.000Z",
+        "summary": "*   Task: Summarize a news article in Korean.\n    *   Length: 2-3 sentences.\n    *   Input: Title (\"Update: US Equity Indexes Jump as Crude Oil Heads for Pre-War Levels Ahead of Iran Reopening Hormuz Chokepoint\") and a very brief snippet of the content (which is mostly boilerplate update text).\n    *   *Self-Correction/Observation:* The provided \"content\" is just a placeholder (\"Updates with index/price moves...\"). The core information is in the title.\n\n    *   Title: \"Update: US Equity Indexes Jump as Crude Oil Heads for Pre-War Levels Ahead of Iran Reopening Hormuz Chokepoint\"\n    *   Key Points:\n        1.  US Equity Indexes Jump (US stocks rose).\n        2.  Crude Oil is heading for pre-war levels (Oil prices are dropping/stabilizing).\n        3.  Reason: Iran is reopening the Hormuz chokepoint (reducing geopolitical tension/supply risk).\n\n    *   *Draft 1 (Literal):* 미국 주식 시장이 상승했습니다. 원유 가격이 전쟁 전 수준으로 내려가고 있습니다. 이는 이란이 호르무즈 해협을 다시 개방했기 때문입니다. (Too simple)\n    *   *Draft 2 (Combined):* 이란이 호르무즈 해협을 다시 개방함에 따라 원유 가격이 전쟁 전 수준으로 하락하며 지정학적 리스크가 완화되었습니다. 이에 따라 미국 증시가 일제히 상승세를 보였습니다. (Better)\n    *   *Draft 3 (Polishing for a news summary style):* 이란의 호르무즈 해협 재개방 가능성으로 원유 가격이 전쟁 전 수준으로 낮아지며 시장의 불안감이 해소되었습니다. 이러한 유가 하락과 지정학적 긴장 완화에 힘입어 미국 주요 주가지수가 일제히 상승했습니다. (Professional)\n\n    *   Language: Korean.\n    *   Length: 2 sentences (meets 2-3 sentence requirement).\n    *   Accuracy: Reflects the title's meaning."
       },
       {
-        "title": "Update: Signed US-Iran Peace Deal Lifts US Equity Futures Pre-Bell",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/signed-us-iran-peace-deal-124958671.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-18T12:49:58.000Z",
-        "summary": "제공해주신 기사 제목과 내용을 바탕으로 요약한 결과입니다.\n\n미국과 이란의 평화 협정 체결 소식으로 인해 미국 주식 시장의 선물 지수가 상승세를 보이고 있습니다. 이와 함께 경제 지표 발표와 유가 변동, 그리고 글로벌 시장 및 기업 주가에 대한 종합적인 분석이 시장의 주목을 받고 있습니다."
+        "title": "INTC Stock Eyeing $150 as Trump Announces Intel-Apple Chip Partnership - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaUxXTHVKTkhRRFBmZ052em16R0F4YmxMNjZ4NnVMNkFGRjF2REhoT096Z05JckVmb0ZkbGU2a2FHZDNQbFktenBtYUZjdDNBd3ZLd1hZYUVxUklvdXNFT1JuU1BWSmFMMUYyN1BFMXNKbnRUcmtobWZ4VEpXd09GR0lHdHdCT3NuTVM5QU9VeFVXRVU1SXFHUjhIbGoxVVhlX2p4UjFZT09QMEk5ak5yV0tn?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-06-18T16:47:16.000Z",
+        "summary": "\n*   Title: \"INTC Stock Eyeing $150 as Trump Announces Intel-Apple Chip Partnership - FXLeaders\"\n    *   Content: A link to the same title.\n    *   Key entities: Intel (INTC), Donald Trump, Apple.\n    *   Key event: Trump announces a chip partnership between Intel and Apple.\n    *   Key outcome: Intel stock is potentially targeting $150.\n\n    *   Language: Korean.\n    *   Length: 2-3 sentences.\n    *   Goal: Summary.\n\n    *   *Draft 1 (Literal):* 도널드 트럼프가 인텔과 애플의 칩 파트너십을 발표했습니다. 이에 따라 인텔 주가가 150달러를 목표로 하고 있습니다.\n    *   *Draft 2 (More professional/news style):* 트럼프 전 대통령이 인텔과 애플의 칩 파트너십 체결을 발표하면서 인텔의 주가 상승 기대감이 커지고 있습니다. 시장에서는 인텔의 주가가 150달러까지 상승할 수 있을지 주목하고 있습니다.\n\n    *   Is it 2-3 sentences? Yes.\n    *   Is it in Korean? Yes.\n    *   Does it cover the main points? Yes (Trump, Intel-Apple partnership, $150 stock target)."
+      },
+      {
+        "title": "Stocks making the biggest moves midday: Sandisk, Intel, Enphase Energy, Accenture, Exxon Mobil & more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnRWalpKamE2RENuaW0zcHFLMXluR2FNNWE3WFlCTkdnY3BVc2NOdW02bm5NRHJiV1NPZVdveG9ISVcxaGNTN0FkVFU1ckF3anl2MUZnUFpFb3c4bkFTRFl3S3hKdjdsb2lOQWxXNXFFRFVieW1uSEZlbzd5OTVsWktOajM0b0pYNGVHQ1AxVnByWTVHRS1VQU1sX3JrclU?oc=5",
+        "source": "CNBC",
+        "publishedAt": "2026-06-18T16:41:46.000Z",
+        "summary": "\n*   Input: A short snippet of a news article (title and a link).\n*   Task: Summarize the news in Korean in 2-3 sentences.\n*   Title: \"Stocks making the biggest moves midday: Sandisk, Intel, Enphase Energy, Accenture, Exxon Mobil & more - CNBC\"\n*   Content: Just a link to the CNBC article.\n\n    *   The provided text is essentially just a headline.\n    *   The headline lists several companies: SanDisk, Intel, Enphase Energy, Accenture, Exxon Mobil.\n    *   The core topic is \"stocks making the biggest moves midday.\"\n\n    *   Main point: CNBC reports on the stocks experiencing the most significant price fluctuations (ups or downs) during the midday trading session.\n    *   Specific companies mentioned: SanDisk, Intel, Enphase Energy, Accenture, Exxon Mobil, etc.\n\n    *   *Draft 1 (Literal):* CNBC가 정오 무렵 가장 큰 변동성을 보인 주식들을 보도했습니다. 샌디스크, 인텔, 엔페이즈 에너지, 액센추어, 엑손모빌 등이 포함되었습니다. (A bit too simple).\n    *   *Draft 2 (More natural):* CNBC는 정오 거래 시간 동안 주가 변동폭이 컸던 주요 종목들을 소개했습니다. 여기에는 샌디스크, 인텔, 엔페이즈 에너지, 액센추어, 엑손모빌 등이 포함되었습니다. (Better).\n\n    *   Ensure it's 2-3 sentences.\n    *   Accurately reflects the headline."
+      },
+      {
+        "title": "Intel stock jumps 9% after Trump says Apple will build chips with Intel in the US | Hindustan Times - Hindustan Times",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnpJV29hTlV0d1FEQk9jMzY5YXByTzNFZXB2aHNuc1BDVFpxYjhiblFjTVRMb0ZOaFQ0Mm1iNmdUZ0Q1MTNfUVdVQkJGdE9HMllqcV9NTFh2ZGtHMG9WWjdFTnNWempPQnd5RUhSdHh6a1VYYmVXVTgyeFE2dW13aTc1SDJ3UFdLV2pUTnBQZVhHVEZtaFR1UjI1SEo4SlpQQjhITnVzeDhYRjVmZDItUFZRYkxJcmdfY20xdXZLR2hiME1JQWRhSzJsbXJ1NFVoVlFXSDFhZTdYUzNEQXdrQVlKSUdFUdIB6wFBVV95cUxQQkhrTldfdlUzTjhPaFg2NThuLXlGbW5pQWJvYXJyNERaQ1NCREgzYnJDVGlScF9UNWdPNDF5a295b0psTEh6N1I3RE9BYlBTbVE5RnViazlnR0xfNWFGMEM4cE1EcWdvclRZTG15R1ZuaWRTRXZHaDJ4YmR5S050WS1tMDhNSEQtbE9RRVcxM09FMDBaY1duYWhfTHpTV0JlcjVGNnpfRk9mZE9DN0dwUDJoUmtFV1pKNVBJMjd1RnR0dWFWZjRVbTRuWkZ5UF9vTHdvbm5YNEV5RXJyUWg0SFJWZExES3BpLWxB?oc=5",
+        "source": "Hindustan Times",
+        "publishedAt": "2026-06-18T16:36:58.000Z",
+        "summary": "*   Task: Summarize the provided news article in Korean.\n    *   Constraint: 2-3 sentences.\n    *   Input: A title and a link to a Hindustan Times article.\n    *   Title: \"Intel stock jumps 9% after Trump says Apple will build chips with Intel in the US\".\n\n    *   Entity 1: Intel (Stock price jumped 9%).\n    *   Entity 2: Donald Trump (The person who made the statement).\n    *   Entity 3: Apple (The company that will supposedly build chips).\n    *   Action/Event: Trump stated that Apple will manufacture chips with Intel in the US.\n    *   Effect: Intel's stock price rose significantly.\n\n    *   *Draft 1 (Literal):* 도널드 트럼프 전 대통령이 애플이 미국 내에서 인텔과 함께 칩을 만들 것이라고 말한 후 인텔 주가가 9% 급등했습니다. 이 소식으로 인해 시장의 기대감이 커졌습니다.\n    *   *Draft 2 (More polished):* 도널드 트럼프 전 대통령이 애플이 미국 내에서 인텔과 협력해 칩을 생산할 것이라고 언급하면서 인텔의 주가가 9% 급등했습니다. 이는 미국 내 반도체 생산 강화에 대한 기대감이 반영된 결과로 보입니다.\n\n    *   The core message is: Trump's claim $\\rightarrow$ Apple & Intel partnership in US $\\rightarrow$ Intel stock $\\uparrow$.\n\n    도널드 트럼프 전 대통령이 애플이 미국 내에서 인텔과 협력해 칩을 생산할 것이라고 언급하면서 인텔의 주가가 9% 급등했습니다. 이번 발언은 미국 내 반도체 제조 역량 강화에 대한 시장의 기대감을 자극한 것으로 분석됩니다."
+      },
+      {
+        "title": "VOO is up 1.0% today, on INTC stock price movement - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbktOZ3pSS0oyaG1oMDByN01GQ05hVHNvNHF1dHktUEJvVFNFT3BqSm1fWDd1eXFTa2xKLXZuMUIzQ0dBSHJ4UTZndWpPLUJxZ2tEVlB6MlpfUFNUX1A3NVhPZHotVU1hbEVCUDRDYVppd0QwNTVmRjZWMlA5TktoNkJXdlVkYTRWVl9JU0dKZVc?oc=5",
+        "source": "Quiver Quantitative",
+        "publishedAt": "2026-06-18T16:15:00.000Z",
+        "summary": "*   Source: Quiver Quantitative\n    *   Title: \"VOO is up 1.0% today, on INTC stock price movement\"\n    *   Content: (Repeats the title and provides a link).\n    *   Key entities: VOO (Vanguard S&P 500 ETF), INTC (Intel Corporation stock).\n    *   Key event: VOO increased by 1.0% today, influenced by Intel's (INTC) stock price movement.\n\n    *   VOO(뱅가드 S&P 500 ETF)가 오늘 1.0% 상승했습니다.\n    *   이 상승은 인텔(INTC) 주가 변동의 영향을 받았습니다.\n\n    *   VOO가 인텔(INTC)의 주가 변동으로 인해 오늘 1.0% 상승했습니다. (1 sentence)\n    *   The user asked for 2-3 sentences. I need to expand slightly or split it while keeping it concise.\n\n    *   *Option 1:* 오늘 VOO(뱅가드 S&P 500 ETF)가 1.0% 상승했습니다. 이러한 상승세는 인텔(INTC)의 주가 변동에 영향을 받은 것으로 보입니다.\n\n    *   Does it summarize the news? Yes.\n    *   Is it in Korean? Yes.\n    *   Is it 2-3 sentences? Yes."
       }
     ]
   }
