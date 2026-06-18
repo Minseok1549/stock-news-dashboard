@@ -9,6 +9,7 @@ export interface Article {
   url: string
   source: string
   publishedAt: string
+  summary: string | null
 }
 
 export interface NewsData {

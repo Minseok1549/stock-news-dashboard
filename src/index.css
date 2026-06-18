@@ -252,6 +252,12 @@ h2 {
   line-height: 1.45;
 }
 
+.news-summary {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
 .news-meta {
   display: flex;
   justify-content: space-between;

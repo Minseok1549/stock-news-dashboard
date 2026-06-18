@@ -40,6 +40,7 @@ export function NewsCard({ article }: NewsCardProps) {
   return (
     <a className="news-card" href={article.url} target="_blank" rel="noopener noreferrer">
       <h3>{article.title}</h3>
+      {article.summary && <p className="news-summary">{article.summary}</p>}
       <div className="news-meta">
         <span>{article.source}</span>
         <span>{relativeTime(article.publishedAt)}</span>

@@ -62,9 +62,64 @@ function parseItems(xml, fallbackSource) {
         url: normalizeUrl(item.link),
         source: textValue(item.source) || fallbackSource,
         publishedAt: date.toISOString(),
+        description: textValue(item.description) || '',
       }
     })
     .filter((article) => article && article.title && article.url)
+}
+
+async function summarizeArticle(title, description, apiKey) {
+  const prompt = `다음 뉴스 기사를 한국어로 2~3문장으로 요약해주세요.\n\n${description || title}`
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`
+
+  try {
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+      }),
+    })
+
+    if (!response.ok) {
+      throw new Error(`Gemini API ${response.status}: ${response.statusText}`)
+    }
+
+    const data = await response.json()
+    return data?.candidates?.[0]?.content?.parts?.[0]?.text ?? null
+  } catch (err) {
+    console.error('Gemini summary failed:', err.message)
+    return null
+  }
+}
+
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms))
+}
+
+async function readExistingNews() {
+  try {
+    return JSON.parse(await fs.readFile(NEWS_PATH, 'utf8'))
+  } catch (err) {
+    if (err.code === 'ENOENT') {
+      return { articles: {} }
+    }
+    throw err
+  }
+}
+
+function buildExistingSummaryMap(news) {
+  const summaries = new Map()
+
+  for (const articles of Object.values(news.articles || {})) {
+    for (const article of asArray(articles)) {
+      if (article?.url) {
+        summaries.set(article.url, article.summary ?? null)
+      }
+    }
+  }
+
+  return summaries
 }
 
 async function fetchRss(url, fallbackSource) {
@@ -136,6 +191,9 @@ async function fetchTicker(ticker) {
 
 async function main() {
   const config = JSON.parse(await fs.readFile(CONFIG_PATH, 'utf8'))
+  const existingNews = await readExistingNews()
+  const existingSummaries = buildExistingSummaryMap(existingNews)
+  const apiKey = process.env.GOOGLE_AI_API_KEY
   const output = {
     generatedAt: new Date().toISOString(),
     articles: {},
@@ -143,7 +201,27 @@ async function main() {
 
   for (const ticker of config.tickers) {
     try {
-      output.articles[ticker.symbol] = await fetchTicker(ticker)
+      const articles = await fetchTicker(ticker)
+      output.articles[ticker.symbol] = []
+
+      for (const article of articles) {
+        let summary = null
+
+        if (existingSummaries.has(article.url)) {
+          summary = existingSummaries.get(article.url)
+        } else if (apiKey) {
+          summary = await summarizeArticle(article.title, article.description, apiKey)
+          await delay(4000)
+        }
+
+        output.articles[ticker.symbol].push({
+          title: article.title,
+          url: article.url,
+          source: article.source,
+          publishedAt: article.publishedAt,
+          summary,
+        })
+      }
     } catch (err) {
       console.error(`[${ticker.symbol}] ticker fetch failed:`, err.message)
       output.articles[ticker.symbol] = []
