@@ -70,7 +70,7 @@ function parseItems(xml, fallbackSource) {
 
 async function summarizeArticle(title, description, apiKey) {
   const prompt = `다음 뉴스 기사를 한국어로 2~3문장으로 요약해주세요.\n\n제목: ${title}\n내용: ${description || title}`
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`
+  const url = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=${apiKey}`
 
   try {
     const response = await fetch(url, {
