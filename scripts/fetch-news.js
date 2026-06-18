@@ -113,8 +113,8 @@ function buildExistingSummaryMap(news) {
 
   for (const articles of Object.values(news.articles || {})) {
     for (const article of asArray(articles)) {
-      if (article?.url) {
-        summaries.set(article.url, article.summary ?? null)
+      if (article?.url && article.summary !== null) {
+        summaries.set(article.url, article.summary)
       }
     }
   }
