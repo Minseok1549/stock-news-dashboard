@@ -1,15 +1,10 @@
 {
   "tickers": [
     {
-      "symbol": "035720",
-      "name": "카카오",
-      "market": "KR"
-    },
-    {
       "symbol": "INTC",
       "name": "Intel",
       "market": "US"
     }
   ],
-  "lastUpdated": "2026-06-18T13:12:55.911Z"
+  "lastUpdated": "2026-06-18T13:12:57.802Z"
 }
