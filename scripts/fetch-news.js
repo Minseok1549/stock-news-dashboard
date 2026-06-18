@@ -69,7 +69,7 @@ function parseItems(xml, fallbackSource) {
 }
 
 async function summarizeArticle(title, description, apiKey) {
-  const prompt = `다음 뉴스 기사를 한국어로 2~3문장으로 요약해주세요.\n\n${description || title}`
+  const prompt = `다음 뉴스 기사를 한국어로 2~3문장으로 요약해주세요.\n\n제목: ${title}\n내용: ${description || title}`
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${apiKey}`
 
   try {
@@ -82,13 +82,16 @@ async function summarizeArticle(title, description, apiKey) {
     })
 
     if (!response.ok) {
-      throw new Error(`Gemini API ${response.status}: ${response.statusText}`)
+      const body = await response.text()
+      throw new Error(`Gemini API ${response.status}: ${body}`)
     }
 
     const data = await response.json()
-    return data?.candidates?.[0]?.content?.parts?.[0]?.text ?? null
+    const text = data?.candidates?.[0]?.content?.parts?.[0]?.text ?? null
+    console.log(`  → summary: ${text ? text.slice(0, 50) + '...' : 'null'}`)
+    return text
   } catch (err) {
-    console.error('Gemini summary failed:', err.message)
+    console.error(`  → Gemini failed: ${err.message}`)
     return null
   }
 }
@@ -194,6 +197,7 @@ async function main() {
   const existingNews = await readExistingNews()
   const existingSummaries = buildExistingSummaryMap(existingNews)
   const apiKey = process.env.GOOGLE_AI_API_KEY
+  console.log(`API key: ${apiKey ? '있음 (' + apiKey.slice(0, 6) + '...)' : '없음 — 요약 건너뜀'}`)
   const output = {
     generatedAt: new Date().toISOString(),
     articles: {},
@@ -209,9 +213,13 @@ async function main() {
 
         if (existingSummaries.has(article.url)) {
           summary = existingSummaries.get(article.url)
+          console.log(`  [캐시] ${article.title.slice(0, 50)}`)
         } else if (apiKey) {
+          console.log(`  [Gemini] ${article.title.slice(0, 50)}`)
           summary = await summarizeArticle(article.title, article.description, apiKey)
           await delay(4000)
+        } else {
+          console.log(`  [건너뜀] ${article.title.slice(0, 50)}`)
         }
 
         output.articles[ticker.symbol].push({
