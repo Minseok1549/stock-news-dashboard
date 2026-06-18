@@ -30,6 +30,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data/news.json
           git diff --staged --quiet || git commit -m "chore: update news data"
+          git pull --rebase origin main
           git push
       - run: npm run build
         env:
