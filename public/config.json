@@ -1,0 +1,9 @@
+{
+  "tickers": [
+    { "symbol": "AAPL", "name": "Apple", "market": "US" },
+    { "symbol": "TSLA", "name": "Tesla", "market": "US" },
+    { "symbol": "005930", "name": "삼성전자", "market": "KR" },
+    { "symbol": "035720", "name": "카카오", "market": "KR" }
+  ],
+  "lastUpdated": "2026-06-16T00:00:00Z"
+}
