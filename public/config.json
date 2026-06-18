@@ -1,11 +1,6 @@
 {
   "tickers": [
     {
-      "symbol": "005930",
-      "name": "삼성전자",
-      "market": "KR"
-    },
-    {
       "symbol": "035720",
       "name": "카카오",
       "market": "KR"
@@ -16,5 +11,5 @@
       "market": "US"
     }
   ],
-  "lastUpdated": "2026-06-18T13:12:53.703Z"
+  "lastUpdated": "2026-06-18T13:12:55.911Z"
 }
