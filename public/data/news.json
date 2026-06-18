@@ -1,252 +1,66 @@
 {
-  "generatedAt": "2026-06-16T13:29:46.318Z",
+  "generatedAt": "2026-06-18T13:13:24.780Z",
   "articles": {
-    "AAPL": [
+    "INTC": [
       {
-        "title": "SpaceX Options Start Trading Today. It Will Be Wild.",
-        "url": "https://finance.yahoo.com/m/06862d2c-384c-390e-80dc-3ef14aa7b922/spacex-options-start-trading.html?.tsrc=rss",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday as Interim US-Iran Deal Lifts Risk Sentiment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125723601.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T13:15:00.000Z"
+        "publishedAt": "2026-06-18T12:57:23.000Z"
       },
       {
-        "title": "BlackBerry Answers Rising Demand for Sovereign Endpoint Control",
-        "url": "https://finance.yahoo.com/technology/ai/articles/blackberry-answers-rising-demand-sovereign-130000921.html?.tsrc=rss",
+        "title": "Update: Signed US-Iran Peace Deal Lifts US Equity Futures Pre-Bell",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/signed-us-iran-peace-deal-124958671.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T13:00:00.000Z"
+        "publishedAt": "2026-06-18T12:49:58.000Z"
       },
       {
-        "title": "Schlage Launches Sense Pro™ Smart Deadbolt, Redefining Home Access Through Schlage Converge™ Technology with Ultra Wideband",
-        "url": "https://finance.yahoo.com/technology/articles/schlage-launches-sense-pro-smart-130000948.html?.tsrc=rss",
+        "title": "Stock Market Today: Dow Brushes Off Fed, Rises After Jobless Claims; Trump Spurs Intel Shares (Live Coverage)",
+        "url": "https://finance.yahoo.com/m/7d9d2b46-4a95-3f5e-8492-d6e8307ce329/stock-market-today%3A-dow.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T13:00:00.000Z"
+        "publishedAt": "2026-06-18T12:48:54.000Z"
       },
       {
-        "title": "Google Broadens Fitbit Air Appeal With HSA, FSA Eligibility",
-        "url": "https://finance.yahoo.com/healthcare/articles/google-broadens-fitbit-air-appeal-122922530.html?.tsrc=rss",
+        "title": "Intel, Apple, Accenture, SpaceX, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/f33d67dd-eac0-3005-be5b-e8926e673390/intel%2C-apple%2C-accenture%2C.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:29:22.000Z"
+        "publishedAt": "2026-06-18T12:39:00.000Z"
       },
       {
-        "title": "Apple Faces Italy Cloud Probe",
-        "url": "https://finance.yahoo.com/technology/articles/apple-faces-italy-cloud-probe-122610703.html?.tsrc=rss",
+        "title": "Intel Shares Surge After Trump Announces Apple Partnership - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFJLWllMc0xIMjdEd3l2S0JqQlJ4dkM4UEo3WEtQdkQ0M0EtQngtcE5vVjNybVZFNWFVSkkwVjhkeW9vVlBxd0Y2V1l4TWhqMDdMNWh0NXFUUElIdm1UZDFWT2t4cDVVQkk5N2FEMFI2T3JKMm1sdGE5YmFYWklHdUJNY0dkMkc2OWFrYnk1bGZmc2ZXZlRubm1IWjdBblNoeTZkaHNB?oc=5",
+        "source": "WSJ",
+        "publishedAt": "2026-06-18T12:36:00.000Z"
+      },
+      {
+        "title": "Marvell Stock Seen Rising 48% From Current Levels on Growth in Optical-Networking",
+        "url": "https://finance.yahoo.com/m/a610dcdd-7efe-3d38-946a-3d0ca69cf51d/marvell-stock-seen-rising-48%25.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:26:10.000Z"
+        "publishedAt": "2026-06-18T12:26:00.000Z"
       },
       {
-        "title": "Qualcomm Stock Rises Ahead of Fresh Target Catalyst",
-        "url": "https://finance.yahoo.com/m/5a463ca7-a411-3b18-87ec-fa704f7df860/qualcomm-stock-rises-ahead-of.html?.tsrc=rss",
+        "title": "Intel Stock Surges as Trump Says It Has Won a Huge Customer",
+        "url": "https://finance.yahoo.com/m/559caaf0-9fc9-3d5e-a5d6-8b56b8d39195/intel-stock-surges-as-trump.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:20:00.000Z"
+        "publishedAt": "2026-06-18T12:16:00.000Z"
       },
       {
-        "title": "Apple Stock Is Down After WWDC. There’s More to Its AI Strategy Than Meets the Eye.",
-        "url": "https://finance.yahoo.com/m/48e2380e-8e8b-355c-8a40-a7c31f7bfd84/apple-stock-is-down-after.html?.tsrc=rss",
+        "title": "INTC Stock: Intel Surges as Trump Reveals Apple Partnership - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkRZeWtCSnZwck04eUhaWm1HYl9RN0NuYjF4ekpRYi1XSm1CNWRiaTNBVlhkLUxkcHpWSUF2a3RXeXJsdHl3TW9QUG1NNE5rSHBtVmY1ZDRRYUZtNExxWFd1b0E1ejRFa1JVUS1VRkdBc1kzZ2szblItSUVtY2RiOU1tVkZzSWc?oc=5",
+        "source": "Barron's",
+        "publishedAt": "2026-06-18T12:16:00.000Z"
+      },
+      {
+        "title": "Tim Cook says iPhone prices will rise. Trump says Apple will make US chips with Intel",
+        "url": "https://www.cnn.com/2026/06/18/tech/intel-chip-production-usa-trump?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:11:00.000Z"
+        "publishedAt": "2026-06-18T12:11:45.000Z"
       },
       {
-        "title": "Apple (AAPL) Stock Could Be Pricing In Too Much Growth After A 50% Run",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-stock-could-pricing-120836143.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:08:36.000Z"
-      },
-      {
-        "title": "Apple (AAPL) Stock Could Be Pricing In Too Much Growth After A 50% Run - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkF6aEVHalZHc1AzdVJFbFRJSDhLMjJNWGpMYjRBbWZTUG1OZlBEX0NzdVdnYzVRZ1pzX0RsYjJ0VnpZdjYyZXl0Z1hDdEdreV9HdWYwRTFMelFpbUNvRG9iOHB3ZWhoUk04VGM5YmR2RUt2eGhDdkVjU2J5Vl9ZQ3NTcWl6aHBPR3hCWXhNQjlLUGlKcjNTbGRHQQ?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:08:36.000Z"
-      },
-      {
-        "title": "Investors look beyond the 'Magnificent 7' as Wall Street embraces the 'FAB 10'",
-        "url": "https://www.euronews.com/2026/06/16/investors-look-beyond-the-magnificent-7-as-wall-street-embraces-the-fab-10?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T11:52:21.000Z"
-      }
-    ],
-    "TSLA": [
-      {
-        "title": "Price Prediction: How Much Upside Is Left in Tesla?",
-        "url": "https://247wallst.com/investing/2026/06/16/price-prediction-how-much-upside-is-left-in-tesla/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T13:16:13.000Z"
-      },
-      {
-        "title": "Cathie Wood Cleans House: Another Day Of Heavy Sales",
-        "url": "https://finance.yahoo.com/m/f9a192dc-1601-3c68-9a2c-c328f2c58fb3/cathie-wood-cleans-house%3A.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T13:10:58.000Z"
-      },
-      {
-        "title": "Update: US Equity Futures Largely Flat as Dow Climbs to New Record Amid Anticipated US-Iran Peace Deal Signing",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-largely-flat-125119658.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:51:19.000Z"
-      },
-      {
-        "title": "Tesla Stock Can’t Escape SpaceX’s Gravity",
-        "url": "https://finance.yahoo.com/m/ac37ae52-edc3-32cb-a28e-b58823a1fbef/tesla-stock-can%E2%80%99t-escape.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:43:00.000Z"
-      },
-      {
-        "title": "Why GM's Newest Strategy Could Top Rival Ford",
-        "url": "https://www.fool.com/investing/2026/06/16/why-gms-newest-strategy-could-top-rival-ford/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:40:00.000Z"
-      },
-      {
-        "title": "What's Going On With SpaceX Stock Tuesday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nears-microsoft-amazon-another-123908008.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:39:08.000Z"
-      },
-      {
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Ahead of Fed Policy Meeting",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123451429.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:34:51.000Z"
-      },
-      {
-        "title": "Qualcomm Stock Rises Ahead of Fresh Target Catalyst",
-        "url": "https://finance.yahoo.com/m/5a463ca7-a411-3b18-87ec-fa704f7df860/qualcomm-stock-rises-ahead-of.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:20:00.000Z"
-      },
-      {
-        "title": "Why Dave Ramsey Chooses $5,000 Index Funds Over SpaceX: The Math Explained",
-        "url": "https://247wallst.com/personal-finance/2026/06/16/why-dave-ramsey-chooses-5000-index-funds-over-spacex-the-math-explained/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:16:55.000Z"
-      },
-      {
-        "title": "Goldman Sachs Raises Tesla Delivery Forecast as Second-Quarter Performance Appears Stronger Than Expected (TSLA)",
-        "url": "https://investorshub.advfn.com/market-news/article/30525/goldman-sachs-raises-tesla-delivery-forecast-as-second-quarter-performance-appears-stronger-than-expected-tsla?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-16T12:05:18.000Z"
-      }
-    ],
-    "005930": [
-      {
-        "title": "2026-06-15 코스피 오늘 인기종목 30개 시장흐름 살펴보니 (+005930, 삼성전자, SK하이닉스, 삼성전기) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQnFxWm1LQXE3MzZGWThDUWRBbTBnWXkwV1NmWkRVYmlIT1llMW9jRGNseE05dTFvbGlpaWtuTVV4WjZiNTdqVlhGVjYxblVwNU1VZ2cxSFdabk5hYndMc213ZXpRYjhLZUItbA?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-15T07:53:33.000Z"
-      },
-      {
-        "title": "2026-06-11 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45ZUlDUjFhN3NEVXlBN1hRM200cDlaZmZrOHZYNi13RVdwWXRDT18wTTBSXzhrOUptbGRkVnFaRWJ4V0MwOGJCc2xGajBIRXVjN09yOEpQaEV2V3o1a19ZbzJxSWRUX3ZDLTBBbA?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-11T07:55:51.000Z"
-      },
-      {
-        "title": "삼성전자, 1.16% 하락 마감…외국인·기관 수급 엇갈려 (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 6월 11일 수요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdURLQ09VMWhIOWdiYm9FZGN5bmx0NENtRUJ0eXEtNzd3VWZMcWRLTlVYRVN5cWdmaHYzMnIxcXhsZjJzVGJLU3VEX29nUFB6dXRIVWhTYXpwSEpwajZDaVdZOWpqMjc1VHcteg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-11T06:41:40.000Z"
-      },
-      {
-        "title": "2026-06-04 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yU1V0TFNTWXVnZG1vam9HZm5EOFNkQWZxTlA5c3BQNXFtRW1ldjFtS0Z2UTZMUGVMcGtaUUJPei1FS0c5cWNaX2Q3dlRqd2w5Yk9WOVpFTXFDYnpEUTVSa3JDekE2eXFKVlZjWQ?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-04T07:00:00.000Z"
-      },
-      {
-        "title": "\"불확실성 커졌다\" 삼성전자 노사협상 결렬에 투자자들 불안 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhejZrOEVxLU9qZ2dSOXp2WW5yYTk0eUJ3M21iNnVndllaMi1mUWVBMTFCRncxa0FNdzhITm5VWG10N0FCUlBoZlJmdmhvR0VrQnBWWm40MmUxWTDSAWBBVV95cUxOd05KR195WEtmRUhJSFNyZFE2TzFfLUtDUTR5bVBwR2ZZUEZtdUF0dWVrbTJrUkFNSXFCRTlDQlZRTVhSbTRPUk5BQUY5dUJrc3JtVnlsSkV1Vk1LaU50YnM?oc=5",
-        "source": "연합뉴스",
-        "publishedAt": "2026-05-20T07:00:00.000Z"
-      },
-      {
-        "title": "삼성전자 성과급 해법 \"이익 규모 따라 상한 차등…현금 대신 주식\" - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6TDNPUndZQ2ZqRFlNOTlnRzdwTXRtMjlIUEpncUNRN1lYWEI5ZTRlMWF2TXp6UHp2YnRQdmdMZ19waDVRRm54R3JmUjRjLUlFSDlV?oc=5",
-        "source": "네이트",
-        "publishedAt": "2026-05-17T07:00:00.000Z"
-      },
-      {
-        "title": "삼성전자, 증권가 목표가 상향…주가 강세 - 프리진경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MSXVyb25aN0stSHRjZFZsSEgtVVZmbzVISnRDa2ltMDRKbGRaNmpHY0QySXRQUE83dzJxdml3LXA5bldtbGNsR3pCRVhoX19FTlFXSGpsNnJIc3JzTEFsUGVnRExmZWJvTGxBaA?oc=5",
-        "source": "프리진경제",
-        "publishedAt": "2026-05-11T07:00:00.000Z"
-      },
-      {
-        "title": "삼성전자 2.23% 하락 마감, 외국인·기관 수급 엇갈림…거래량 변화 (005930, 삼성전자, 주가, 외국인, 기관, 2026년 4월 24일 목요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMRV9UZ3pjQnVwS2xVQzVlcndRZTA3OVJXVHQ3WHVyWHVfOTRuTi1wSG5RdDBmYkdiNFpMS2h4UW1hX2tMaFJuc3dyQnQyOEZCczZMcWxsRDRwZUhWZEZrWWk1a1hNQ09CNWpFNg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-04-24T07:00:00.000Z"
-      },
-      {
-        "title": "\"오늘 계좌 열어보세요\" 삼성전자, 개미들에게 2.2조 배당 쏜다 - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNFZ3Q0VkVzlOSzhkYUcwcFhnbkFjdUNIclRPUThQUUdQTU03RUg3X0h2YjZXZ2ViSkN6QlpHMmYtSVhtSHRiOHBVeUdHYkhSNUx3?oc=5",
-        "source": "네이트",
-        "publishedAt": "2026-04-17T07:00:00.000Z"
-      },
-      {
-        "title": "홍라희, 삼성전자 주식 3조원대 블록딜 매각…할인율 2.5% - 연합인포맥스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MTzR2TjBJWGFCNkRSbHZBREl6ZWN1REw3aWltOVFwSmpwVDZjeTV3Z2E2N2VSX1d5Q1FWcEZPWkxDMEJwNDRZc1BpRXlwTDlwUkFNcVE5cldjTWdmS2NXVnJJYXlmamgxdGVBTW93Rmk?oc=5",
-        "source": "연합인포맥스",
-        "publishedAt": "2026-04-09T07:00:00.000Z"
-      }
-    ],
-    "035720": [
-      {
-        "title": "카카오 5.47% 급등 마감, 외국인·기관 매수세 집중…거래량 증가 (+035720, 카카오, 주가, 수급, 2026년 6월 12일 목요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xLWdUUkRaZzFVM2I4SXB3OTR2ZEFYdjg0SWRPZ3VfM0hZUURsQlZoNlktcTRTcFNjZEx4YV9seFJCOXJOQlZvaXkwUmZ4Z3RnLVNyM3YwQkxlS19tZWg2dzJXWHBoVHBrdk5LVg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-12T07:26:25.000Z"
-      },
-      {
-        "title": "카카오 1,600원 상승 마감, 외국인·기관 수급 엇갈림…거래량 변화 (+035720, 카카오, 주가, 수급, 2026년 6월 11일 수요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xeXprSHhIR20yUVF1UVJCa3p3d1ZJRGVuSFliYndwT1BoZncxVllYRzQ2TWRLZ2RhN0RPME9YY0xic2FxRVYyR0dWN0R3UVB0Wm9FZGRoekFaT25VSzRNa3B2ZTc5dE1NbzVkWg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-11T07:21:12.000Z"
-      },
-      {
-        "title": "창사 첫 파업 돌입…‘국민 메신저’ 카카오, 5% ‘뚝’ [이런국장 저런주식] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXd0VhTkEyeXJ6Q3VTYnpNTjc5cmE2NGI4YjdlMHZoNThKYVIzdm9FZmtHR010T21XMDRScl9JczVxLWp2NzVtX2pTNFRUVURTR3fSAVNBVV95cUxNV2VsY3gwWHJpNTA4aDBVODVFUy1ZVWtJd0tBSXVxZ3lfM1B5WnljQkctTGo0OE15V2JqSEh3NlZidWNHTThaRHdLSFU5U0tlZlFpSQ?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-06-10T04:48:28.000Z"
-      },
-      {
-        "title": "카카오 주가 전망: 035720 하락세 속에 거래는 ₩35,813.93–₩40,286.07 구간 내에 머물러 - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZnYtOEhsaVdCSzFXQWVNQTVTLXgxU2RhSnl5NWxpV2tWMmFseGExVUg0MlcwUHJYcy1NMWtjXzFlUTloVWJMRUtyXzhsZnFRYkJuTGtxRGszNFVTU3VSTGhQVTkxUUlvaEZRQ2t4SXM0UXd1N1JjenR0TlBHTlhyaUFidUw3b19uOGxnMlJja0pTVWRFNXU4SzVVd0tpUjN5Qnc?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-06-10T03:00:17.000Z"
-      },
-      {
-        "title": "권대열 CA협의체 그룹ESG담당, 카카오 주식 4만2900주 매도 - 디지털투데이",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0REluVURqdXF3NllMRkU2OFFHaVFBWUUxdG9KcFFRdllaRnZ1ZGdsTEhpaGttLWZTQWNfTGhaaG5KWUNtYzh4QWZjVml6X0s5ZGItbmlLMFJBbm1mSF9SUk9aZUFCTGxWb2k3YVJ6MG11UXc?oc=5",
-        "source": "디지털투데이",
-        "publishedAt": "2026-05-20T07:00:00.000Z"
-      },
-      {
-        "title": "카카오 임원 28명, 5억원 규모 주식 매수…\"책임 경영 실천\" - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByQmR4VnJRd19DZlpnR0VWQ0h0ZzZFRzFISmVmNnZKem1EemhGNHRVODJFUkI4aTBtLXRWV25YWXcyNVVWaHRVb3pnVGtDejNJSkE?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-05-19T07:00:00.000Z"
-      },
-      {
-        "title": "카카오, 준법 경영 내재화 박차…공정거래·상생 성과 창출한 크루 포상 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zc0k2Rjk5cVZ3VUJMN0oyR0xGTlJjMUpWYVdIMGJvN3BVNHBidnk1Y1luSE5YTTJrX3BEaXBoMzM3SkJIbnFCNW5aYmdQQzVaTkx0THRmcEhYdlVMaHRlLUFiZWdoSHV6ZHB1amlvWEd5TENMenc?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-05-18T03:33:56.000Z"
-      },
-      {
-        "title": "두나무 지분 일부 처분한 카카오…\"AI 투자재원 확보\" - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15bWhueHRUYTBwZGprV1RqcmthN0IwVkNJVFg4SmxxLTE2MVp0YThxWnd6ZEJNS1IwUnJoa2VpNVE2WkRvblNTTHVDNUo1eTZGbmpwaTNDZDZSN2fSAWBBVV95cUxPQkpYZkZwSHdpNUlwMTF6UzgtVzdSUUZwZlUxM1MwRUhZRVh6UlZod2JfbzlFdHBOYUhYUGxnd21ZQWQ5SVc4bnlNSE5oa2s0M3JSY0Q2OTNBMVBwbHY5OW0?oc=5",
-        "source": "연합뉴스",
-        "publishedAt": "2026-05-15T07:00:00.000Z"
-      },
-      {
-        "title": "카카오, 감자 결정→주식 수 1,420,723주 감소 - 톱스타뉴스",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fYV9RbnBMeE40amVReXItcmF1eFItUFJSejlQRzVDWFVGUTdfbDc2bkZKcHV5anptdGdLclJ5dEc5dHpXZXl4X2JYRWQ2bU41bWZBSEhHOUFJdUxKWG1DYWhhcFdKV0hOQlJSWXpGVG4zUQ?oc=5",
-        "source": "톱스타뉴스",
-        "publishedAt": "2026-05-14T07:00:00.000Z"
-      },
-      {
-        "title": "국민연금, 카카오 주식 444만주 처분…지분율 6.4%로 하락 - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMeW9Nbld0SWxhOWJiemtXd2lMSGpNNm1IM253R1NQMVVldldNbklyYXB4N01QUGYzYl9sMGR3QzlMWEY2LV9jWVpzTkU1Q2d4bEZfZEdMMUtFNlpacTU0ZzV0R1RXS1M2?oc=5",
-        "source": "뉴스1",
-        "publishedAt": "2026-04-01T07:00:00.000Z"
+        "title": "Intel stock surges on Trump Apple chip manufacturing announcement - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSWp5TWdmNmplMFd1VXFsX0JwR0NvVTJjZS1RNDJDN3RxZzFxRmJPVnJjRWdTaGxWRWtraDMxR1NxcE4wdFFHdXZueFYzdTNWSHNfX0g3RGNOYkRIRVFzVFk1UFFrQQ?oc=5",
+        "source": "qz.com",
+        "publishedAt": "2026-06-18T12:08:33.000Z"
       }
     ]
   }
