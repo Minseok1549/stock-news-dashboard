@@ -1,76 +1,76 @@
 {
-  "generatedAt": "2026-06-19T12:02:59.110Z",
+  "generatedAt": "2026-06-19T15:13:52.995Z",
   "articles": {
     "INTC": [
       {
-        "title": "SpaceX Stock Gains the Size of Intel Since IPO. History Has a Warning. - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ieXhidXVCTlJFYnJ5TlB3Mm91Wl9EM19oYlpBR2ZjTUVUNUdFYXpyZ3ZGSlk3UnU2UE04aDdPalZKVWVYLXY3WEQ0WHNqNFlXcFpjcC1oZ1hkY01ma3p3TWRVdW5ReEZERmJmVDBMRzYzZXJSMzJBWmJB?oc=5",
-        "source": "Barron's",
-        "publishedAt": "2026-06-19T10:41:00.000Z",
-        "summary": "스페이스X의 기업 가치가 상장 이후 인텔의 시가총액만큼 급성장하며 시장의 큰 주목을 받고 있습니다. 하지만 배런스는 과거 유사한 사례들을 언급하며, 이러한 급격한 성장 이면에 잠재된 위험 요소에 대해 경고하고 있습니다."
-      },
-      {
-        "title": "Intel (INTC) Foundry Advances Intel 18A-P Process to Risk Production",
-        "url": "https://finance.yahoo.com/technology/articles/intel-intc-foundry-advances-intel-102246680.html?.tsrc=rss",
+        "title": "How Astera Labs (ALAB) Is Using Taiwan Expansion to Speed Rack-Scale AI Deployment",
+        "url": "https://finance.yahoo.com/technology/ai/articles/astera-labs-alab-using-taiwan-143418833.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T10:22:46.000Z",
-        "summary": "인텔 파운드리가 성능이 향상된 ‘인텔 18A-P’ 공정의 위험 생산(Risk Production) 단계에 진입하며 기술 로드맵의 중요한 이정표를 달성했습니다. 이번 성과는 인텔이 향후 5년 내 투자하기 좋은 기업으로 주목받는 가운데, 차세대 공정 기술 경쟁력을 한층 강화할 것으로 기대됩니다."
+        "publishedAt": "2026-06-19T14:34:18.000Z",
+        "summary": "아스테라 랩스(Astera Labs)가 대만 내 운영 및 실험실 규모를 확장하며 글로벌 반도체 공급망 내에서의 입지를 강화했습니다. 이번 확장을 통해 회사는 엔지니어링 역량과 고객사와의 협력을 높여 랙 규모의 AI 인프라 구축 속도를 가속화할 계획입니다."
       },
       {
-        "title": "13,409 Shares in Intel Corporation $INTC Bought by First Growth Capital LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVDJnTldjcFNJSmNRVE5nYnRNR0lkNEZUMDRfVklNTmJQdTA2VTRfa1ZaZktKb1hnWWh2MnFtRmJ3OFQ0ejMtVUt4RHktc0NpY0lUa0FBTU9pd1A2aVNyZFFaX3JIY2hIWDhwQ2JlblctZHI3bjNUZXdfX1JQeFB0R0pSNDEwQWdsM01VS3lvR1IydUNoOHBUZXRqeDFtZGpnemhQbWNhRmFWQlJlbTZYbnVxT0tnS2YzOEE3NmtVMHNNRTRVRExSS3JEYXM5aG8?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-06-19T08:27:38.000Z",
-        "summary": "*   Title: \"13,409 Shares in Intel Corporation $INTC Bought by First Growth Capital LLC - MarketBeat\"\n    *   Content: A link to the same story.\n    *   Key Information:\n        *   Buyer: First Growth Capital LLC\n        *   Asset: Intel Corporation ($INTC)\n        *   Quantity: 13,409 shares\n        *   Source: MarketBeat\n\n    *   Summarize into Korean.\n    *   Length: 2-3 sentences.\n\n    *   *Sentence 1:* First Growth Capital LLC bought 13,409 shares of Intel Corporation.\n    *   *Sentence 2:* This information was reported by MarketBeat.\n\n    *   *Draft 1:* 퍼스트 그로스 캐피털 LLC가 인텔(Intel Corporation) 주식 13,409주를 매수했습니다. 이 소식은 마켓비트(MarketBeat)를 통해 알려졌습니다.\n    *   *Refining:* The content is very brief, so a concise summary is best.\n\n    *   퍼스트 그로스 캐피털(First Growth Capital LLC)이 인텔(Intel Corporation) 주식 13,409주를 매수했습니다. 해당 내용은 마켓비트(MarketBeat)를 통해 보도되었습니다."
-      },
-      {
-        "title": "Apple to work with Intel on US chip design and production, Trump says",
-        "url": "https://www.foxbusiness.com/technology/apple-work-intel-us-chip-design-production-trump-says?.tsrc=rss",
+        "title": "If You Think The Market Will Ever Fall, Buy This",
+        "url": "https://247wallst.com/investing/2026/06/19/if-you-think-the-market-will-ever-fall-buy-this/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T05:37:28.000Z",
-        "summary": "\n*   Headline: \"Apple to work with Intel on US chip design and production, Trump says\"\n*   Content: \"President Donald Trump announced an Apple-Intel chip partnership as his administration pushes to bring semiconductor manufacturing back to the U.S. and reduce China reliance.\"\n*   Task: Summarize in Korean in 2-3 sentences.\n\n    *   Who: Donald Trump, Apple, Intel.\n    *   What: Partnership between Apple and Intel for chip design and production in the US.\n    *   Why: To bring semiconductor manufacturing back to the US and decrease dependence on China.\n\n    *   *Draft 1 (Literal):* 도널드 트럼프 대통령은 애플과 인텔이 미국 내 칩 설계 및 생산을 위해 협력할 것이라고 발표했습니다. 이는 반도체 제조를 미국으로 되돌리고 중국 의존도를 낮추려는 정부의 추진 전략의 일환입니다. (2 sentences) - *Good, accurate.*\n\n    *   *Draft 2 (More natural/concise):* 도널드 트럼프 대통령은 반도체 제조의 미국 내 회귀와 중국 의존도 감소를 위해 애플과 인텔의 칩 설계 및 생산 협력을 발표했습니다. 이를 통해 미국 정부는 반도체 자립도를 높이고 공급망을 안정화하려는 계획입니다. (2 sentences) - *Adds a bit of interpretation/context.*\n\n    *   *Refining Draft 1 for professional tone:*\n        도널드 트럼프 대통령은 애플과 인텔이 미국 내 칩 설계 및 생산을 위해 협력할 것이라고 발표했습니다. 이는 반도체 제조 시설을 미국으로 유치하고 중국에 대한 의존도를 낮추려는 전략의 일환입니다.\n\n    *   Korean? Yes.\n    *   2-3 sentences? Yes (2 sentences).\n    *   Accurate? Yes."
+        "publishedAt": "2026-06-19T14:01:08.000Z",
+        "summary": "최근 S&P 500 지수가 큰 폭으로 상승하는 등 주식 시장이 지속적인 강세를 보이고 있습니다. 이 기사는 주식 시장의 하락을 대비하고자 하는 투자자들에게 유망한 투자 전략을 제시하며 특정 종목들을 주목할 것을 권고하고 있습니다."
       },
       {
-        "title": "Chip Maker AMD Has Become a Data-Center Powerhouse. It’s All Part of Lisa Su’s Plan.",
-        "url": "https://finance.yahoo.com/m/9fbf9048-da29-39a7-8d15-4d1e8e84486e/chip-maker-amd-has-become-a.html?.tsrc=rss",
+        "title": "Prediction: This Stock is Going to Plummet in The Second Half of 2026",
+        "url": "https://247wallst.com/investing/2026/06/19/prediction-this-stock-is-going-to-plummet-in-the-second-half-of-2026/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T05:00:00.000Z",
-        "summary": "\n*   Title: \"Chip Maker AMD Has Become a Data-Center Powerhouse. It’s All Part of Lisa Su’s Plan.\"\n    *   Content:\n        *   Lisa Su transformed AMD into a \"comeback kid.\"\n        *   Before 2014, AMD lagged behind Nvidia and Intel.\n        *   Since 2015 (CEO tenure), sales grew at a 24% annual rate (38% in the last quarter).\n        *   AMD is now competitive in the data-center market, the fastest-growing semiconductor segment.\n\n    *   Target language: Korean.\n    *   Length: 2-3 sentences.\n    *   Task: Summarize the news article.\n\n    *   *Main Point 1:* Lisa Su led AMD's successful turnaround since becoming CEO in 2014.\n    *   *Main Point 2:* AMD's sales grew significantly, moving from a lagging position to a strong competitor against Intel and Nvidia.\n    *   *Main Point 3:* AMD has specifically become a powerhouse in the high-growth data-center semiconductor market.\n\n    *   *Draft 1 (Literal):* 리사 수 CEO는 2014년부터 AMD를 이끌며 성공적인 회생을 만들어냈습니다. 매출이 크게 성장했으며, 이제는 인텔과 엔비디아에 맞서 데이터 센터 시장에서 강력한 경쟁력을 갖추게 되었습니다. (Good, but maybe a bit plain).\n\n    *   *Draft 2 (More professional/news-style):* 리사 수 CEO의 리더십 아래 AMD는 과거의 부진을 딛고 비약적인 성장을 이루며 '컴백 키드'로 변신했습니다. 특히 최근 매출 급증과 함께 반도체 시장의 핵심인 데이터 센터 분야에서 강력한 경쟁력을 확보하며 업계의 강자로 자리매김했습니다. (Stronger, fits the \"powerhouse\" tone).\n\n    *   Check length: 2 sentences. (Pass)\n    *   Check content: Covers Lisa Su, growth, and data centers. (Pass)\n    *   Check language: Korean. (Pass)"
+        "publishedAt": "2026-06-19T13:49:50.000Z",
+        "summary": "2026년 상반기 인텔(Intel) 주가는 애플과의 제조 파트너십 소식 등에 힘입어 263% 이상 급등하며 큰 폭의 상승세를 보였습니다. 하지만 24/7 월스트리트는 현재 주가가 고평가되었다고 판단하여, 2026년 하반기에는 주가가 하락세로 돌아설 것으로 전망했습니다."
       },
       {
-        "title": "Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdktITVhSY3hJVXo0a2NqeTNKSldnb3JtNUFnVVhtX0o3d0JlUUNjZVRPNHJMSERaclBkVEI4UlJlTDQxb0l2OEhjNmtSSUtNXzNyWDNYekNMREFzTlhHcGZoNEYzQUI3Vk1QUjU2d3Q5a0lpRjhaS1FDVXQxU0F0WmM1OXVhR2RDSWdEWlFrcnRmM2Y3Z1VGeQ?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-06-19T03:16:00.000Z",
-        "summary": "\n*   Task: Summarize a news article in Korean.\n*   Length: 2-3 sentences.\n*   Source: A headline and a link from \"The Motley Fool.\"\n*   Headline: \"Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy?\"\n\n    *   Main event: Intel's stock price increased.\n    *   Cause: Donald Trump mentioned that Apple will build chips with Intel.\n    *   Context/Question: The article asks if it's a good time to buy Intel stock.\n\n    *   *Draft 1 (Literal):* 도널드 트럼프가 애플이 인텔과 함께 칩을 만들 것이라고 말한 후 인텔 주가가 급등했습니다. 모틀리 풀은 이제 인텔 주식을 사는 것이 좋을지 분석하고 있습니다. (Two sentences. Accurate.)\n    *   *Draft 2 (More natural):* 트럼프 전 대통령이 애플이 인텔과 협력해 칩을 생산할 것이라고 언급하면서 인텔의 주가가 크게 상승했습니다. 이에 따라 인텔 주식이 현재 매수 적기인지에 대한 관심이 높아지고 있습니다. (Two sentences. More polished.)\n\n    *   Ensure it's 2-3 sentences.\n    *   Maintain the core message: Trump's comment $\\rightarrow$ Apple/Intel chip collaboration $\\rightarrow$ Intel stock surge $\\rightarrow$ Question of buying."
+        "title": "Prediction: This Stock is Going to Plummet in The Second Half of 2026 - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTZwcDBfb1RqX00tanJfNWdsNXN3ZlFXdlk5Tm44bm9aOU9HdE1DN0xReHlwWGctZFFNSWJsZjBYUHl0WDVvZDlINzZvdTEwcktsR1BrMHBJMUtTQ1E1LUhVRTZsRl8ydzZ3SXJ4YnVHTXNwY2FBTm1BYU9PeElhVy1EdmdXN1Boa29US0xlUW14T1diZHg4SHJQMXFPSWlDeFBQVkhpTWVjWHRqQTduVWJR?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-06-19T13:49:50.000Z",
+        "summary": "24/7 월스트리트(24/7 Wall St.)는 특정 주식이 2026년 하반기에 급락할 것이라는 부정적인 전망을 내놓았습니다. 해당 기사는 투자자들에게 향후 시장 변화에 따른 위험성을 경고하며 주의를 당부하고 있습니다."
       },
       {
-        "title": "On Thursday, Intel stock price gained an impressive 10.64% - StockInvest.us",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOExQbHRKMHRucEN1ekNpV1JEREpFMUlRZy1zenEtLWRPaFloTzMwWERReTQ0V084cVZucE4tVUM4M2txak1GM3MtaVBkQ2JmVE1mNFRoVkRMTkZmY3VrNHVYOU1jU2hzVDc0X0JXOVZ0aFoySHpCRHo5aTdGbVVSdkpyN3ZoVl9CNERzS1daam5YTk0xN0hLRGs1MF9vVDJzRnc?oc=5",
-        "source": "StockInvest.us",
-        "publishedAt": "2026-06-19T03:11:32.000Z",
-        "summary": "*   Task: Summarize the news article into 2-3 Korean sentences.\n    *   Input: A title (\"On Thursday, Intel stock price gained an impressive 10.64% - StockInvest.us\") and a link/source.\n    *   Key information: Intel stock price rose by 10.64% on Thursday.\n\n    *   Subject: Intel (인텔)\n    *   Event: Stock price increase (주가 상승)\n    *   Amount: 10.64%\n    *   Time: Thursday (목요일)\n    *   Source: StockInvest.us\n\n    *   Draft 1 (Literal): 목요일에 인텔의 주가가 10.64%라는 인상적인 상승을 기록했습니다. 이는 StockInvest.us의 보도 내용입니다.\n    *   Draft 2 (More natural): 지난 목요일 인텔의 주가가 10.64% 급등하며 강세를 보였습니다. 관련 소식은 StockInvest.us를 통해 전해졌습니다.\n\n    *   The provided \"article\" is essentially just a headline. There is no body text.\n    *   Therefore, the summary must be concise based solely on the headline.\n\n    *   Sentence 1: 지난 목요일 인텔의 주가가 10.64% 급등하며 큰 폭으로 상승했습니다. (Last Thursday, Intel's stock price surged by 10.64%.)\n    *   Sentence 2: 이번 상승세는 시장에서 인상적인 성과로 평가받고 있습니다. (This upward trend is being evaluated as an impressive achievement in the market.) -> *Wait, \"impressive\" is in the headline, so I can include it.*\n\n    *   \"지난 목요일 인텔의 주가가 10.64% 급등하며 큰 폭으로 상승했습니다. StockInvest.us에 따르면 이는 매우 인상적인 상승 수치입니다.\"\n\n    *   2-3 sentences? Yes.\n    *   Korean? Yes.\n    *   Accurate? Yes."
-      },
-      {
-        "title": "Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVDUtOWVrbldUX09tZ2tOekZueGhPX2NUYTc5cmZXZl9VVEgyMlhHWjNhQkF4SFpxSUZ2NHlRVDUxbkpSOHc4VkVrTjBoMDU5UjI3QWtsb253c2d2NUljYTh1dGU5dHU0a0FmdUFfaVkzUzU1MWxZUF9UdWNwVExCZEJ2dDNTdEFCMmJCTVphbnNZZXVxOTFfb0drYWIwaHhLakhYbFVvWGdQUVFReDNmUno0NU1PY3V2M3M3S1hYTG5JQzZMVWlfNGZiaVRhYlJubVNhVlRzaXRJNXdrdHl6RnFYbHo3Y3BWaXp6bzljT0x2UFdpaVZ3?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-06-19T02:55:10.000Z",
-        "summary": "트럼프 당선인이 애플이 인텔과 함께 칩을 생산할 것이라고 언급한 이후 인텔의 주가가 급등했습니다. 이에 따라 시장에서는 인텔이 투자할 가치가 있는 기업인지에 대한 관심이 높아지고 있습니다."
-      },
-      {
-        "title": "Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy?",
-        "url": "https://www.fool.com/investing/2026/06/18/intel-stock-soared-after-trump-said-apple-will-bui/?.tsrc=rss",
+        "title": "“They Forgot to Protect Our Industries With TARIFFS!” — Does a Trump Trade War 2.0 Loom?",
+        "url": "https://247wallst.com/investing/2026/06/19/they-forgot-to-protect-our-industries-with-tariffs-does-a-trump-trade-war-2-0-loom/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T02:36:00.000Z",
-        "summary": "\n*   Title: \"Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy?\"\n    *   Content: \"A single presidential social-media post sent the chipmaker's shares higher. But neither company has confirmed it.\"\n\n    *   Donald Trump posted on social media that Apple will build chips with Intel.\n    *   As a result, Intel's stock price surged.\n    *   However, neither Apple nor Intel has officially confirmed this news.\n\n    *   Trump's social media post about Apple and Intel collaborating on chips caused Intel's stock to rise.\n    *   Despite the market reaction, both companies have not confirmed the claim.\n\n    *   *Draft 1:* 트럼프 전 대통령이 애플이 인텔과 함께 칩을 만들 것이라고 SNS에 올리자 인텔 주가가 급등했습니다. 하지만 애플과 인텔 양사 모두 이 내용을 공식적으로 확인해주지 않았습니다.\n    *   *Draft 2:* 도널드 트럼프의 SNS 게시물로 인해 애플이 인텔과 칩을 생산할 것이라는 소식이 전해지며 인텔 주가가 상승했습니다. 다만, 해당 내용은 아직 양사로부터 공식 확인되지 않은 상태입니다."
+        "publishedAt": "2026-06-19T13:45:56.000Z",
+        "summary": "최근 관세 부과를 둘러싼 무역 전쟁 재개 우려가 커지고 있으나, 투자자들이 지나치게 공포감을 가질 필요는 없다는 의견이 제기되었습니다. 전문가들은 추가 관세 도입 논의가 활발해지고 있음에도 불구하고, 이것이 곧바로 시장의 위기로 직결될지 여부에 대해서는 신중한 접근이 필요하다고 조언합니다."
       },
       {
-        "title": "Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVWVqOC1WamFOX3h4V293VzVzSWEyVmRVZFA0VUt1dy0yX1d0THRVS0d4a1F1QWxQQUNVT3hzMmdvRkdOYk41b1EtSjlTbGVEMU5zMkJiUHhFbEgzQ1FGOU01Vzh6Z3RJLTU0azl0QTVqYXcwUnBLWEVvSUh0YzdHZmNuZ1ZoSDFRcGEzc2xyOUhkOG9rSVR0Mkt3?oc=5",
+        "title": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging",
+        "url": "https://beincrypto.com/intel-stock-apple-news-intc-price-analysis/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T02:36:00.000Z",
-        "summary": "*   Task: Summarize the provided news article in Korean.\n    *   Length: 2-3 sentences.\n    *   Input: A headline and a link from Yahoo Finance.\n    *   Headline: \"Intel Stock Soared After Trump Said Apple Will Build Chips With It. Is It a Buy?\"\n\n    *   Subject: Intel stock.\n    *   Event: Intel's stock price surged.\n    *   Cause: Donald Trump stated that Apple will build chips with Intel.\n    *   Core Question: The article analyzes whether Intel is currently a good investment (\"Is It a Buy?\").\n\n    *   *Draft 1 (Literal):* 트럼프 전 대통령이 애플이 인텔과 함께 칩을 만들 것이라고 말한 후 인텔 주가가 급등했습니다. 야후 파이낸스는 이제 인텔 주식을 사는 것이 좋은지 분석하고 있습니다. (2 sentences)\n    *   *Draft 2 (More polished):* 도널드 트럼프 전 대통령이 애플이 인텔과 협력해 칩을 생산할 것이라고 언급하면서 인텔의 주가가 크게 상승했습니다. 이에 따라 현재 인텔 주식이 매수 적기인지에 대한 분석이 제기되고 있습니다. (2 sentences)\n\n    *   Does it cover the main point? Yes (Trump's comment -> Intel stock rise -> Investment outlook).\n    *   Is it in Korean? Yes.\n    *   Is it 2-3 sentences? Yes (2 sentences)."
+        "publishedAt": "2026-06-19T12:57:42.000Z",
+        "summary": "트럼프 전 대통령의 애플 칩 관련 발언으로 인텔 주가가 10% 급등했습니다. 그러나 공매도와 풋옵션 등 시장에서는 여전히 신중한 태도를 보이며 경계심을 늦추지 않고 있습니다."
+      },
+      {
+        "title": "Trump Handed Intel Stock a 10% Pop, but Markets Are Hedging - BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBja2dvU2RSNWMybTMyQXRZaEwxZ3J6c0FnTXdJdUZ2ZU0yT2sxa2k2RUpuQnh6bGI5N1JBbDc2MWluM3pPLVdwNl9jT1JqamRwYmNYZjhZVHBKZk9TQW12ekFSWFpTMlh4VGNJejY4ZGhnVlpq?oc=5",
+        "source": "BeInCrypto",
+        "publishedAt": "2026-06-19T12:57:00.000Z",
+        "summary": "도널드 트럼프 전 대통령의 언급으로 인텔 주가가 10% 급등했으나, 시장에서는 여전히 신중한 태도를 보이며 리스크 관리에 나서고 있습니다. 투자자들은 단기적인 상승에도 불구하고 향후 변동성에 대비해 헤징(위험 회피) 전략을 취하는 모습입니다."
+      },
+      {
+        "title": "Intel Leads Big Chip Stock Rally",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-big-chip-stock-123941155.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T12:39:41.000Z",
+        "summary": "도널드 트럼프 전 대통령의 발언에 힘입어 반도체 관련주가 일제히 급등했습니다. 특히 인텔이 이러한 상승세를 주도하며 시장의 강세를 이끌었습니다."
+      },
+      {
+        "title": "Intel Leads Big Chip Stock Rally - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWs5YTBUWUQydWc3SEkya2VkWU5vYl9Dd3ZSN1ItaWZycUx2WTlEUVpNd0JfMWtVMDlSWmphUlgtSzQydldSdlRaRlpQSU1DdmpoMU12Rk9JVER4TFZ3Y3J4VFk5YjVQbE9rN05Zb0djSHVnT1I0WHdVbnNBQWd1SUJhWFpsOERBcnh5aW1HRjBIVFRFT0ZZ?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-06-19T12:39:41.000Z",
+        "summary": "인텔이 주도하는 반도체 관련주들이 최근 주식 시장에서 큰 폭의 상승세를 보이고 있습니다. 이번 반도체 주식의 강세는 시장 전반의 투자 심리를 개선하며 주목받고 있습니다."
+      },
+      {
+        "title": "Intel shares surged 10% to a record high after appointing the former CEO of SK Hynix to lead its packaging business. - 富途牛牛",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRG11bk40RFBKYXQ5cFNfSy1JTFpabk9aVlBiQ2c3NmViV2praEJ1Qk5EWE5wSnM5ZEZfXzIzZ09HNklqeUVNRFI3ZjRGRDg2UG1uSUZUaEhlYklUSEtoOWhLbXVYbDQ3bUNJT1hIUnRieDFvaG5WTkZ1bHM2QjZMNHNJUDJjWjF0NnhXSFVhekZfajhFT0huNkQxN2VEZw?oc=5",
+        "source": "富途牛牛",
+        "publishedAt": "2026-06-19T12:34:16.000Z",
+        "summary": "인텔이 SK하이닉스 전 최고경영자(CEO)를 패키징 사업 부문 수장으로 영입했다는 소식에 주가가 10% 급등하며 사상 최고치를 기록했습니다. 이번 인사는 인텔의 반도체 경쟁력을 강화하려는 전략적 행보로 풀이되며 시장의 큰 주목을 받고 있습니다."
       }
     ]
   }
