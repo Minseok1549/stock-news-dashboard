@@ -5,6 +5,7 @@ const { XMLParser } = require('fast-xml-parser')
 const ROOT = path.resolve(__dirname, '..')
 const CONFIG_PATH = path.join(ROOT, 'public', 'config.json')
 const NEWS_PATH = path.join(ROOT, 'public', 'data', 'news.json')
+const GEMINI_MODEL = 'gemini-3.1-flash-lite'
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -70,7 +71,7 @@ function parseItems(xml, fallbackSource) {
 
 async function summarizeArticle(title, description, apiKey) {
   const prompt = `다음 뉴스 기사를 한국어로 2~3문장으로 요약해주세요.\n\n제목: ${title}\n내용: ${description || title}`
-  const url = `https://generativelanguage.googleapis.com/v1beta/models/gemma-4-31b-it:generateContent?key=${apiKey}`
+  const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`
 
   try {
     const response = await fetch(url, {
