@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-20T04:53:35.221Z",
+  "generatedAt": "2026-06-20T07:33:27.880Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel and Greenstone pair AI chips with human stem cells for drug discovery - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVg0akt5dlVYdmpXamRDSDVmRmRRZlE5aWRFYll1Y21FYkZQMm5JRHh0U0c4dk5ndHdiTmlxQ2xha3lYNEhGMWdMdExYcnZsMG5LeDB4M3dESzlNSFVBNk93Yml0NGhnbHlpNTJST1J6RVZjWUozUGVyLTc1ekNxQmR5bXBjVUxYZ0hobmJUNlYzTjdiZ1htOVhOUW5VMTBKaUxiNldkekdreFowLXBPRk9kVQ?oc=5",
+        "source": "Stock Titan",
+        "publishedAt": "2026-06-20T06:22:30.000Z",
+        "summary": "인텔(Intel)과 그린스톤 바이오사이언스(Greenstone Biosciences)가 인공지능(AI) 칩과 인간 줄기세포 기술을 결합하여 신약 개발 과정을 가속화하는 협력을 시작했습니다. 이번 협업은 고성능 AI 컴퓨팅을 활용해 신약 발견 효율을 높이고 치료제 개발 기간을 단축하는 것을 목표로 합니다."
+      },
+      {
+        "title": "Greenstone Biosciences, Inc. and Intel Corp. Launch Strategic Collaboration to Scale Human-Centric Drug Discovery",
+        "url": "https://finance.yahoo.com/healthcare/articles/greenstone-biosciences-inc-intel-corp-053900534.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-20T05:39:00.000Z",
+        "summary": "Greenstone Biosciences와 Intel은 AI 기반 신약 개발을 가속화하기 위해 전략적 협력을 체결했습니다. 양사는 Greenstone의 인간 유도만능줄기세포 바이오뱅크와 Intel의 첨단 AI 컴퓨팅 인프라를 결합하여 신약 개발 속도를 높일 계획입니다."
+      },
       {
         "title": "Cramer's Intel bet rests on one unproven number",
         "url": "https://www.thestreet.com/investing/cramers-intel-bet-rests-on-central-processing-units-cpus?.tsrc=rss",
@@ -57,20 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-19T15:39:56.000Z",
         "summary": "제공해주신 기사는 도널드 트럼프 전 대통령의 재무 공개 서류를 바탕으로 인텔(Intel)이 2026년 기대되는 AI 및 기술주 톱 10 중 3위에 선정되었음을 다루고 있습니다. 이 기사는 인텔이 단순한 트럼프 관련주라는 세간의 평가를 넘어, 실질적인 장기 성장 동력을 갖추고 있는지에 대해 분석하고 있습니다."
-      },
-      {
-        "title": "Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkhIU08waU1UZGtwUGdfcmVfM1d0WUMzVWtZRHpKbG81Y2U4d0JobVg5R2p5dmNSYkZnM0ZCZmd3TEJ1MzMwcy1IZzNXaWVLbGlSTVlsdjJxcGVyYUdlSHljOHRiREY1OWF3SktOb1VnQjF2VzNqNS10d0wwTVJrSE9vR2FRYjd1ZHd5ZzNpUzNaQjlWdTFHZg?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T15:39:56.000Z",
-        "summary": "이 기사는 도널드 트럼프 전 대통령과 관련된 시장의 과도한 기대감을 넘어, 인텔(INTC)이 장기적으로 성장할 수 있는 실질적인 동력을 갖추고 있는지 분석하고 있습니다. 인텔이 직면한 현재의 과제들을 짚어보며, 향후 지속 가능한 성장을 견인할 잠재적 요인들을 다각도로 조명합니다."
-      },
-      {
-        "title": "Intel Corp Stock (INTC) Moved Up by 10.64% on Jun 19: What Signal Does It Send? - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1ZFeTlqSzZKZUl2aWdYNVFrQ0FtRmwtcGdpMkNtbTVGZ2Mya01VSG1sdzVQOW5xMVNvUzhlWWg3NG4zMGU1STZJVXRoZ3daYTg4U1hqTmNBQm5aU0NWLXdPd2czRjdzcUo0V3pMWHRVTkdfLWppT3U1WWFtbU9vUkkwMHRNT01UMGc4?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-06-19T15:15:26.000Z",
-        "summary": "인텔(Intel)의 주가가 6월 19일 10.64% 급등하며 시장의 주목을 받았습니다. 이번 상승이 향후 주가 흐름에 어떤 신호를 의미하는지에 대한 분석과 시장의 관심이 집중되고 있습니다."
       }
     ],
     "005930": [
@@ -143,6 +143,78 @@
         "source": "연합인포맥스",
         "publishedAt": "2026-04-09T07:00:00.000Z",
         "summary": "홍라희 전 리움미술관장이 삼성전자 주식 약 3조 원 규모를 시간 외 대량매매(블록딜) 방식으로 매각했습니다. 이번 매각의 할인율은 종가 대비 2.5% 수준으로 결정되었습니다."
+      }
+    ],
+    "AAPL": [
+      {
+        "title": "Making $100K a Year? Here’s the One Fund That Compounds Without the Research",
+        "url": "https://247wallst.com/investing/2026/06/19/making-100k-a-year-heres-the-one-fund-that-compounds-without-the-research/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T22:13:34.000Z",
+        "summary": "이 기사는 바쁜 일상 때문에 개별 종목 분석에 시간을 쏟기 어려운 직장인들을 위해, 복리 효과를 누리며 간편하게 투자할 수 있는 단일 펀드를 소개하고 있습니다. 복잡한 분석 없이도 자산을 안정적으로 운용하고 싶은 투자자들에게 유용한 투자 대안을 제시합니다."
+      },
+      {
+        "title": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It?",
+        "url": "https://www.fool.com/investing/2026/06/19/the-memory-boom-has-been-a-gift-to-micron-for-appl/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T21:37:53.000Z",
+        "summary": "메모리 반도체 공급 부족 현상이 마이크론과 같은 제조사에는 기록적인 수익을 안겨주고 있으나, 애플과 같은 거대 기업에는 비용 부담이라는 문제로 다가오고 있습니다. 팀 쿡 애플 CEO는 이러한 부품 공급난으로 인한 비용 증가가 결국 소비자 가격 인상으로 이어질 수 있음을 시사했습니다."
+      },
+      {
+        "title": "Making Six Figures but Betting Everything on U.S. Stocks? AVUV Fixes That Problem",
+        "url": "https://247wallst.com/investing/2026/06/19/making-six-figures-but-betting-everything-on-u-s-stocks-avuv-fixes-that-problem/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T21:30:35.000Z",
+        "summary": "이 기사는 애플, 엔비디아 등 일부 대형 기술주와 미국 S&P 500 지수에만 치중된 포트폴리오의 위험성을 지적합니다. 투자자들에게 이러한 편중 문제를 해결하고 다변화를 꾀할 수 있는 대안으로 'AVUV(Avantis U.S. Small Cap Value ETF)'를 소개하고 있습니다."
+      },
+      {
+        "title": "Apple (AAPL): New Buy Recommendation for This Technology Giant - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT1RUdW1kd25LOXlUcS1WWDR4QzRMeGpYZnhpSzNVS3Y1TVpsekNoelItNXE5TzVDMjdIRXE2ZU50SGQxb0czVFZHd0wzbVkzekJZS1ZiQ0lQcjBTQVN3bWxfd3FZU2tJUm1EUG5jYnFyUUpNT1RzMzlRMzJhdlFQdlgxN2JzQXpBS1p5cUg1TlhtR0REbzF3YWFpeEpfQUo5d09qQWptdVYzR2pEaml1UmJEc05HTjZhb3NXY3p6OGRIS3VGel9BSDloM2l5TVhsSDV1TFEwbHJ6UTgy?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-06-19T21:15:23.000Z",
+        "summary": "글로브 앤 메일(The Globe and Mail)은 애플(AAPL)에 대해 새로운 '매수' 추천 의견을 제시했습니다. 이번 평가를 통해 기술 대기업인 애플의 향후 주가 전망에 대한 긍정적인 분석이 주목받고 있습니다."
+      },
+      {
+        "title": "If You’re 38 With $500K Saved, AVUV Fixes Your Tech-Heavy Portfolio",
+        "url": "https://247wallst.com/investing/2026/06/19/if-youre-38-with-500k-saved-avuv-fixes-your-tech-heavy-portfolio/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T21:10:12.000Z",
+        "summary": "38세에 50만 달러를 모았지만 포트폴리오가 대형 기술주와 S&P 500에 지나치게 편중된 투자자들을 위한 기사입니다. 기사는 이러한 기술주 위주의 자산 구성을 개선할 대안으로 소형 가치주 ETF인 'AVUV'를 활용할 것을 제안하고 있습니다."
+      },
+      {
+        "title": "ASML Faces Fresh China Export Scrutiny",
+        "url": "https://finance.yahoo.com/technology/articles/asml-faces-fresh-china-export-175704126.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T17:57:04.000Z",
+        "summary": "ASML이 자사의 반도체 노광 장비가 중국으로 부적절하게 유출되었을 가능성이 제기되면서 수출 통제와 관련해 새로운 조사를 받고 있습니다. 당국은 특히 최첨단 장비인 EUV 장비의 중국 유출 여부를 집중적으로 들여다보고 있는 상황입니다."
+      },
+      {
+        "title": "Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
+        "url": "https://247wallst.com/investing/2026/06/19/analyst-warns-intel-valuation-doesnt-make-sense-suggests-nvidia-amd-micron-and-broadcom-as-alternatives/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T17:36:48.000Z",
+        "summary": "길 루리아 D.A. 데이비드슨 기술 연구 책임자는 최근 반도체 업종의 급등세 속에서 인텔의 기업 가치 평가가 납득하기 어렵다고 지적했습니다. 그는 투자 대안으로 엔비디아, AMD, 마이크론, 브로드컴과 같은 기업들을 제시하며 투자자들에게 주의를 당부했습니다."
+      },
+      {
+        "title": "ASML Draws Fresh China Scrutiny",
+        "url": "https://finance.yahoo.com/technology/articles/asml-draws-fresh-china-scrutiny-170543582.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T17:05:43.000Z",
+        "summary": "미국 당국이 수출 제한 대상인 반도체 제조 장비가 중국으로 유입되었을 가능성을 조사하고 있습니다. 이에 따라 네덜란드의 반도체 장비 기업 ASML이 다시 한번 중국 관련 규제 논란의 중심에 서게 되었습니다."
+      },
+      {
+        "title": "Lloyds (LYG) Launches “Lloyds Rewards” In-App Hub to Replace Everyday Offers",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/lloyds-lyg-launches-lloyds-rewards-165213150.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T16:52:13.000Z",
+        "summary": "로이즈 뱅킹 그룹(Lloyds Banking Group)은 기존의 'Everyday Offers'를 대체하는 새로운 앱 내 서비스 'Lloyds Rewards'를 출시했습니다. 이 서비스는 고객들에게 절약, 캐시백, 경품 추첨 등을 통합적으로 제공하여 일상적인 은행 이용 경험을 더욱 향상시킬 예정입니다."
+      },
+      {
+        "title": "1 Consumer Stock with Solid Fundamentals and 2 We Question",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/1-consumer-stock-solid-fundamentals-160458335.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-19T16:04:58.000Z",
+        "summary": "최근 소비자 재량 소비재 업종은 경기 둔화의 영향으로 인해 지난 6개월간 S&P 500 지수보다 5.2%포인트 낮은 3.7%의 수익률을 기록하며 부진한 흐름을 보이고 있습니다. 이에 따라 해당 기사는 탄탄한 기초 체력을 갖춘 우량주 1개와 시장 상황을 우려해야 할 기업 2곳을 분석하고 있습니다."
       }
     ]
   }
