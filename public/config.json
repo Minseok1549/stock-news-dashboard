@@ -4,7 +4,12 @@
       "symbol": "INTC",
       "name": "Interl",
       "market": "US"
+    },
+    {
+      "symbol": "005930",
+      "name": "삼성전자",
+      "market": "KR"
     }
   ],
-  "lastUpdated": "2026-06-18T13:13:56.572Z"
+  "lastUpdated": "2026-06-20T04:53:18.491Z"
 }
