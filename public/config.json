@@ -9,7 +9,12 @@
       "symbol": "005930",
       "name": "삼성전자",
       "market": "KR"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "애플",
+      "market": "US"
     }
   ],
-  "lastUpdated": "2026-06-20T04:53:18.491Z"
+  "lastUpdated": "2026-06-20T04:53:50.643Z"
 }
