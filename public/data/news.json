@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-06-20T08:54:41.109Z",
+  "generatedAt": "2026-06-20T11:17:59.617Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Corporation $INTC Shares Sold by OCONNOR A Distinct Business Unit of UBS ASSET MANAGEMENT AMERICAS LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUUxoMjBzckFkR0pOSXppSllXSktfd1pEekdoRmdhMVdWXzdLdU9kMU40dXI3WGJSblF3OVJyMkU3SzVSanR1RncycDlWUzB3NzZSemNLdGFqQm9VTGpDY2N2dkcxTXIzQlp3RGJUQzR2Y240aGZ6cUd5MXpUbEoxSk5adXpGaTVWWTJSZWx3YmJVMW1Ca1ZTRkEteXA1QXUtalNyeFhaN1JhSzkyTjRfNHVXdzVwS1NnYkFQYV84MXMzR0pyRE5MZmlOVWVIa25CM0dDXy1tM3R1eUpDeC1jNlZ1QlZoUDRLeXZTNjFRTlowRVh4ZHFoYzZReU8?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-06-20T09:51:17.000Z",
+        "summary": "UBS 자산운용의 사업 부문인 '오코너(OCONNOR)'가 보유하고 있던 인텔(Intel Corporation) 주식을 매각한 것으로 나타났습니다. 이번 지분 변동 소식은 최근 마켓비트(MarketBeat)를 통해 보도되었습니다."
+      },
       {
         "title": "Cedarwood Wealth LLC Acquires Shares of 35,424 Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkJ0M0toeFRVaHpOeGFDUHE2QUdaZ3hFRlZiZ1RhTnBzUi0zZjBiNzc3aDE2NlIyWnVCZkc3MnJIVGZodFRxMnZKeExqcXdEbklWYWFqZmZNOEFFVi13OGlrNnZrUUJHaGpEZUxuczY4TE1vd21JcTFZLUdPcWdTUExWRWVYSWlLZi1UQUIweTJCejhPRXpjQnMzVnBrcXRUQWFpUnNjRjBsTkg1T2FsTkVMMTdnYk1kekVHekkwc19BdVlfUjcteQ?oc=5",
@@ -64,13 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-19T17:36:48.000Z",
         "summary": "길 루리아 D.A. 데이비드슨 기술 연구 책임자는 최근 반도체 업종의 급등세 속에서 인텔의 기업 가치 평가가 납득하기 어렵다고 지적했습니다. 그는 투자 대안으로 엔비디아, AMD, 마이크론, 브로드컴과 같은 기업들을 제시하며 투자자들에게 주의를 당부했습니다."
-      },
-      {
-        "title": "Intel Adds Foundry Muscle",
-        "url": "https://finance.yahoo.com/technology/articles/intel-adds-foundry-muscle-170623235.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-19T17:06:23.000Z",
-        "summary": "인텔이 첨단 반도체 제조 분야를 강화하기 위해 이석희 전 SK하이닉스 사장을 파운드리 사업부의 신임 임원으로 영입했습니다. 이번 영입을 통해 인텔은 파운드리 시장에서의 경쟁력을 한층 높이고 제조 역량 확대에 박차를 가할 전망입니다."
       }
     ],
     "005930": [
@@ -154,6 +154,13 @@
         "summary": "모틀리 풀(The Motley Fool)은 애플 주식을 매수해야 할 세 가지 핵심 이유를 제시하며 향후 성장 가능성을 긍정적으로 평가했습니다. 애플의 강력한 브랜드 충성도와 생태계 확장성 등이 투자 매력으로 언급되었습니다."
       },
       {
+        "title": "AAPL - Apple Inc Stock Price and Quote - Finviz",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5OcXZ0WUY5TUFhb1JEbC1vR0xvaUdXcUhSVVo5NHVRYWtxd3k3Zy1pcHNBTWt5U3kyVDNzanVZdENiTzdIUUE?oc=5",
+        "source": "Finviz",
+        "publishedAt": "2026-06-18T20:00:00.000Z",
+        "summary": "해당 링크는 애플(AAPL)의 현재 주가와 시세 정보를 제공하는 Finviz 페이지입니다. 투자자들이 애플 주식의 실시간 시장 데이터를 확인하는 데 활용할 수 있습니다."
+      },
+      {
         "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlM2ZEprdFdVelV2Tkd4NFlubFJYTXFadUxtVXkxSF9scFg5dk91U0dKR3pkWENoXy1CVXppRjZta2hYZS1qa1BsTDJaWTNRR2ZwaVJrNzN0d1BrWlVJQVFOZUZLa1lLTnFVXy1xLXN3Mm1wdnh4RGtiM19vbDgyZzQtZzhqZXRKTkZPbEJyNzNkRHIySl9UZzBpZXJaZUIzdUdEbzQzLUFuVnhhbDFNV0VKOE5hazVGcjRJUHFBaw?oc=5",
         "source": "Bloomberg.com",
@@ -208,13 +215,6 @@
         "source": "MacDailyNews",
         "publishedAt": "2026-06-09T15:00:37.000Z",
         "summary": "웨드부시(Wedbush)는 애플 인텔리전스와 시리(Siri)의 AI 기능 강화가 애플의 주가를 75달러에서 100달러까지 상승시킬 수 있는 동력이 될 것이라고 전망했습니다. 이러한 AI 기술 도입이 향후 애플의 시장 가치와 주가 상승에 긍정적인 영향을 미칠 것으로 분석됩니다."
-      },
-      {
-        "title": "Apple shares slide after big Siri AI reveal - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mVkZFeFNmb19QUDBiblhSbFZhMzN4V1U1REV2ZV92c3dkQ19VX1lXaXJkTmtGN3h5N0gxNXdwSEpqemhnM2ZmRURlbVZtOUVwQ0JydTVfak51MWhzLTVJYVZYd3I5RjI2ZGdFYjVEXzgzbHPSAXhBVV95cUxNVmctVWQzdjBCNGZqUGFKM0tWMHVWT1dMTmNzZDFfY1o0cWdnWGhsMjZiNVFLb21OMFhOSWc2Wi1Ra2JRYnVzMXNGRDFHVjZ3SDV0OVhsNHpDdXFFUUtaVGpTOE9wdGUyS1ZxcHlqemhyNzhUTU8xX3M?oc=5",
-        "source": "CNBC",
-        "publishedAt": "2026-06-09T07:00:00.000Z",
-        "summary": "애플이 인공지능(AI) 기반의 새로운 시리(Siri) 기능을 공개했음에도 불구하고, 시장의 기대치에 미치지 못했다는 평가 속에 주가가 하락했습니다. 투자자들은 이번 발표가 애플의 주가 상승을 견인하기에 다소 부족하다고 판단한 것으로 보입니다."
       }
     ]
   }
