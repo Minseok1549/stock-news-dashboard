@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-06-21T14:08:50.961Z",
+  "generatedAt": "2026-06-21T16:45:00.373Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel stock enters week at record high after Apple chip report, Micron test ahead - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcjRBeFRnZXJPcWxRUGl1V2YtVkxaQU8tbmlqei02QU0wcG1ZdHozWTBtc3hVdC01ZDR4Z01PT1d5T1ZQaEZKdG5YQkY4d1JwSjU1RVJuRHc1YlNMRXcwZURLWGRkcnYyOUZ5ZlBXb2FudVNrcEJqLUlwNkdNQTNiYjVCcDRPMk5UbE5NbGwwS3dUY0dlbXpJeG5Od3RYYktvQm1N?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-06-21T15:36:19.000Z",
+        "summary": "인텔의 주가가 애플의 칩 관련 보도에 힘입어 사상 최고치를 기록하며 한 주를 시작했습니다. 향후 마이크론의 실적 발표 등을 앞두고 시장의 관심이 집중되고 있습니다."
+      },
+      {
+        "title": "Intel Corp Stock (INTC) Moved Up by 10.64% on Jun 21: What Investors Need To Know - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmNOTHdyUmppLUVLRHF5akl4Y0pMc01yczRkNmlPSExIMjJDeUZSSGNPTHNVaWdmcmVFWU4tb29ZVlFTblVsUEpJWERpc21lNnVjeWNTbmhOWS1UX0R3TWNtTVRmQ0tVNFQ4Q2FWaThtTEpoMTdtYlVNZDNsR2RuVW9oZnB2WU13V0k4?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-06-21T14:15:25.000Z",
+        "summary": "6월 21일 인텔(INTC)의 주가가 10.64% 상승하며 시장의 주목을 받았습니다. 투자자들은 이번 급등의 배경과 향후 전망을 면밀히 살펴볼 필요가 있습니다."
+      },
       {
         "title": "19,835 Shares in Intel Corporation $INTC Purchased by Kavar Capital Partners Group LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWkJxUkZCZlhtc282cWxXeGxIblFPbV9Ta212NUZTOHlaZnZTdkZlRU1Cd2EzdmtNQjkwSUdQZ1NVTXhxNGxUb2RSZ3gxYThINER4QTFGR3FrVUEyUTJTQlQwaUpIT1JIanNKeVFnTjhNNk0tazZIX0JZQ3c5WE9YX3lQQTNRaTBDc0o4aVA3NjQ0MWgzbER3RE5zX1BQVFpEZldiZ3FoUkhpWWRYZWVyRUlLZ2dpazAxR092ODFBTVB4LTVGMTNQejd6RldIX3FtNDVaUDR2cUdXcm1Fbmc?oc=5",
@@ -57,20 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-20T12:02:06.000Z",
         "summary": "도널드 트럼프 전 대통령은 엔비디아와 테슬라에 이어 애플 또한 인텔과 협력하여 미국 내에서 반도체를 생산하기로 합의했다고 밝혔습니다. 그는 이러한 성과를 자국 내 반도체 제조 역량을 되찾기 위한 자신의 노력 덕분이라고 강조했습니다."
-      },
-      {
-        "title": "Intel and Greenstone pair AI chips with human stem cells for drug discovery - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVg0akt5dlVYdmpXamRDSDVmRmRRZlE5aWRFYll1Y21FYkZQMm5JRHh0U0c4dk5ndHdiTmlxQ2xha3lYNEhGMWdMdExYcnZsMG5LeDB4M3dESzlNSFVBNk93Yml0NGhnbHlpNTJST1J6RVZjWUozUGVyLTc1ekNxQmR5bXBjVUxYZ0hobmJUNlYzTjdiZ1htOVhOUW5VMTBKaUxiNldkekdreFowLXBPRk9kVQ?oc=5",
-        "source": "Stock Titan",
-        "publishedAt": "2026-06-20T06:27:07.000Z",
-        "summary": "인텔과 그린스톤 바이오사이언스가 신약 개발을 위해 자사의 AI 칩과 인간 줄기세포 기술을 결합하는 협력을 시작했습니다. 이 기술은 AI의 연산 능력과 실제 생체 세포 데이터를 결합하여 신약 후보 물질을 보다 빠르고 정확하게 분석하는 데 기여할 것으로 기대됩니다."
-      },
-      {
-        "title": "Greenstone Biosciences, Inc. and Intel Corp. Launch Strategic Collaboration to Scale Human-Centric Drug Discovery",
-        "url": "https://finance.yahoo.com/healthcare/articles/greenstone-biosciences-inc-intel-corp-053900534.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-20T05:39:00.000Z",
-        "summary": "Greenstone Biosciences가 Intel과 협력하여 자사의 유도만능줄기세포 바이오뱅크와 Intel의 AI 인프라를 결합한 신약 개발에 나섭니다. 양사는 이번 전략적 파트너십을 통해 인간 생물학 데이터와 첨단 컴퓨팅 기술을 활용하여 신약 개발 속도를 획기적으로 앞당길 계획입니다."
       }
     ],
     "005930": [
