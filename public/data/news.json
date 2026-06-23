@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-06-23T20:03:13.634Z",
+  "generatedAt": "2026-06-23T22:11:53.210Z",
   "articles": {
     "INTC": [
+      {
+        "title": "3 Stocks Nvidia Owns That You Should Consider Too - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRFlaN054R1RBdTQ1akpmSlpaVWNvRnBfTUpKV0VMTlU5cmU1UnJqWEZJcEgwWWsxNTZMdWw3T2ZvM2p1YUFsbmVMc205a0dTY29mb1ozdDBnSXFvcTBKUGZaa2RMTF80eVBlOVlubGdlMU9IWEttQm5YVGY0ZUNkQUlpVk5IMjQ0dDN5MGVCdm9wVl96THN5MXZ1NnNZMUJ4dTVyTDI5akFadi0tWktDRzZfZ01JVVZuSElrVHlyTXRVUE9RUnpfVE92ZGxteXM?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-06-23T22:02:16.000Z",
+        "summary": "엔비디아(Nvidia)가 직접 투자한 3개의 주식이 투자자들에게 주목받고 있습니다. 엔비디아의 포트폴리오에 포함된 이 기업들은 향후 성장 가능성이 높게 평가되므로 투자 시 고려해 볼 만한 가치가 있습니다."
+      },
+      {
+        "title": "3 Stocks Nvidia Owns That You Should Consider Too",
+        "url": "https://www.fool.com/investing/2026/06/23/3-stocks-nvidia-owns-that-you-should-too/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-23T21:53:00.000Z",
+        "summary": "엔비디아의 투자 포트폴리오에는 주목할 만한 우수한 종목들이 포함되어 있습니다. 투자자들은 엔비디아가 보유한 이 종목들을 함께 검토해보는 것이 좋습니다."
+      },
+      {
+        "title": "Why tech stocks are getting hammered",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-tech-stocks-getting-hammered-214226305.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-23T21:42:26.000Z",
+        "summary": "최근 엔비디아와 마이크론 등 주요 AI 관련 기술주들이 대규모 AI 투자 대비 수익성에 대한 투자자들의 우려가 커지면서 급락했습니다. 이는 AI 산업의 성장성에 대한 시장의 회의론이 확산하고 있음을 보여줍니다."
+      },
+      {
+        "title": "Intel Corp (INTC) Stock Down 6.1% but Still Overvalued -- GF Sco - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa01OYTN2NDFNdFpsSEdfQzdrZjByS2tUOGYzSHNkU0VIbGJ4Q2FMekd0NmdqRVVYeEUxam5kY0U1TnVXUGpka2w5OGZuS1Z4Y2ppS00tbUhwZHd2OThUenR1UXRPbi1pVjNDYmlfVXk3enYtTnh1bmg3T0R1TnVxYXBlTHNKNVB5UG5IeXlSN3o5bjJhdmpwejliV3FpSUhzcXBzdzRTcw?oc=5",
+        "source": "GuruFocus",
+        "publishedAt": "2026-06-23T21:20:24.000Z",
+        "summary": "인텔(Intel)의 주가가 6.1% 하락했음에도 불구하고, 여전히 기업 가치가 고평가되어 있다는 분석이 나왔습니다. 금융 정보 플랫폼 구루포커스(GuruFocus)는 현재 주가 수준이 여전히 높다고 평가했습니다."
+      },
+      {
+        "title": "Why Intel (INTC) Stock Is Nosediving - StockStory",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0NUbXh0ak9GelNvaDR1bWxzdml0ckhYblY3Q0luUTdBT1RzWlZzT1ZoRlpvcDdxZzlYUXk1TzVkczFsSVNOLWtNZ3o1OVhYeWNYeW9SdXFVbVozYVZ2UDlmTlBEQURNSGRXeXozbFJybnRNTi1ubExrYzUwZVA0a2dWZTNZdTF5RmFXeDFGd2FWVXU1UzRfaFpLM29SZkE?oc=5",
+        "source": "StockStory",
+        "publishedAt": "2026-06-23T20:57:23.000Z",
+        "summary": "제공해주신 기사 제목과 관련하여, 인텔(INTC)의 주가가 급락하고 있다는 소식을 전하고 있습니다. 구체적인 하락 원인과 시장의 평가가 포함된 분석 내용을 다루고 있습니다."
+      },
+      {
+        "title": "Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTmJkTVJWdzY0LUVVSUtKdDlNU1F4d0xlWEp0Ukt6cldWQ2d0YnlJMGNMV1k0MWZZSnVZeFZMdmZVVWxLcUNuam5kUG9RNWJpUTJjZ1pvTzdxbmNEcGk2ekU0ejBGNFVCNTZuMFNjajdEbk5WUkJLMDZoOTRFU3F2cFVEcHBhRnlvYnJKaFVwYnAyNG9aUVE?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-06-23T20:09:02.000Z",
+        "summary": "애플과 인텔이 역사적인 반도체 파트너십을 체결했습니다. 이에 따라 인텔이 현재 투자자들에게 매력적인 매수 기회인지에 대한 분석이 제기되고 있습니다."
+      },
       {
         "title": "Apple and Intel Just Signed a Historic Chip Partnership. Is the Silicon Pioneer a No-Brainer Buy Today?",
         "url": "https://www.fool.com/investing/2026/06/23/apple-intel-sign-historic-chip-partner-buy-stock/?.tsrc=rss",
@@ -29,51 +71,51 @@
         "source": "Barchart.com",
         "publishedAt": "2026-06-23T17:30:02.000Z",
         "summary": "오늘 인텔 주식에서 대규모의 이례적인 내가격(ITM) 콜옵션 거래량이 포착되었습니다. 이는 투자자들이 인텔의 향후 주가 상승을 긍정적으로 전망하고 있음을 시사합니다."
-      },
-      {
-        "title": "AMD and Intel Drop 5%, NVIDIA Slips 3% Amid Korean-Led Chip Selloff Bulls Say Is “Healthy”",
-        "url": "https://247wallst.com/investing/2026/06/23/amd-and-intel-drop-5-nvidia-slips-3-amid-korean-led-chip-selloff-bulls-say-is-healthy/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-23T17:23:22.000Z",
-        "summary": "한국발 반도체 매도세의 영향으로 AMD와 인텔의 주가가 5%, 엔비디아의 주가가 3% 하락하며 반도체 관련 주식들이 전반적인 약세를 보였습니다. 다만, 시장 전문가들은 이번 급락이 과열된 시장을 식히는 \"건전한 조정\" 과정이라고 평가하고 있습니다."
-      },
-      {
-        "title": "Intel, Micron Among Winners as BofA Supercharges Semiconductor Outlook",
-        "url": "https://finance.yahoo.com/technology/articles/intel-micron-among-winners-bofa-172016994.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-23T17:20:16.000Z",
-        "summary": "뱅크오브아메리카(BofA)는 AI 분야의 지출 급증에 힘입어 반도체 시장의 상승세가 2028년까지 지속될 것으로 전망했습니다. 이에 따라 인텔과 마이크론 등이 시장의 주요 수혜 기업으로 주목받고 있습니다."
-      },
-      {
-        "title": "Intel Corporation Stock 12‑Month Price Target Raised to $101.57, Implies 28% Downside - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZXZmcnRtMldOdWd1d3NRWjJCclBKRTZDbF9JWGZYUjhOc1JXcU9rRzRvbW5Nb2lFQlhZOE9wUHRsNTNXYTFBLUpVY0JGa2ZkeDZ6UDNaV0lzb2Y5ekdlOEpTWlFYdEVxZlRqM0lROUotTlRBaHY5VFdzbkdEVGlyUUJBSF8ya2RmOVp3MFN0Q25NQzJ5R1JHeDFZUF8zYlhvRmlYYjFOTkRSd3hQaTZmVjdlTjIxc1NacDlFNzg1U0doNXVBTzhKOVplb3hqWDc1NHJzTmxZNjlvSFpY?oc=5",
-        "source": "TradingView",
-        "publishedAt": "2026-06-23T17:20:08.000Z",
-        "summary": "인텔의 12개월 목표 주가가 101.57달러로 상향 조정되었습니다. 하지만 이는 현재 주가 대비 약 28% 하락할 가능성을 시사하고 있어 투자에 주의가 필요합니다."
-      },
-      {
-        "title": "Intel's Stock Is Soaring. Is It Too Late to Buy? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVVxempGRXk0X3ZfdWwtWXdBS0l0d3BJcUhSV3B3ZEhmdVZfSGdkaUI3dWZPMk5RV3VsckFEWW5DREdLcXV2bEMxNjVpUUxpbng5NHJma0RtU1FGSlNFcndxWXJxV09fVmFRblNSUVVnXzI2MkQ0UTc4VlBybjYyRFBTV3pfUWFqM0haLTd0aW50Zw?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-06-23T17:00:00.000Z",
-        "summary": "인텔의 주가가 최근 급등세를 보이면서 투자자들 사이에서 지금이 매수 적기인지에 대한 고민이 깊어지고 있습니다. 이 기사는 인텔의 상승세가 지속될 수 있을지, 현재 시점에서 투자가 유효한지 분석하고 있습니다."
-      },
-      {
-        "title": "Intel's Stock Is Soaring. Is It Too Late to Buy? - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1VMkJvNmJKZHJlVUpZNGtndFNyN0pBMmp1UkpmNnNkTDA5SG9GemhYN2RjaEd6ODBURndSMDVnSjNKWkdvVjV3dFlvVEYxcUJFa2M5YmlJWnpYelEwRU1RWmJBZ3Z1eWNrdy1TdTNhS0s4NEVDQndkRGFwNlc?oc=5",
-        "source": "AOL.com",
-        "publishedAt": "2026-06-23T16:42:45.000Z",
-        "summary": "최근 인텔의 주가가 큰 폭으로 상승하면서 투자자들 사이에서 지금 매수하는 것이 적절한 시점인지에 대한 관심이 높아지고 있습니다. 전문가들은 인텔의 향후 성장 가능성과 시장 리스크를 종합적으로 고려해 신중한 판단이 필요하다고 분석하고 있습니다."
-      },
-      {
-        "title": "Intel's Stock Is Soaring. Is It Too Late to Buy?",
-        "url": "https://www.fool.com/investing/2026/06/23/intels-stock-is-soaring-is-it-too-late-to-buy/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-23T16:20:00.000Z",
-        "summary": "최근 인텔의 주가가 가파른 상승세를 보이면서 투자자들 사이에서는 상승세가 곧 멈출지, 지금이라도 매수하는 것이 좋을지에 대한 고민이 깊어지고 있습니다. 향후 인텔의 주가 흐름과 투자 적절성에 대한 신중한 판단이 필요한 시점입니다."
       }
     ],
     "005930": [
+      {
+        "title": "2026-06-19 코스피 오늘 인기종목 30개 주식시황 알아보니 (+ 005930, 삼성전자, SK하이닉스, 삼성전기) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oR0htRlh1NjVoTU5kcE5pV015X1F6X2ZpdXNmM1BSMlcwSk9IclhJQ180UUxQVEk0ZXEtdmF3a3JRS1JMZHB1YVp6TGtZcXc2UW5xcl9xN1dkQXdjNlZ4M2x3RmN3RE9IUF9fcw?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-19T07:51:22.000Z",
+        "summary": "2026년 6월 19일 기준, 코스피 시장의 인기 종목 30개에 대한 주식 시황 정보가 발표되었습니다. 이번 분석에서는 삼성전자, SK하이닉스, 삼성전기 등 주요 대형주들의 시장 흐름을 집중적으로 다루었습니다."
+      },
+      {
+        "title": "2026-06-12 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, AI) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObE1JM0RESTl6VlBCcVNSbnh5bFhJQVBhRE9IeG1aQnl0aThSeElZNFZDY0hBckl4d3V3YWZlTlBOQlhHNFZoanY4aUUyNXdRMmlZLXUwQzhudDJIaVZ0YUk0aGhXQmx6SlUwWg?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-12T07:54:02.000Z",
+        "summary": "2026년 6월 12일자 코스피 시장의 주요 인기 종목 30개에 대한 시황 정보가 공개되었습니다. 이번 분석에서는 삼성전자와 SK하이닉스를 포함한 주요 기술주와 AI 관련 종목들의 동향을 중점적으로 다루고 있습니다."
+      },
+      {
+        "title": "2026-06-11 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45ZUlDUjFhN3NEVXlBN1hRM200cDlaZmZrOHZYNi13RVdwWXRDT18wTTBSXzhrOUptbGRkVnFaRWJ4V0MwOGJCc2xGajBIRXVjN09yOEpQaEV2V3o1a19ZbzJxSWRUX3ZDLTBBbA?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-11T07:55:51.000Z",
+        "summary": "2026년 6월 11일 기준, 코스피 시장 내 인기 종목 30개에 대한 시황 정보가 공개되었습니다. 이번 분석에는 삼성전자, SK하이닉스, LG전자 등 주요 대형주들의 주가 흐름과 시장 동향이 포함되어 있습니다."
+      },
+      {
+        "title": "삼성전자, 1.16% 하락 마감…외국인·기관 수급 엇갈려 (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 6월 11일 수요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdURLQ09VMWhIOWdiYm9FZGN5bmx0NENtRUJ0eXEtNzd3VWZMcWRLTlVYRVN5cWdmaHYzMnIxcXhsZjJzVGJLU3VEX29nUFB6dXRIVWhTYXpwSEpwajZDaVdZOWpqMjc1VHcteg?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-11T06:41:40.000Z",
+        "summary": "2026년 6월 11일 삼성전자 주가는 외국인과 기관의 엇갈린 수급 흐름 속에 전일 대비 1.16% 하락하며 마감했습니다. 이번 주가 변동은 투자 주체 간의 상반된 매매 행태가 영향을 미친 것으로 보입니다."
+      },
+      {
+        "title": "2026-06-04 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yU1V0TFNTWXVnZG1vam9HZm5EOFNkQWZxTlA5c3BQNXFtRW1ldjFtS0Z2UTZMUGVMcGtaUUJPei1FS0c5cWNaX2Q3dlRqd2w5Yk9WOVpFTXFDYnpEUTVSa3JDekE2eXFKVlZjWQ?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-04T07:00:00.000Z",
+        "summary": "2026년 6월 4일 기준, 코스피 시장에서 투자자들의 관심을 끄는 인기 종목 30개의 시황 정보가 공개되었습니다. 이번 분석에는 삼성전자, SK하이닉스, LG전자 등 주요 대형주들의 주가 흐름과 시장 동향이 포함되어 있습니다."
+      },
+      {
+        "title": "코스피 10위권 수준…이재용, 보유주식 60조 돌파 [이런국장 저런주식] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUxRekFBOHhvOTJvdERmUXJkQTJCN090alJKMkV0LVc3SHRxOHhibnpGR21fZDZqUG1hd2pnTjN0RWQ2Mm9IeGlhMlJDV2pkekHSAVNBVV95cUxOd3NuLXdXRS1ES2Vrc1BuY0E1THhhSW9pZUgxeVg5SVdTRElNN0Q5dnNBNnY0d0VXVEIwaVdzSnplWlZjWjZ1blpHc3FjcXMybDdpcw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-06-02T07:00:00.000Z",
+        "summary": "이재용 삼성전자 회장이 보유한 주식 평가액이 60조 원을 돌파하며 국내 상장사 시가총액 10위권 수준에 도달했습니다. 이는 삼성 계열사의 주가 상승에 따른 결과로, 이 회장의 주식 자산 규모가 역대 최고 수준을 기록했습니다."
+      },
       {
         "title": "\"불확실성 커졌다\" 삼성전자 노사협상 결렬에 투자자들 불안 - 연합뉴스",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhejZrOEVxLU9qZ2dSOXp2WW5yYTk0eUJ3M21iNnVndllaMi1mUWVBMTFCRncxa0FNdzhITm5VWG10N0FCUlBoZlJmdmhvR0VrQnBWWm40MmUxWTDSAWBBVV95cUxOd05KR195WEtmRUhJSFNyZFE2TzFfLUtDUTR5bVBwR2ZZUEZtdUF0dWVrbTJrUkFNSXFCRTlDQlZRTVhSbTRPUk5BQUY5dUJrc3JtVnlsSkV1Vk1LaU50YnM?oc=5",
@@ -89,63 +131,28 @@
         "summary": "삼성전자 노사의 50시간 마라톤 협상이 결렬되면서 창사 이래 첫 파업이 현실화되었습니다. 이로 인한 불확실성 증대로 삼성전자 주가는 4% 급락했습니다."
       },
       {
+        "title": "[생생한 주식쇼 생쇼] 시장 불확실성 증대, 반도체 섹터 선별적 강세 - 매일경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5bkt3XzdTaEl5c19DdkRvVlNkQl9Qd3R4RnlnOXVTZi0wYVNFbjdkNXpUMGZNSGNkdW1ZMWhPWWozeVJQUG9KVU9QMlNjbThTMjJqeXVySlZUZkNOZG9GSExVa0g4ZTd3?oc=5",
+        "source": "매일경제TV",
+        "publishedAt": "2026-05-18T07:00:00.000Z",
+        "summary": "최근 시장의 불확실성이 커지고 있는 가운데, 반도체 섹터가 선별적인 강세를 보이고 있습니다. 관련 내용을 다룬 매일경제TV의 '생생한 주식쇼 생쇼'에서는 시장 상황과 반도체 산업의 흐름을 분석했습니다."
+      },
+      {
         "title": "삼성전자 성과급 해법 \"이익 규모 따라 상한 차등…현금 대신 주식\" - 네이트",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6TDNPUndZQ2ZqRFlNOTlnRzdwTXRtMjlIUEpncUNRN1lYWEI5ZTRlMWF2TXp6UHp2YnRQdmdMZ19waDVRRm54R3JmUjRjLUlFSDlV?oc=5",
         "source": "네이트",
         "publishedAt": "2026-05-17T07:00:00.000Z",
         "summary": "삼성전자가 성과급 체계 개편을 통해 영업이익 규모에 따라 성과급 상한선을 차등 적용하는 방안을 검토하고 있습니다. 또한, 현금 대신 주식으로 보상을 지급하는 방안을 포함해 효율적인 성과급 운영 방식을 모색하고 있습니다."
-      },
-      {
-        "title": "삼성전자, 증권가 목표가 상향…주가 강세 - 프리진경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MSXVyb25aN0stSHRjZFZsSEgtVVZmbzVISnRDa2ltMDRKbGRaNmpHY0QySXRQUE83dzJxdml3LXA5bldtbGNsR3pCRVhoX19FTlFXSGpsNnJIc3JzTEFsUGVnRExmZWJvTGxBaA?oc=5",
-        "source": "프리진경제",
-        "publishedAt": "2026-05-11T07:00:00.000Z",
-        "summary": "증권가에서 삼성전자의 목표 주가를 잇따라 상향 조정하면서 주가가 강세를 보이고 있습니다. 실적 개선 기대감이 반영되며 투자자들의 긍정적인 평가가 이어지는 것으로 풀이됩니다."
-      },
-      {
-        "title": "\"오늘 계좌 열어보세요\" 삼성전자, 개미들에게 2.2조 배당 쏜다 - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUNFZ3Q0VkVzlOSzhkYUcwcFhnbkFjdUNIclRPUThQUUdQTU03RUg3X0h2YjZXZ2ViSkN6QlpHMmYtSVhtSHRiOHBVeUdHYkhSNUx3?oc=5",
-        "source": "네이트",
-        "publishedAt": "2026-04-17T07:00:00.000Z",
-        "summary": "삼성전자가 오늘 주주들에게 총 2조 2,000억 원 규모의 배당금을 지급합니다. 이번 배당은 삼성전자에 투자한 개인 투자자들을 포함한 주주들에게 돌아갈 예정입니다."
-      },
-      {
-        "title": "홍라희, 삼성전자 주식 3조원대 블록딜 매각…할인율 2.5% - 연합인포맥스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MTzR2TjBJWGFCNkRSbHZBREl6ZWN1REw3aWltOVFwSmpwVDZjeTV3Z2E2N2VSX1d5Q1FWcEZPWkxDMEJwNDRZc1BpRXlwTDlwUkFNcVE5cldjTWdmS2NXVnJJYXlmamgxdGVBTW93Rmk?oc=5",
-        "source": "연합인포맥스",
-        "publishedAt": "2026-04-09T07:00:00.000Z",
-        "summary": "홍라희 전 리움미술관장이 보유하고 있던 삼성전자 주식 약 3조 원어치를 시간 외 대량매매(블록딜) 방식으로 매각했습니다. 이번 매각의 할인율은 종가 대비 2.5% 수준으로 결정되었습니다."
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후 전략 및 중동 수혜주 분석 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92WGppcWJSQ1hfazBuemRaYzdYay1fN1NRX2h1aGpkeVFlaVVhSWRYUFVsdV9rbWhPaENnVjZZUnNKcTlCT3VNMmNsN21jMERueV9pQTRPX1BuQXUwSjI5R3ZfMjBLZzN4?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-04-07T07:00:00.000Z",
-        "summary": "이 뉴스 기사는 삼성전자의 실적 발표 이후 향후 주식 시장 대응 전략을 다루고 있습니다. 더불어 중동 지역과 관련된 수혜주들을 분석하며 투자자들을 위한 정보를 제공하고 있습니다."
-      },
-      {
-        "title": "삼성전자, 세계 영업이익 1위 기업 도약 전망-KB - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kTUNkUU53M0FnR2JyLUtiaGl6ZjlZYVNEX0xiWjZvck5keC1GRXVRVUJLVi0wSkQ5Vm1DNWxMMEkyTDNnV1p3TEl3RDYzdDhDMnJablVEbm4tNGkzU2Y4dk1qNXk2bXpLUkF1NWFhbGJIaHFRYmc?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-04-07T07:00:00.000Z",
-        "summary": "KB증권은 삼성전자가 메모리 반도체 업황 개선과 수익성 향상에 힘입어 세계 영업이익 1위 기업으로 도약할 것으로 전망했습니다. 이는 반도체 부문의 실적 회복이 전체 기업 가치 상승을 견인할 것이라는 분석에 따른 것입니다."
-      },
-      {
-        "title": "삼성전자, 14조원어치 자사주 소각 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGQVBWSmlaYU42dm5SQ3NOVFRUclQxYnpMUXExeXpaWjA0RUwyZkVVd1Y2Z05DR2JHYUpkTGxPQ21ZaVhBMEdqT3l1bV9rcXFhalHSAVNBVV95cUxNamZSUTFlc3FyeHAwaURWbWxwVDdDbW5HYXFROXpYeVUxVk5TTjJrb24wRENJSzlTQVFQUGJDV1dzTlh6UWJKYUgzM25BRkRTZW5PZw?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-03-31T07:00:00.000Z",
-        "summary": "삼성전자가 주주 가치 제고를 위해 14조 원 규모의 자사주를 매입 후 소각하기로 결정했습니다. 이는 주주 환원 정책을 강화하고 시장의 신뢰를 높이기 위한 조치로 풀이됩니다."
-      },
-      {
-        "title": "삼성전자, 지난해 취득 14조5806억 원 규모 자사주 소각 결정 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11d053MVJZYzctU0N4NzgybWt3bkc4RVAyZTJVQmVXTmIwTlJiOTJGcVJiYXdsOW9aSW84UnZWWER3Tnl6TnFpYTBCVEt5VC1pcHN4T1lMU25Bbl9SUjBUdEk0UF94UW52dGNQOV9xaWxsR1puMGc?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-03-31T07:00:00.000Z",
-        "summary": "삼성전자가 주주 가치 제고를 위해 지난해 취득했던 14조 5,806억 원 규모의 자사주를 전량 소각하기로 결정했습니다. 이번 결정은 기업 가치를 높이고 주주 친화적인 정책을 강화하려는 전략의 일환으로 풀이됩니다."
       }
     ],
     "APPL": [
+      {
+        "title": "A new chip partnership between Apple and Intel is a long-term catalyst for AAPL stock - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT01RWHZldFhWZlhkNlRCMlJUVmJlUVpQZTl6YlVBVWpGZ3QxQW1WejB1RktpdDh2Z1A4QU9vcVNQeEI0eHFoaHNNY21Sb3RYcGF3MTJlNlNxQ3NrSUhNY2kyZzk0ejNwcURDSmN2aXBTY1VLTmpCLUd6MERwYUg2VEhMQ0NsVEh6LVdQN1M1WkNhTEhnNVg0V092N3hNVjJaeE9HSE5CYU1SeHZmeEs0YXVYZ0VIWVo1aWk1SGNUbGRaZVhVdy1kN0pjRmVXcVBtTEhEMHRDb1VLdGlZaWw0elg1dU1GQQ?oc=5",
+        "source": "MSN",
+        "publishedAt": "2026-06-23T04:58:58.000Z",
+        "summary": "애플과 인텔의 새로운 칩 파트너십이 애플 주가(AAPL)에 장기적인 상승 동력이 될 것이라는 전망이 나왔습니다. 이번 협력을 통해 애플은 기술적 경쟁력을 강화하며 향후 기업 가치 성장에 긍정적인 영향을 받을 것으로 기대됩니다."
+      },
       {
         "title": "A New Chip Partnership Between Apple and Intel Is a Long-Term Catalyst for AAPL Stock - Barchart.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG9od1A0c0hTeEtwLVVudEhJRUZHcnlXZlR3VHJ1WG9vMHNGTGh1V0h3d2g5dDM0dWItQUE0azV4YzRHMW9DZTB1U0pFRUFHVGh5MEdfd0tmTTU5WWFiT1RuaWJ5Um9aMVBHT2JWSS1IZ1pkMWsxT0NzVU1wOG1teTd4Ymg4MHRQd3pxYnoyeEdJX0dqRk05SDRNUXY2NzY0ZDNYTW8xR1lyaVBmc2RfRW1PNnhwcTl5ZlJoRmxQT1FEdVFkWHZTZg?oc=5",
@@ -208,13 +215,6 @@
         "source": "MacDailyNews",
         "publishedAt": "2026-06-09T15:00:37.000Z",
         "summary": "웨드부시(Wedbush)는 애플 인텔리전스(Apple Intelligence)와 개선된 시리(Siri) 기능이 애플의 주가를 75달러에서 100달러까지 상승시킬 잠재력이 있다고 분석했습니다. 이는 인공지능 기술이 애플 생태계의 가치를 높이고 향후 주가 성장을 견인할 핵심 동력이 될 것임을 시사합니다."
-      },
-      {
-        "title": "Apple shares slide after big Siri AI reveal - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mVkZFeFNmb19QUDBiblhSbFZhMzN4V1U1REV2ZV92c3dkQ19VX1lXaXJkTmtGN3h5N0gxNXdwSEpqemhnM2ZmRURlbVZtOUVwQ0JydTVfak51MWhzLTVJYVZYd3I5RjI2ZGdFYjVEXzgzbHPSAXhBVV95cUxNVmctVWQzdjBCNGZqUGFKM0tWMHVWT1dMTmNzZDFfY1o0cWdnWGhsMjZiNVFLb21OMFhOSWc2Wi1Ra2JRYnVzMXNGRDFHVjZ3SDV0OVhsNHpDdXFFUUtaVGpTOE9wdGUyS1ZxcHlqemhyNzhUTU8xX3M?oc=5",
-        "source": "CNBC",
-        "publishedAt": "2026-06-09T07:00:00.000Z",
-        "summary": "애플이 인공지능(AI)을 탑재한 새로운 '시리(Siri)' 기능을 공개했음에도 불구하고, 시장의 기대에 미치지 못했다는 평가 속에 주가가 하락세를 보였습니다. 투자자들은 이번 발표가 애플의 시장 지배력을 강화하기에 충분하지 않다고 판단한 것으로 풀이됩니다."
       }
     ]
   }
