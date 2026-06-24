@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-06-24T19:44:42.622Z",
+  "generatedAt": "2026-06-24T22:16:36.135Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Chip stocks surge after-hours on Micron’s record quarter",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/chip-stocks-surge-hours-micron-215200610.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-24T21:52:00.000Z",
+        "summary": "마이크론 테크놀로지가 2026 회계연도 3분기에 시장 전망치를 크게 웃도는 사상 최대 실적을 발표했습니다. 이로 인해 마이크론 주가는 시간 외 거래에서 12.6% 급등하며 반도체 관련 주들의 상승세를 견인했습니다."
+      },
+      {
+        "title": "Micron, Alphabet, Builders FirstSource, Sunrun, Wendy’s, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/ceec6673-cc8d-32dc-86a0-f6e409c55462/micron%2C-alphabet%2C-builders.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-24T20:33:00.000Z",
+        "summary": "수요일 시장은 AI 관련주들이 하락세를 보이며 혼조세로 마감했습니다. 특히 마이크론 테크놀로지는 실적 발표를 앞두고 0.4% 하락했으며, 투자자들은 이번 실적을 통해 AI 열풍이 지속될 수 있을지 주목하고 있습니다."
+      },
+      {
+        "title": "Bank of America resets Intel stock price target - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVl3U0ZFaFVFVGhMdjBGZDIxdVk0aFRaTENKOHVwaE1DN285Q2RWNXdLMTNkVXNEanY1aDRzY0htSHluSVNwcTJCYlROYm4zU2lOb1A2bDRzejFsVlA4RnE2MnFzUExmMTZyWGQ4OEZhUU9mNHREQlhjYVcxbkJxNF8wbFNBdjhmQkROZm9jUXltSkhQ?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-06-24T20:21:44.000Z",
+        "summary": "뱅크오브아메리카(BofA)가 인텔의 주가 목표치를 새롭게 조정했습니다. 이번 조정은 최근 인텔의 시장 상황과 향후 전망을 반영한 결과로 풀이됩니다."
+      },
+      {
+        "title": "How a CFO Shakeup Turned Wendy’s Into a Meme Stock",
+        "url": "https://finance.yahoo.com/m/3af37dde-164c-3591-8213-bbba965081c6/how-a-cfo-shakeup-turned.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-24T20:12:00.000Z",
+        "summary": "웬디스(Wendy’s)의 최고재무책임자(CFO) 교체 이후, 온라인 커뮤니티 '월스트리트베츠'의 개인 투자자들이 해당 주식 매수를 독려하며 주가가 급등했습니다. 이로 인해 경영난을 겪던 패스트푸드 체인인 웬디스가 이른바 '밈 주식(meme stock)'으로 부상하게 되었습니다."
+      },
+      {
+        "title": "Synopsys (SNPS) Stock Gets Fair Value Trim As Analysts Weigh Ansys And IP Recovery",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-stock-gets-fair-201122025.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-24T20:11:22.000Z",
+        "summary": "시놉시스(Synopsys)의 적정 주가가 기존 560.38달러에서 559.58달러로 소폭 조정되었으며, 이는 큰 폭의 변화보다는 시장의 신중한 재평가를 반영한 것입니다. 현재 시장은 지적재산권(IP) 사업과 앤시스(Ansys) 인수 효과에 대해 긍정적으로 평가하면서도, 동시에 실행 리스크와 밸류에이션에 대해서는 신중한 입장을 보이고 있습니다."
+      },
       {
         "title": "Intel Shares Rise Over 3% After Key Trading Signal - Benzinga",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWVSbFNONHVPREJLeEtaVWFmRHpUbzB6dUlrYzRreFpnM3BmSFdNMDk2MDdsa2JPaWVWWGJmSUdxSnF6OTZxUFpaWURBQXFPdUFQb0hoOFVoV3ZuMm00UG15djVHYlh0eVJDLXFseU1aYWp6Zk5ESVdnc2MzUk1TclNLLXNXRjhPWFlBYXl1ZE5lazVrY1ljSDdaWVBnMTdRN1hjTGJpUEQ?oc=5",
@@ -17,11 +52,18 @@
         "summary": "엔비디아와 AMD 등 주요 AI 반도체 관련주들이 최근의 매도세를 뒤로하고 반등을 시도하고 있습니다. 이는 마이크론의 실적 발표를 앞두고 시장의 기대와 긴장감이 교차하는 가운데 나타난 움직임으로 풀이됩니다."
       },
       {
-        "title": "Intel Is Up 570% in the Past Year. Time to Buy the Comeback Story or Take Profits? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSV9mWXZPM01QYXdPWlZZMlpvalZ4TnJaRkNVWWRiNU1mRmVrWE5UUGlnbC12ZmhSMFpCSGN5Z1IyZ29IYVcybGN3TWd0SUstbV9TSDg1YVFMMlMzVlgwYmZTUkZDaVJYbWJBRnJEQ2NzbUdHQjJzTzhuTFN6VFdPWVBSbXBtRlFnMU85cTZnZ2VXUQ?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-06-24T19:32:33.000Z",
-        "summary": "지난 1년간 주가가 570% 급등한 인텔에 대해 투자자들은 상승세가 지속될 것이라는 기대감과 차익 실현 사이에서 고민하고 있습니다. 인텔의 회복 스토리가 여전히 매력적인 투자 기회인지, 아니면 이제는 수익을 확정 지어야 할 시점인지에 대한 시장의 분석이 이어지고 있습니다."
+        "title": "Intel Is Up 570% in the Past Year. Time to Buy the Comeback Story or Take Profits? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUC04UUh5UVI4NmpHbVVMVjZxaWlJNmdWTDBDdlRPSnltajlNdWtpYWg3WXBOVHB5clI1cjlsNmlGd0NMSEtEbVdUV2g5UldIY21FVkRtZzVvLTZCaXJsZWI3S1ByZlB1YTBhVTJPTXd6UzBpS3B4c1VPd0dta0R5UXhaZ0hmUXZsQ2YySmVVMFBQYWdUa3VBa3BralZWUXhEaE1xX0tudGk4aU9QN21IVHJGVU1Ob21JaXFLUFVvTl9ZUWxsOWVBeW9fQll1WktwMm45Nnk5VjVNSTZCTjlncUozVG5MejNwX2ZxTmhuMEhGMXMyTkhJ?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-06-24T19:26:12.000Z",
+        "summary": "지난 1년간 주가가 570% 급등한 인텔에 대해, 추가 상승을 기대하고 매수할지 아니면 수익을 실현할지를 두고 투자자들의 고민이 깊어지고 있습니다. 인텔의 회복세가 지속될 수 있을지에 대한 시장의 평가와 대응 전략이 주목받고 있습니다."
+      },
+      {
+        "title": "Intel Is Up 570% in the Past Year. Time to Buy the Comeback Story or Take Profits? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVjU2dDZBdVFyU2RYRmRDYzY1MjZPWjBCYXllVDZoZ1ZkajBjdTU5Z0xPeUlYcDEzTHh2RkxIcHhtYTlkeGE0bFlKVU02bmxPLXRuQzFmOUZxMHVXZkVfdV84WUxsaGtsaXNkUU82Uk9Jelg5UVZVZUdnY2o0OHhLSnhQc0NOWG9LVDVfU2k0TWhNajRoMXo3VF9CT3JkOVlCS3A0RlFhRFNZTHRmbW9Kem1oLTg4SWJEM0RjWng4MFB2T1RnOWlsRTJZb3F1bTVvWUxBZFRMN05Ib2VNLUltVjZRU24tbDF6anpzNDBBQk94WF9TRlhR?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-06-24T19:26:04.000Z",
+        "summary": "지난 1년간 주가가 570% 급등한 인텔에 대해 투자자들 사이에서 추가 매수와 차익 실현을 두고 고민이 깊어지고 있습니다. 인텔의 회복세가 지속될 것이라는 기대와 함께 높은 수익률에 따른 매도 시점에 대한 신중한 접근이 필요하다는 분석이 나옵니다."
       },
       {
         "title": "Intel Is Up 570% in the Past Year. Time to Buy the Comeback Story or Take Profits?",
@@ -29,48 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-24T19:22:00.000Z",
         "summary": "애플과의 새로운 파트너십으로 인텔 주가가 지난 1년간 570% 급등했습니다. 현재 시장에서는 이러한 가파른 상승세가 이미 주가에 반영되었는지, 아니면 지금이 수익을 실현할 시점인지에 대한 고민이 깊어지고 있습니다."
-      },
-      {
-        "title": "Intel’s stock split history (& prospects) explained - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2VU1ZdUFSSGZ0WkFUZ2FUbjc0eHdxLU1YZTk4Y1dXbGRDTmtKSnZhOW5YNHlYRXVuSWlJLUpVellUM19aUVYxUzAtNURuTFVYRjZjR1JZRTRmbUlaN05xNzNRY3dFcDZDVUo2WnhvbjlWc1NpdTJHaw?oc=5",
-        "source": "thestreet.com",
-        "publishedAt": "2026-06-24T18:47:14.000Z",
-        "summary": "이 기사는 인텔의 과거 주식 분할 이력을 되짚어보고, 향후 주식 분할 가능성에 대해 분석하고 있습니다. 현재 인텔의 경영 상황을 고려할 때 주식 분할이 투자자들에게 어떤 의미를 가질지 전망하는 내용을 담고 있습니다."
-      },
-      {
-        "title": "Nvidia's Upbeat Forecast Lifts SMH's Earnings Outlook",
-        "url": "https://www.trefis.com/articles/604317/nvidias-upbeat-forecast-lifts-smhs-earnings-outlook/2026-06-24?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-24T17:59:07.000Z",
-        "summary": "엔비디아의 긍정적인 실적 전망이 반도체 상장지수펀드(SMH)의 수익 전망을 끌어올리고 있습니다. 해당 펀드에 포함된 주요 반도체 기업들이 실적 개선의 명확한 신호를 보내고 있어 투자자들의 주목이 필요합니다."
-      },
-      {
-        "title": "Bank of America resets Intel stock price target - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFlxX0VVYThXbUtjNHlGZzR1b01ZYTl0M3hRemRneFFycUdqd05HV21zQ1pxVlBSMDk3b2hpbU40RzZTcU9QekFtTHB1OExHbUQ5VmhwdkxaVHYzM2RjeEtxbExVSHcyTjFuZWdwbGYyaDdlS1ItT3A1TWpKQVdxQQ?oc=5",
-        "source": "AOL.com",
-        "publishedAt": "2026-06-24T17:59:04.000Z",
-        "summary": "뱅크오브아메리카(Bank of America)가 인텔의 주가 목표치를 새롭게 조정했습니다. 이번 조정은 시장의 인텔에 대한 평가와 향후 전망을 반영한 결과로 분석됩니다."
-      },
-      {
-        "title": "AMD Gets a Big Agentic AI Boost",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amd-gets-big-agentic-ai-174742934.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-24T17:47:42.000Z",
-        "summary": "UBS는 최근 CPU 랙에 대한 수요가 증가하고 있다고 분석하며, 이를 통해 AMD가 에이전트형 AI(Agentic AI) 분야에서 큰 성장을 이룰 것으로 전망했습니다. 이에 따라 AMD는 향후 AI 시장에서의 입지를 더욱 강화할 것으로 기대됩니다."
-      },
-      {
-        "title": "AMD and Arm Emerge as Key Winners in the Next AI Wave",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amd-arm-emerge-key-winners-173053631.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-24T17:30:53.000Z",
-        "summary": "제시해주신 기사 내용을 요약하면 다음과 같습니다.\n\nAMD와 Arm이 차세대 AI 시장의 핵심 승자로 떠오르고 있습니다. 특히 AMD는 데이터센터용 CPU 랙 수요 급증에 힘입어 UBS로부터 큰 폭의 투자의견 상향 조정을 받으며 기대감을 높이고 있습니다."
-      },
-      {
-        "title": "Pelosi discloses bullish options bets on Intel and Uber",
-        "url": "https://finance.yahoo.com/markets/options/articles/pelosi-discloses-bullish-options-bets-172532086.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-24T17:25:32.000Z",
-        "summary": "낸시 펠로시 전 미국 하원의장이 인텔과 우버의 주식 콜옵션을 대량 매수한 사실이 공시를 통해 확인되었습니다. 해당 옵션은 모두 행사 가격 50달러에 만기일은 2027년 3월 19일로, 펠로시 의장의 해당 기업들에 대한 낙관적인 투자 전망을 보여줍니다."
       }
     ],
     "005930": [
@@ -175,9 +175,9 @@
         "summary": "모틀리 풀(The Motley Fool)은 애플 주식을 매수해야 할 세 가지 핵심 이유를 제시하며 향후 성장 가능성을 긍정적으로 평가했습니다. 애플의 강력한 브랜드 충성도와 생태계 확장성 등이 투자 매력으로 언급되었습니다."
       },
       {
-        "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg",
+        "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlM2ZEprdFdVelV2Tkd4NFlubFJYTXFadUxtVXkxSF9scFg5dk91U0dKR3pkWENoXy1CVXppRjZta2hYZS1qa1BsTDJaWTNRR2ZwaVJrNzN0d1BrWlVJQVFOZUZLa1lLTnFVXy1xLXN3Mm1wdnh4RGtiM19vbDgyZzQtZzhqZXRKTkZPbEJyNzNkRHIySl9UZzBpZXJaZUIzdUdEbzQzLUFuVnhhbDFNV0VKOE5hazVGcjRJUHFBaw?oc=5",
-        "source": "Bloomberg",
+        "source": "Bloomberg.com",
         "publishedAt": "2026-06-18T20:45:14.000Z",
         "summary": "도널드 트럼프 당선인이 인텔이 애플과 칩 공급 계약을 체결했다고 언급하면서 인텔의 주가가 급등했습니다. 이번 발언으로 인해 인텔의 사업 전망에 대한 시장의 기대감이 커지며 투자자들의 주목을 받고 있습니다."
       },
@@ -210,11 +210,11 @@
         "summary": "해당 기사는 애플(NASDAQ: AAPL)의 주가에 부정적인 영향을 미칠 수 있는 4가지 잠재적 위험 요인을 분석하고 있습니다. 주요 우려 사항으로는 시장 경쟁 심화, 규제 환경 변화, 제품 수요 둔화 등이 거론되고 있습니다."
       },
       {
-        "title": "Given the News Out of WWDC, Was Warren Buffett Right to Sell Apple Stock? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1RNYVN5N1czUU9uUUcxUnp5Y091Z21FbkNzdjFZbElVa0pJQ0NETk1hMkJhV0hxcHNkUGhqOS1CWDFJWnozWmxFdEJDSVE1dlVEbmRNcDEwcE9JSDVsaERnX2dpNjZFRFE3RnFpMGttcEl3YXBBUVh1alFlQVp0b3d6M2M0bUZDdmNMOTB0WEt2dzFuRGc?oc=5",
+        "title": "Prediction: Apple Stock Will Go On a Bull Run in the Second Half of 2026 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFlhandrRkIyMjMyR2hPc1Bqbk9fZ3RQU250SWJhNHBxYU9NbHpwZ3hrYU0wS2Y5d3g1aW1HVUJQemlsNy13R3RhRHhFZ3pyX19ONFgtTnpyUjh4WU00ZGZ6TXo4c29wVk9vMWNOY1VkWGRpd01ZOTYwdGU0VEpLZEFFYktocmlFbXp0REtZLUhRV3QwTFd5Qw?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-06-14T07:00:00.000Z",
-        "summary": "워런 버핏이 애플 주식을 매도한 결정이 최근 WWDC에서 발표된 소식들을 고려했을 때 옳은 선택이었는지에 대한 의문이 제기되고 있습니다. 해당 기사는 애플의 미래 전략과 시장 상황을 분석하며 버핏의 투자 결정을 재평가하고 있습니다."
+        "publishedAt": "2026-06-16T07:00:00.000Z",
+        "summary": "모틀리 풀(The Motley Fool)은 애플의 주가가 2026년 하반기에 본격적인 상승세를 보일 것으로 전망했습니다. 이러한 분석은 애플의 향후 성장 잠재력과 시장 흐름에 근거한 예측으로 보입니다."
       }
     ]
   }
