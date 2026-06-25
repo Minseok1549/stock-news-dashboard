@@ -1,7 +1,49 @@
 {
-  "generatedAt": "2026-06-25T14:31:08.587Z",
+  "generatedAt": "2026-06-25T17:11:42.510Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Forget Intel: 1 Semiconductor Juggernaut to Buy Hand Over Fist While Turnaround Hype Rules Wall Street",
+        "url": "https://247wallst.com/investing/2026/06/25/forget-intel-1-semiconductor-juggernaut-to-buy-hand-over-fist-while-turnaround-hype-rules-wall-street/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-25T16:26:47.000Z",
+        "summary": "최근 월가에서 인텔의 회생 가능성에 대한 기대감이 커지고 있지만, 기사는 인텔 대신 대만의 TSMC를 주목해야 할 핵심 반도체 기업으로 지목하고 있습니다. 인텔은 각종 투자와 정부 지원으로 주가가 급등했지만, 실질적인 사업 가치를 고려할 때 TSMC가 더 매력적인 투자처라는 분석입니다."
+      },
+      {
+        "title": "Intel vs TSM: Which Chip Giant is the Better Investment?",
+        "url": "https://247wallst.com/investing/2026/06/25/intel-vs-tsm-which-chip-giant-is-the-better-investment/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-25T16:23:23.000Z",
+        "summary": "인텔은 대규모 구조조정 비용 속에서도 예상을 뛰어넘는 주당순이익을 기록했고, TSMC는 전년 대비 매출과 순이익이 큰 폭으로 성장하며 견조한 실적을 보였습니다. 두 기업 모두 AI 하드웨어 시장의 핵심 주자로서 각기 다른 성장 전략을 보여주고 있어 투자자들의 주목을 받고 있습니다."
+      },
+      {
+        "title": "No, IBM Is Not Becoming a Chipmaker — But It Just Revolutionized the Industry Anyway",
+        "url": "https://247wallst.com/investing/2026/06/25/no-ibm-is-not-becoming-a-chipmaker-but-it-just-revolutionized-the-industry-anyway/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-25T16:22:54.000Z",
+        "summary": "IBM이 직접 칩 제조사가 되는 것은 아니지만, 반도체 업계가 직면한 물리적 한계를 극복할 혁신적인 기술을 선보였습니다. 기존의 방식으로는 트랜지스터를 더 작게 만드는 데 한계에 도달한 상황에서, IBM의 이번 성과는 반도체 설계와 제조의 새로운 전환점을 제시할 것으로 평가받고 있습니다."
+      },
+      {
+        "title": "Why Goldman is cautious on outperforming Intel stock",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-goldman-cautious-outperforming-intel-153414830.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-25T15:34:14.000Z",
+        "summary": "골드만삭스는 인텔의 서버 CPU 성장세와 파운드리 사업의 잠재력을 인정하면서도, 투자의견 '중립'과 목표주가 150달러로 커버리지를 시작했습니다. 이는 인텔 주가가 최근 급등하며 향후 상승 여력이 이미 가격에 충분히 반영되었다고 판단했기 때문입니다."
+      },
+      {
+        "title": "Why Goldman is cautious on outperforming Intel stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS0VUaGV0NThmeFFtaUdCdkhnQWsySmctaEhYeU5KMmJ5b0l4RG5mT1BGNDVZTXBUaEpzN2hUUVpWSlRuV1l0MGNOOVN0LWdMeFpHd0JodGE3V2llZVJDZXBqNHh4UEFxOG9VZnh4dDVlSVRUYWtzSG44VTZHQlk0bGQ5UGZVMVJyVllkY29QajMyMVdNZVdxVkdSYXBVd0o0eGtwTUdENGZLeE9QWWc?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-06-25T15:05:02.000Z",
+        "summary": "골드만삭스는 인텔의 주가가 시장 수익률을 상회할 것이라는 전망에 대해 신중한 입장을 보이고 있습니다. 이는 인텔이 직면한 경쟁 심화와 시장 환경 변화 등 여러 불확실성 때문인 것으로 분석됩니다."
+      },
+      {
+        "title": "5-star analyst resets Intel stock price target - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVl3U0ZFaFVFVGhMdjBGZDIxdVk0aFRaTENKOHVwaE1DN285Q2RWNXdLMTNkVXNEanY1aDRzY0htSHluSVNwcTJCYlROYm4zU2lOb1A2bDRzejFsVlA4RnE2MnFzUExmMTZyWGQ4OEZhUU9mNHREQlhjYVcxbkJxNF8wbFNBdjhmQkROZm9jUXltSkhQ?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-06-25T14:37:20.000Z",
+        "summary": "5성급 애널리스트가 인텔의 주가 목표치를 새롭게 조정했습니다. 이번 조정은 시장의 기대와 인텔의 향후 전망을 반영한 결과로 분석됩니다."
+      },
       {
         "title": "Intel Corp Stock (INTC) Moved Down by 3.71% on Jun 25: A Full Analysis - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMlVNRnVJOEF3cWJ2cFYzZlk5VUhBRjk4eTZFMk9mbE9xYWFrVDBnZTNFT0xmSnEyZlI2dFFzbmNKR0Z3YlhERDhPb0E1eG9STXVUbEVOaENYaVUtWjFIQ2xJMWdSTVhiY3lTUERPTkxRMlRvMmlnZlYzeUYtWUV0bUE1Ni1fVUZsVkRr?oc=5",
@@ -10,11 +52,18 @@
         "summary": "6월 25일 인텔(INTC)의 주가가 전일 대비 3.71% 하락했습니다. 이번 하락에 대한 원인과 시장 영향을 분석한 상세 내용이 TradingKey를 통해 보도되었습니다."
       },
       {
-        "title": "Sandisk, Western Digital and others soar as Micron results  'justify elevated valuations'",
-        "url": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html?.tsrc=rss",
+        "title": "Micron Stock Jumps With  Analysts and the Market Loving Its Earnings",
+        "url": "https://finance.yahoo.com/m/714cab66-2d2a-36d5-90cd-6400312f5b45/micron-stock-jumps-with-.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T14:06:42.000Z",
-        "summary": "마이크론의 실적이 시장 예상을 뛰어넘는 호실적을 기록하면서 반도체 기업들의 밸류에이션이 정당화되어 관련 업계의 주가가 크게 상승했습니다. 이에 따라 샌디스크, 웨스턴 디지털을 비롯한 반도체 섹터 전반이 동반 상승세를 보였습니다."
+        "publishedAt": "2026-06-25T14:15:00.000Z",
+        "summary": "마이크론이 예상보다 오래 지속될 메모리 칩 시장의 호황을 확인해 주면서 주가가 급등했습니다. 투자자와 분석가들 모두 마이크론의 실적을 긍정적으로 평가하며 시장의 기대감이 커지고 있습니다."
+      },
+      {
+        "title": "Intel (INTC) Stock Soars 6% on Micron’s Blockbuster Results and Wall Street Upgrades - Blockonomi",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDFHMFk5SDJyc0Q1bVgwNmItMFBYQVVneVRvM2Z3R1B3aEZZRmMtdkJFb0FkQVdzN0ZSRXZkMXBzaFFObTJxcGl2aHZILXZYelVLM0hfR2E2MFJpd0FPckJBaDNiT3lUR29nZGpuMXlEYlVkTEl1NGhvaENMZzY4ekRpam9WRnlXU2tJeVVTbk5BSEFQaC02T3ZnVjYwcDA4WkluS2h1MA?oc=5",
+        "source": "Blockonomi",
+        "publishedAt": "2026-06-25T14:10:09.000Z",
+        "summary": "마이크론의 실적 호조와 월가의 투자 의견 상향 조정에 힘입어 인텔의 주가가 6% 급등했습니다. 이번 상승은 반도체 산업 전반에 대한 기대감이 반영된 결과로 풀이됩니다."
       },
       {
         "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market",
@@ -22,55 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-25T13:38:06.000Z",
         "summary": "엔비디아, TSMC, 인텔과 협력하여 AI 기술의 시장 출시를 돕는 기업 '키사이트(Keysight)'가 주요 펀드 매니저들로부터 주목받고 있습니다. 현재 이 기업은 주가 상승의 돌파구를 마련하며 시장에서 큰 관심을 끌고 있습니다."
-      },
-      {
-        "title": "Qualcomm upgrade, Intel initiation among today's top calls on Wall Street",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/hubspot-downgraded-qualcomm-upgraded-wall-140024229.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T13:34:06.000Z",
-        "summary": "월가에서 오늘 주목할 주요 투자 의견으로 퀄컴에 대한 투자의견 상향 조정과 인텔에 대한 신규 분석 개시가 발표되었습니다. 해당 소식은 주요 증권사들의 기술주 관련 전략 변화를 보여주며 시장의 관심을 끌고 있습니다."
-      },
-      {
-        "title": "Markets Are Finally Facing a Reality Check",
-        "url": "https://investorshub.advfn.com/market-news/article/31014/markets-are-finally-facing-a-reality-check?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T13:18:00.000Z",
-        "summary": "지난 2년간 인공지능(AI) 관련 소식이라면 무조건 호재로 받아들이며 상승세를 이어왔던 글로벌 시장이 최근 제동이 걸리고 있습니다. 시장은 그동안 당연하게 여겨왔던 낙관적인 가정들에 대해 의문을 제기하며 현실을 직시하기 시작했습니다."
-      },
-      {
-        "title": "Intel Stock Surges As Apple Deal, BofA Upgrade Supercharge AI Foundry Story - timothysykes.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wdmhFdHhBd2RhQjd1NHFpelcxTVJCTENpYkdXREJwdVNMeks2QlJLQzc5eThWZG96Mzhac2RpOXlzWmRiZUI3anVyaDVERTRNSnBMTTRiSkhsSDRGaGJ5a093cHlHT3BHd2FsUXotdllfUThuaXctVk01X2oyZw?oc=5",
-        "source": "timothysykes.com",
-        "publishedAt": "2026-06-25T13:18:00.000Z",
-        "summary": "인텔이 애플과의 협력 소식과 뱅크오브아메리카(BofA)의 투자 의견 상향 조정에 힘입어 주가가 크게 급등했습니다. 이번 호재는 인텔의 AI 파운드리 사업 전략에 대한 시장의 기대감을 한층 강화하고 있습니다."
-      },
-      {
-        "title": "Update: Continued Oil Price Decline, Micron Earnings Beat Drive US Equity Futures Higher",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/continued-oil-price-decline-micron-131417184.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T13:14:17.000Z",
-        "summary": "제공해주신 기사 내용을 바탕으로 요약한 결과입니다.\n\n유가 하락세가 지속되는 가운데 마이크론의 실적이 예상치를 상회하면서, 목요일 미국 주식 선물 지수가 상승세를 보이고 있습니다. 이는 시장의 투자 심리에 긍정적인 영향을 미치고 있는 것으로 분석됩니다."
-      },
-      {
-        "title": "Sail Research Raises $80 Million to Build Max-Efficiency Infrastructure for AI Agents",
-        "url": "https://finance.yahoo.com/technology/ai/articles/sail-research-raises-80-million-130100688.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T13:01:00.000Z",
-        "summary": "AI 에이전트를 위한 인프라 개발 기업인 '세일 리서치(Sail Research)'가 시드 및 시리즈 A 투자를 통해 총 8천만 달러(약 4억 5천만 달러 기업가치)의 자금을 조달했습니다. 이번 투자에는 클라이너 퍼킨스와 세쿼이아 캐피털을 비롯해 알파벳 회장 존 헤네시 등 주요 투자자와 업계 인사들이 대거 참여했습니다."
-      },
-      {
-        "title": "Here Are Thursday’s Best Wall Street Analyst Research Calls: Brown-Forman, CoreWeave, Intel, JFrog, Keurig Dr. Pepper, Klarna Group, Qualcomm, Shift 4 Payments, and More",
-        "url": "https://247wallst.com/investing/2026/06/25/here-are-thursdays-best-wall-street-analyst-research-calls-brown-forman-coreweave-intel-jfrog-keurig-dr-pepper-klarna-group-qualcomm-shift-4-payments-and-more/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T12:08:03.000Z",
-        "summary": "제공해주신 기사 내용은 다음과 같이 요약할 수 있습니다.\n\n미국 증시가 기술주 및 반도체주의 매도세로 인해 혼조세를 보이는 가운데, 시장 참여자들은 마이크론 테크놀로지의 실적 발표에 주목하고 있습니다. 월스트리트 전문가들은 브라운 포먼, 인텔, 퀄컴 등 주요 기업들에 대한 새로운 분석과 투자 의견을 제시했습니다."
-      },
-      {
-        "title": "Stocks Rise Pre-Bell as Traders Assess Micron Results, Await Key Inflation Data",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-traders-114354353.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T11:43:54.000Z",
-        "summary": "미국 증시가 마이크론 테크놀로지의 실적을 긍정적으로 평가하며 개장 전 상승세를 보이고 있습니다. 투자자들은 향후 시장의 방향성을 결정할 주요 인플레이션 데이터 발표를 앞두고 관망하는 모습을 보이고 있습니다."
       }
     ],
     "005930": [
