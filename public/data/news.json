@@ -1,13 +1,41 @@
 {
-  "generatedAt": "2026-06-25T22:20:30.767Z",
+  "generatedAt": "2026-06-26T03:36:02.394Z",
   "articles": {
     "INTC": [
+      {
+        "title": "What Qualcomm Stock Was Saying About Its Multibillion-Dollar Data Center Plan",
+        "url": "https://www.trefis.com/articles/604518/what-qualcomm-stock-was-saying-about-its-multibillion-dollar-data-center-plan/2026-06-25?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-26T02:55:21.000Z",
+        "summary": "퀄컴 경영진은 주가 급등 전부터 스마트폰 사업을 넘어선 데이터 센터 중심의 미래를 체계적으로 준비해 왔습니다. 투자자들은 퀄컴이 제시하는 이러한 새로운 성장 전략에 주목할 필요가 있습니다."
+      },
+      {
+        "title": "IBM stock surged again: The reason sounds like sci-fi",
+        "url": "https://www.thestreet.com/technology/ibm-stock-surged-again-nanostack-7-angstrom-chip?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-25T23:57:10.000Z",
+        "summary": "IBM이 지난 10년간 자체 상용 칩을 생산하지 않았음에도 불구하고, 최근 획기적인 반도체 기술을 개발했다는 소식에 주가가 급등했습니다. 이번 성과는 소프트웨어가 아닌 하드웨어 분야의 혁신적인 기술 돌파구로, 업계의 주목을 받고 있습니다."
+      },
+      {
+        "title": "Why Goldman won’t pick Intel over its rivals just yet - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajZBYXU5a0JRNkZrb1h6dnFMWGhjd3lpdzZ4SjREY0h2UTl2Rl9ONGhmc2EtOUs0STcxQ2tUeHZyUEpnUVo2ZHp1cDktVnc0VW5CX2FxbWpyU3Q0ZHNIVjJfUG5RbUc5Q1lDMVcwTHE1TEM2YV9YcmxfaXBjRnQtTGtiWVlPeDQzcWg0QkQ5bjRzZmVHYXRpT3NodUdrd2xHdkE?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-06-25T21:42:30.000Z",
+        "summary": "골드만삭스는 인텔의 경쟁력이 여전히 불확실하다고 판단하여, 현재 시점에서 경쟁사들보다 인텔을 우선 추천하지 않기로 했습니다. 이는 인텔이 직면한 시장 내 도전 과제들이 아직 해소되지 않았다는 분석에 따른 것입니다."
+      },
       {
         "title": "Why Goldman won't pick Intel over its rivals just yet",
         "url": "https://www.thestreet.com/investing/stocks/why-goldman-wont-pick-intel-over-its-rivals-just-yet-intc?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-25T21:33:00.000Z",
         "summary": "골드만삭스는 인텔에 대해 '중립' 투자의견과 150달러의 목표주가를 제시하며 분석을 시작했습니다. 이는 인텔의 지난 1년간의 주가 상승세를 고려할 때 상승 여력이 크지 않다고 판단했기 때문입니다."
+      },
+      {
+        "title": "Intel vs. TSMC: Which is the Better Semiconductor Stock to Buy Right Now? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTBjV3N0U0dxRDkxTWNfTnl4U0FMOHBNZFFLVVBPbWIxM3NNaFhteWczNU5QTHVCY2JLeXZ2NTFaZ1RjdlNsTWFja25ZV3l0T2l0aDVFVVBHNzdQV241Q294TkZMNURybmZpNnFoUDNXLWFseWQ4NG91Y0p6WmtpNjFyd2Z1R0JZQWRwUEI3Y0I?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-06-25T20:48:00.000Z",
+        "summary": "이 기사는 인텔과 TSMC 중 어떤 반도체 주식이 현재 투자하기에 더 유리한지를 분석하고 있습니다. 각 기업의 시장 지배력과 향후 성장 가능성을 비교하며 투자자들에게 선택의 기준을 제시하고 있습니다."
       },
       {
         "title": "Breakout Watch: This Firm Helps Nvidia, TSM And Intel Bring AI Ideas To Market",
@@ -24,13 +52,6 @@
         "summary": "인텔이 콘트론(Kontron)과 협력하여 자사의 차세대 '팬서 레이크(Panther Lake)' 칩을 바탕으로 엣지 AI 시장 확장에 나섰습니다. 이번 협업을 통해 인텔은 고성능 AI 처리 능력을 엣지 컴퓨팅 분야로 본격적으로 확대할 계획입니다."
       },
       {
-        "title": "Intel vs. TSMC: Which is the Better Semiconductor Stock to Buy Right Now? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTBjV3N0U0dxRDkxTWNfTnl4U0FMOHBNZFFLVVBPbWIxM3NNaFhteWczNU5QTHVCY2JLeXZ2NTFaZ1RjdlNsTWFja25ZV3l0T2l0aDVFVVBHNzdQV241Q294TkZMNURybmZpNnFoUDNXLWFseWQ4NG91Y0p6WmtpNjFyd2Z1R0JZQWRwUEI3Y0I?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-06-25T20:09:50.000Z",
-        "summary": "이 기사는 인텔과 TSMC 중 어떤 반도체 주식이 현재 투자하기에 더 유리한지를 분석하고 있습니다. 각 기업의 시장 지배력과 향후 성장 가능성을 비교하며 투자자들에게 선택의 기준을 제시하고 있습니다."
-      },
-      {
         "title": "Intel vs. TSMC: Which is the Better Semiconductor Stock to Buy Right Now?",
         "url": "https://www.fool.com/investing/2026/06/25/intel-vs-tsmc-better-semiconductor-stock-buy/?.tsrc=rss",
         "source": "Yahoo Finance",
@@ -41,7 +62,7 @@
         "title": "Intel Stock (NASDAQ:INTC) Slips Despite Prime Day Win - TipRanks",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOclZLUTJWUXBJQjlRQUxnbVJtZzBaeHVnOENTZ2NWb2UxMW5GMUtwSVVHWXZ6TjJYZGxJYWdvLS1oMUlHX2hsQk5oR2ttdnRxYmlfdzRpd0dxeWp4VlE2c1BDVUFpc2RlS2ZrdlhscDlNbFFYNFBmbVJpNkRqNDB0eWFMTy03TEk?oc=5",
         "source": "TipRanks",
-        "publishedAt": "2026-06-25T19:41:15.000Z",
+        "publishedAt": "2026-06-25T19:43:46.000Z",
         "summary": "인텔이 아마존 프라임 데이를 통해 제품 판매 호조라는 성과를 거뒀음에도 불구하고, 나스닥 시장에서 주가는 오히려 하락세를 보였습니다. 이러한 주가 하락은 투자자들의 우려나 시장 상황 등 여러 요인이 복합적으로 작용한 결과로 풀이됩니다."
       },
       {
@@ -50,27 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-25T19:39:54.000Z",
         "summary": "미국 정부가 자국 내 반도체 공급망 강화를 위해 로버트 프리드랜드가 공동 설립한 스타트업 '아이펄스(I-Pulse)'에 2억 5천만 달러를 투자합니다. 이번 투자는 해외 의존도를 줄이고 반도체 및 펄스 전력 기술 개발을 가속화하려는 미국의 전략적 행보로 풀이됩니다."
-      },
-      {
-        "title": "Apple Doesn't Risk Customer Churn Following Price Increases, Wedbush Says",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-doesn-apos-t-risk-184205113.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-25T18:42:05.000Z",
-        "summary": "웨드부시 증권은 애플이 아이폰 가격을 인상하더라도 기존 고객들의 이탈은 거의 없을 것이라고 분석했습니다. 애플의 충성도 높은 고객 기반을 고려할 때, 이번 가격 인상이 이용자 감소로 이어질 가능성은 낮다는 평가입니다."
-      },
-      {
-        "title": "Why Goldman won’t pick Intel over its rivals just yet - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQajZBYXU5a0JRNkZrb1h6dnFMWGhjd3lpdzZ4SjREY0h2UTl2Rl9ONGhmc2EtOUs0STcxQ2tUeHZyUEpnUVo2ZHp1cDktVnc0VW5CX2FxbWpyU3Q0ZHNIVjJfUG5RbUc5Q1lDMVcwTHE1TEM2YV9YcmxfaXBjRnQtTGtiWVlPeDQzcWg0QkQ5bjRzZmVHYXRpT3NodUdrd2xHdkE?oc=5",
-        "source": "thestreet.com",
-        "publishedAt": "2026-06-25T18:33:00.000Z",
-        "summary": "골드만삭스는 인텔의 경쟁력이 여전히 불확실하다고 판단하여, 현재 시점에서 경쟁사들보다 인텔을 우선 추천하지 않기로 했습니다. 이는 인텔이 직면한 시장 내 도전 과제들이 아직 해소되지 않았다는 분석에 따른 것입니다."
-      },
-      {
-        "title": "Intel’s stock split history (& prospects) explained - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2VU1ZdUFSSGZ0WkFUZ2FUbjc0eHdxLU1YZTk4Y1dXbGRDTmtKSnZhOW5YNHlYRXVuSWlJLUpVellUM19aUVYxUzAtNURuTFVYRjZjR1JZRTRmbUlaN05xNzNRY3dFcDZDVUo2WnhvbjlWc1NpdTJHaw?oc=5",
-        "source": "thestreet.com",
-        "publishedAt": "2026-06-25T18:11:15.000Z",
-        "summary": "이 기사는 인텔의 과거 주식 분할 역사를 되짚어보고, 현재 인텔의 경영 상황을 고려할 때 향후 주식 분할 가능성이 있는지 분석하고 있습니다. 인텔은 과거 성장이 빠르던 시기에 여러 차례 주식 분할을 단행했으나, 최근의 주가 흐름과 사업 환경 변화 속에서 추가적인 분할이 이루어질지 전망하고 있습니다."
       }
     ],
     "005930": [
@@ -117,6 +117,13 @@
         "summary": "2026년 6월 11일 삼성전자 주가는 외국인과 기관의 엇갈린 수급 속에 1.16% 하락하며 마감했습니다. 이번 주가 변동은 투자 주체 간의 매매 공방이 영향을 미친 것으로 분석됩니다."
       },
       {
+        "title": "삼성전자(005930) 6월 1주차 리포트 - 데일리바이트(DAILY BYTE)",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WlZaN1JRTk02Qkg4OTV4VzM5VEhaUEljQmVtM2JHaVJDU2VpcXJHanNXTVVZektTbVlXRy1iaFhEWXJqZ01MWEg1YWFtSFB1MHJYZGU4Q3B4NEp3U2NpTWdSTFA0OGZXYk54SFNhVnlhamdKMUlSX25vZzNSc3M?oc=5",
+        "source": "데일리바이트(DAILY BYTE)",
+        "publishedAt": "2026-06-08T07:00:00.000Z",
+        "summary": "삼성전자의 6월 1주차 동향을 담은 데일리바이트 리포트가 발표되었습니다. 해당 리포트는 삼성전자의 최근 시장 상황과 주요 이슈를 요약하여 제공하고 있습니다."
+      },
+      {
         "title": "2026-06-04 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yU1V0TFNTWXVnZG1vam9HZm5EOFNkQWZxTlA5c3BQNXFtRW1ldjFtS0Z2UTZMUGVMcGtaUUJPei1FS0c5cWNaX2Q3dlRqd2w5Yk9WOVpFTXFDYnpEUTVSa3JDekE2eXFKVlZjWQ?oc=5",
         "source": "민심뉴스",
@@ -124,25 +131,18 @@
         "summary": "2026년 6월 4일 기준, 코스피 시장에서 투자자들의 관심을 끄는 인기 종목 30개의 주식 시황 정보가 공개되었습니다. 이번 자료에는 삼성전자, SK하이닉스, LG전자 등 주요 대형주들의 시장 동향이 포함되어 있습니다."
       },
       {
+        "title": "코스피 10위권 수준…이재용, 보유주식 60조 돌파 [이런국장 저런주식] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUxRekFBOHhvOTJvdERmUXJkQTJCN090alJKMkV0LVc3SHRxOHhibnpGR21fZDZqUG1hd2pnTjN0RWQ2Mm9IeGlhMlJDV2pkekHSAVNBVV95cUxOd3NuLXdXRS1ES2Vrc1BuY0E1THhhSW9pZUgxeVg5SVdTRElNN0Q5dnNBNnY0d0VXVEIwaVdzSnplWlZjWjZ1blpHc3FjcXMybDdpcw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-06-02T07:00:00.000Z",
+        "summary": "이재용 삼성전자 회장이 보유한 주식 평가액이 60조 원을 돌파하며 국내 상장사 시가총액 10위권 수준에 도달했습니다. 이는 삼성 계열사의 주가 상승에 따른 것으로, 국내 주식 부호 중 압도적인 1위 자리를 굳건히 했습니다."
+      },
+      {
         "title": "삼성전자 노사, 특별성과급 전액 주식으로…상한 폐지(상보) - 뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sSHdlc19LVTVZSnJ5TzA2MkZIdVZ0MS1YNlM5Z0c5QzBRVEc1TFpXZUVneFFzWnNabkpFTGFTTEdpVGZBOEJVVE1Qbko5RFNveHhyXzBJdTJSWHVzdVQwR2lsXzU?oc=5",
         "source": "뉴스1",
         "publishedAt": "2026-05-21T07:00:00.000Z",
         "summary": "삼성전자 노사가 특별성과급을 전액 주식으로 지급하기로 합의했으며, 기존에 존재하던 지급 상한선도 폐지하기로 했습니다. 이번 결정은 직원들에게 회사 성장의 결실을 직접 공유하고 경영 참여 의식을 높이기 위한 조치로 풀이됩니다."
-      },
-      {
-        "title": "\"불확실성 커졌다\" 삼성전자 노사협상 결렬에 투자자들 불안 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhejZrOEVxLU9qZ2dSOXp2WW5yYTk0eUJ3M21iNnVndllaMi1mUWVBMTFCRncxa0FNdzhITm5VWG10N0FCUlBoZlJmdmhvR0VrQnBWWm40MmUxWTDSAWBBVV95cUxOd05KR195WEtmRUhJSFNyZFE2TzFfLUtDUTR5bVBwR2ZZUEZtdUF0dWVrbTJrUkFNSXFCRTlDQlZRTVhSbTRPUk5BQUY5dUJrc3JtVnlsSkV1Vk1LaU50YnM?oc=5",
-        "source": "연합뉴스",
-        "publishedAt": "2026-05-20T07:00:00.000Z",
-        "summary": "삼성전자 노사 간의 임금 및 단체협상 결렬로 인해 경영 불확실성이 커지면서 투자자들의 불안감이 고조되고 있습니다. 이번 협상 결렬이 향후 삼성전자의 리스크 요인으로 작용할 수 있다는 우려가 커지며 시장의 관심이 집중되고 있습니다."
-      },
-      {
-        "title": "‘50시간 마라톤 협상’ 결렬…삼성전자 파업 현실화에 4% 급락 [이런국장 저런주식] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yWmp0bVlWMDJLaFhUNURHc29yRkZ5Q0VNRlNocjNlYzVlX2dTQVpkcU5kbHRQS2Y0aFUtUVpvUFhLVUhnWnpyck02NGlVOUFHbXfSAVNBVV95cUxORF8xbmVvV2VSX3Q4SlE5Nmc2ZnJRc3RHaVRBaW0yM3kweXI3TC0wZGlnZ0NXMFc5UHNSMlNab2VwVWFqQUtzUVAtV3ZvQ3ZSMzd0NA?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-05-20T07:00:00.000Z",
-        "summary": "삼성전자 노사가 50시간에 걸친 마라톤 협상 끝에 합의점을 찾지 못하며 파업이 현실화되었습니다. 이로 인한 불확실성이 커지면서 삼성전자의 주가는 4% 급락했습니다."
       }
     ],
     "APPL": [
@@ -150,7 +150,7 @@
         "title": "850 Billion Reasons (and Counting) Why Investors Love Apple Stock - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXVwUVJXbWs4d3NPSjRaNkxvMHM0TTVNVXMxS2dqcmh6WU1lODB6d05VYTlQaS1BQkNpc1M3TmtTcUh1UVBoNGtON2hnY3ZXTFhvRGlvOVVvdnFCbG1JemVsMGN1cUhuei1JblN2LVAzRklkcWI3Qllra1BPY2pDTDZfMnZvNWtqZ2RyUHpEeVZkX3Y5dzJxZg?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-06-25T18:45:00.000Z",
+        "publishedAt": "2026-06-25T19:23:00.000Z",
         "summary": "애플이 강력한 브랜드 충성도와 지속적인 혁신을 바탕으로 8,500억 달러 이상의 시가총액을 기록하며 투자자들에게 꾸준히 사랑받고 있습니다. 이러한 성과는 애플의 탄탄한 수익 구조와 미래 성장 가능성에 대한 시장의 높은 신뢰를 반영하고 있습니다."
       },
       {
@@ -182,20 +182,6 @@
         "summary": "도널드 트럼프 당선인이 인텔이 애플과 칩 공급 계약을 체결했다고 언급하면서 인텔의 주가가 급등했습니다. 이번 발언으로 시장의 기대감이 커지며 투자자들의 주목을 받고 있습니다."
       },
       {
-        "title": "Memory stocks are surging after Tim Cook said price hikes are coming to offset costs - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTdySmpOSjU5VGlDREZjaGNnSE80bHhqWk5KQmpDR202VDU3SHd4WDREU3B5ZF9WWjRaQTZIUGlUQWExenJUYl9SbnM5WTRtWjlMRGZxeVA2Nzc5VEpUczVxaGRYRXZhRFNidTFFN3k3Z001Y1c4R3pYeFgwVHN3QVc5UU9EdWluOEl6bWw4eXZwck4wTkRscmdn?oc=5",
-        "source": "Business Insider",
-        "publishedAt": "2026-06-18T16:11:00.000Z",
-        "summary": "팀 쿡 애플 CEO가 비용 상승을 상쇄하기 위해 제품 가격 인상을 시사하면서, 이에 따른 반사 이익 기대감으로 메모리 반도체 관련 주가가 급등하고 있습니다. 시장에서는 이번 가격 인상 움직임이 반도체 업체들의 수익성 개선으로 이어질 것이라는 분석이 나오고 있습니다."
-      },
-      {
-        "title": "Trump's latest Intel sales pitch sends the chipmaker's stock skyward - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaUtzVDZWaFo2U0dqdEJhMjk5bGFpdlYzczE2RXVtMnljU1lkb0xpOWpQS0REMWtjbUtTN3BRdG5pdGpDNUdLdHZndWFrSzRlRksyRGN1SGZGSjNhYjFteDYzdEtrRkRsUVpoWmtvamJkZ0ppeVY0c0t6aVQtbElnTEZuaFVRc2dzSzROcWN3?oc=5",
-        "source": "Business Insider",
-        "publishedAt": "2026-06-18T11:14:00.000Z",
-        "summary": "도널드 트럼프 전 대통령이 인텔을 긍정적으로 언급한 이후, 인텔의 주가가 급등했습니다. 이는 시장에서 트럼프의 발언이 투자 심리에 큰 영향을 미쳤음을 보여줍니다."
-      },
-      {
         "title": "Apple (AAPL) Stock After 129% Five-Year Rally Is There Still Value Here - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ191ZElOWmxQZmx3VU9rVHFCUkx4YlBhOGxHdmNOaFg2Z3pwcjI2R1RjbEpMSkdlcVViZmZmN0RkdWlOZG1KaFhKMzBJY3RKT3ZLYTgxRG10dTlaQnBiMk9Gbzh0LXItVmlZUkRtUUlldU1nUGJNbW1rRzR5SWd2SFRrUVQwU2YtU0hYLXhZelRuQm1G?oc=5",
         "source": "Yahoo Finance",
@@ -215,6 +201,20 @@
         "source": "GOBankingRates",
         "publishedAt": "2026-06-16T07:00:00.000Z",
         "summary": "이 기사는 현재 애플 주식에 1,000달러를 투자했을 때 5년 후 얼마가 될지 그 가치를 분석하고 있습니다. 과거의 주가 흐름과 시장 전망을 바탕으로 미래의 투자 수익 가능성을 다루고 있습니다."
+      },
+      {
+        "title": "Can Apple Stock Reach $400 by 2028? Wall Street Says Maybe - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa21KVktjYkZ5X1NNUldnQjJuY3h6Qy03WlhraTNUcDd1d1RzUzFnNXZZWndOMG5iVGVkTmVoeGFSRjkxY0t1aG5yNVRwcnVWc09XZi1pS2xQcl9MVXgwalpSQVN2MGlDbTZoaDl6blRaS1NMOExZMFQ1b0UxbDFCa3YxQ3NXemZhckJoZk84VW5aT3JBcWc?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-15T07:00:00.000Z",
+        "summary": "월스트리트 전문가들은 애플의 주가가 2028년까지 400달러에 도달할 가능성이 있다고 전망했습니다. 다만, 이러한 목표 달성은 향후 시장 상황과 애플의 성과에 따라 달라질 수 있다는 신중한 입장을 보이고 있습니다."
+      },
+      {
+        "title": "Jim Cramer Discusses the Sell-Off in Apple Stock Before SpaceX IPO - Insider Monkey",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWGVWY0dFNkxxb01KdlV6NWxGMGF6WEE4VlhPMkh0Tmx1SWREWHNQY1VrTURoS3NFaFJXTWFKZWEteVhvRTZtM0stcWt0TTZrOUpZbHVoTXp2MGpHY202WDFhX2QxelExNEZLQ1llV0FmdG5rXzZTXzRPS245TVY4X3dyZjR5ajJuM0V2aV94QTdYWmx2eU1zT1FWa0w5NmctbUptbk9ObmFIVDdQc0VZ0gG3AUFVX3lxTE1teG12SlVTazdMTG0zdEI0bjFyTldwR3R4RUxiTnV3WndVNDFqMDNCLWJfNVZ5anA1eEFsMXZaZkY3Mk9mOHY3M2FqcWtfTDNHbkxka2ZFb3Q4N3Y2ZjJ4NjczZExvVWphTVhlSzNMQVhxTllPQVlIUWhwOTJFdE12WFF1R2FHS3NMZ3prU2RJa2tlLV82c1V3Z2ZYNnhQV3I3M05xeDJwT0c0Mjl3NHdtdktKMWZWSQ?oc=5",
+        "source": "Insider Monkey",
+        "publishedAt": "2026-06-15T07:00:00.000Z",
+        "summary": "짐 크레이머(Jim Cramer)는 스페이스X(SpaceX)의 기업공개(IPO)를 앞두고 발생한 애플 주가의 하락세에 대해 분석했습니다. 그는 시장의 관심이 이동하는 상황 속에서 애플의 주가 변동성과 투자 전략에 대한 견해를 공유했습니다."
       }
     ]
   }
