@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-06-29T10:57:22.491Z",
+  "generatedAt": "2026-06-29T15:44:10.945Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Alphabet debuts in Dow Jones Industrial Average as index tilts toward tech",
+        "url": "https://finance.yahoo.com/markets/world-indices/articles/alphabet-debuts-dow-jones-industrial-152012819.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-29T15:20:12.000Z",
+        "summary": null
+      },
+      {
+        "title": "Micron, Intel lead chip stocks lower on Monday despite broader market gains - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOTBCU1R4YmtOdS0ta0hObkJ3S0RjbEJFOVlmNmZnbmtNVEotQ0ZMMUJDT2dqVFMtZ0Z1ZWFNYmFUT2ppYzdfaGs4c3VMTzBpUDVTOTQ4a1FFdHZ2ZHpIZFN1dHlZR3Nfb1dZUG9hZ0Q4cHhXLXQ2MjdNVktLTGQ4Sk4xVmFwU1VfZGFKX0piY3hJSjFibWhQcXVxdHZRRXpCalBBbEp5M0VTWXpmZUItNm9n?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-06-29T15:12:33.000Z",
+        "summary": null
+      },
+      {
+        "title": "ByteDance targets CPU mass production in H2 2027 to power AI push - SCMP",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bytedance-targets-cpu-mass-production-143149445.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-29T14:31:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "3 Unprofitable Stocks We Steer Clear Of",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-unprofitable-stocks-steer-clear-133015743.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-29T13:30:15.000Z",
+        "summary": null
+      },
+      {
+        "title": "Cantor Fitzgerald raises Intel stock price target to $150 on compute strength - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVl1VmZ4SDRMLTBOWDdzQTdfVnh6VC1QYV92RjJwS1ZOWmZ2RkU4TW1rbkJNekRXRnBwbzlKeEtuV2g5ejhMZjFmb3V4NEZCYWI3dXF6OGhVS0x1NnVIb3dOdG02eGdZS0dZN2luUnA4NVV6Slk1QjNtTUo0REhtRFhBTGxFQ0ZSQzFmbUgtaWRON3JLQWpGRUROY0xWZlM2N05teTZvcTBqa2UzZHBfWVdoX2dRaVAzcDZ0VEx4RXFhNWpfMkxUM2NXamg5SGw1RXc?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-06-29T12:13:52.000Z",
+        "summary": null
+      },
+      {
+        "title": "New leader board: Citi refreshes AI compute semiconductor picks",
+        "url": "https://finance.yahoo.com/technology/ai/articles/leader-board-citi-refreshes-ai-113314260.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-29T11:33:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "Stock futures rise as U.S. and Iran agree to stop latest attacks",
+        "url": "https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-29T11:33:07.000Z",
+        "summary": null
+      },
+      {
+        "title": "HP, Intel, and Xerox Are All Chasing the Same Comeback. History Says Only One Survives",
+        "url": "https://247wallst.com/investing/2026/06/29/hp-intel-and-xerox-are-all-chasing-the-same-comeback-history-says-only-one-survives/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-29T11:25:34.000Z",
+        "summary": null
+      },
+      {
+        "title": "3 Unprofitable Stocks We Steer Clear Of - StockStory",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWXQtT29iSVU1M3RrY1lRSkdFR1FPVE1WYWFqYm5zQWF2SEVjMTZCQ2w5QV9sXzFfRHRhWWRaU2lkSGVKWi1IR0xTQWs4SFhmcGxaVERfV2RkU0lHOEo1ZUw4TnFyY2ZXRmxtdW9lQlo3emxSamloYjF1TGpRVkNnek1qVzBVM2sxMWJtVmZNZzhhZm94UTRPSFlUclg2Rm1oSDlz?oc=5",
+        "source": "StockStory",
+        "publishedAt": "2026-06-29T10:58:40.000Z",
+        "summary": null
+      },
       {
         "title": "Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race",
         "url": "https://finance.yahoo.com/technology/articles/wall-street-firm-says-intel-101834662.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-06-29T10:18:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Is Intel Stock Gaining Monday? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWVaYnF2R21raHBZVmdhdXlMbWE1T1hFSDZvdXBKdGFCU3lmc0FHM1dnOEZybGoxMzdyUzlUaHY4R0VoUG51eHY4WGNzLVVjajljY1NpN3FUQjVGbW05VFlxQU5Xc3ZKdTVWQ0N5bnc5MGU1VzdqcXJvNUxuODFqamtsMTdBeUR0d3FnTEpOUTdzbkdrTV9XUmZSQzlpR2NkLXpOMmlwWGJyUDJCWl9pZw?oc=5",
-        "source": "Benzinga",
-        "publishedAt": "2026-06-29T09:50:09.000Z",
-        "summary": null
-      },
-      {
-        "title": "Here’s What Bank of America Securities Thinks About Intel (INTC)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-securities-thinks-intel-075308174.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-29T07:53:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Here’s What Bank of America Securities Thinks About Intel (INTC) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd1JicGI1dnd6V1lvNjZNRS1pYURKXzgyaTk2ZF9ka01tSmZ4VjkyZVE3RXhXMEUwVlNnVFRnVGpxOHpKRWNoY0xSV2lOSXVuUFVab1JwSDhvS2VDLUFSVmpDOTV5RUxfZjlqdnVVb1pldGhhUkpqa0ZtTmNramJfdnFLNE0wcTVfUW84RUlXT25PcjB2ZGlISzFMVFlhdFhubG9R?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-29T07:53:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apollon Wealth Management LLC Raises Stock Position in Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUWdwekJxa3Q1Z3V0bEhET3RibDhYTmtUQWFBS3VoLXQxY3F5cGxFd3JMUTJ6MTNVdEttRnUwX01ZUENJdmpEeUdtay1JMDAzUFhCNV8yV2JCZ0NSYWRFOW9TV2JaUldxSnV5S3NYU3RYd2ZGRDhTdU5nQlBvRDBkcU1NZGxYQ2JQUTZBdFpBTThBYWZQdnc2aFB1SS1ORVg2RnZfeDRQcjFDdU9la1Y5VU5kTXZNM19idEV1cXpfdWl5UkNTeUFDbGN1SG9iM0l0a3dXZA?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-06-29T07:18:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel CEO's Other AI Bet Just Jumped To A $10 Billion Valuation",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-ceos-other-ai-bet-203048298.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T20:30:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival - Insider Monkey",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQW5BampoNlFnSGtqZm43d1pfa1hPb0Ytd0RVbndlUXNkTnFfY0RnZUhPU3plLXIwMHRGVmJLRHNJUjVNb0JydGlkc1ROTGU2RHlmcENMN0x2T3hPSzg2MVlRbGVJU2RUVWRzT0tZMWZ1UTJ6MFV1eGFqbVlLdFl2RXNEa0dVY0xzbjd3RXgtUmNGTEd3Z1dfNkU5SG1BZXpPRUpDUVQxaGVBTDc1N3VqaC1NUVN0enBW0gHAAUFVX3lxTFBYZmNXSWpEd0g2SWEyUVZuS2VrQ2FkVFBROUJERjUzbzczOVRLU294bzhmSEc0ZDdhV09Gc095eGpVcUJXU1doREJzUGVPQ2xkZU1vb20taGd4WWsteDM4VVluUG0tSlR3X3RrdFRXeFh1WDhfb194TjBiVHBFWTlvZUZMajN2ekF2SGhWb0syekpncFZsOWR2U3ZhWlpELVFEVFVaUlZkSEFzRUo5S1FtQ3ZfSktYRXFqWkVubWVQSQ?oc=5",
-        "source": "Insider Monkey",
-        "publishedAt": "2026-06-28T18:51:43.000Z",
-        "summary": null
-      },
-      {
-        "title": "Piper Sandler Upgrades “Overweight” from Neutral on Synopsys, Inc. (SNPS)",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-upgrades-overweight-neutral-184547036.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T18:45:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-stock-surged-184539609.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T18:45:39.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFV4NHdnRTUtZjNQM1MwczRZQzFwM2ktZ2I2YnRNZ1A0SWhUNDhzX2dtRi1IQzFsdnhMOVZPWUcyZU1kbVR4LVloZG5nbGtGeFg4REZyekduTDRRTEJmb1k1NWlEbF9ubi12QlNBY1g0M2Nta25jWnFiM29PNEFuVEhVU2lNSnB6dEkxVGc0THJGS0wtV3FjVjlqVDMxMktpNUE?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-06-28T18:45:39.000Z",
         "summary": null
       }
     ],
@@ -96,6 +96,13 @@
         "summary": null
       },
       {
+        "title": "2026-06-15 코스피 오늘 인기종목 30개 시장흐름 살펴보니 (+005930, 삼성전자, SK하이닉스, 삼성전기) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQnFxWm1LQXE3MzZGWThDUWRBbTBnWXkwV1NmWkRVYmlIT1llMW9jRGNseE05dTFvbGlpaWtuTVV4WjZiNTdqVlhGVjYxblVwNU1VZ2cxSFdabk5hYndMc213ZXpRYjhLZUItbA?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-15T07:53:33.000Z",
+        "summary": null
+      },
+      {
         "title": "2026-06-11 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45ZUlDUjFhN3NEVXlBN1hRM200cDlaZmZrOHZYNi13RVdwWXRDT18wTTBSXzhrOUptbGRkVnFaRWJ4V0MwOGJCc2xGajBIRXVjN09yOEpQaEV2V3o1a19ZbzJxSWRUX3ZDLTBBbA?oc=5",
         "source": "민심뉴스",
@@ -117,6 +124,13 @@
         "summary": null
       },
       {
+        "title": "2026-06-04 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yU1V0TFNTWXVnZG1vam9HZm5EOFNkQWZxTlA5c3BQNXFtRW1ldjFtS0Z2UTZMUGVMcGtaUUJPei1FS0c5cWNaX2Q3dlRqd2w5Yk9WOVpFTXFDYnpEUTVSa3JDekE2eXFKVlZjWQ?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-04T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "코스피 10위권 수준…이재용, 보유주식 60조 돌파 [이런국장 저런주식] - 서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUxRekFBOHhvOTJvdERmUXJkQTJCN090alJKMkV0LVc3SHRxOHhibnpGR21fZDZqUG1hd2pnTjN0RWQ2Mm9IeGlhMlJDV2pkekHSAVNBVV95cUxOd3NuLXdXRS1ES2Vrc1BuY0E1THhhSW9pZUgxeVg5SVdTRElNN0Q5dnNBNnY0d0VXVEIwaVdzSnplWlZjWjZ1blpHc3FjcXMybDdpcw?oc=5",
         "source": "서울경제",
@@ -129,37 +143,9 @@
         "source": "뉴스1",
         "publishedAt": "2026-05-21T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "\"불확실성 커졌다\" 삼성전자 노사협상 결렬에 투자자들 불안 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhejZrOEVxLU9qZ2dSOXp2WW5yYTk0eUJ3M21iNnVndllaMi1mUWVBMTFCRncxa0FNdzhITm5VWG10N0FCUlBoZlJmdmhvR0VrQnBWWm40MmUxWTDSAWBBVV95cUxOd05KR195WEtmRUhJSFNyZFE2TzFfLUtDUTR5bVBwR2ZZUEZtdUF0dWVrbTJrUkFNSXFCRTlDQlZRTVhSbTRPUk5BQUY5dUJrc3JtVnlsSkV1Vk1LaU50YnM?oc=5",
-        "source": "연합뉴스",
-        "publishedAt": "2026-05-20T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "‘50시간 마라톤 협상’ 결렬…삼성전자 파업 현실화에 4% 급락 [이런국장 저런주식] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yWmp0bVlWMDJLaFhUNURHc29yRkZ5Q0VNRlNocjNlYzVlX2dTQVpkcU5kbHRQS2Y0aFUtUVpvUFhLVUhnWnpyck02NGlVOUFHbXfSAVNBVV95cUxORF8xbmVvV2VSX3Q4SlE5Nmc2ZnJRc3RHaVRBaW0yM3kweXI3TC0wZGlnZ0NXMFc5UHNSMlNab2VwVWFqQUtzUVAtV3ZvQ3ZSMzd0NA?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-05-20T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
-      {
-        "title": "Can Apple stock reach $400 by 2028? Wall Street says maybe - MSN",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkNxVVhOOHlEbGd1SmczN1FlOHhnR2o4eEJYS0stYjdhV3ZrbWkyb0tjNU1mRldBb3BpRDktUnJXWjlPcWJFbUZLWml5ZGtmM29GbWx4cF9VUEJrN21DWHdYX2I5UFUyZy1DU2JYcl94SVBsZ1VYTXZ5LXRBLUNlQ2IybmxMZHY0NmNKVG9haXFRSDJKRjhGemJaeWJIY3hWMTVleHZ1blVkMEEwSktneVN5VFpDUGlCTlBUUm5MZjBucDJpaDZoNXpLSVI?oc=5",
-        "source": "MSN",
-        "publishedAt": "2026-06-28T23:12:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock Forecast: Can Apple Intelligence Spark the Next iPhone Supercycle? - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkxldWUyUGlBLTBCbWljSGFZUGhjcWRBcV84aUt5Yl9GcUp4d0RRTERKWkptaUpOTFRqbUh5NEJFaFpNUW51aWc4UjJreXZXbF9zTzU4emJiWEpfZk1RMGhhaHVzbVN5WjlhVDFNbGRHN3huRllqTW1HekhwR0RUVkZGOTZ1OGJkQjNLdElLM0FXaTRyR1hkNHEzZHVxSTR6dDc3Vk1mZG4ydXdRLUpSei1uQXVNcDk2LUFUNEFISWNkd0NFVHhUOEhXLWFIMzlqWHUzWUVoZ1RDZlU?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-06-27T21:40:47.000Z",
-        "summary": null
-      },
       {
         "title": "EARNINGS NEXT WEEK!! (META MSFT TSLA APPL) Preview | Robotaxi Debut | FAANG STOCK RECAP SHOW Vote Count (sF7tl9ag3F) - Fathom Journal",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3ZndVdEV3ajgxdFJPRWt4Y1dNYUEtVDI4Nl82RWpTM0hCUjRobW9CUTF5WDIxcGNqaWwzZEJ4NjlJTk1LOUVXc3VlaDBEdlFDY3kwU0ZqTEpFamh1WUJTa3I4NVE?oc=5",
@@ -175,9 +161,9 @@
         "summary": null
       },
       {
-        "title": "A New Chip Partnership Between Apple and Intel Is a Long-Term Catalyst for AAPL Stock - Barchart",
+        "title": "A New Chip Partnership Between Apple and Intel Is a Long-Term Catalyst for AAPL Stock - Barchart.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG9od1A0c0hTeEtwLVVudEhJRUZHcnlXZlR3VHJ1WG9vMHNGTGh1V0h3d2g5dDM0dWItQUE0azV4YzRHMW9DZTB1U0pFRUFHVGh5MEdfd0tmTTU5WWFiT1RuaWJ5Um9aMVBHT2JWSS1IZ1pkMWsxT0NzVU1wOG1teTd4Ymg4MHRQd3pxYnoyeEdJX0dqRk05SDRNUXY2NzY0ZDNYTW8xR1lyaVBmc2RfRW1PNnhwcTl5ZlJoRmxQT1FEdVFkWHZTZg?oc=5",
-        "source": "Barchart",
+        "source": "Barchart.com",
         "publishedAt": "2026-06-22T16:13:59.000Z",
         "summary": null
       },
@@ -196,9 +182,9 @@
         "summary": null
       },
       {
-        "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg",
+        "title": "Intel Shares Soar After Trump Says It Struck Apple Chip Deal - Bloomberg.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlM2ZEprdFdVelV2Tkd4NFlubFJYTXFadUxtVXkxSF9scFg5dk91U0dKR3pkWENoXy1CVXppRjZta2hYZS1qa1BsTDJaWTNRR2ZwaVJrNzN0d1BrWlVJQVFOZUZLa1lLTnFVXy1xLXN3Mm1wdnh4RGtiM19vbDgyZzQtZzhqZXRKTkZPbEJyNzNkRHIySl9UZzBpZXJaZUIzdUdEbzQzLUFuVnhhbDFNV0VKOE5hazVGcjRJUHFBaw?oc=5",
-        "source": "Bloomberg",
+        "source": "Bloomberg.com",
         "publishedAt": "2026-06-18T07:00:00.000Z",
         "summary": null
       },
@@ -214,6 +200,20 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFlhandrRkIyMjMyR2hPc1Bqbk9fZ3RQU250SWJhNHBxYU9NbHpwZ3hrYU0wS2Y5d3g1aW1HVUJQemlsNy13R3RhRHhFZ3pyX19ONFgtTnpyUjh4WU00ZGZ6TXo4c29wVk9vMWNOY1VkWGRpd01ZOTYwdGU0VEpLZEFFYktocmlFbXp0REtZLUhRV3QwTFd5Qw?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-06-16T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple: 4 Potential Headwinds (NASDAQ:AAPL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSlhBZF85QTY4aU5DRGZuVzNOdHRjc3FJdGJhenRtYmQzMEljcVU2M1h3Z1R5dUhKTms1M3lZQXZQT2RQRGw4SVl2ZDJNQjUxWlg0WUNadFNVY0xab3ZSa01XeGxJUWxEVVZXSDNsV0tpeERoLUVB?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-06-16T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple’s AI Plans Are Finally Taking Shape. Here’s What That Means for AAPL Stock. - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU2c4b3FzWjZaM01uVlJ1cnpiTEdRVVFBU29oMXNYMHdYS0E1NVZvU0JvYVpFUXlyWGQxSXdOSWV3NXNUY3BNdElTZDNTNXRvRXdNTXBXQjlhemxuV1FCMUJVSDVkc2dpNkU1UzNla2ZWOUtWeXZfVFZTSUFjNTg4VUtmdXdFbnBjY0tPVy1Nb1p4dGhoNlJjWm5VQWpzU21GeUZ1NFVJUC1CdDlGejhwSUxNelBTMXU5SlRMSUt3?oc=5",
+        "source": "Barchart.com",
+        "publishedAt": "2026-06-15T07:00:00.000Z",
         "summary": null
       }
     ]
