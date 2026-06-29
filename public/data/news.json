@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T22:01:09.714Z",
+  "generatedAt": "2026-06-29T03:48:44.434Z",
   "articles": {
     "INTC": [
       {
@@ -31,9 +31,9 @@
         "summary": null
       },
       {
-        "title": "Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival - Yahoo Finance UK",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUU1nU05MendaT25lN1pQaVNmcHhuQTc2MnFRSXdiWXdnb0NZN2RXZW9qdTNud1NXLUJIOWVrWHYwdVNaeW1jT3RSMVdmckdlZjN6cDFIWTZYZzBuMHlPV2I5Z1VMeWVlLXVOdzQxQUwtY05uNVVPa2M0TlB2WEozMWsxSXFxUUVsMng4ZQ?oc=5",
-        "source": "Yahoo Finance UK",
+        "title": "Intel Corporation (INTC)’s Stock Has Surged but Needs an Engineering Revival - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFV4NHdnRTUtZjNQM1MwczRZQzFwM2ktZ2I2YnRNZ1A0SWhUNDhzX2dtRi1IQzFsdnhMOVZPWUcyZU1kbVR4LVloZG5nbGtGeFg4REZyekduTDRRTEJmb1k1NWlEbF9ubi12QlNBY1g0M2Nta25jWnFiM29PNEFuVEhVU2lNSnB6dEkxVGc0THJGS0wtV3FjVjlqVDMxMktpNUE?oc=5",
+        "source": "Yahoo Finance",
         "publishedAt": "2026-06-28T18:45:39.000Z",
         "summary": null
       },
@@ -89,6 +89,13 @@
         "summary": null
       },
       {
+        "title": "2026-06-15 코스피 오늘 인기종목 30개 시장흐름 살펴보니 (+005930, 삼성전자, SK하이닉스, 삼성전기) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SQnFxWm1LQXE3MzZGWThDUWRBbTBnWXkwV1NmWkRVYmlIT1llMW9jRGNseE05dTFvbGlpaWtuTVV4WjZiNTdqVlhGVjYxblVwNU1VZ2cxSFdabk5hYndMc213ZXpRYjhLZUItbA?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-15T07:53:33.000Z",
+        "summary": null
+      },
+      {
         "title": "2026-06-11 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45ZUlDUjFhN3NEVXlBN1hRM200cDlaZmZrOHZYNi13RVdwWXRDT18wTTBSXzhrOUptbGRkVnFaRWJ4V0MwOGJCc2xGajBIRXVjN09yOEpQaEV2V3o1a19ZbzJxSWRUX3ZDLTBBbA?oc=5",
         "source": "민심뉴스",
@@ -136,21 +143,14 @@
         "source": "연합뉴스",
         "publishedAt": "2026-05-20T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "‘50시간 마라톤 협상’ 결렬…삼성전자 파업 현실화에 4% 급락 [이런국장 저런주식] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yWmp0bVlWMDJLaFhUNURHc29yRkZ5Q0VNRlNocjNlYzVlX2dTQVpkcU5kbHRQS2Y0aFUtUVpvUFhLVUhnWnpyck02NGlVOUFHbXfSAVNBVV95cUxORF8xbmVvV2VSX3Q4SlE5Nmc2ZnJRc3RHaVRBaW0yM3kweXI3TC0wZGlnZ0NXMFc5UHNSMlNab2VwVWFqQUtzUVAtV3ZvQ3ZSMzd0NA?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-05-20T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "A new chip partnership between Apple and Intel is a long-term catalyst for AAPL stock - MSN",
-        "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxOdVFCNmRseHIwUWZPU2tuZWJNSXJjV3o4NEVTNjFLTFYyWmZMMThNUlZfakFEczkzV2tWUW1SVUZMd3Q3c2FZVUFqUllMcFJ1d1RUem1hZGJTLXdwalRIWTJnc0hpZUp6WVp2Z20tSmJRS3EtSXFzV1I4eEFUaWhsRW94Q0dtOEZ0Y1FjV284T1FxWHlUcDNWRklXelFYbS14TXlGU3Z6WENjWjlTNFJRck1abUgzWE1NdEl5WmluSW0tZWYySTB0VE9HeFlub2E4NGwtVGF6UEZGWlVrS25aZjEyNENYTk51cGo4WXh5aENUS2ZZeGVJZFlaWFVDN3ZYVWRSQWt3LXd1T1JNSDFZNkRyTG1SOW51cmhBNzFEekZBRnczQng0Z1l3UVFIQzRraFF6SkdPZ2t3UGhseTNfdWVUMVJ4Mm1CNHFlenluZ0tpaDg2TDNuekFrY01UdVJwQUFEcXBZQjFRbUxheHlMSnEyN0dhcmZFX0hDWGlxQi1aWlpMQy1sMmV6RUowamNYa1AyYXlrb3dzZWFjd3lzRkVGMlFYd3FaYnJwNXlvSQ?oc=5",
+        "title": "Can Apple stock reach $400 by 2028? Wall Street says maybe - MSN",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkNxVVhOOHlEbGd1SmczN1FlOHhnR2o4eEJYS0stYjdhV3ZrbWkyb0tjNU1mRldBb3BpRDktUnJXWjlPcWJFbUZLWml5ZGtmM29GbWx4cF9VUEJrN21DWHdYX2I5UFUyZy1DU2JYcl94SVBsZ1VYTXZ5LXRBLUNlQ2IybmxMZHY0NmNKVG9haXFRSDJKRjhGemJaeWJIY3hWMTVleHZ1blVkMEEwSktneVN5VFpDUGlCTlBUUm5MZjBucDJpaDZoNXpLSVI?oc=5",
         "source": "MSN",
-        "publishedAt": "2026-06-28T10:03:21.000Z",
+        "publishedAt": "2026-06-28T23:12:06.000Z",
         "summary": null
       },
       {
