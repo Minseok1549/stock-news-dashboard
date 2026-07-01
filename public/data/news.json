@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-07-01T19:53:29.030Z",
+  "generatedAt": "2026-07-01T22:16:39.387Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel (NASDAQ:INTC) Shares Down 9% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGlZel9TZXV0TWdCM2pqLXZVemNwc0drdFBoMTNqWWhSbVFObkVQTlhnX1B1N3VsdE12by0wenRmQlRHYldjcG8ycFRnV0JIX3p1TEZRYmdIZzVzb3h6WmlEMFNPN2tldzQ1TjJTa0dRV0pseC1MUlZuMTFPb0lZOXhzRHl5WldjZEhOQWFtdW9OSC0wODBwLWVKNFc3ZDVDcE1sc3BMaw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-01T21:27:37.000Z",
+        "summary": null
+      },
+      {
+        "title": "Micron (MU), AMD, and Intel (INTC) Gained $2T in Q2; Will the Stellar Rally in Chip Stocks Continue? - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVkp4QkkzNTRwSWF1QzZrWWJ2bjliQm5ETkdqQ2xhTWlDVkFCbGlmdGtmcXZpQ3YzblF0S3ktdTVueFdKQ25OZHhuNU9Wa2N4OXJpZkN3OVQ3LVVZQlFIanVNNmFkSFhjWXJCRGFWc0kzQzUyd3VHVWFHX2VVY3otUndtNmNTbGxYMWdjVTBRYmJhWnEtNGtrYW5aRUlWRGdUcVN1X0p4NllEQU9HQUVBS09vaExKV3NiQjJuTG5n?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-07-01T21:08:25.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock INTC Gives Back Record Gains amid Ongoing Risks Facing Chip Stocks - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcnlYMlpoQktVRWtGZTFwZTd4aXduUXJSejdiY3haelVjRXVNZjJRNk9JRERRYjNqLWNmcEJBaXFjQVJUcXdoX2Q1MGRuMjZJME5uX25NVHlkN0gwTEZmMEJjc3Ztc0FickFzdDJhWGhaWkhIVm5jMFVfa09JM09KZkU1T3NGeHYyVnNWY0dfYldWNDZ0SjBCdmxtN19BaENuUFZhVFpRVjBKRmtYdXFEd0V6MHIwNTROOWRDR3JR?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-07-01T20:45:32.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/meta-ai-cloud-push-sends-200314853.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-01T20:03:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meta Cloud Report Hits AI Infrastructure Stocks",
+        "url": "https://finance.yahoo.com/technology/ai/articles/meta-cloud-report-hits-ai-200237116.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-01T20:02:37.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meta Drives Mag 7 Pop. Chip Wipeout Clobbers Nasdaq.",
+        "url": "https://finance.yahoo.com/m/ef4d66f2-60fe-328d-9d4a-2beb9da4e12b/meta-drives-mag-7-pop.-chip.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-01T20:01:52.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Breaks Ground on Santa Clara Facility, Intel Stock (NASDAQ:INTC) Plunges - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGZJLVowM0I2a3RaLXFCeDlLWjBMcmlqdkkyUDRLZjFXR2czQlpLQm5aZ0FyUlVKdmRLeWJ3YmVwSXNfNTVzUkQwbmlPTDFhOW91Y3NNWWFvOE1rXzZTMVNqdmVRS1AzWW8yR2xrRUQ1MFlSQWpqWUJnWi1PRmotLThEWlFKQVVYZThEX0ZXQ0hfdVFWZzZzMFNSX1diT1N3NWFXbDFlUQ?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-07-01T19:18:45.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel’s EUV Push and Profit-Taking: Chipmaker’s Shares Cool After Blistering Rally - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2FvYUNEX0pKQ3NyT2Y0LWtYTFRBcXpac2VlcThGYlpUcU05clRIa3B5a0hFTGFHRmVnQ3F6Q3dnMHpKRVVZaWJxeXZCWGozX3dRcE45Y3FUOVRPb1RMTE1RLTUwM0pJM0h2c1Q0Z0l2anZPYnYxc0V4NDdvTEluMGU2QnBUN0V4a0tsWllKczh3eVFIdzViSE9lQlNWU01Wd3ZHaXJTRzRlLTJ0MFU3WVVIel9VLUhsR2pIbUdIUHo?oc=5",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-07-01T19:08:36.000Z",
+        "summary": null
+      },
       {
         "title": "Stocks making big moves yesterday: Cogent, Vishay Intertechnology, AeroVironment, Intel, and Coty",
         "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-182500206.html?.tsrc=rss",
@@ -10,66 +66,10 @@
         "summary": null
       },
       {
-        "title": "Why Paul Pelosi, Jim Cramer prefer Intel stock over AMD - Invezz",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXhSdnBEd0p5amVONGk1U1I4anRYVWxWTVo1ei1fTWFxYWVNaFRPQWdQeG9PUGw3azQ3NUktMlJ3bnpZa2VxNzAxb0hOaUlXODZKNWlOUU05SGlpSUNzU2hFcUplbXNVYWxTQkJYTzF2bk4ya3NGeklTTHotQy01cVRGdVV1d2JpQzBBTlE4Z1huSVd5UFJ1Tw?oc=5",
-        "source": "Invezz",
-        "publishedAt": "2026-07-01T18:23:42.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Stock Trades Below Fair Value Despite AI Optimism - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTW1yQTdpTkZ5U2xtWC05QXZNSkJsalcxd3hIb051SXE0YUoyQ1llMEwwZmpWanYtTm1yZEc1Z1YweEtKcXJiNXJWNzJDVmtzaWJha1JuUy1wWWwyY2p0SDNwSDNBelZ1YU13X0FLVEZRb05zYWpFU1VRd1JjVzNSQzg4VGRJQjhnX3o4eHdYenVkc2xpTUFFQXBHZmM5NU9jYmNfOVdfOWJzbWMtWTJhQW11S0RHb2xXMFJpU0JPdGdrNG1wOGJVZWxB0gHPAUFVX3lxTE5QUllZdVJOdlZ2ODJmbjJBM1F4VEhxMWpZSjdwZWxyRXJQNG9YelVHRTVBOXYyRHh2YkxQRkpxbzlYSnNmMVNkbm1hLWhubUQyUTZzRjZNOFkwQUROU1lOYUpuS0xhNzhaNkdBbG94Tk0weW54TGpQakI0MC1GZWk1MUZiT2JJN1B2dTVKeEhYM1hHTFQzcGl5ZGhMbWlNQXNtc250ZkNWdGRJN1hhbEl6aGNwZWxiNGlQalBfdGs3NGM2d1pONUNKTWVYSEtJQQ?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-07-01T17:55:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) still trades at a 37% premium despite stock slide ahead of July results - TechStock²",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT1ctRWpDR2wwdHc1dW5RY0NGeFViQXJOTFFjLVpyUlNtbEp2SWdrc2VVNFdnV3FvZnNKTnNOREVFYjBOQnQtUG5HV0xCWUJhbmFMeW9ZQTBwNFpIMlVYWllUNUM4MVAwdFNZek84TVRBMFNfZnNHcDFyY0dzZnVCbHdoaXFDdmJDUXcyN2RJQks3RFhSNmhTX2hPckVic1JpRnRKaXVkZTVGQlhs?oc=5",
-        "source": "TechStock²",
-        "publishedAt": "2026-07-01T17:45:56.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Drops 7%, AMD Slides 5%, Taiwan Semiconductor Falls 6% as BoA Flags “Bubble Risk”",
-        "url": "https://247wallst.com/investing/2026/07/01/intel-drops-7-amd-slides-5-taiwan-semiconductor-falls-6-as-boa-flags-bubble-risk/?.tsrc=rss",
+        "title": "Stocks making big moves yesterday: Cogent, Vishay Intertechnology, AeroVironment, Intel, and Coty - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSW40bE5lVEpURlJudjA0ZjcyZDcwNkFxVVpYWWRab1h4eTl3RTJnTktLYlkyNnlmV21Yc3NSdFBKWXZUclBLUHFYRFgzVlFSVnlkWnREd0dONEluX0h4UFJ0M3lseEd0X1Q3Rm91WFl3NjlLWnRZRnVzbjNvcThqeDZ4cXc1UUtfTmtFTS1OMXlvU2k5bmhTV3phRlFNTFk?oc=5",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-01T16:28:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Drops 7%, AMD Slides 5%, Taiwan Semiconductor Falls 6% as BoA Flags “Bubble Risk” - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1JFVzUxVDFibWNCX0FTZ2t0TnJucTdWZFlxUm9tNVRxLWpva1c1b044YXNERWI3SlRGNDFxVTk4eXZPWlJLNXI4cE0wOWdQMFh1UmZsRmJLMzY1OXMzTXJCVlZQUldhLUU5VHZiSDB3VlBUYno4cHJiX2ZEUWhGcFZOdWRIUFVEb242OGdHTEYzQmc?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-01T16:28:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "OpenAI efficiency gains hammer chip stocks; SOX slides 5%",
-        "url": "https://finance.yahoo.com/technology/ai/articles/openai-efficiency-gains-hammer-chip-162740042.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-01T16:27:40.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Stock Looks Undervalued Despite Its 5.1x One Year Run",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-looks-undervalued-162306005.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-01T16:23:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Just Hit a 52-Week High: Buy, Sell or Hold At $140?",
-        "url": "https://247wallst.com/investing/2026/07/01/intel-just-hit-a-52-week-high-buy-sell-or-hold-at-140/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-01T16:06:31.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why investors should 'complement' their SpaceX ETFs with these other themes",
-        "url": "https://finance.yahoo.com/video/why-investors-should-complement-their-spacex-etfs-with-these-other-themes-152831294.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-01T15:28:31.000Z",
+        "publishedAt": "2026-07-01T18:25:00.000Z",
         "summary": null
       }
     ],
@@ -110,13 +110,6 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 1.16% 하락 마감…외국인·기관 수급 엇갈려 (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 6월 11일 수요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdURLQ09VMWhIOWdiYm9FZGN5bmx0NENtRUJ0eXEtNzd3VWZMcWRLTlVYRVN5cWdmaHYzMnIxcXhsZjJzVGJLU3VEX29nUFB6dXRIVWhTYXpwSEpwajZDaVdZOWpqMjc1VHcteg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-11T06:41:40.000Z",
-        "summary": null
-      },
-      {
         "title": "삼성전자(005930) 6월 1주차 리포트 - 데일리바이트(DAILY BYTE)",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA0WlZaN1JRTk02Qkg4OTV4VzM5VEhaUEljQmVtM2JHaVJDU2VpcXJHanNXTVVZektTbVlXRy1iaFhEWXJqZ01MWEg1YWFtSFB1MHJYZGU4Q3B4NEp3U2NpTWdSTFA0OGZXYk54SFNhVnlhamdKMUlSX25vZzNSc3M?oc=5",
         "source": "데일리바이트(DAILY BYTE)",
@@ -142,6 +135,13 @@
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sSHdlc19LVTVZSnJ5TzA2MkZIdVZ0MS1YNlM5Z0c5QzBRVEc1TFpXZUVneFFzWnNabkpFTGFTTEdpVGZBOEJVVE1Qbko5RFNveHhyXzBJdTJSWHVzdVQwR2lsXzU?oc=5",
         "source": "뉴스1",
         "publishedAt": "2026-05-21T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "\"불확실성 커졌다\" 삼성전자 노사협상 결렬에 투자자들 불안 - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhejZrOEVxLU9qZ2dSOXp2WW5yYTk0eUJ3M21iNnVndllaMi1mUWVBMTFCRncxa0FNdzhITm5VWG10N0FCUlBoZlJmdmhvR0VrQnBWWm40MmUxWTDSAWBBVV95cUxOd05KR195WEtmRUhJSFNyZFE2TzFfLUtDUTR5bVBwR2ZZUEZtdUF0dWVrbTJrUkFNSXFCRTlDQlZRTVhSbTRPUk5BQUY5dUJrc3JtVnlsSkV1Vk1LaU50YnM?oc=5",
+        "source": "연합뉴스",
+        "publishedAt": "2026-05-20T07:00:00.000Z",
         "summary": null
       }
     ],
