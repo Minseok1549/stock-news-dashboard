@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-07-01T22:16:39.387Z",
+  "generatedAt": "2026-07-02T03:29:21.607Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Meta Compute Launch Sends AI Compute Stocks Tumbling Globally",
+        "url": "https://beincrypto.com/meta-compute-chip-stock-selloff/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-02T01:52:58.000Z",
+        "summary": null
+      },
+      {
+        "title": "Bank of America warns of tougher stock market in near future",
+        "url": "https://www.thestreet.com/investing/stocks/bank-of-america-warns-of-tougher-stock-market-in-near-future?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-01T22:07:00.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (NASDAQ:INTC) Shares Down 9% - Here's What Happened - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGlZel9TZXV0TWdCM2pqLXZVemNwc0drdFBoMTNqWWhSbVFObkVQTlhnX1B1N3VsdE12by0wenRmQlRHYldjcG8ycFRnV0JIX3p1TEZRYmdIZzVzb3h6WmlEMFNPN2tldzQ1TjJTa0dRV0pseC1MUlZuMTFPb0lZOXhzRHl5WldjZEhOQWFtdW9OSC0wODBwLWVKNFc3ZDVDcE1sc3BMaw?oc=5",
@@ -13,7 +27,7 @@
         "title": "Micron (MU), AMD, and Intel (INTC) Gained $2T in Q2; Will the Stellar Rally in Chip Stocks Continue? - TipRanks",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVkp4QkkzNTRwSWF1QzZrWWJ2bjliQm5ETkdqQ2xhTWlDVkFCbGlmdGtmcXZpQ3YzblF0S3ktdTVueFdKQ25OZHhuNU9Wa2N4OXJpZkN3OVQ3LVVZQlFIanVNNmFkSFhjWXJCRGFWc0kzQzUyd3VHVWFHX2VVY3otUndtNmNTbGxYMWdjVTBRYmJhWnEtNGtrYW5aRUlWRGdUcVN1X0p4NllEQU9HQUVBS09vaExKV3NiQjJuTG5n?oc=5",
         "source": "TipRanks",
-        "publishedAt": "2026-07-01T21:08:25.000Z",
+        "publishedAt": "2026-07-01T21:12:27.000Z",
         "summary": null
       },
       {
@@ -27,6 +41,13 @@
         "title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking",
         "url": "https://finance.yahoo.com/markets/stocks/articles/meta-ai-cloud-push-sends-200314853.html?.tsrc=rss",
         "source": "Yahoo Finance",
+        "publishedAt": "2026-07-01T20:03:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meta AI Cloud Push Sends Nvidia, AMD, Intel, Micron Stocks Sinking - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUVp0WlJndFFqZWVSb2J4YkFjLXZxZDRVR3hEMGdGTEFPdzFRZVpTRG9rNkdMSVZ6ZUd1a0tSZVpTWmdUNExFd3B2M2h6OE81ZnloakdoNlVObVRCTmhDQjF2eTBrSUZtUkhOQW01N2JhSkxvZGUzdDhBZnpFY3hzRUJoaXBzZVZpay05dHpUSnVjUkZ4cDVmMVVPYm1JdHR1cTF6RHUwQ0wwaXNmOENzclBJd0xXSzF0MHNpUUduUk4?oc=5",
+        "source": "TradingView",
         "publishedAt": "2026-07-01T20:03:14.000Z",
         "summary": null
       },
@@ -45,29 +66,8 @@
         "summary": null
       },
       {
-        "title": "Intel Breaks Ground on Santa Clara Facility, Intel Stock (NASDAQ:INTC) Plunges - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcGZJLVowM0I2a3RaLXFCeDlLWjBMcmlqdkkyUDRLZjFXR2czQlpLQm5aZ0FyUlVKdmRLeWJ3YmVwSXNfNTVzUkQwbmlPTDFhOW91Y3NNWWFvOE1rXzZTMVNqdmVRS1AzWW8yR2xrRUQ1MFlSQWpqWUJnWi1PRmotLThEWlFKQVVYZThEX0ZXQ0hfdVFWZzZzMFNSX1diT1N3NWFXbDFlUQ?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-07-01T19:18:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel’s EUV Push and Profit-Taking: Chipmaker’s Shares Cool After Blistering Rally - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ2FvYUNEX0pKQ3NyT2Y0LWtYTFRBcXpac2VlcThGYlpUcU05clRIa3B5a0hFTGFHRmVnQ3F6Q3dnMHpKRVVZaWJxeXZCWGozX3dRcE45Y3FUOVRPb1RMTE1RLTUwM0pJM0h2c1Q0Z0l2anZPYnYxc0V4NDdvTEluMGU2QnBUN0V4a0tsWllKczh3eVFIdzViSE9lQlNWU01Wd3ZHaXJTRzRlLTJ0MFU3WVVIel9VLUhsR2pIbUdIUHo?oc=5",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-07-01T19:08:36.000Z",
-        "summary": null
-      },
-      {
         "title": "Stocks making big moves yesterday: Cogent, Vishay Intertechnology, AeroVironment, Intel, and Coty",
         "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-182500206.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-01T18:25:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stocks making big moves yesterday: Cogent, Vishay Intertechnology, AeroVironment, Intel, and Coty - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSW40bE5lVEpURlJudjA0ZjcyZDcwNkFxVVpYWWRab1h4eTl3RTJnTktLYlkyNnlmV21Yc3NSdFBKWXZUclBLUHFYRFgzVlFSVnlkWnREd0dONEluX0h4UFJ0M3lseEd0X1Q3Rm91WFl3NjlLWnRZRnVzbjNvcThqeDZ4cXc1UUtfTmtFTS1OMXlvU2k5bmhTV3phRlFNTFk?oc=5",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-01T18:25:00.000Z",
         "summary": null
