@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-07-03T16:23:28.861Z",
+  "generatedAt": "2026-07-03T19:20:23.029Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Jim Cramer Highlights Intel’s “Three Major Growth Opportunities”",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-intel-three-081619089.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T18:02:19.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD's Valuation is Stretched at 54.08X P/E: Buy, Sell or Hold the Stock?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amds-valuation-stretched-54-08x-165000812.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-03T16:50:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-07-03T15:47:33.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (INTC) Stock Could Surge 100%: HSBC Analyst Raises Target to $200 - Blockonomi",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXdtYTRNc20tN2tlS3pnQklBbEFLRjV4RHU5djZOdXRFLTFUSTdsd0d2NHB3bm03c0ZKcWYwTExma0QtTzZpT0R6bXNldkh4ZUNSQnNVYXBuUW1JRTI4X2J0U3JKNERpazYtWG1PTi1xX1dIaHR2clpwZ21tcXpzWWNvajhyLWM0QUxpSTQ1Zm12OF9u?oc=5",
@@ -14,13 +35,6 @@
         "url": "https://247wallst.com/investing/2026/07/03/broadcom-has-barely-moved-in-2026-should-you-switch-to-amd-or-intel-now/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-03T13:13:25.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Shares Surge on Analyst Upgrades and Foundry Progress, All Eyes on July Earnings - Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclZwNVZjejZpQnlCOUJHYVJxZ0xXUDZjUkpfWXBvN1M2akVHRU8wYklKRkFFZ0NCazg2NVR0Q3d1dFRNUDNCU3Nla3hjWXR5ZGgyWERmZG1va1hqUkJsWU9aaGtBM2IxeWtBakhMRjZhREk3V0RuR1JROGtCMC11WV9YcHdmS09zZjhtYXF1V2hUM0J2WFJ1dU5DYWQ5b2VQUkFBTDdhUlBReFAzaDEySmh2Y0N0aVM3aER1UUZibTRNeWxHdEVEdV93?oc=5",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-07-03T12:43:33.000Z",
         "summary": null
       },
       {
@@ -56,20 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQlotaGNWZDgyTHh5NDN5cVBiTnlLUkpWQk9SenBMVFdvYzZnVEJRWWtQSnI3WHFZMGVqQ2VlZjNQTEtLNVQ5M1RKLUdTdGN6Wms1ZzlZRmtKZjdVV3Z0Qk5PYVdSdTVUbXN6OHVfU0dCUDVodHhLM3ZBRU1WS25GaWQwNm5Wam84NFFfdmpoOW5udFJwTWlmbWlPOFNWTV9qM001cDZLM19MSnhsV3ZCaTFuekE5dTNwRVFoRGI0bWtHcW9FQ3Z5TjZ6YUE?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-07-03T09:29:32.000Z",
-        "summary": null
-      },
-      {
-        "title": "INTC Stock Has More Than Tripled This Year — But Goldman Sachs Names 3 Better Chip Bets - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc241MVp1YXpWcFNqNkt5dVBiSVEyMGpsYXVaU1VRc040OGRxS1d6RlJGREt5ajVRVTlBTTR0UXBIMjk4c2x1WkJ2Z2ZxclFlZ3Vwb2FNendHZzJ6Q21vdkJ6R3dkTUs5RVZKXzFleW1mSkdkTnEwdTM4aC1WYTNOanA2Umt4UVRlM3J6OHZPVVNuYnpNNHZpYWZadDBmRzlqbkk1bHFYamxWbGtHZXJLZVlZZXBma18yY2dkSkxVZXhDOVV6amlCX1A1LXRrQkVESl9PUllZQ2xXeHR3ZUtKUkpMcw?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-07-03T08:54:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "Jim Cramer Highlights Intel’s “Three Major Growth Opportunities”",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-intel-three-081619089.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T08:16:19.000Z",
         "summary": null
       }
     ],
@@ -113,7 +113,7 @@
         "title": "2026-06-24 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 반도체) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qNWJjd2RyTW5BcTM2d3RTYlRrOVdCQkE3SXItUTNQTVBEeThPelpfaWx4QTNSM3h5QlZLdGFSOTF0MG95RWR3S3BzSHNTazVyNnN0RDNtR3JWdUtlVjU1WEZwbnhfVlFjcG1PQQ?oc=5",
         "source": "민심뉴스",
-        "publishedAt": "2026-06-24T07:00:00.000Z",
+        "publishedAt": "2026-06-24T07:45:45.000Z",
         "summary": null
       },
       {
@@ -158,13 +158,6 @@
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNclgyVU5QOExEUU1ZTzNCRUN6SlZONFA0akdtUzUtRGZRdm5mTE5CeUwtTlpTempsQkFtZHloVUxXcEZVQW5vRk5nOFVpS2VYMklCNW9pSDI1QjhnX2IzeWtGVkJUQlhUVEhOSENpV3NtRlMwbWJQT0ZJM012OWtJR0QxakZYU2NHbzIwcTBkUGY4U004Tk15dFpOdkJsQXY1bTB1TGpwR2lPTmdHTVVqZG1RUXNQSENSd0ZuWVEyYkRTeDltMFAwazF0ZjdUV0V0OC1McEFlNTZiSWtIVkZyN3ZKWUJ1dw?oc=5",
         "source": "FXLeaders",
         "publishedAt": "2026-06-29T22:30:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "EARNINGS NEXT WEEK!! (META MSFT TSLA APPL) Preview | Robotaxi Debut | FAANG STOCK RECAP SHOW Vote Count (sF7tl9ag3F) - Fathom Journal",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3ZndVdEV3ajgxdFJPRWt4Y1dNYUEtVDI4Nl82RWpTM0hCUjRobW9CUTF5WDIxcGNqaWwzZEJ4NjlJTk1LOUVXc3VlaDBEdlFDY3kwU0ZqTEpFamh1WUJTa3I4NVE?oc=5",
-        "source": "Fathom Journal",
-        "publishedAt": "2026-06-27T09:35:30.000Z",
         "summary": null
       },
       {
@@ -214,6 +207,13 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlM2ZEprdFdVelV2Tkd4NFlubFJYTXFadUxtVXkxSF9scFg5dk91U0dKR3pkWENoXy1CVXppRjZta2hYZS1qa1BsTDJaWTNRR2ZwaVJrNzN0d1BrWlVJQVFOZUZLa1lLTnFVXy1xLXN3Mm1wdnh4RGtiM19vbDgyZzQtZzhqZXRKTkZPbEJyNzNkRHIySl9UZzBpZXJaZUIzdUdEbzQzLUFuVnhhbDFNV0VKOE5hazVGcjRJUHFBaw?oc=5",
         "source": "Bloomberg.com",
         "publishedAt": "2026-06-18T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple (AAPL) Stock After 129% Five-Year Rally Is There Still Value Here - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ191ZElOWmxQZmx3VU9rVHFCUkx4YlBhOGxHdmNOaFg2Z3pwcjI2R1RjbEpMSkdlcVViZmZmN0RkdWlOZG1KaFhKMzBJY3RKT3ZLYTgxRG10dTlaQnBiMk9Gbzh0LXItVmlZUkRtUUlldU1nUGJNbW1rRzR5SWd2SFRrUVQwU2YtU0hYLXhZelRuQm1G?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-06-17T07:00:00.000Z",
         "summary": null
       }
     ]
