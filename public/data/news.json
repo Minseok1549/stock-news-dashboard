@@ -1,19 +1,12 @@
 {
-  "generatedAt": "2026-07-04T02:48:19.415Z",
+  "generatedAt": "2026-07-04T06:18:38.224Z",
   "articles": {
     "INTC": [
       {
         "title": "Micron vs. Intel: Which AI Stock Is the Better Buy? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFg0eEJqRXZ2V3RGd3ltVmpGb0xGLWFwS1pHTURjanhXZWFUU0pZRDRuS01lQmgtU2lILUstVmVzRUJBQlVFVm8wZWVaQWxiZ1VkR0hFNE13YTBqWnMzLVI4WnRpOU5yZWZ4aUJlWEliNDJIM0JsamZhdkpPNDQxSG5hQjBIYXo5MDd0M2VKWGdXWlpBdHc?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-07-04T01:03:11.000Z",
-        "summary": null
-      },
-      {
-        "title": "Micron vs. Intel: Which AI Stock Is the Better Buy? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT2RoQTBqMDNyR0ZnZ0ZKTkNiN3NkNDJaaXNpQk1NazEtbXdLUno1eklsMDBXcGJRbEY1blFOeVJIaW52azZpQkRVUndpVjIyOUFlY1Zwb1RyeXpXOE1VcUxfY2kxQzdVdFVfNzdoZzhOMFlhNHdhc1hLeU9Yc3ROOGJPOHF1cVgyVDkzcEE5dHRCQ21tZURNQmZhUnJsbVlIWmR3MWdyMThCZ3lnbGpodHRWcEx2OW9GRUFwUzEtbkdabE9JLVotWnZPWm5fdw?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-07-04T00:50:02.000Z",
+        "publishedAt": "2026-07-04T01:30:00.000Z",
         "summary": null
       },
       {
@@ -56,6 +49,13 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/amds-valuation-stretched-54-08x-165000812.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-03T16:50:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Trump Weighs In On Elon Musk, OpenAI, Intel — And Takes Aim At The 'Hostile' Fed Board - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSGdkS2RRUEt3TWdWdW8yWkZrN0NfU1lZak10VExCWGktUlg3enppTzF4UnpEVjg3YVZRR2JqRmFYdTVBQTdIcmJHYVFkX2ZtcHFiREF5UWZ3NExDNTJhTnd2VE5HM1A1WFZnVEpoY0Rfa1BYMVJrZ0lKNlhDdDBKVW41S0dCOTdncW5jWEhHRkZMU0lERlF4MlFyU0xxTXFNS25wMWVoa1c3SkliajdkUDUtTDdUWnZmUnI5aUhNeHJreTBacEE0Zk1WZVMzMXpfUDFIeU9GSEN2N2liM2c?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-07-03T15:47:33.000Z",
         "summary": null
       },
       {
@@ -182,6 +182,13 @@
         "summary": null
       },
       {
+        "title": "Apple is a notable outlier in Monday's drubbing of mega-cap tech stocks - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWS1VV3hqOC1NNTIwdkg5WV9HVkFyYkxtUlBVd0RscUx4VDdIbW9SN0VyaGhGS0FBbGgtTkRhS3lmV1F6a0w2S0c5emxaV2tydUo0REZYb1dtWmZianFLUUJIeWxSbURsTlEtLTVKSmxxdFZ6VlRuc3psLXF0U1BOSTQ4Q1EwSVNhVDQ3cVdiUy02N213YkZQbGlXeHRuYmNLRGNlMkxBa3JRTHRJ?oc=5",
+        "source": "CNBC",
+        "publishedAt": "2026-06-22T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "A New Chip Partnership Between Apple and Intel Is a Long-Term Catalyst for AAPL Stock - Barchart.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG9od1A0c0hTeEtwLVVudEhJRUZHcnlXZlR3VHJ1WG9vMHNGTGh1V0h3d2g5dDM0dWItQUE0azV4YzRHMW9DZTB1U0pFRUFHVGh5MEdfd0tmTTU5WWFiT1RuaWJ5Um9aMVBHT2JWSS1IZ1pkMWsxT0NzVU1wOG1teTd4Ymg4MHRQd3pxYnoyeEdJX0dqRk05SDRNUXY2NzY0ZDNYTW8xR1lyaVBmc2RfRW1PNnhwcTl5ZlJoRmxQT1FEdVFkWHZTZg?oc=5",
         "source": "Barchart.com",
@@ -199,13 +206,6 @@
         "title": "Apple: Pulling the Pricing Lever - Morningstar",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKY3VuOTdUcDBMaDVwRTdCc0FYYVQzRGRSaGtwSnQ3SkdqQ2VuYXNpMm9KdVBLbTcwcWR0b2Q5SEVuNG1PaDlWMmRhNDhrRWhfR2xma1FUZ08xc1RtS0lVQTg4cmFXb0dPbDk4VEk5aUxfRWdCZ1hSTVpWSQ?oc=5",
         "source": "Morningstar",
-        "publishedAt": "2026-06-19T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "The Memory Boom Has Been a Gift to Micron. For Apple, It's Becoming a Problem. Or Is It? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSFNGLTNSMWUyU3FZYlJFUEdaU3Jpb243a1VoaUlEQWVpeXlDRE5aWUhTR1FxdVloaGszeXpLLUxodkt5dkU2ZzZGU3VQMktGQkxvdnNiMVdqVnBSTjZPNTI5SGZEVC14c1FLOHlvVzhabE5DUUhaSmpNSmhuZHR5ajFwOGRNS2VZdU90YnFHVXNLSkNKcjRDbA?oc=5",
-        "source": "The Motley Fool",
         "publishedAt": "2026-06-19T07:00:00.000Z",
         "summary": null
       },
