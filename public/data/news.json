@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-08T22:04:15.111Z",
+  "generatedAt": "2026-07-09T02:53:03.870Z",
   "articles": {
     "INTC": [
-      {
-        "title": "Should You Buy Intel Stock Before July 23? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3pEaEhBcGNqNHV4bzkyNWdfM2c2RlFuR3NSVXBKN01IdlRTeEVFVldNWmxVT01nbnk3MXphT3lZLTdfS1d1NmlsQWVRTnNWWkJUWGpmaHNlWTJuRWRnLXl6VFQ3TXpvcS10YnFENWlkYjVuY2wxSDhKM0ZNOEJrY3RjSTBGQU5NeGFMbGJHYXpRSF9SdmZtR0pNbUVrc3gtZGtsT3BUUU50MXhHdllVS0N6WGNZY1BBUW1weFkwRm5hdDN5?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-07-08T19:49:54.000Z",
-        "summary": null
-      },
       {
         "title": "Should You Buy Intel Stock Before July 23? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajdSdmdkZzA3YnZyS25vcnlrdzYwQzJyc3VjMTB4Tl9XLVktTlg5T1lvMmtnTWJVay1nT0N4V2Vhd0ZZWXBXR3BESkMtMkRiakpoakNQMXFMdF9qdVNudzNrUGgtMXJHZ2dNN2N2MlRPVjk3VzVJbzlmSFZmZzF1d09mS3AxRTljdzFMaA?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-07-08T19:47:49.000Z",
+        "publishedAt": "2026-07-08T20:23:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Should You Buy Intel Stock Before July 23? - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zWVZXN2tCODhrdjNfNEZyaS1UN1F1VTM2VHZ5QnNfeHJvU2NHOWpack5tSzg1NzdTM2JFT2tLR2UyT3h6dkpfaXd5VmhtOVdFbjZTT0pPZ0VVMjNSdnJzS3o5eXlqYTB5RlZpdF9QNnRYVVhHeWc?oc=5",
+        "source": "AOL.com",
+        "publishedAt": "2026-07-08T19:56:11.000Z",
         "summary": null
       },
       {
@@ -24,68 +24,75 @@
         "summary": null
       },
       {
-        "title": "Broadcom Spikes 5% on Expanded Apple Chip Deal; Intel and AMD Drift Lower - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObEJYTzlCOUtIclU3dUJSVkZPdmxDV1h0WjJqVmMwbVRGUE1BcDEwX3BmTVBvc1J2TmVSQkRMTl85UXVlV0hDZUdhM1YyVWVVbndxWmdqVS04YTdqZF9OSC16UWp6aWhMSjcyYWluOWtCcU80QV92SGVSZUNfOEFEZUVIaEFRNENSakQ2S0FaMENua0FyY2NNX0xEWlVzNXRVWE1IbmpRUU0zVm9WdG5Kb19SZTJQdw?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-07-08T18:15:34.000Z",
+        "title": "Should You Buy Intel Stock Before July 23?",
+        "url": "https://www.fool.com/investing/2026/07/08/should-you-buy-intel-stock-before-july-23/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-08T19:43:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-cheaper-since-ai-193252581.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-08T19:32:52.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple and Intel Corporation (INTC) Chip Deal makes Strategic Sense but Production is Years Away",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/apple-intel-corporation-intc-chip-184928887.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-08T18:49:28.000Z",
+        "summary": null
+      },
+      {
+        "title": "Bull vs Bear case of Advanced Micro Devices, Inc. (AMD)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bull-vs-bear-case-advanced-184827819.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-08T18:48:27.000Z",
+        "summary": null
+      },
+      {
+        "title": "NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-avgo-mu-intc-stocks-gain-top-wall-street-traders-see-no-signs-of-panic-in-chips-or-ai-even-as-correction-territory-looms/cZmVCgXR7VI?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-08T18:46:00.000Z",
         "summary": null
       },
       {
         "title": "Intel (INTC) Has Crashed 25% From Its Record, But It’s Still Pricier Than the Dot-Com Peak - Stocks Down Under",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPZ182OGI4bkdsRFp2c2M3Q2FCT2JtUW5vVmFBdWhxeUNsQ1pBMFFNeHFjRXpIdnFvLTJnUkRIbDdObVlZSTlTLUhKUm00M05NWThhUlpWYVUxeWhwRkRsVjhsSmxQc1M0N2RuODFXNmNfQQ?oc=5",
         "source": "Stocks Down Under",
-        "publishedAt": "2026-07-08T18:07:54.000Z",
+        "publishedAt": "2026-07-08T18:17:58.000Z",
         "summary": null
       },
       {
-        "title": "Price Prediction: Intel Soared 450% in a Year. Will The Rally Continue? - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUYwZFBCRHhKWWw0Z1lrdzJsT2IxS2ZrYkpFNC04R0FZVHJscVR3M0NPekJWa2p3eC1TZ2t6dnZHcDJ1b3I0b2lkOEdBQ1BOd1I1UnNYY0NEU21rOUdVYUFIc2ttOW91VGtPS01uYmdCX0tSNS1hU19xNWxmb3ZHVmY0VzNGamlKbm5XeWVPZk1aZl9DcUVTUzJPMDRNVlJyRzBUdnhsUGZoT2ttWDNMRw?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-07-08T17:45:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock: Is It a Buy After a Nearly 30% Pullback? - investingLive",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdnFiR1lDWm84cXFwZ2tPRHR2V1k3RGNNNGlCX1J3OERrR3ItYU5HLUgzSlhGOW5rOTBCaVdXSlNYdkxLQzBweEoxemtOUVMwVjBHSFo0OEZfc0s0dllEZzJIYy1wSzFVTjJrUDl1clB0T3FWbFZhQTEzRmdjZGx6UGhQeWVfRmM1cVRv?oc=5",
-        "source": "investingLive",
-        "publishedAt": "2026-07-08T16:29:31.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corp Stock (INTC) Moved Down by 3.62% on Jul 8: Drivers Behind the Movement - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTNtS3J0aWp1UTlSRndxQU1wd1lTa0dQYlNyaExTSm5wSkhWS2xrLUpGcVBfMi02X1FXcE1PTVJGaWVSek5VSjFKazVDbm9yMnBJcWRGSHZ0cVFUeExDLVVkVEYwbXJ6MC1mR19FWi1LZXM4WTZSNTMwbkJwMnAtZEJNNkVCcldRSHlB?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-07-08T15:17:57.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel's foundry revenue lags despite stock soaring 5x on AI and manufacturing hopes. - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUV9kQ2tJOWotNHNycE9qU3AwN1FoUGVBbmtWRlBrMkFrRUZTSEU5bVdxLXh2OTl0WndhRl9fNUUtb3JjUEs1cklCSnhxekpjb3ZpOEozSjMxZjZlYV9Va3RZTWdJc1hOSDdySnhrck5BZXJZa1ZQRjgzUFJYMlRUUndvdHhXTm9NTjQ3dl9tcjY3ZV9TRXg5dXFB?oc=5",
-        "source": "Pluang",
-        "publishedAt": "2026-07-08T14:57:59.000Z",
-        "summary": null
-      },
-      {
-        "title": "Jim Cramer Still Likes Intel Stock— Should You? - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSWFYYmdQNm1ZYWlaZ081cHpSV3RvWDBlSXdOMXJmRlZDdnZ2QzdPMkxGanRxTl9QVVRqTnk2U0Jhb1JkNFo2SzZGNlhtVk9fdWpGc0JMdXFrUXpyZ0hQMEtwbnJXS3MxR21PUXZ1MnhiQnk2UTBOV3dVaU5SSl9ZMm9MYUtUQ2ZzUUdqSDY2TnE0eVU?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-07-08T14:26:57.000Z",
+        "title": "Broadcom Spikes 5% on Expanded Apple Chip Deal; Intel and AMD Drift Lower",
+        "url": "https://247wallst.com/investing/2026/07/08/broadcom-spikes-5-on-expanded-apple-chip-deal-intel-and-amd-drift-lower/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-08T18:15:34.000Z",
         "summary": null
       }
     ],
     "005930": [
       {
         "title": "삼성전자(005930)- 매일경제 마켓 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlJzZ0w5WmNOcjlTT2d3aHRTc0d2RVI1Vk9SbDZzUHljV3dqQTNHWmxnemZLckUtXzVnVnRFU05WX3hmczRNSjJvaTVPZE91dGVPYkxlcTVtck83NjlVR3ZKOUVUOXJqeEs3V0Nxam1qdlJlUWlzbnNQa0pjQ0tncXhwUTlDSng5VGIyZ1VUQUFpT2pDV0dZ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaXlfZi1CWC1wZkpaY3FWZDNNbFg3cXlrdjhaV0hIN3hJamFSaWJjZkZOc2MwVVI1Zmo2dTNvR1o3eFVUYUlpeURXeVRTOE1sODZnby1TTjhzbkgxdDRQdDJxR0g3R2RJTm95TlVDR1h0NlRPbVQzTDVnaGhDMW16WjBidU5jejEtaFNYSHlTclNXMU1zUW1N?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-07-08T15:33:45.000Z",
+        "publishedAt": "2026-07-09T01:05:04.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxpV3lnUHBleTRFeFhxcEVtd25EV1dBTi12QWlzSjN4bjlXblJhdVlUeVF4X1hHMGVQUTJxUnJPelpfWE9XYVkwX0ZjMjBEcTZRbFNzVmVmbWthdGRmSEJIMGlWYkZOQU1NNHpwMXRiNG1CWlQtVWNOVGpNbUNMMnFQLTUzbUhPODVqSmdKOEN4dUlkNU9j?oc=5",
+        "title": "삼성전자(005930)- 매일경제 마켓 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW5aXzFNckxyc0F0WW9iTG5VUUNQeXJOS2RKTHNSOHk4Vy1ET3J6c3E2ZzNyVUZXNzdJMXZHVXhLSGlIQUFIZjNZU1BpeExLcG9QUGlYWk5WLWlTcjA4WGJ6M3VYNHF3ZG9TZkw1cDVaUGRTU3FzSTd0OXRzQWRBa2JMZDR4ZEtyV0tzT0lWSVRfdWRFTS1N?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-07-08T00:47:38.000Z",
+        "publishedAt": "2026-07-09T01:05:02.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자(005930)- 매일경제 마켓 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYlJzZ0w5WmNOcjlTT2d3aHRTc0d2RVI1Vk9SbDZzUHljV3dqQTNHWmxnemZLckUtXzVnVnRFU05WX3hmczRNSjJvaTVPZE91dGVPYkxlcTVtck83NjlVR3ZKOUVUOXJqeEs3V0Nxam1qdlJlUWlzbnNQa0pjQ0tncXhwUTlDSng5VGIyZ1VUQUFpT2pDV0dZ?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-08T15:33:45.000Z",
         "summary": null
       },
       {
@@ -117,10 +124,10 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-06T04:59:00.000Z",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-06T05:23:00.000Z",
         "summary": null
       },
       {
@@ -135,13 +142,6 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WTVvcUZWVmM3UDJtdGlzNUN4UWMtWnJfRmVud3RqVGZ3WUZtdHpRaGRlaWtneEI0eGtRMHN5UC0zWlFJdWNlc1hMT2ZXQnJkaDF1a3RPVms4YThZbXVWMjBhQS1Bd0lxejV2Yw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-07-01T07:40:26.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자, 5.84% 급락…외국인·기관 매도세에 31만원대 마감 (005930, 반도체, 주가하락, 수급, 2026년 7월 1일 화요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeXMwdk4yb29XcGhwOWVIYTdHeTlTcVB6T1NDckU1cmt1Uk9XRTNkSW5xM3ltUTVMUDluLU1CWkZNZDJoeDVQeG1rNW02dFFrTGt2TnhRcFZkZDVTUnlzYnhET0RBbW95OWs0bA?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-01T06:41:43.000Z",
         "summary": null
       }
     ],
