@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T19:04:03.121Z",
+  "generatedAt": "2026-07-12T21:49:06.032Z",
   "articles": {
     "INTC": [
       {
@@ -131,10 +131,10 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-06T05:23:00.000Z",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
+        "source": "매일경제TV",
+        "publishedAt": "2026-07-06T04:59:00.000Z",
         "summary": null
       },
       {
@@ -146,6 +146,13 @@
       }
     ],
     "APPL": [
+      {
+        "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmxkWHhpcDRLZWlOcjhLdlhFVkxjZXowWDh2dlNxODhld2ZGMlJpT1pIcDlGbGNPVUc5X3ZoVnM1azNxZ1p3Q1VyQm5LMnQ3NVZ5aFhTMnBsTEhMNEpMbUFsVWR4Z2dycWFnQmF1YTAtVXVVcFZhNTNxekFUSW51d0J3QTRCY0dWTFp2SWs4aU9iOVBVaE9tN2Myejl1a0FxWURqUEJBaVA?oc=5",
+        "source": "CNBC",
+        "publishedAt": "2026-07-10T20:16:06.000Z",
+        "summary": null
+      },
       {
         "title": "AAPL|Apple Inc|Price:315.320|Chg%:-0.900 - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84OTRZQ3JKclFZR1FKLUNtejF0TkxCNGpVbDlMU3NvdGxzZzQ5WG5HTnNURGVfWk9TU0liT3llNVd0UGVrSndKUjFDSHRpdjl2elZvR3FhcWdOc1kxSHc1LWlydw?oc=5",
@@ -206,13 +213,6 @@
         "title": "This Stock is My Biggest Bet For July - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnVhcTFzcVB2dFBqa0JTREdqZEFhcldBZGpJOC1UT2pETW9jQU8xWjhMMXlRNEFVdnlvcHNwS3JWaWphT1lpd0tmdUc0TDY5RncybDhtNDNTaVlzS09Md3U4UlBYR3hJRXVVcjhrSGk1eEw1Q1VMbERzOGwyTEFCbFV3aXNOMEkxaDd1X3YzaUI?oc=5",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-06-30T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "What's Going On With Apple Stock Tuesday? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObjNzZDB1em9IWWtsQmZGRUZZbHBsZU53UUUya1JWWldUc0VXMGRmX3NhbVphSUVySURWUy0tTUhZa2VIR3BTTUcwX2Y5NTVlN0lzNm80S2tpeFNHQkFRNUhzWkpscDJHa0hoT2FSZW9TRFkxc0VvRFloRTgwZ1lLZWhHQUU5QXdQVUp5MmhNZGVScG9SUWxZQ2dpRGdOY1g2V1JSRFpPUnBXR05PUFFGLTVPT2lLS3MwWkl5NmZ3bjlnbG5OdElKVUdiaVZ2VDVVSlpj?oc=5",
-        "source": "Benzinga",
         "publishedAt": "2026-06-30T07:00:00.000Z",
         "summary": null
       }
