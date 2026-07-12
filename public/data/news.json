@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T05:57:18.405Z",
+  "generatedAt": "2026-07-12T08:23:53.665Z",
   "articles": {
     "INTC": [
       {
@@ -45,6 +45,13 @@
         "summary": null
       },
       {
+        "title": "NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONnpKVm1UUlRxeXlIQVB1WURiZ0R5Q3dTeGhiZ3dMR2ZOQ0poNE8tX1BudXJ0WWdldkpwRnU5YW9NUzhOa2R1eGVIOGRseVgxYmRQbmd6YjhpQVhYNzc4MURBQXhVU196U0U1N25lVjhoa1N0TDMtYVl5RmlqZi1ibEIweGVKNXl2SGQtc29YQ2lxWEhkV2RlZU9kRVZhVHVuYWRMQWxNS3cyWVVYWlhiazE0TDZPeEdPb1ZLbWZVak1tSlFkRFotOG9jdXoyQ0hpY3ZYbTdLMDFXZzZFUnU2dFNxWGJzdlg1OFB5M1BrT0xsRFB4VGpabWFFTUcwXzlaNENlTFRGa19oelJsSER1RnFmdlVKdUFq?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-07-11T17:44:26.000Z",
+        "summary": null
+      },
+      {
         "title": "Intel (INTC) Just Lost The Data Center Revenue Lead To AMD - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbl9FN2hnMmVEdFY2MEJOR0ozMndLYmRTc1FsQlo1MmYtQXlVUEZEckFaZEx2RnQ0QTJDMFFXUnpENV90SnZZYlJ4STc3RWFqek5oaXlXYUtMRWYtMG5RNmpUeDBNbjk4THJVbGI5amRaNi1ZQmRDQkZieEhlS1dkaUhKSVlmTm5ZdUlLbVBEWWFBZnhybjVzUDl3YzRQc2xZMTYxajE0UTBlYnlJZEVaM2hBa0VOZldmZHBfQnRIZzlTTS050gHKAUFVX3lxTE5hY1dsRWR0SWRxTUJTcGFncWlNQnJZV0xGdjRXYlpCSV9MMGpueFZ2dmh5RnJqT2l4bUs4QlZxUXJnS3p6SlV4amQzbklESWZOUHBJZmFEV3B1N2ZlNmMwS0pHRDlfejhsanhJbDVaNlpYUlhxN3Brb2RGWkM2NllNcXlJVjVlWFc1REd0NkI4RENGclpoQ0hRSkF3SDdZajFTZXk4U003VE9zalNIQWNJNzc5X3h3VW1LTlZlcmIzZUtZdGtUcjgtdmc?oc=5",
         "source": "simplywall.st",
@@ -63,13 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbzdPMHFNZ1BTT3hNYnBXR0xaYnJVRUJKTGZjdS1KVkdWc2tleGFzX1RwWkNUSzlxMFROSXlDZ1ExSWNLM0ZyRHJGR3lrOHBKLXVrLXpxZDZWYnZvb2Q4NkoxZ2puRjJCLTRuNWVjamg1T0Q2V2twN0JjSE1VQklzb0RjWHhjRGhueThWTXNOMzRtaGtkTUhlWjZUajVQeTBXbnhkcGtGNHkxWENiTmVQRms2SXhXSFBqZmFGX09OYk9pelJ3LVE?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-07-11T14:58:52.000Z",
-        "summary": null
-      },
-      {
-        "title": "Money Concepts Capital Corp Buys 4,717 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT3A3a2RCMDN5Y0NQT0lEZkg3ek9neDFvUGt6WmNQaEJPaWt4RkZXRG5rbzZ2T3lDc3JxbkZfZjlzdkVQOW5HV210X0tqME5fZ3RGbU9mWmJwNXpWVzF5c1N6VzlseDQ4bHhpTnNWdWxTbm5ZTmhLdzlPaDFEcTdobVNPajh3RWJjTl9sbEw0Qk5YdmtmaTFfdnFwRkh4SVVZNkw4RWw2MEtHanpWQjRNcklzRGhvYVMxeHp1M1hrcnFSbmxqakhsZmx1NA?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-07-11T14:40:44.000Z",
         "summary": null
       }
     ],
@@ -104,14 +104,14 @@
       },
       {
         "title": "삼성전자(005930)- 매일경제 마켓 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxpV3lnUHBleTRFeFhxcEVtd25EV1dBTi12QWlzSjN4bjlXblJhdVlUeVF4X1hHMGVQUTJxUnJPelpfWE9XYVkwX0ZjMjBEcTZRbFNzVmVmbWthdGRmSEJIMGlWYkZOQU1NNHpwMXRiNG1CWlQtVWNOVGpNbUNMMnFQLTUzbUhPODVqSmdKOEN4dUlkNU9j?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFlHbmxIZlVfekhxQTJpWDl4OV9tT2VfWjlIY3JXSzd0TlY0UmRPUFdOZ0VoRng3Y2ZxNTkzdFJBX1p6ZXYtTVZvOWNqZDVneXlGbHNvSS1zVU9jTTFMYzFSSWVsU19BWlI5a0tKVks4S2QtaXFYcjhlZlBCNU5kODFZWVRVTmhGcEFSUVBUeEhFdEE3bHdJ?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-07-08T00:47:38.000Z",
+        "publishedAt": "2026-07-08T00:47:37.000Z",
         "summary": null
       },
       {
         "title": "삼성전자(005930)- 매일경제 마켓 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFlHbmxIZlVfekhxQTJpWDl4OV9tT2VfWjlIY3JXSzd0TlY0UmRPUFdOZ0VoRng3Y2ZxNTkzdFJBX1p6ZXYtTVZvOWNqZDVneXlGbHNvSS1zVU9jTTFMYzFSSWVsU19BWlI5a0tKVks4S2QtaXFYcjhlZlBCNU5kODFZWVRVTmhGcEFSUVBUeEhFdEE3bHdJ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmFFM29lQXpJWFB2Q1RsdVdaSXR6cTM4NnlJUUcySVRPTFgwNmZKWHBKREhUOFEwc2o3dHFxOUx0WDFXemJMOVJlVzJ1dGJPcmlNLXh5R2FlTWc3Y3ZYNlJqQmc2Qlo4bnN6M0xoSkx0UnRrY3J0STFxandaQThmS1RSeUNDRkZSQ2VZQTMtUjVQN2tqQ0Nj?oc=5",
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-08T00:47:37.000Z",
         "summary": null
@@ -131,17 +131,17 @@
         "summary": null
       },
       {
+        "title": "삼성전자, 8000선 종가 방어 성공…외국인·기관 매수세 유입 증시 견인 (005930, 삼성전자, 주식시장, 코스피, 2026년 7월 6일 일요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oQ3NLYUsxNmNzZm5PR2JCck81cjNFWTNZYjlKVk1Yd2pXbmhTeUlaT2cxbnVSZkhlUlNSSXlrZmotZ0NQTzNiWlRBUUV2eVZ0ZkZwS2JwbHpsSkhqTnVxS3drZEVfR1REcTBNYQ?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-07-06T06:41:49.000Z",
+        "summary": null
+      },
+      {
         "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-06T05:23:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "다시 삼성전자 살 때?…‘초고수’들 순매수 1위 [주식 초고수는 지금] - 서울경제신문",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wdGVPRTZINmxrcFMwaVY2M2NDa3ZlV3pIcVhMTm5pQ0xnVllaMlYwVmdLWGljdGIzT2ZrSG12ZTUwejI3VlAtbHVQTmtkc3dvRUHSAVNBVV95cUxPRDl2VkdMVnpzLVExVGQzQUs3OGswaXBGZGM5QWRicktDd2lVY0JPVmd4bFB0UVQ4YjdlV3J2Z1Atc04xajFsUk13V01qOUNVY1d3VQ?oc=5",
-        "source": "서울경제신문",
-        "publishedAt": "2026-06-15T07:00:00.000Z",
         "summary": null
       }
     ],
