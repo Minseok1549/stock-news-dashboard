@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T21:49:06.032Z",
+  "generatedAt": "2026-07-13T02:40:25.982Z",
   "articles": {
     "INTC": [
       {
@@ -21,13 +21,6 @@
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNSUxEamx6MU9Sb3VvcGJGb3REYS15bHdiSFVVZlZoNXNVQjNWbzZ0QzJQczJHa3gwUlRaUnhvMWtISjNWTWhKSHFBUGtTbkJCMEhYeUxPbUkzWlhqRXI4bFhWNkcycU9jQnJpUHRsUzRWMGJrM3dSYURoUXZVMUpxZkFCeG56eVBKcXpZRnhDdXFSb0RSaUZ4YXFYTERuazU1Mnh0VElnNlJlSUNqemVoWTdKMnpkWjdfQm4yOXYyWVBkVGtlZEpSMFRNWEVTYjZKVlBoZzl0UFdGSkNNZEhNS29hMGZfMTlQU2pvQUo3VFhmNjc2R1VlTk1ZalVsWnFvbFdub1BKVy10Zw?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-07-12T15:36:37.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Stock: Q1 Growth Sparks Questions About Long-Term Recovery Potential - Blockonomi",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOVBjQ0JWanlmYXJYaGhZNDlPRkdnVGZmSTNCRkhlb0VPc21nVjQyZVJDckpJb2dLNG50TzNhaUlIZzVUVVYwUDJvd2NybWNQaEctNURKMk42Rk1zMjBQaFpxNW1DdzhfRFpPVjBKQTAwU0g0WVNaTEpfLWJKd2ZSR1BER21icHV4OF9mR2tlU2g5bktTSTJGeVBaYmdlZmducWFoYQ?oc=5",
-        "source": "Blockonomi",
-        "publishedAt": "2026-07-12T15:11:53.000Z",
         "summary": null
       },
       {
@@ -71,9 +64,23 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-11T21:31:14.000Z",
         "summary": null
+      },
+      {
+        "title": "Intel Future Price Hikes Send Huge Demand Signal to Wall Street",
+        "url": "https://www.barchart.com/story/news/3240255/intel-future-price-hikes-send-huge-demand-signal-to-wall-street?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-11T19:30:02.000Z",
+        "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeHZ6M1pQQnA1cmx6ckRYRGdOUWtFdFR6WHhGMDAzYlVVb1dTUFAyNXhmcGtqV05GaW52YWR1dnlQMHgzLWcyTmJCN3cyVzE5TFJBdVlaeWpyTTFJQlpQUmpsVVZ1SEFrYl9uQi1mRUpTZTBKRURmSXJvR3pEMnZHbHdvaU5YSnJKaUt1VjRVYmNBaVlRYmY2cw?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-13T01:30:08.000Z",
+        "summary": null
+      },
       {
         "title": "삼성전자(005930) - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0VHbGpHUG55U3l3bF8yOEcyeDc2Qzk2UE9ha3ZjV3paajRoSjJiYkZzaUl2UlQyZHphcHZxdlJHUi1ZNUdiaGlLWHNXazIxWGRYZ3hzT2xrTVlTS1djYjlod193aURNd0VfTDF5QjdOZml5TFZUanowQUxKQkN5TGVlQUdqZ3F1TE50dEtDajRtSHljU1NJ?oc=5",
@@ -96,17 +103,10 @@
         "summary": null
       },
       {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa1pvZVRvaTl1NTZZVVg0ejBQaDRfVHdPejI1RkpPN1Bqbl9zYUQ1VzZWNFRqbjl6UDVZbkhkeFlacVFxNnZ3dVpBVGJMSFU5Snl5aEZnbVJ2ck1nanJqUkZPa3Y0ckZWMHp0aFZadnhPS1dYaUNVZDkzdkJLMmpVZy1wUk84c2pTdUVHbHdsUnZYUWdyTUtB?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-10T01:29:26.000Z",
-        "summary": null
-      },
-      {
         "title": "삼성전자(005930)- 매일경제 마켓 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmFFM29lQXpJWFB2Q1RsdVdaSXR6cTM4NnlJUUcySVRPTFgwNmZKWHBKREhUOFEwc2o3dHFxOUx0WDFXemJMOVJlVzJ1dGJPcmlNLXh5R2FlTWc3Y3ZYNlJqQmc2Qlo4bnN6M0xoSkx0UnRrY3J0STFxandaQThmS1RSeUNDRkZSQ2VZQTMtUjVQN2tqQ0Nj?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxpV3lnUHBleTRFeFhxcEVtd25EV1dBTi12QWlzSjN4bjlXblJhdVlUeVF4X1hHMGVQUTJxUnJPelpfWE9XYVkwX0ZjMjBEcTZRbFNzVmVmbWthdGRmSEJIMGlWYkZOQU1NNHpwMXRiNG1CWlQtVWNOVGpNbUNMMnFQLTUzbUhPODVqSmdKOEN4dUlkNU9j?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-07-08T00:47:37.000Z",
+        "publishedAt": "2026-07-08T00:47:38.000Z",
         "summary": null
       },
       {
@@ -131,10 +131,10 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-06T04:59:00.000Z",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-06T05:23:00.000Z",
         "summary": null
       },
       {
@@ -182,13 +182,6 @@
         "summary": null
       },
       {
-        "title": "One Tech Stock to Buy and Hold For The Next Decade - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZVJOck1odC1qejdJMmVoTDZvU0syUjN2VndiTG8yVE40aDBpNUxuYWxTbDRTZ2ZLc1BJLW8wempLUEFxV0dua0ttaWZMQmxqQU8xVlIwUW9iYVc4NVlSY04tMWg3NGRzOHE5OWUzWG5lem5vbkZKbDlhWUJ2Z3UyOFRINmVzLUNTRWNFVzhLak0yWTZVMWwwVXJR?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-07-02T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "Apple Is Best Positioned To Face Memory Shock: Reiterate Buy - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeGtZV3JSc3dQdFAtVHVmS1JBdDlBcldHTlpFREozdk94TFNtaWlZWlJGVldhUV9XRTNNYXdVSVBDeVBQaUltWEp2RTQybDl4YjBuYzMxaVhFeUhwMjBaREthWEh0QzFjZldMa3VDZS1IVm9xZjZudmx4NmF5Z2lwY0JlSk04bzBWal9KUXVvYzByOU9acXBEYmtrSnNHOEI0Umc?oc=5",
         "source": "Seeking Alpha",
@@ -213,6 +206,13 @@
         "title": "This Stock is My Biggest Bet For July - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnVhcTFzcVB2dFBqa0JTREdqZEFhcldBZGpJOC1UT2pETW9jQU8xWjhMMXlRNEFVdnlvcHNwS3JWaWphT1lpd0tmdUc0TDY5RncybDhtNDNTaVlzS09Md3U4UlBYR3hJRXVVcjhrSGk1eEw1Q1VMbERzOGwyTEFCbFV3aXNOMEkxaDd1X3YzaUI?oc=5",
         "source": "Yahoo Finance",
+        "publishedAt": "2026-06-30T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "What's Going On With Apple Stock Tuesday? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObjNzZDB1em9IWWtsQmZGRUZZbHBsZU53UUUya1JWWldUc0VXMGRmX3NhbVphSUVySURWUy0tTUhZa2VIR3BTTUcwX2Y5NTVlN0lzNm80S2tpeFNHQkFRNUhzWkpscDJHa0hoT2FSZW9TRFkxc0VvRFloRTgwZ1lLZWhHQUU5QXdQVUp5MmhNZGVScG9SUWxZQ2dpRGdOY1g2V1JSRFpPUnBXR05PUFFGLTVPT2lLS3MwWkl5NmZ3bjlnbG5OdElKVUdiaVZ2VDVVSlpj?oc=5",
+        "source": "Benzinga",
         "publishedAt": "2026-06-30T07:00:00.000Z",
         "summary": null
       }
