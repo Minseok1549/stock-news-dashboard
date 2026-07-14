@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-07-14T13:40:14.104Z",
+  "generatedAt": "2026-07-14T16:13:02.666Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Stock (NASDAQ:INTC) Lags Chip Rebound as $5.7 Billion Ireland Bet Raises Cash-Flow Bar - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ2NYUVpTaTZiN2o4Z09hODU3c3J4TEpLUzVCUkJCR0lDZDJrRkllaXVCNTNxdEZEY3NFVzVtRzRyVmVlY0VMRmpaUGNSVXRCNmg1M0IxNUE1WHhoSEl3OERPSG1qTWZOU2hHLVZtaHVSRVFXNUdEZTlDaHZiZjlhcUl5OXpOTGZpdUluNDJ3MHNOOG1zN0hoU2Y2MGhBQmpkNkIyNkVfLUNsTEtxd0E?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-07-14T15:42:12.000Z",
+        "summary": null
+      },
+      {
+        "title": "VLUE vs. VTV: Does the Value Factor Beat Just Buying Vanguard’s Value ETF?",
+        "url": "https://247wallst.com/investing/etf/2026/07/14/vlue-vs-vtv-does-the-value-factor-beat-just-buying-vanguards-value-etf/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T15:35:10.000Z",
+        "summary": null
+      },
+      {
+        "title": "Micron Stock Looks Transformed. One Number Shows The Old Risk Lingers.",
+        "url": "https://www.trefis.com/articles/607038/micron-stock-looks-transformed-one-number-shows-the-old-risk-lingers/2026-07-14?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T14:58:35.000Z",
+        "summary": null
+      },
+      {
+        "title": "What Intel Stock’s Data Center Was Saying Before The Surge - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjhFZHpsNEU2bWptVG5KTjNRaVRpSVBaZURyWkRwaDF0M1dMck1SRmNWNkx2dlN1SUc5Q0JUcEk2MXBoVEp3MWZYRHFJMmFLcUc0SlBKb0Z6cTllWkpweWp0dDdLQWExd19sS3NqR0I1UllONFFvd1hySGM2M2dYVW82OFoxaE9DLXhOVmc4elJvOXpVZlhlVGt2WkVFVWdISkNqWGtpR0RfbHZENy03c0I5cmpVU2s0QVE?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-07-14T14:55:47.000Z",
+        "summary": null
+      },
+      {
+        "title": "What Intel Stock's Data Center Was Saying Before The Surge",
+        "url": "https://www.trefis.com/articles/607031/what-intel-stocks-data-center-was-saying-before-the-surge/2026-07-14?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T14:49:03.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel's stock soars 369% as AI demand boosts sa... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSU1mVENQeEJwYjlsZ2JLUjRRUmtyOUY2dGU1WTZFRkF4ZlY1ZEhsVjBJbmpmV2thZjJEMXc2QXRLR1FSZ0xCMC1iTXNVd3REenF5am1nLVp5UWtKM0RXRzNlM1J5c3BlR21fd3dnYTk4dzQ5RGRGY090WXRKRFg2RERR?oc=5",
+        "source": "Pluang",
+        "publishedAt": "2026-07-14T14:48:12.000Z",
+        "summary": null
+      },
+      {
+        "title": "Is Intel’s Turnaround Finally Real, or a Value Trap Investors Should Avoid? - TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLV96QWpfSGRfZGpUaEQyMXEwRXAtUnN2ZU1vSm8ybTkzYmJTNmZYbC1RSERvWjdKeElFdkx0ZkVtSmtnR1BBT0dUVEh5bGcxZUVKQkIwWU8xdjBzUmZId2pwSHJoTjJfWHpFa3lUU19IdmFIakhtLUdoaDlQUElDbXo1MA?oc=5",
+        "source": "TIKR.com",
+        "publishedAt": "2026-07-14T14:06:48.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD Rallies 5%, Intel Rises 4% as Cooling Inflation Sparks a Chip Rebound",
+        "url": "https://247wallst.com/investing/2026/07/14/amd-rallies-5-intel-rises-4-as-cooling-inflation-sparks-a-chip-rebound/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-14T13:42:38.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD Rallies 5%, Intel Rises 4% as Cooling Inflation Sparks a Chip Rebound - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnhNeDh3Tko0WXVGWDNtZ3FyWXhPR1pJMGRjSWdkX1YxLUdXSklJb0RUM2R6YjJaMENWbThkVVBsREFVeFVsclNRRW5MVzJndWdBNVliU2hvMGRvNUdlZEV5bE14S0kzWDRoWlpJQmNyRm5jbDV6OXNFakQ3Wk9HZS1BN01fRzRTV1A2UExaUmxuZm5QcEpHcVFHWjNWMGhGcENOb3l1UUxLUlhlZ0FHcDdMYXc?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-07-14T13:42:38.000Z",
+        "summary": null
+      },
       {
         "title": "ThoughtLab Collaborates with Urban Leaders to Provide Cities with an Evidence-Based AI Playbook and Benchmarking Model",
         "url": "https://finance.yahoo.com/technology/ai/articles/thoughtlab-collaborates-urban-leaders-cities-130700535.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-14T13:07:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "IBM, JPMorgan, SK Hynix, AMD, Intel, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/3fe415be-3d97-3645-91bb-0790bcf31237/ibm%2C-jpmorgan%2C-sk-hynix%2C-amd%2C.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T12:24:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "KeyBanc raises Intel stock price target to $155 on AI demand - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzhyLWxCLXZJVTIzM3hHSGI2MzBZWWpEM2ZOYThHSVRtSDlBN2dwZmVBTG1PRGlrNjg1Q3hVa0ZkN2IxZTlDY2ZWb2wtelNsX3lYcXp6R0JCYm1GaXVYUjZKbFlfdk5FOFdmeThYSUxSLVhZTE9SdUY0NjE1YUJTWjluaC1MLWRjbUpoLUdjVERCVjNIN1VoMkxKUjZHSHVYdDBMcHNMTXFGY2N0M0ZrUFlIX2NUeHVxSkJB?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-07-14T10:56:49.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Purchased by State of Michigan Retirement System - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcFNJQWU2SXFEbjFYT214N09pRzRkV0stckhSMzFYVjgzX3h4UzRjNmMxMkJvaUJJWUZYTElaSnZfUmRvYUJPSVd3Tm4tVFpMeUp3RFlrVnBQbjN5eV9pNGVQbFN5bmd5dUEwcHdBVXRCaU1XV09kUmI3M3lHOUI5bWQxbDJoenV3enllVEZRSnU0REJiMElteVNTY2o5cW5kaTFXMzA4NktiaTF0bXJzdUM1NWFpNnl0eHpVckc4WDBLQkFVaUYwand5Ym9qdlMyWG9SZ0VR?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-07-14T10:15:36.000Z",
-        "summary": null
-      },
-      {
-        "title": "4,988 Shares in Intel Corporation $INTC Purchased by NBZ Investment Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTUNDNklWVnpfRU1SamhpT3RLUlVla3JvYmZqMjNzMXJiV0djMDhvaUNZcW5tdnAzaEM1aFdiS3dmeFIzMkdzZk5rLTVMVTlvTkxoeG51MmJqN2J3S1FFM2RGTkotWnY3Q2hzQ20tZ21RMkJUVWV6X0dmUEZZajY0ekR5MTFJVGFOX0FmLTN2SmNpbVNwX2ZfVkZpTXpGM2hSLWVWS0pVT2RUMVdfMHA3Z2lGYmQ3Yy1VS1FHTEpFQ2VEWWxFMkhiU2FROHBzLUxhbFdMZWhB?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-07-14T10:15:36.000Z",
-        "summary": null
-      },
-      {
-        "title": "Teachers Retirement System of The State of Kentucky Sells 326,093 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSjdheHNOSzVteU44bUVMbThTay1ESDlUSkNDejlzQW9KaHFKaXJXMFdvd1hpVndhS2R2TUJES2FncUNTZERhbWtHRnJHc3dHVFZadGJJQnpnd0VHdy12VHVMVG5OaUJydG9QSFQ0eDNYd3llSmpXcE1kdmZNQUQyWEdFaDVNNkMxOFRQVjJQcEZoYk5seFMtRmZIOS0wdWx4VkZpWEg4RGg1d2xleGpUWFpyWWU2SC03VEd2RWtNbklRWW9XYmwxNlBpN3EwMDlIa2pta0RlTmhBUUdfX2IyTDhWU0ZoMkNRTlhoQUF1TQ?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-07-14T10:15:35.000Z",
-        "summary": null
-      },
-      {
-        "title": "Sovran Advisors LLC Increases Stock Holdings in Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON0pIYjBuX0Zabkd5VmlvX0lqeHNLcXg1Yy0tYVpFQ0d2RHJfYkF2Z1pfSlhWYkZ4NDZpSTdBR0pNV1hDYjNMOVRnZ3JDWm5LQUFRRGN0Njg5WUhuSllqWWFZa0c0cXBzR2Vwc3dVd0xVY1VjOUZ0bU9kNUM2TDNlYl9fYkk2dnoydC04WTdra2U1blVxUkFJUUZpZ3Vvc2VPaXdqM3dXZnZ1d1ZoUzhiQjhPT3NpNmV4UFVoNzE0SFJHQVFMT29sWFBuQQ?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-07-14T09:23:16.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel commits $5.7bn to expand Leixlip manufacturing site",
-        "url": "https://www.verdict.co.uk/intel-commits-5-7bn-to-leixlip/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T08:49:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "NVDA, INTC, MU, SNDK: Chip Stocks Rebound Despite Another Escalation In US-Iran Conflict",
-        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-mu-sndk-chip-stocks-rebound-despite-another-escalation-in-us-iran-conflict/cZZbqIJR7ph?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-14T08:44:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "NVDA, INTC, MU, SNDK: Chip Stocks Rebound Despite Another Escalation In US-Iran Conflict - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTXV3TEJMRDZsaXdEZTRKQ2VjajJaSmNBME9WbTAwUkpLTEtkSTM5bldqRjgwQl8zajJDZFNSUVdVaXpteVdTcnMzY3oxbDJGVDVQNEI3a0pUb1M1RTRZNmlJdVpHdFktWWswcGFJYjcwNENsLWNoMUVHQUFPOUg4MHF1ZVgzNDIyQV9LTDBZcWxTdHBxMXdsSjA1TlM5UU9Oc29Bd0pRV2FwZHg1VklGclc4VE8wbVhtb1YwQ2t4ZlpsaDM1dlIyZlNKWm9PREs2U09qREJEV3BZMmtxblE?oc=5",
-        "source": "TradingView",
-        "publishedAt": "2026-07-14T08:44:51.000Z",
         "summary": null
       }
     ],
