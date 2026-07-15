@@ -1,26 +1,47 @@
 {
-  "generatedAt": "2026-07-15T19:08:35.512Z",
+  "generatedAt": "2026-07-15T21:59:23.843Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Stock Market Today: Nasdaq Rises Despite Tumble Among Chip Leaders; Apple Paces Mag 7 Rally",
+        "url": "https://finance.yahoo.com/m/8b0331a9-7640-359f-947b-04f63d65cc26/stock-market-today%3A-nasdaq.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-15T20:31:15.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Begins Using ASML's Most Advanced Chipmaking Machine",
+        "url": "https://finance.yahoo.com/technology/articles/intel-begins-using-asmls-most-201109178.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-15T20:11:09.000Z",
+        "summary": null
+      },
+      {
+        "title": "Can Intel INTC Stock Defend $100 Support Again as Chinese Competition Pulls US Semiconductors Down? - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdU15bXlWYnQ3RDVwOXlhX3ZwNkhFNHR0Y0JFX3lVTV84UERoTmNCNmdUcnJscDlKTzZNalRfV0otSHBuNVdWTWlxdzIyTXhNX0o1eVJoU000OEEtd1FaUlJESUJ5TFFIekstQnBqMGNSWFZXT0swdWxxSGF2TkQ5MFk4dWtGSHZnUmhnNGVheTJfLXVUN3pqcnFWU01HclA1NmgwVThUdmNwY2RMazdXb25IcDFWcG83LVRCcDRLSjNWMEsyVDRSZ1AzS0Z4U0RsQ25OMm1OWQ?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-07-15T19:42:18.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Taps ASML for New Hardware, Intel Stock (NASDAQ:INTC) Slides - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWFmWktTd2Q4XzRBdnBlNUhBbmtoTHhVMUx2OUFJRVZaeW9XR0NRa3dsVVljRVV1QkhJMUVwRW9Sbm9ZbnJuVXhSMVNCUERDSmhvRUI1cUMxWVZ5Mzlkb2VzQmJ0cFRfYjhjcWpkcnR4Y0wtbzJuSTdfd3BmYVZZaEJHNVpqVkxxS1dBWGhOZFVDOFlnYTBv?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-07-15T19:17:28.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation stock Analysis: Bearish Setup vs Analyst Upgrades Ahead of Earnings - The Cryptonomist",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR2hXQlM2bFFRY3JBcWFPWTJwYmFPdGhBb3NNSEpSREhidjV5aTdjQjJfZk9HdVNnTlYxQ3NRZDZLRmFtb2hrN2lXdFVpWEt5dDctTV9QS2pJS1lfQk1VNzZZbnJ0RFZoOHIxZVc3RXhtZnVzOTc5ZXpuQml6WGRkcXJHTVZOUG9mSEZTbmlIYVFnYmJsdHprMmM5MmdURE9SckdBeFlFaTN6TWtL?oc=5",
+        "source": "The Cryptonomist",
+        "publishedAt": "2026-07-15T18:32:10.000Z",
+        "summary": null
+      },
       {
         "title": "Applied Optoelectronics Falls 12%, Coherent and Lumentum Slide as AI Optics Trade Cools",
         "url": "https://247wallst.com/investing/2026/07/15/applied-optoelectronics-falls-12-coherent-and-lumentum-slide-as-ai-optics-trade-cools/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-15T18:18:31.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Market Today: Nasdaq Gains Steam; PayPal Surges, But Sandisk, Chip Stocks Tumble (Live Coverage)",
-        "url": "https://finance.yahoo.com/m/8b0331a9-7640-359f-947b-04f63d65cc26/stock-market-today%3A-nasdaq.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T18:18:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Micron, PayPal, IBM, SpaceX, BlackRock, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/7f6124a8-3d38-32d3-beb1-d4745f652359/micron%2C-paypal%2C-ibm%2C-spacex%2C.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T18:16:00.000Z",
         "summary": null
       },
       {
@@ -49,27 +70,6 @@
         "url": "https://247wallst.com/investing/2026/07/15/micron-drops-8-on-china-competition-fears-dragging-intel-amd-and-marvell/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-15T16:01:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTZfLXdSMWlURUhiNXhVRXB3czIweWt2Z3Q3TXVLSXJVdWR2MmV4MW9IeWVGM1BDZ21nT1lzUXJLNExHM1owMmFZMzNzUHdiSk4zUktkSl9YMEw5eHJ3LWNxVjhPV291VnJINXhGYUhFMmtuUXA5QWxVVEtSODdhU1RSX3Bhb3BUOVlMamJoV055YlB2UVowNVB6bDFjeHFXQVBPQWdqQ3pKa2hUVERIbTFtQmZBT3c?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-07-15T16:01:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Slumps Over 5%, $100 Level at Risk: BofA Warns Its Server CPU Share Will Be Cut in Half - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYlJmZkNPOXk0ZWxKZHRQVTBPVjBDd2N3dGF3SlF4WngwdDVCbDYwclkydHBOTVdjYXh1U2FucDZmSDc2VXFFd2VZa0JwaGYxTW9MUGVJZ1BJb0JuSTBCajVwWnA2eGRONWNwYm5XSkh6WjNFZkdYVExweW5rbFpELUtlZHBpS2NXWE9jM1Vpdk5xM1JZQXVBTEt6MTBqVDBLVWktRnoyUTV5TkN5bGJnaUN1NE45T3ZTOTZ5al9OdzQxemFYNUZXeXo1M0E4U3o5aFlQenRNSmUzSUNX?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-07-15T15:41:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "Micron Stock Offers More Than Market Momentum",
-        "url": "https://www.trefis.com/articles/607285/micron-stock-offers-more-than-market-momentum/2026-07-15?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-15T15:31:20.000Z",
         "summary": null
       }
     ],
@@ -124,13 +124,6 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8000선 종가 방어 성공…외국인·기관 매수세 유입 증시 견인 (005930, 삼성전자, 주식시장, 코스피, 2026년 7월 6일 일요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oQ3NLYUsxNmNzZm5PR2JCck81cjNFWTNZYjlKVk1Yd2pXbmhTeUlaT2cxbnVSZkhlUlNSSXlrZmotZ0NQTzNiWlRBUUV2eVZ0ZkZwS2JwbHpsSkhqTnVxS3drZEVfR1REcTBNYQ?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-06T06:41:49.000Z",
-        "summary": null
-      },
-      {
         "title": "삼성전자, 5.84% 급락…외국인·기관 매도세에 31만원대 마감 (005930, 반도체, 주가하락, 수급, 2026년 7월 1일 화요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeXMwdk4yb29XcGhwOWVIYTdHeTlTcVB6T1NDckU1cmt1Uk9XRTNkSW5xM3ltUTVMUDluLU1CWkZNZDJoeDVQeG1rNW02dFFrTGt2TnhRcFZkZDVTUnlzYnhET0RBbW95OWs0bA?oc=5",
         "source": "민심뉴스",
@@ -142,6 +135,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PRjc1QzZ2QmJndW8zU0JHN0xRYTJMODV3UmZGSl95UTd0WmhtemhQQlIxc1NpNlpqX1lrN2VVaThxbUxPYngxQzdQaVk5N1RKcGVkSVBwMk5kTWR6ZkFLQlpPVmE3QW5WdHVnTg?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-06-26T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "2026-06-24 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 반도체) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qNWJjd2RyTW5BcTM2d3RTYlRrOVdCQkE3SXItUTNQTVBEeThPelpfaWx4QTNSM3h5QlZLdGFSOTF0MG95RWR3S3BzSHNTazVyNnN0RDNtR3JWdUtlVjU1WEZwbnhfVlFjcG1PQQ?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-06-24T07:00:00.000Z",
         "summary": null
       }
     ],
