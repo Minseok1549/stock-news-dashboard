@@ -1,12 +1,19 @@
 {
-  "generatedAt": "2026-07-17T02:32:09.230Z",
+  "generatedAt": "2026-07-17T05:41:50.729Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Stock Falls After a Year of Big Gains, Faces Profit Test in Doubling Over Next Five Years - NAI500",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVhqeTZsZGVwdFFpa3J2SldLc3hEQlVaX3E4WDlTbHdpODI0Si1BRl9YWXppLWx3WGpRWW53MGozZWpKV2F0X29PazNxaks0M2pYRU1KMU1hYUtKYmNubW1SVE10Ulpud2l1Ul9wT2N2ckFxcnljZWllTnQ3T1JxYTA2UzlVMWFOR3F0ZnQtNzFZTDRxamRoU0FGS0M4ei1qdmtrdVlDRWFKclBfaUtMNzUtUzZzeVl3dTNNbUNjYlp3MFVGZVE?oc=5",
+        "source": "NAI500",
+        "publishedAt": "2026-07-17T04:45:36.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Stock Price Prediction: Can INTC Hold $94 Before Q2 Earnings? - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeU5CSjJkdHc5OV8zbHA1Z25mVzZTNjE3R25SWHp4ajU5anZ5OTdVVEVOaGx3NXBybHVNREtGZUxabmFKbUExc1MxdkhLUmlLOEgtck13QkFfdlpMRzRUeHFsTnpMc1A3RWU3OFVJRk5nSnktRmlLVFVFcWRLSEQ1bF9kdXh6MGxRdHFoLWptQi1XdXVoeXFKbF9jbS14U3cxVzY0bmdnWFNoRTExWVdlTS1POHVtTzFyOEFOZjZFNnJXYjdQSV9zd1kxYnNXeWpDMEFkYkYzNng?oc=5",
         "source": "TradingKey",
-        "publishedAt": "2026-07-17T02:04:10.000Z",
+        "publishedAt": "2026-07-17T02:05:28.000Z",
         "summary": null
       },
       {
@@ -14,6 +21,13 @@
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmFVdHlRNU9abUwxbXloZmU0NDNVSjNVdnA1OURsaVdqcFN4anBxV0NoSzlZYUpKUkYweEFXZWhsSEpyNmxZYXlzenRhcUhKZGZETnRLc2YxcldUNnJfMjBoR3BwX0Z6azRQSEF4TWFmWUY5aHZ1VXNFSTkyZUp6emFwN3pDNHIzQU0wX3dVUjR5MXhuZGFTX2VkSlpRM20tSXA2WWRhVk92ZHJlWFpxZWUzOW40T0FjS19yN013VVhDQWRZMWJrTVFB0gHPAUFVX3lxTE15T3JXX25NRVBRQ0dMSmFMX2RST3c3UVRDYVh4M0U4c3FTZnRQRVA1VEU1R3hmTDd5UmhmX0ttWUx1bTZrMzdPcVpVeFpkYlh4X3hpRkNZSURIMkV3YUQwN0E1d1ZlQkUxaWNoU0ZYMXBKbVVpRnVFSWJPcWdiQzBlVzRFWmFFaGxzWjNfamt4WDVZdFI2aV85Z3U0U3ljZ2hnOVBuQnE2WDk4REtCVE1wWGtZbkFMaHdxR1NhV3JRUzJELTl2NlNxMXJpRTA3cw?oc=5",
         "source": "simplywall.st",
         "publishedAt": "2026-07-17T01:04:32.000Z",
+        "summary": null
+      },
+      {
+        "title": "NVDA, INTC, MU, SNDK: Chip Stocks Rebound Despite Another Escalation In US-Iran Conflict - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0dycVQxeG4zbzMyUUtuWU1vaUJaUGFlSjZ5Wmc3TlVFUGpjZWpTWllzV0ZGV0dTYm15UldpTTRseXZ4cHUtb09CczVXazlqLUhRejh4OW1CRzU1WExkZ01hOU9lQmNfS1hFX000bFhXS1ZjZ0xKdFNEYTZncXBmM2J2c3ZYZVRIY0sxRUZLLWJ4NmxOakRwR21VUmRnU2Q1aWJyRVlwMmw3QzFZdjByWnJMM051eXA1NmF2ZTNacUs0SHFnSlphWi00MDlqbXV3ZTNrajhKNHM2RTBrRFl4bm93?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-07-16T22:30:23.000Z",
         "summary": null
       },
       {
@@ -56,20 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcmN0ZW5KdlBzMzM3YS1pSElvamdtMEVIandKVE41QlFnNHdsclNyN0tHNlZaT2xxYi1EamR2RUVtTlZGNVp6akJuNzlwdmpvSUpPV1BBalZIMWt3M1VHdjJFc0tLblZTaUl2TWZrYnhOUTB6VndJTHk2SmRrTE03UGc4dHF0OVJkN0NiY1Z5ODNMb0duZlh3N0ZYS2c2ZDd0VkQ4cV82cXVrSGdsbVE?oc=5",
         "source": "TIKR.com",
         "publishedAt": "2026-07-16T18:42:14.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel, Micron among market cap stock movers on Thursday - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjltNncxdEN5aUs5Ri0yUTBqekp5SjAzaFZlVFRHSDRZZGhXVzlYQWlpcW4tQVhYbmlFSENxaWtHMHBQRE5wQlFvczRVME5uV0VMb2VnWjNMZHViMUlpWU9uRFFNZU85MXl2TWdiR3ZrcGRsbVRXcURKbnpTdzVLTFN4Y2pZb0dqWmNidFlDVUJBVnZIVHJwb0dxd0lMcW1CODVPSTlMdW56QzAyNEJUVXlTS2U3TzA?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-07-16T18:07:23.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell Stock's AI Bet Is Even Bigger Than You Think",
-        "url": "https://www.trefis.com/articles/607498/marvell-stocks-ai-bet-is-even-bigger-than-you-think/2026-07-16?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-16T18:06:31.000Z",
         "summary": null
       }
     ],
