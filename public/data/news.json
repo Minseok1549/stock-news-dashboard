@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-07-18T10:17:22.086Z",
+  "generatedAt": "2026-07-18T13:12:01.643Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Dow Jones Futures: Google, Tesla, AMD Loom After AI Stock Sell-Off",
+        "url": "https://finance.yahoo.com/m/6c8dacfc-1037-32fc-a343-353600ff0076/dow-jones-futures%3A-google%2C.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-18T12:43:44.000Z",
+        "summary": null
+      },
       {
         "title": "Future Fund LLC Buys Shares of 25,000 Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMU54RHlRcmlpZEJPWjBwNnJtLTRUa2VrTmdqMVRaWDZOaDZFa01GbFRyRE03QUhldkdvdGgxTFlKcmNHM2RyaktyMmY3dEJpcGU3VkVmSlBGNEd3dDk4Y19aMngySlVlWk5VM041bzdGWmRLV3RxdmtURTI0R2pvaWpmU1VIOVVLcjdXbzlzQTVQN1lUb0x5c3lDUHdVcjItbGlDSVB5RER4QTFHNkNPMGZZa3lDRVkxWlpubw?oc=5",
@@ -63,13 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2N5V2dadjMyZXZMTjFyb2R4OVZvVzdZVDRoUUljR0NUaUlIdDJvcHV2eWhfV2huS2t6c0hySzZzV2Z2MmN5MjVnV0JmU3FhWHVBMS1KLTlTTDlYblpnOUhmYTRvVTBicTBOcEFzelhpRnE4YUNUaEE5S2dnRHozRW1xWk4wSUF0dnhySkktQjJodUVmQVVPcUhKZ0hqeXlFQ2dzazRaYVBuTFdoMXNnTVdYdw?oc=5",
         "source": "TipRanks",
         "publishedAt": "2026-07-18T00:30:35.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Market Today, July 17: Stocks Slide as Semiconductor Rout Deepens",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/17/stock-market-today-july-17-stocks-slide-as-semiconductor-rout-deepens/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-17T21:33:59.000Z",
         "summary": null
       }
     ],
@@ -203,17 +203,17 @@
         "summary": null
       },
       {
-        "title": "Apple’s 2027 hardware refresh sends Wall Street a warning - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTV9lS2hLLWlaUHZfYXE4QnlaOHpiQkpGX3N5V3FjVHVDekRyWjdlWnh2YkNkT0V4aHhoLXV4aG51ZXl0Wjd6OWRmSWlMaFpzbHMtZHVjWVl1RmpKQ0QyOXppal9BX213QUdheWZ3ZDdSNXA3a0xWNkNkRms2eVBpVnBJMkZ1NWY3SXlpM3p2aG9rRFM5U2dqQy1IYUZ2QQ?oc=5",
-        "source": "thestreet.com",
+        "title": "Apple Is Reportedly Planning 5 New iPhones -- Including a $2,500 Foldable. Here's What It Means for the Stock. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2VrWjV0Y3dRazVTbFJOcWVUZUlLTFFQNDFEMXFZRUVjV0RxLVhQU3VYNU1Sck52S3RtZ3RmTDNpZE94bTM3U2RwamtPb1Z3dFhPWXRMMGlJeDl1RmJQaDBLLTN3cWNHT2VqRG56TWRtTEpOb3RnaDJCLWhPcXlnNFc2SUc0NlZINEltMko4WmpOV0ZCak94eg?oc=5",
+        "source": "The Motley Fool",
         "publishedAt": "2026-07-04T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple Just Made a Controversial Move. Is the Stock One to Avoid or Is Now the Time to Buy? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTlVbk9KVFpmVEJ5MF85bVdVTnRyQmxwNnR6SGFpS1lUYlN2ejJpcGcyXy16SDlnME9za09LSDJRM0lwSGI0VXNyZjg4MGxxRWRjNWV2aXNadEhDY210RkN3MnJrS0ZfQnJwWjU0aHNYdjZEa0RERFktTmxzOEJRbWpvb1R4WldDWUJHd0d3N19xMklmZmFJM01CeGp3WHlV?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-03T07:00:00.000Z",
+        "title": "Apple’s 2027 hardware refresh sends Wall Street a warning - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTV9lS2hLLWlaUHZfYXE4QnlaOHpiQkpGX3N5V3FjVHVDekRyWjdlWnh2YkNkT0V4aHhoLXV4aG51ZXl0Wjd6OWRmSWlMaFpzbHMtZHVjWVl1RmpKQ0QyOXppal9BX213QUdheWZ3ZDdSNXA3a0xWNkNkRms2eVBpVnBJMkZ1NWY3SXlpM3p2aG9rRFM5U2dqQy1IYUZ2QQ?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-07-04T07:00:00.000Z",
         "summary": null
       }
     ]
