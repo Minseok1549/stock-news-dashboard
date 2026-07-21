@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-07-20T21:58:34.786Z",
+  "generatedAt": "2026-07-21T02:33:21.038Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Review & Preview: Rough Start",
+        "url": "https://finance.yahoo.com/m/8bc95bd9-0e6a-3070-a835-6e5524283a63/review-%26-preview%3A-rough-start.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-20T23:55:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "After A Steep Run And A Sharp Drop, Is Marvell Technology Stock A Bet On The AI Buildout?",
+        "url": "https://www.trefis.com/articles/607947/after-a-steep-run-and-a-sharp-drop-is-marvell-technology-stock-a-bet-on-the-ai-buildout/2026-07-20?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-20T23:53:19.000Z",
+        "summary": null
+      },
+      {
+        "title": "Stock Market Today, July 20: Hut 8  Surges 10% as Geopolitical Tensions Weigh on Broader Market",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/20/stock-market-today-july-20-hut-8-surges-10-as-geopolitical-tensions-weigh-on-broader-market/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-20T22:17:56.000Z",
+        "summary": null
+      },
+      {
+        "title": "Wedbush's Intel call has catch buried in fine print",
+        "url": "https://www.thestreet.com/investing/stocks/intel-stock-q2-earnings-wedbush-warning?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-20T22:17:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Is Ultralytics’ OpenVINO Boost a Quiet Step Toward Intel’s (INTC) Edge AI Foundry Ambitions?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ultralytics-openvino-boost-quiet-step-221308968.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-20T22:13:08.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (NASDAQ:INTC) Stock Price Up 2.1% - Time to Buy? - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnotV0pQUmJuYzBqVU4yZkRmdkxOdHdpSUdYVkR2MDdSVmJYMUxhN2haRnRqS21LRUJtZGE4X093dm04c3ZBajBhUEMzRENqOHBReVpYOUpWSzJwV3p3SnhlUmZuQVJqeGtyMVpFdVdpdFVqMGphNkIxSE1jOExldzhEMWdGSVBKelEzUndnOExuc09ZX1lvajIzMGt5aHNTc0E?oc=5",
@@ -36,49 +71,14 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-20T20:27:00.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Reports Earnings Thursday. Here’s How Much Its Stock Is Seen Moving",
-        "url": "https://www.investopedia.com/intel-reports-earnings-thursday-here-is-how-much-its-stock-is-seen-moving-intc-q2-fy2026-12020849?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-20T20:23:21.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Earnings Preview: Can Strong Server Demand Rescue INTC Stock Toward New Highs? - FXLeaders",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGcyYVBFM2dPRVo4dTF2SFRueVpHR1RWNUpUWmtGTThqQmgzdFhQalo5cnc3b2V5UWt4U1I5SDJHUmJRNG5CNjdVSWNZMWs4bHhKejJobVZnMlF5TXR2anJSYjdxZ3BjUFkwaFMwaUZ5QVdNeFI5Yk10enlveGdyRlFnN0dCck0wX1dldUNEWmlnUkZXcXFmTGhTNzZtSDI2ZElHSl9iRFBLUVAwOHJxak5zOXRYdlA3T3VERzVzWFhrYWM?oc=5",
-        "source": "FXLeaders",
-        "publishedAt": "2026-07-20T20:03:56.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel and AMD Get AI Earnings Setup",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-amd-ai-earnings-setup-200050646.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-20T20:00:50.000Z",
-        "summary": null
-      },
-      {
-        "title": "Is ASML Extremely Overvalued or a Bargain at 45x Forward Earnings?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/asml-extremely-overvalued-bargain-45x-193439508.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-20T19:34:39.000Z",
-        "summary": null
-      },
-      {
-        "title": "Closing bell: The biggest market movers today",
-        "url": "https://finance.yahoo.com/video/closing-bell-the-biggest-market-movers-today-193438506.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-20T19:34:38.000Z",
-        "summary": null
       }
     ],
     "005930": [
       {
         "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmVQU3NGSTkyZVgyb1VrVnRMRlBHTlJaT1dhc0RGY1I2dVU5X2pheUJwVXNhbFNPakMwV05QUEszbVpLdG5lSm5kQzBsNG40Rjc2aGxwRk9uMmlxTjZOOThfQlkzSHB4MFhhdl82d3ZCSDF6Vmw1WWRiQUIzajFjVVNfcXlEOENrN2RrVUE0ZzRNLUNqbEtV?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb09pNlJvT3c3cE9mUDJfbS1iM2kteFFKN2pFS3dVTEl2VUcxR25uenRTY3U0VGxEd29iSHBFbW5taUdwVlE0NHZnbl9kZkNUVTdfbU5YTXNKdjNpV2llV0o1RUFVNzZPZkdKRndmZHFJUzh0aDRtbUhjbkZBdnVROTRSc0pVbzJYWFZQajdTOVdhSUt2QkFR?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-07-20T00:48:51.000Z",
+        "publishedAt": "2026-07-21T01:09:29.000Z",
         "summary": null
       },
       {
@@ -97,9 +97,16 @@
       },
       {
         "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNi00MGRySVJHX2swYzZsaDVzc2RhOVBqN1RNTlF0eTE2RURBbkhoLUVDWWFPcVdSUGxoRHlNZG0wUFIxbHZ3NmVkbU5JUWFmZ21ld3RiOENEbjJnZXRpcm9uM05pc2Npc0J1MXpGblJVaC1oMGRWeUd6NXhCMWgxMjI5aEVQRjdJVWVNbGcwMUFvMU9EWm5Z?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdGhoZ0FxZkpHbmx2X21hbGlUUzR4MlVFR0RzajY0al9SRDNwQ0tCY2JXRDAwZ1ktSFBVd1V3ajFaOEVtZ0ZGcGF0QVBFbnhTUzdsTk9ad01TQVRtamtBRXVXUzc0MjdrMmIzb3hXZ3c5MHZrNTM4bUp5RVd0WGd3NHdMRXMwSkV6M055RTczbUJfeVRTQmNv?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-07-14T02:15:49.000Z",
+        "publishedAt": "2026-07-14T00:45:12.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0VHbGpHUG55U3l3bF8yOEcyeDc2Qzk2UE9ha3ZjV3paajRoSjJiYkZzaUl2UlQyZHphcHZxdlJHUi1ZNUdiaGlLWHNXazIxWGRYZ3hzT2xrTVlTS1djYjlod193aURNd0VfTDF5QjdOZml5TFZUanowQUxKQkN5TGVlQUdqZ3F1TE50dEtDajRtSHljU1NJ?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-10T15:32:12.000Z",
         "summary": null
       },
       {
@@ -124,40 +131,33 @@
         "summary": null
       },
       {
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Uk0zcVVGRWxWTXBwbjF0UmVVa3VMcHIxWGFudHNDQXRSeXRqbmVFdWlsRmpLM0xBUUJWUDBaVlNFNVQ4dG1VbFJqOENndGh2ZHAtM2ZnSW1jMVFtOENBSXZYN19UdnB5?oc=5",
+        "source": "매일경제TV",
+        "publishedAt": "2026-07-07T04:59:00.000Z",
+        "summary": null
+      },
+      {
         "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-06T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "삼성전자, 5.84% 급락…외국인·기관 매도세에 31만원대 마감 (005930, 반도체, 주가하락, 수급, 2026년 7월 1일 화요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeXMwdk4yb29XcGhwOWVIYTdHeTlTcVB6T1NDckU1cmt1Uk9XRTNkSW5xM3ltUTVMUDluLU1CWkZNZDJoeDVQeG1rNW02dFFrTGt2TnhRcFZkZDVTUnlzYnhET0RBbW95OWs0bA?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-01T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자, 16,500원 하락 마감…외국인·기관 수급 엇갈림 (005930, 주가하락, 외국인매매, 기관매매, 2026년 6월 26일 목요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PRjc1QzZ2QmJndW8zU0JHN0xRYTJMODV3UmZGSl95UTd0WmhtemhQQlIxc1NpNlpqX1lrN2VVaThxbUxPYngxQzdQaVk5N1RKcGVkSVBwMk5kTWR6ZkFLQlpPVmE3QW5WdHVnTg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-26T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "Why Apple Stock Dropped Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96dmdHODg4dkNRRE4tdkZMNGo4RlRwSXpGVU9ZdkE4R3VIbjhkRk0ySzZUN0Qxdjd5SEI2NTgxSi1uc0V5Mi1KVWJhb3NBUm1pQ0pYLUl4WFJ5UktNdGJGUGQ0TmtrLUhYQ1dHUlAzdGFiZk80VGp4UTFrMm4?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-07-20T19:36:33.000Z",
+        "title": "Apple AAPL Stock Slips Below $325 Ahead of Earnings After Overtaking Nvidia as World's Most Valuable Company - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUEZQSUVPQUNWekJ2TVhVVEtHQWZReXpfbHRka001T0ctdEo3TlM0X1pSM0UwVjdobnRjMW9IbzM0TWJNeGtlMDZhSnpBRmhIdXJGT2g0ai11Q0xvVXRLTXBPMGctVnBhVGJVaWZrWjFtM0VSMVptS3VjTlhWMXhxdzRqSFB6WlZvU3ozMXY4UXFveElaQ3o1NXdTRVhZOXlEYnFXdE5IZUpsZ0dKZEhDZi1EMmdOekF4NVpfOGtNQXBxMThjSDVDZ05od0pMbnYwVmp5YWVBYXFYOERtX2dtRWZSUQ?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-07-20T20:23:57.000Z",
         "summary": null
       },
       {
-        "title": "Apple AAPL Stock Slip Below $325 Ahead of Earnings After Overtaking Nvidia as World's Most Valuable Company - FXLeaders",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaDZIMUJfQ1FpUmxmRXM3Q3RMNkJfNC1Nc3puVW00RjFJYnhjRDNDNkNLYzNjRHVvcDRVN0ZZTjM4b1gtQzlzenVWallJWlYyQjhaVXR5NDc5aEg0ajdPQUUxeThDT0JNOGJGOHlUSkVmMkJoVWR4dWFZTE1YNWhnUVlzSXhCQkFOTXBhRVlUMFUxWS1BNjJkcE5ncXIyX05oOXVPZWpzZFUzREczVlBGb1BEV1BBMWMydWV1cjRpZEdDMWl1aUtmMlBDSlRvY0cyYlR6S1JNdXJNX1FMUVNlTndB?oc=5",
-        "source": "FXLeaders",
-        "publishedAt": "2026-07-20T17:48:48.000Z",
+        "title": "Why Apple Stock Dropped Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96dmdHODg4dkNRRE4tdkZMNGo4RlRwSXpGVU9ZdkE4R3VIbjhkRk0ySzZUN0Qxdjd5SEI2NTgxSi1uc0V5Mi1KVWJhb3NBUm1pQ0pYLUl4WFJ5UktNdGJGUGQ0TmtrLUhYQ1dHUlAzdGFiZk80VGp4UTFrMm4?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-07-20T20:05:00.000Z",
         "summary": null
       },
       {
@@ -203,17 +203,17 @@
         "summary": null
       },
       {
-        "title": "My Bold Prediction for This Stock Through 2030 - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnVfQXBpRVNwOWxPaFNOU2x5NHBJUlhBYjVBMkRSUWxIWWtCY2s0LWNUMzNDR205Mzl4MDNJUG9CTks5ODFmWEgyZmVFd1pXM0lad1R6VkVtZElYNzRhMDNRMkpnc0lJWmx6Q3dTYkxTdzJKWVQySmJVSXMyWDQ5aEo1MzRtajdvYTlIcVl2VjVVSEZa?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-07-09T07:00:00.000Z",
+        "title": "If You Invested $10,000 in Apple When Tim Cook Took Over, Here’s What It’s Worth Now - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ndlVvSmlNUnExS0NPVUFyNTNKaVlvRlVuaTBqQ2hCTERQZzk5S1pLdTdncW5NcWRucmQtX3ZuN1VxTlZoYjFnMEhOb2pxQnpKVFVRLWFPNXcyTjFQMXVtR3dfekQwZXlaa3BFdk0tUlBBMGtiOFRUNg?oc=5",
+        "source": "AOL.com",
+        "publishedAt": "2026-07-10T11:44:33.000Z",
         "summary": null
       },
       {
-        "title": "Can AAPL Stock Return To Record High? JPMorgan Says Price Hikes Won’t Hurt Demand - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSzNsNzFKMXMtZnpIa0tCVnhHbThSd3FrWUJ3TDdxX2ZuREtkSUk3X05KRUJPcm5xOTFoOFJOYjBJN1ZyWkM3MDhUTEdBOElCa2FwYXhsbHdTcWdYc1VsZnI5elBpNlYwdGRNN2VYNjZLTzV0bTh0U1ZpQ0VnQlFGWTlmVmR4TXZsc2JDUXNzWm5iTnBHejJNaTB1aV9VWG90Y3VnemtfTkxPZXBnU3J6UVpSVE80b2Z5cGk4cXJJb2liT1MyVjFNTGRoWmZhZ3FMa0hXMW4wZHZMRndob3c?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-07-08T07:00:00.000Z",
+        "title": "Apple Stock Soars on Broadcom Deal. Here's What You Need to Know. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc19haEtYZHBQNDlocWJsSXpHZmphbTNfTFZleHlPZ3lDeWpGR0xiN21jUjJXZFh0MFhZWFIzaHY1cThZVjVqaDhsYXJGcENpUUZaaU4xRnBDNkNvUzJOMEhNMVpZdjRmRmM5ZldjcExsWWprMlhSQWpMQjlBZjdmcEZvVndNTHpFc0JWNklmaFhEQkExemJz?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-07-10T07:00:00.000Z",
         "summary": null
       }
     ]
