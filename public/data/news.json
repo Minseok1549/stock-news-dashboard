@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-22T05:48:57.105Z",
+  "generatedAt": "2026-07-22T08:26:42.621Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Adam Smith’s ‘Wealth of Nations’ Helped Create the World’s Wealthiest Nation",
+        "url": "https://finance.yahoo.com/m/2f87d0d4-c7f6-3077-b7b3-6310ca91bc35/adam-smith%E2%80%99s-%E2%80%98wealth-of.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-22T07:00:00.000Z",
+        "summary": null
+      },
       {
         "title": "ASML Lifts 2026 Outlook As High NA EUV Enters Intel Production Might Change The Case For Investing In ASML Holding (ENXTAM:ASML)",
         "url": "https://finance.yahoo.com/markets/stocks/articles/asml-lifts-2026-outlook-high-042931579.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-22T04:29:31.000Z",
-        "summary": null
-      },
-      {
-        "title": "SK Hynix Denies Acquisition of Intel’s US Fabs, Shares Under Pressure Falling Below 2 Million Mark - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRTVWUDhwc0VHTmo2ZDFfMWRXbW9CT0ZKdXBIM0haMDRiZkt6OE0tNHJFcHpyME1IT1ZyRlZMTk5sZFRrcVJfNnE0RmhvWWZwUVNTeHp5WW03X1A2VXVOaVJrdTV3QVZCdUJZSDhUVzBaUjM4WVhWZkRmV3EwZjRVal81NkhmejhFWU9PX1FXY2NOUnZTV2dHYm1Ic0FTd2E3VXNkNHZGSQ?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-07-22T03:50:14.000Z",
         "summary": null
       },
       {
@@ -24,13 +24,6 @@
         "summary": null
       },
       {
-        "title": "s SK Hynix Buying Intel’s Ohio Fab? Korean Chipmaker Denies Report — Now All Eyes Are on Earnings - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNS12eXF2VlZVd0NUeVE0ekdLckFRUENYWFlIWDZZWFVEZ19jd3h3RTNyRmJXMnQtazBFa2JUNWx0RmZmU2JnUm5JRGFUeVIzS19LUVV6YWpQckFnMms5T2FKNW1ZNFFuM0hCUERKNFZPSFByVlJUQ2JIdGROS3Y2ZjVIVFJBLVg3bTQxd3d6REVfT0pRcmVFWFdBZkt6Sk4tSTFRNk5LNmlhWXpsRURBVWdHLW1feU42RDBtMzdSRE5pNTNhdmVUWW00VjVYNXY2Sjd1ZEhJQm5QXzJFVWJEVXV1Z2R3S0ZHN2pNREE5WQ?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-07-22T03:42:00.000Z",
-        "summary": null
-      },
-      {
         "title": "SK Hynix Dismisses Intel Ohio Buyout Report: 'We Have No Plans for an Acquisition' (UPDATED)",
         "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-dismisses-intel-ohio-032029588.html?.tsrc=rss",
         "source": "Yahoo Finance",
@@ -38,7 +31,7 @@
         "summary": null
       },
       {
-        "title": "MU, SNDK, WDC Socks Rise Sharply For Second Day: Retail Feels Memory Pullback Is Over",
+        "title": "MU, SNDK, WDC Stocks Rise Sharply For Second Day: Retail Feels Memory Pullback Is Over",
         "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-wdc-socks-rise-sharply-for-second-day-retail-feels-memory-pullback-is-over/cZZmR2HR7wE?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-22T02:19:14.000Z",
@@ -52,168 +45,55 @@
         "summary": null
       },
       {
-        "title": "Intel (INTC) Surged 8% Tuesday on Three Catalysts - Earnings Tomorrow - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTEdQRXlzUXk1bUYzc0JUMXlmaW1Wa2ZxSFB4RlJUYlNUTkZLM1RaVW5ral90Nkd5cmdNaWV0d05OSlVNTjRsYWtCcjVsWEdoaHhWZXhqYkFfNGxCUk9uSGk0Y0xzMmVUVmQwMFlIdDMzaERlcU03a3VkMXFlVFFrUWs4RVlFa0w4a0t3VHlyRUxzbXNEUm1BS0VLdklBNUNmNFZ1QUt5cHVkcVpLWXc4Y0V3YzloUWt4VDV5YU1YRkNRbVIyOE82RHFJdDBaYmtxMkx3UW1PVGw?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-07-22T01:00:07.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel shares rise on valuation gains but Q2 ear... - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnF4cnRyYkx0R2E3emE3eGhvY2lzTEU0SkJic1hiZzZGZkdrSHVfejFmdlZpemNKMmphbHI5MEE5a01oLS1CVmZBNnJWeGsyeFhCRWxTandPMHJtSzcyTUhRZ2RtMVVxNm93T3BVMkg2NElmbk1sLTNvOEZub09rT0p1OGJSVlcwSy1ZbGY1WkVoUkdB?oc=5",
-        "source": "Pluang",
-        "publishedAt": "2026-07-21T22:33:05.000Z",
-        "summary": null
-      },
-      {
         "title": "Supermicro stock jumps on gross margin raise amid record $60 billion backlog",
         "url": "https://finance.yahoo.com/markets/article/supermicro-stock-jumps-on-gross-margin-raise-amid-record-60-billion-backlog-223037795.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-21T22:30:37.000Z",
         "summary": null
-      }
-    ],
-    "005930": [
+      },
       {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQODhaVXNCOGJFM2JYZmQ4MlpPWXpqZVhUUHFqU0RVTXRab3dRekNkNjgwSWxNUEtPT3VGNjN1M0w4Q3FzRXgzRmZOZnJ2ZVJlWUZvU3FGS2k0cGJkVkpDUWJ5YWZwa2trdEtTcVh3OUkxUXZPZG1MT2psWlloU2V0SldZeTYtT2M4ZGE0QXFXUU5waWF6S1lj?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-22T01:12:06.000Z",
+        "title": "Update: US Equity Indexes Advance as Big Tech Helps Outweigh Worsening Iran Geopolitics",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-advance-big-211103575.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-21T21:11:03.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWjJNUlRCZnZKQ2hUN0tlTWU1ZlhHbzNKT3c0NXVKWlJHZnF2MXlzSFBFd3BmcVM2Z3VGVy1iVU1yZ2U5VmpBTnhuZnZ1YXNaQzNrTVN5amwxRFhXenc3bDdyLTFzS1N6ZHVlVg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-15T06:44:07.000Z",
+        "title": "Intel makes another painful move in one of its key businesses",
+        "url": "https://www.thestreet.com/investing/stocks/intc-intel-stock-layoffs-data-center-ai-ahead-of-q2-2026-earnings?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-21T21:03:00.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 3.54% 반등 263,500원 마감…외국인·기관 동반 매수세 집중 (+005930, 삼성전자, 반도체, 코스피, 2026년 7월 14일 월요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNSGRuRjBFb0QxMi1VeWVmWXJIWFNuVEtxY1otNlR0cE90TXVWUDZqVTBEdEtnY0otRTBocmI0TnltaTFLVEduSE9FN0ZhVTZiMUFld091azRvbXhVMnlfSkROeDhGY2w1Q0d0dg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-14T06:44:09.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjc5Vmp1UDR5V2ZMQlFZVXNEMWRhNUFXSUw1Z01IaWp2RVlsZElrQkEyZ09UUzQtR1NGODdIOVMxVjhVX18tMVItaThhU1ktOWtZODBidlhVQ3NTT2VPcUVtaEhzNTBCdU8zeDVQZ252S0ZQd05SSEx2SGRDMTdURGNjaU51OW41RnR5cTNmVW5yRlZHajJN?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-14T02:15:49.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyalVhbEx3Sy1ULXMyVmRySDgzNldKTk5QU3FYSnY5ZzZKSVZpdE9hd1Q0eW1UZWlhSkRnVWVTc0o0a3k1VUhxZlhHYWJsSWtJWVE?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZk9wTEI0V0ozQ2hIVDdMN0ZWbnI1U2lqRm92MW5RUWRzSGYweTcyWGMxOGlhUDR1MTd1OHVDaWdQeXVJYmwxOTM5NmZUd2tVOEE?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92Uk0zcVVGRWxWTXBwbjF0UmVVa3VMcHIxWGFudHNDQXRSeXRqbmVFdWlsRmpLM0xBUUJWUDBaVlNFNVQ4dG1VbFJqOENndGh2ZHAtM2ZnSW1jMVFtOENBSXZYN19UdnB5?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-07T04:59:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-06T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자, 16,500원 하락 마감…외국인·기관 수급 엇갈림 (005930, 주가하락, 외국인매매, 기관매매, 2026년 6월 26일 목요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PRjc1QzZ2QmJndW8zU0JHN0xRYTJMODV3UmZGSl95UTd0WmhtemhQQlIxc1NpNlpqX1lrN2VVaThxbUxPYngxQzdQaVk5N1RKcGVkSVBwMk5kTWR6ZkFLQlpPVmE3QW5WdHVnTg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-06-26T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "다시 삼성전자 살 때?…‘초고수’들 순매수 1위 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wdGVPRTZINmxrcFMwaVY2M2NDa3ZlV3pIcVhMTm5pQ0xnVllaMlYwVmdLWGljdGIzT2ZrSG12ZTUwejI3VlAtbHVQTmtkc3dvRUHSAVNBVV95cUxPRDl2VkdMVnpzLVExVGQzQUs3OGswaXBGZGM5QWRicktDd2lVY0JPVmd4bFB0UVQ4YjdlV3J2Z1Atc04xajFsUk13V01qOUNVY1d3VQ?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-06-15T07:00:00.000Z",
+        "title": "Intel, KLA Corporation, Lam Research, Marvell Technology, and Micron Shares Skyrocket, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-kla-corporation-lam-research-205426906.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-21T20:54:26.000Z",
         "summary": null
       }
     ],
+    "005930": [],
     "APPL": [
       {
-        "title": "Apple Stock: Moat Keeps Doing The Heavy Lifting (NASDAQ:AAPL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVRBNC1YdDV4VUdvcHZVZUwxb2dWa0VsZlFPQUZQOG55MVowUG1RSGkxQ09vTVl3X1NQamxtQlpKdm4yN0hMaTQ2c0YtYWxDVkFpa0VwdWhWRmtwbFQ2V3A4NmtoVHZrbW5BblRNamN3QzdFMWZzRXlIT0o1MFNvYkMyMFM2bm1M?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-07-21T13:34:15.000Z",
+        "title": "US Equity Investors to Look Out for Mag-7 Earnings, Labor Market Data This Week",
+        "url": "https://finance.yahoo.com/news/us-equity-investors-look-mag-113348212.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-02-02T11:33:48.000Z",
         "summary": null
       },
       {
-        "title": "Apple Stock AAPL Slips Below $325 Ahead of Earnings After Overtaking Nvidia as World's Most Valuable Company - FXLeaders",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUnZHNzNhY1ZSN19CZUZFbm10Q2xUNldJT2VXeVVGeGZ0eFNodm1XYkk5TEFYMWkzNm1KSl9ETVVBT0VSVVp3QXp1aDJaX2JseUVVcEJzZWxWTzFSWTVoV2gybTVpanRyMkZjSmZzdy1QdC1JUmtZaUZUNVJnTG9IbFljYV83OXVTTzc3ajgzTmFpT0NBeDVyRnFmMEpydWpqRUV0OXo4RTJsa2xVLUJIYWZXVU5QSHhFTW9NXzFrTzM4blN2WVFsZXVVME9HaDRDVlI4cl9QMVItQVQ1bEEwWWphZw?oc=5",
-        "source": "FXLeaders",
-        "publishedAt": "2026-07-20T23:59:15.000Z",
+        "title": "US Equity Investors to Look Out for Big Tech Earnings, Fed Policy Announcements This Week",
+        "url": "https://finance.yahoo.com/news/us-equity-investors-look-big-105755076.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-01-26T10:57:55.000Z",
         "summary": null
       },
       {
-        "title": "Why Apple Stock Dropped Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96dmdHODg4dkNRRE4tdkZMNGo4RlRwSXpGVU9ZdkE4R3VIbjhkRk0ySzZUN0Qxdjd5SEI2NTgxSi1uc0V5Mi1KVWJhb3NBUm1pQ0pYLUl4WFJ5UktNdGJGUGQ0TmtrLUhYQ1dHUlAzdGFiZk80VGp4UTFrMm4?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-07-20T20:05:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "AAPL|Apple Inc|Price:333.740|Chg%:+0.480 - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84OTRZQ3JKclFZR1FKLUNtejF0TkxCNGpVbDlMU3NvdGxzZzQ5WG5HTnNURGVfWk9TU0liT3llNVd0UGVrSndKUjFDSHRpdjl2elZvR3FhcWdOc1kxSHc1LWlydw?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-07-17T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Apple Stock Climbed to a New All-Time High Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3FoRmJYZE4yM0pUYy01TF9XMzlTclJIc0NaU0lGaDBGUHFCT3dJY2pkZS01ajNZOVcxaGw1SWpqUTFMcFBkTmNwd1NxeDZ3VjNBM1hybTkzTE1FMUE0QmJHTVdFZm14eGptNUVCNjJWcFpmeUlGak1RemFKODUtZ3Q5UWw0ZGdBenZ0WnR6d0gycVJUUTRvWg?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-07-16T03:21:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock Hits Record Territory as Traders Sour on AI Spending - MacRumors",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TeEVtUFBGdnJhbFBfVVlRb3FYWUNGdXAyTng3M09wdGxWRTRNVnQ5QVo3OGdtUURLYWItYnBNaDQ0azVETWI4WTRPZ24weE1aaGdCQ21sbUFfVk90bG5peE9tOUo5Y1Z0WmtKN2VKNS1GWllt?oc=5",
-        "source": "MacRumors",
-        "publishedAt": "2026-07-13T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple: AI Toll Booth Myth (NASDAQ:AAPL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yQmRnYmxsLWZGWXVNS01sX3VaSDdaR3VsSGNvOXdYR1gtWGR0YWNwR3QwS05YMTNUTEh5RVlyTnFTNDlkZ0tabHJwZVQyOE1wMnBMZ25ScVl2RVpRN2RsbVhqc0x2MVR2TnRiX0ZQYUI5b2M?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-07-12T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Prediction: Apple Will Be Worth $5 Trillion (or More) by the End of 2026 - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHFTR0ZkUFhSenotTzl3OFJ5bE9Ga044ajlkMjI2Z3Ryd0I0RF9ueGM3V2RwVGY1Z0h1aUptOTNTNTlBbDgxRnZSMTRMVjJ2Qm5PeEliUVdNQjJNdldaSjBBX3VBLXlNeGZKRi00NVZzdHE3SmZwNEQwRURlNHFwdXBoX1g5NWNlZEFkanVCTXAwMngzUjlj?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-07-11T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart - CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMmxkWHhpcDRLZWlOcjhLdlhFVkxjZXowWDh2dlNxODhld2ZGMlJpT1pIcDlGbGNPVUc5X3ZoVnM1azNxZ1p3Q1VyQm5LMnQ3NVZ5aFhTMnBsTEhMNEpMbUFsVWR4Z2dycWFnQmF1YTAtVXVVcFZhNTNxekFUSW51d0J3QTRCY0dWTFp2SWs4aU9iOVBVaE9tN2Myejl1a0FxWURqUEJBaVA?oc=5",
-        "source": "CNBC",
-        "publishedAt": "2026-07-10T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "My Bold Prediction for This Stock Through 2030 - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUnVfQXBpRVNwOWxPaFNOU2x5NHBJUlhBYjVBMkRSUWxIWWtCY2s0LWNUMzNDR205Mzl4MDNJUG9CTks5ODFmWEgyZmVFd1pXM0lad1R6VkVtZElYNzRhMDNRMkpnc0lJWmx6Q3dTYkxTdzJKWVQySmJVSXMyWDQ5aEo1MzRtajdvYTlIcVl2VjVVSEZa?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-07-09T07:00:00.000Z",
+        "title": "US Equity Investors to Focus on Mag-7 Earnings, Fed's Policy Path, China Trade Deal This Week",
+        "url": "https://finance.yahoo.com/news/us-equity-investors-focus-mag-092632722.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2025-10-27T09:26:32.000Z",
         "summary": null
       }
     ]
