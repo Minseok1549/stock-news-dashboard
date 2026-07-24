@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-07-24T11:02:56.841Z",
+  "generatedAt": "2026-07-24T13:42:02.360Z",
   "articles": {
     "INTC": [
       {
-        "title": "Dow Jones Futures Rise As Oil Prices Retreat; Intel Jumps After Google, Tesla Dive",
-        "url": "https://finance.yahoo.com/m/96fdd7c6-3e7b-334a-a08e-b91b60ced4b6/dow-jones-futures-rise-as-oil.html?.tsrc=rss",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid New US Tariffs",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132354336.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T10:46:34.000Z",
+        "publishedAt": "2026-07-24T13:23:54.000Z",
         "summary": null
       },
       {
-        "title": "Mizuho Markets Americas LLC Sells 841,355 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNjZoZmNFTl81WXRfWmlEem9UV2Rkd09ZRnNtNkVMbzZ5WjRRbGg0Q192R3RkUG9kdExyQVlTTTRDTklUMWRtdERRLXFSRUtqblloWmhaQUM5Q3l3UjFfTi1VQlVyWU9RZmNjNmhGYlpGM3pWeXI2VU1FaHRqc21udFJIVnVmd01XWHdfRXZuYVQzTnctY25wR1I0TlpyRC1TSUJOUVZubDBUeHhtTDFMTzhIbkhPX3U3Rk9rR1puVUcwbEZsQ2VGVlRqbUtmcTA?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-07-24T10:38:21.000Z",
+        "title": "TD Cowen reiterates Hold on Intel stock, keeps $115 price target - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQklQWXVRWWxEWV9ib2V2eFBvdUtqZlpPb2hQRWxUVS1fdllka2hoWm9zYmJnZEZrdGdteGY0RE5KTlhRbFhpYkw4a3FnRldnanZFMEU3VTR6S29LQmptWE90S0pMOGdHQm9ZcXdsVi1naklISi0wTnVGZXBKWkxhenRuVGR4VFRoVlJBb3hBWlVHM1R1RGdWYVV0WV9xaTdPVFg4QlcyTXdfV0dyRUFTaWE1V2lHRkF5bnFYWUpRR2E?oc=5",
+        "source": "Investing.com Canada",
+        "publishedAt": "2026-07-24T13:22:31.000Z",
         "summary": null
       },
       {
-        "title": "Intel rises as strong forecasts signal AI boost for turnaround",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-rises-strong-forecasts-signal-103424987.html?.tsrc=rss",
+        "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat",
+        "url": "https://247wallst.com/investing/2026/07/24/intel-rises-3-on-q2-earnings-beat-upbeat-q3-outlook-as-chip-sector-stays-flat/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T10:34:24.000Z",
+        "publishedAt": "2026-07-24T13:16:15.000Z",
         "summary": null
       },
       {
-        "title": "Intel rises as strong forecasts signal AI boost for turnaround - Yahoo Finance UK",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzJzQllvY0FPRjdPU2w0THJmYnM4QkpWc0VqQnM1RzdPMTMxZ2lSbzRqMC1NZnlVVzNwVzNjX0xabUxFM09WWndzS0htTjc4UWtlazRfb29CYUI4RmdGS242eDhjSWpQMGdjWE9SX282UXpKQkh1QkVaOU94bkV3NlVtcG8wMDR5Y0JDUw?oc=5",
-        "source": "Yahoo Finance UK",
-        "publishedAt": "2026-07-24T10:34:24.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel's Stock Rockets on Blowout Q2 Earnings and AI-Driven Demand - StockInvest.us",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEItTWpWYmdNNU5Gak5wTDJQa2o4WnVtaEtCSVNnMU5MNFhNMl9XNWtnX181UlYtZGlTRmY5d1NUdV92QVZSTmhEZ19lVzRaVzkxdnBTcFlwR3hkMTV5dlQyZW9hRC1ZREVqQzNORzcwa001Tl91Wm15enlmLUpnbkRHSTFISTBkMUVCNmdYdDVKcVRCcks0MEdn?oc=5",
-        "source": "StockInvest.us",
-        "publishedAt": "2026-07-24T10:32:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (Nasdaq: INTC) logs $14,761 million H1 loss - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYmZhUUh0NEltem1Tcm5mbVRvRm9SRmlMcnpHVU80MlB5NHZPZlJLOHBEMmpHczJlS3JIOFVQQlRWY1dPMmtZYWd2Z29qSWloVFlXWkpZMGRNczFJNGNkT29FT0U4aG43c2tLTllCdkl3bkFqaWlNNnZRQ3NjQjhWbkZ0VFFzcEd0SGhXanVTWE8zeC11UThRZ2RJbVM1LWVFLVF2XzRn?oc=5",
-        "source": "Stock Titan",
-        "publishedAt": "2026-07-24T10:16:07.000Z",
-        "summary": null
-      },
-      {
-        "title": "INTEL CORP SEC Filing (Jul 23, 2026) - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWc0QV9tdkJxOUNVV05uMnJEMXZ6ck1EelN3V3VBNDFKUVVkaGk5a2VJbFZFQzRhVW9ZRjllZjJQa19jMHZXQ3BTNTYteEVraHhaR2xrS24xLURDZVlCTmdxN3ltaGowdTlTNTdnSVJZZ0dsb1FEMF9tWUQ0ZXNaMlZoejZIZ0dxVW94cGpCUEluNXFhR3llelRB?oc=5",
-        "source": "Stock Titan",
-        "publishedAt": "2026-07-24T10:16:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why is Intel stock surging today? - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDJPQWZDY2pPMVdva3BrdlViejJldWFFZENsa3JUSXFyUXdWVnpIMnVVQkNXWmYwcmxTbGVTcHMxTk1HRkRVUFVzcGI5MzMtdEh2ekgwY29rMTJ0aE5FZjYtZjhDZk5rb2pTaE9kQkhENmFzUUNDZDRHVERHYWFIMEk3M08zbG1vU2o1bEEyRDMyVXUzeldNODhB?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-07-24T09:54:56.000Z",
-        "summary": null
-      },
-      {
-        "title": "Middle East tensions and new U.S. tariffs dominate market attention: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-        "url": "https://investorshub.advfn.com/market-news/article/32553/middle-east-tensions-and-new-u-s-tariffs-dominate-market-attention-dow-jones-sp-nasdaq-wall-street-futures?.tsrc=rss",
+        "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlpDbFRjR0tGMmFQM1c4bHk2d3dPM1RMVkVQX0R6d0hycVVNM1JYZGVUX0M1UURSNnJhVlFycVl5bTZTSDZ3NEptTzRsaFZfU3dLUGVjRUFRcEpKUnhFX1VrLUJlUV81XzdpLXY3QzlSNEtWbHRvOUF1TjNxaU94clVTa1VVUWhMMlZQa2dFQTVMR2Fu?oc=5",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T09:54:32.000Z",
+        "publishedAt": "2026-07-24T13:16:15.000Z",
         "summary": null
       },
       {
-        "title": "Why Wall Street Says Intel's Rich Valuation May Still Be Worth Paying",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-says-intels-094304365.html?.tsrc=rss",
+        "title": "Intel Rises 3% on Q2 Earnings Beat, Upbeat Q3 Outlook as Chip Sector Stays Flat - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUJQV2hra2c5UGd2OE9sMmpBX01KQVZVaFFoczllcFRKM2xyZ3ZtX1ZZclpxNlBiRnNGOVlzcEs4Q3pKclEzSG9VVmZOMWhnMzg4U0lGdWNFRkVVSzNkaVFYU0tqZHpWNGFMeGZkYXJFZjdnNzdDU1BuVThsWmZTNGlXUG5WUUp4TU1tRThGMkZ4VTFVMmh1NDhfVnpReGkzNEZTM2ZPRWdJZVJZZm4wajlTeVJHWUtLM0RSWjJn?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-07-24T13:16:15.000Z",
+        "summary": null
+      },
+      {
+        "title": "Truist raises Intel stock price target on Q2 results, capex concerns - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVkzZnkzNVdBTGtXc3ltZFlyRzl0YmNjRmNJekFyOUpwUFUtTnpHMFpzSGowS3lxVkc2dnJNTFUydVZBeG9lb3ZfOHZ2ZlNWV2kyTzVqUjVwNW9tMFRDZ1BpakhmcEgybHRXSE9TbEF0NU9WQWwtbHZxSDdsM1NaT3lKTUZLTTFoLXdmejFnOGNaSmxnUVc5TzVpVTZEbUpKdDBta3laVklZZ3VhNnEycVZoU3ZIMVdnVU41LXVMSFFLZl9LLWo4?oc=5",
+        "source": "Investing.com Canada",
+        "publishedAt": "2026-07-24T13:11:09.000Z",
+        "summary": null
+      },
+      {
+        "title": "Arm Holdings (ARM) Is Up 5.9% After Overtaking x86 In AI GPU Servers - What's Changed",
+        "url": "https://finance.yahoo.com/technology/ai/articles/arm-holdings-arm-5-9-131008579.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T09:43:04.000Z",
+        "publishedAt": "2026-07-24T13:10:08.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia Stock Has Been a Chip Stock Outperformer in July. Why Its Rally Is at Risk.",
+        "url": "https://finance.yahoo.com/m/f253554a-266a-37e2-8473-09913fefd51b/nvidia-stock-has-been-a-chip.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-24T13:07:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "INTC Stock Sees Price Target Hikes On Q2 Beat, But Analysts Say Key Foundry Catalyst 'Has Not Yet Arrived'",
+        "url": "https://stocktwits.com/news-articles/markets/equity/intc-stock-q2-earnings-beat-price-target-hikes-foundry-catalyst-missing/cZZYvWMR7yA?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-24T12:57:58.000Z",
+        "summary": null
+      },
+      {
+        "title": "INTC Stock Sees Price Target Hikes On Q2 Beat, But Analysts Say Key Foundry Catalyst 'Has Not Yet Arrived' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3VseHRhYjFRVHpQOFM0cE9XWGdQc09mZl95cjBCam1rWDAwa3RWNDF4VXBaclozQUdMT0JMaUJhX2NidmlmcEFSNUZCQ3JIcXliLWF4dVZLVlU1WkJ4RmExNzh5SllPemdNSVh4NDBBZ2YxWUZmRmJncm51S3RVOFRPYTFTMFdmZW5sT3U4OXBWeHBrbUFoWQ?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-24T12:57:58.000Z",
         "summary": null
       }
     ],
@@ -213,7 +213,7 @@
         "title": "Apple's New iPhone Is Going to Cost Significantly More Than Last Year. That's Great News for These 2 Potential Millionaire-Maker Stocks. - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjNIYlZGUFBKS2p3M2lnSVlmcGg2cVBvWFd5ZVFFcHdsQ0M5Yk5ETlQzVjY3Rl84NjltODFMRmdpbWZZNDRhQjlPd25mS0RWY01GaWU1RHduOEY5OWZTa0pBT3FGcU15b21pV2FSdXlfTEpMVzlwVG9BWmcycHVqVTN5Sm9mWnVRVmp6Q2FGaUY1NVhSbEhCbw?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-07-16T20:39:00.000Z",
+        "publishedAt": "2026-07-16T07:00:00.000Z",
         "summary": null
       }
     ]
