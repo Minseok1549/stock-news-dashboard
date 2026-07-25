@@ -1,91 +1,91 @@
 {
-  "generatedAt": "2026-07-25T10:25:50.669Z",
+  "generatedAt": "2026-07-25T13:22:31.286Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",
+        "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-25T12:38:16.000Z",
+        "summary": null
+      },
+      {
+        "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkZkX0s5b2hqa0gyanp1LXJpWWxjSWFHWWpBZmFEN1hfRF9KZzNGVlAzc29IWmxPZmpiSkFuYklGOEdVcmtENUpuMV80LTVlTU83aFVuQnJLZERYTlZ6QnFWa2VFeTFWOTItRGF4bW1fUnNENWZ3TFJ3SzV1N2R6UjBOY25YYnN4eG9rN3FUVEJUd3RFQXM1ODd0YmIxS2U0UEV3d3E2UTF6NFFmSnJlOEpmbGRHODRSMXpOeHR1a2tVdw?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-25T12:38:16.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel, Tesla, IBM And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZlgxMi1aNEF1TTZMS3N5VU5nZ01DNDBBNTFmWnRtMWJCQnhsTjRsamxQaVQydUJqNmVkTUNkWVVlWDhXZkxkdGFMQ0pzclRiQUQwRjVWYkkxUWZWYVM3VWJNMm9GVGRVQXRBTG4yYjhEZ0NVUEV1WDJXMnk1bmZaN1BXQktWZHdPakMtc0JJOGVJRzVzWV9hOXJrYUl6eERDakFhMWdjbTZmcTZVMVJ6MVRvbWpuLXp1ams3VUtqNU16MlVRdXItcjIxdHk4b0xibFdj?oc=5",
+        "source": "Benzinga",
+        "publishedAt": "2026-07-25T12:30:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel vs. IonQ: Comparing Revenue Trends Between Artificial Intelligence and Quantum Computing Chipmakers",
+        "url": "https://www.fool.com/coverage/charts/2026/07/25/intel-vs-ionq-comparing-revenue-trends-between-artificial-intelligence-and-quantum-computing-chipmakers/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-25T12:16:01.000Z",
+        "summary": null
+      },
+      {
+        "title": "Robert W. Baird Keeps Their Hold Rating on Intel (INTC) - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVDlNXzZhR2F5ZlRLNzRiZGFucFZkZEhTT2V3UWN0MFdOYjRWX1M1dDIwNWpQejlhSkEwT2NiQjNQNkU5OVpqNGJ3WmhWaG42Yk43clRjVkwxbFpfY2FtcDlUSHhOS01GbW51eWF2RjJlUjItX1JlOWd2aU9ZYkRNUVVRendPc3pCTk5mR1NuaXNtb01aUnp2dS16Z0phY2NVd1NyODItZ1pwX2lYbUtoZVhnekhVV0xLc180Z0R2M180Si1YX1BCMjRGQTVQN1B6SDhFNnhn?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-07-25T12:09:37.000Z",
+        "summary": null
+      },
+      {
+        "title": "Can ASML Holding (NasdaqGS:ASML) Stay Reasonably Priced After Its 150% Run?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/asml-holding-nasdaqgs-asml-stay-110923713.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-25T11:09:23.000Z",
+        "summary": null
+      },
+      {
+        "title": "Senvest Management LLC Buys Shares of 118,800 Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlJQcHktNGprTkhMN3I3U0NUbDVOWjU5akNScXhZd2Y5eHllaHAxVVRNN3MzaGcxZEwxQ1BvRTFhUTduVVZ0TUNDZmM2bEFmeXhpRFlnay03d3RnVFlPQ2stR3p3Q1lGek1HeWc4eVdoRFJOWV9uTlVUbVFoMlJCZlNLWmY3eV9UWFJQb2RvOUJoODVZendsVjF6M2diTXpkYk8wMGRUeW5nakVXVFBVY2VFTGFGWExkdmdfVjNEamhCa2F5QkNF?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-25T10:31:28.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Shares Sold by SRB Corp - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFI5Z3NfUkl3bTlmZEM3Y0wwVk9wWnNNM0Y4QkJsZ1JvekZsQTNnNnBTLTVnd084TmF0b25ncFFqX3NkNzVJdjR5amNEVFp6V2R1eTVtRm54RGowYkJOYXZ3V1cwdGdpNFI0YXpHUExVUGZKVTVJNEV1NC1IRVF6Y1JvU1ZvOFVRUUV1Z0J0RjV6RVhvcGlzNUt0VkZ5YkkzbGVXalN2LXA2SEk?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-25T10:31:26.000Z",
+        "summary": null
+      },
+      {
+        "title": "Van Den Berg Management I Inc. Sells 8,337 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQWpvc0J1UXBRTmZSa3BheWpra3F4NERHdVZ2NlN0dWZpMWNnOXc1XzVoODREM19Kb1JUMjQ5aDNTSmM5Zm1qb24zajVCRU4wZU1HdW9oVDR0Tk5iN0N2aExhNTZEQWdBeDVMQ2gxbEJHb1FDZ2FYV1VYSUJRaTZKMTdNalExeUtLLVViVENBYWRUaXF5c2REQ0tJQnhRbGl4NUg0Mng1YnZQc19iaUpnT0pzZnQ1UnV5YVBPYkloNFJFbmE3T1pUVk1jNE53SVE?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-25T10:31:23.000Z",
+        "summary": null
+      },
       {
         "title": "Keebeck Wealth Management Grows Stock Position in Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRzNxYktHZG96TlBwMUktOFdSa0hyd09NUlJrajMwcHRBVHVMNmNPMXh5Z09hODB4NGRMSW5SSFp2TENGa1VIZ1l4QlpLaWpaYTZIMmp0S043ZXZfNVZLQzN6M2xIcXNTbTVCWVpTWlpyekZMTHJyZ1o3OXFoanM5ZC1ibDZHZTY2SWdLbkExSDd3TFBPcTZ0emVFM0FmelN2bElIZEM2Wm40a2h0eGNGVXdOSEw3eU5wY3RmaDU3YU01N3lKTmxuVGYtbWx4QQ?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-07-25T09:49:26.000Z",
         "summary": null
-      },
-      {
-        "title": "Analysts Offer Insights on Technology Companies: Procore Technologies (PCOR) and Intel (INTC) - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbWFnai1MaE00a05VOWphRzlZaTRUc0N5N3EwbWRCYzFKMVBBRy1ISnpLTFhrc1Y3XzhXZlkxS2kyVGszZ244WTNSbkRuczhDZ0dXcktyaE1KYW5JclFwRXJDb0xLeXlDRzU3UVVuYkVlempWQ055N0JudFM0VGpaSnRRSURoaEZNLThodEJub3RzOFBmT245RlpZeTBtZ1BNRWU0Q3BkUTB5SG1YZlpKeE5UUUt2MFE2anNWaFV1RHJhdmJ5U1d1MjA3NVVkUUpuNTZsa0ZtY2pBNFl3VzdGRG4tVUszc1NZbzlkd1RQeVlqRk92dWRvWG9xRmFLRURfdjZIdW93?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-07-25T08:02:59.000Z",
-        "summary": null
-      },
-      {
-        "title": "INTC Stock Set To End Fifth Week Lower — Intel And Lens Technology Partner To Advance Semiconductor Packaging - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM01BUHZmOHNrWnptYjFPeGlGc2hERjBmNTE1VWhsNTc4NUhfdjA5aHo0bXhHT242Z3JXYUR3dUtMMUxoMWlrM3NWUll0SWZkWWNwSkVzUy1GR0p4VXlDNmk3NFBXOHE5SW9YcGhFY2tlazl1VEliRVc3aFpwTWJidlA1X1hHUHZiTnNFYkEzdFRseThaYTNhUDZIWE9WemF2ZnNlX0JFN3lDUXJXVjgyTmN1QjhUbGpxMlRqRXlYelJ2LWVYaUJnOVExRU4?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-07-25T01:57:57.000Z",
-        "summary": null
-      },
-      {
-        "title": "Review & Preview: An Earnings Week to Forget",
-        "url": "https://finance.yahoo.com/m/4b7b8b1b-61d9-340d-b235-70d532518486/review-%26-preview%3A-an-earnings.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T23:55:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "S&P 500, Dow, Nasdaq End Second Week Lower Over Elevated Oil Prices, Chipmaker Rout — PSKY, UBER, QCOM, VZ, INTC In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-second-week-lower-over-elevated-oil-prices-chipmaker-rout/cZZp9fpR7zL?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T22:54:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-        "url": "https://finance.yahoo.com/video/nasdaq-lags-angst-over-ai-221946761.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T22:19:46.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-intel-reverses-gains-on-foundry-and-ai-spending-concerns/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T22:12:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnYtT2hOMUtFb0Naa2JHVWRpSUZDeUE1MkI0QkdLbEpRcnMwM1FyQmsxVVRhQURqZXVKNElySTA0Z1d6MU9ES1d1aTZMRVYyU3p3YlB3WTI2RkxsSU9qalh1aXRCMXhMTnRQRDJxSjQ2U0NqWVlRZFdXS0RMMWJmcFNpdUdsa1lKZEZvQXloZ2RHeXcyRGc?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T22:12:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Market Today, July 24: Dow Recovers and Sandisk Tumbles 11% as Tech Stocks Fall Further",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/07/24/stock-market-today-july-24-dow-recovers-and-sandisk-tumbles-11-as-tech-stocks-fall-further/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-24T21:24:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Just Posted Its Fastest Revenue Growth in More Than 15 Years, but the Stock Is Falling. Here's What's Going On. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGdiS2hoTEtSVVlRQmhmeWNPTW9aZWVaeTB3bGhBektuRzdydWRNcVFnakc5eWJkZ19NRGNiOVhob3FEdzFXZVlrX25sZmdTR3Z6UW5ObWVZdnluLTdDSVh6YzA1SVlVVFI4bEU5dFNVS3liaGJDSzdjUU1VaDJHYXBld1dUY3dvd1VBNFh6ZktGYXZKWHVRUw?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-07-24T21:23:00.000Z",
-        "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGE2NnZVdktieGZUZWpzWHRRSllUVE9jb0lJOW1rcWp1RXByLUN5d0NQYlhoUHg3RGZlYlhjMmE2eU8zNVk4RjhBLW5LRDg3YUVRR2tRUG0ySW5xWDVSZVZHWjV6azMzZ2YwVU9yZHV0LXRYTC0yMDFINzc4VzFiYkhabDlXTW9JUzZiY2dFaTVMTFA0Tkcw?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-23T15:02:45.000Z",
+        "summary": null
+      },
       {
         "title": "삼성전자, 10,000원 상승 마감, 외국인·기관 수급 엇갈림…거래량 변화 (+005930, 주가, 외국인, 기관, 2026년 7월 23일 수요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWmtqWDl5UzZBWWlTeEljVWFUQXBsb2dGRVVpTjNEc0Q1d1pINXlqMFFWUjF3VWVHM25yeDR3MU5zNnJESXVPWTJTYTZJbjA5Q3ZsWFVmOVNvRFQ0Mzd5dWFnVGVaM2ZMZUxtVw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-07-23T06:44:11.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUo4NFZyOUdYTFB5V0lpampzOTlROUltaDJuU0ZPdFkxeFlTTmNxUHE2QWU3ZWFVWDhGNGNLTFVzQ1V2ZEs1RDBWcHo3RjFKUHRQbFhia0loenpSbUdWSFJHcHRDbVhpSUgzZXlYRWJUTlFpUVJfdkNtYW55TW9BVVpDRVpuWVpNN29nVWVWUUFGaTZ2V1hsSlhn?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-22T23:42:03.000Z",
         "summary": null
       },
       {
@@ -147,13 +147,6 @@
     ],
     "APPL": [
       {
-        "title": "AAPL|Apple Inc|Price:333.020|Chg%:+11.360 - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUHY4Z0hpQW5PUTRKcUJ0UmhXN2xCMjJmVEJKWEdWWFQyZVpaNHpPVjltMFJkNl9fRlg3WndGd3dMaWtkVEJhbkJGR1NZX3daYkQxcHBXeWtfdw?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-07-25T10:22:35.000Z",
-        "summary": null
-      },
-      {
         "title": "Why Apple Stock Is Up Today - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qR256dDhjVXQ0NGJDT1BObkVmUzNyU25mcjZPUlFpMDg3OFRXYk9ja3pZdjNXaWtMZXBncHFmdWhMWnpIQTVOUGJTbktkdHIyUHFxSTQyZXdqZEswUXJ5RFZ1VzVMUU9ld3BDU00yVmlFbmd6SzBxR2xR?oc=5",
         "source": "The Motley Fool",
@@ -214,6 +207,13 @@
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRjNIYlZGUFBKS2p3M2lnSVlmcGg2cVBvWFd5ZVFFcHdsQ0M5Yk5ETlQzVjY3Rl84NjltODFMRmdpbWZZNDRhQjlPd25mS0RWY01GaWU1RHduOEY5OWZTa0pBT3FGcU15b21pV2FSdXlfTEpMVzlwVG9BWmcycHVqVTN5Sm9mWnVRVmp6Q2FGaUY1NVhSbEhCbw?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-07-16T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Stock Closes at a New High. Earnings Could Change Everything. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YNVVNa0RSRkxfY00zel9veG14X2xobHlnV1NDRWtRSE9vbVRxaGhydmVIcG83LUZFOXBoVzZmRlBUSDQ1cVVmN2RJQXpDMUc4Q2hXNGtwQ0w5NDdySXVvVFJMZXJGVEhBLWg5M1VmcDZXZ2pNQkVaSjFZMA?oc=5",
+        "source": "Barron's",
+        "publishedAt": "2026-07-15T07:00:00.000Z",
         "summary": null
       }
     ]
