@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-07-26T06:04:12.447Z",
+  "generatedAt": "2026-07-26T10:43:33.661Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Corporation (INTC) Just Had Its Best Quarter in 15 Years. Is the Turnaround Finally Real?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-just-had-102227136.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-26T10:22:27.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation (INTC) Just Had Its Best Quarter in 15 Years. Is the Turnaround Finally Real? - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFNRcXpjMVZITmwyUEVvMGo1cWVrSHFrb3luRlBINDhES1daVlBvQmpYWS02eDd5UVZjNl9QV0FSWC0zVlNQcmYyUGk3Y2NSSWx1TmFFYVA3S2ZFb0Zldm14NERNYVhUeWFWbi1JQTc1Tm9LSzNMY3pleXJ6SmU3NVJabzRYOTA?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "publishedAt": "2026-07-26T10:22:27.000Z",
+        "summary": null
+      },
+      {
+        "title": "Lombard Odier Asset Management Switzerland SA Increases Stock Holdings in Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYTVaSFdzTE9lSHlnSl9NT3ZSYnhKOEtlQTkxN1hNNkZ3ZUpoU0VTd0hUczlTeTlzSXZEMGRlZWl2Z0RVZG84S3dTajlnUUh4ZUN4WjEtR1VYZmJycUw1SW5yeExqb1dyU2lZNVl6UFRyejZzLUxpQnkxaHNIMXNqc0l3dFpSSEVOTzA3MllzT1BuWlB2VC0zbkFtSlNHV2tpVEowbXZrNzE0VmRsUUJvcUdWZDZTOEpLUjFXM296X3pwV1hFLTFGYkZVVkhkakhsbVJQLWxfUzVJQW51Yjk0a1d0TnVGenFPWVdsYXRn?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-26T10:13:52.000Z",
+        "summary": null
+      },
+      {
+        "title": "10,819 Shares in Intel Corporation $INTC Bought by Gibbs Wealth Management - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWXpIY1ZMY2JvMkJOVFk0RFFBME8wVG1wMjc2TTJaV1VsTGlvUVhXc05PYTlvQXd4aDE4dEtVaE91bDQ2emFQSnBfRHYxTkluTW43N05pSHZyQWoxRTV5elB2VmtIekNsUEtLNHpXZHJXYzRmamtHT0ZfcXVzMGFySHc4T1JVNzNaYVN1SW1FT1daeTlNYVVuUU9EdTZSWlVJUlJpMTdhV2Exd0RSLW1uYTBkMnlUd0xuMlY4TFFrVXdVdXZRSmlMMUFyUF9UZw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-26T09:27:50.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock: Grotesque Valuation (NASDAQ:INTC) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iWm5mQjItRTNsaHA2OGptQ0Y1YVVWbWVQWUR5VFhqMXg2emJGVnNteV9TOGpVNVF6dnpnekcyQnlORUpScXRyV2xkdFhSdVVHRWJqdGZhVFAwVzhoUV84WmJKUEFraEdGZVV1WXRkNjZkS3pK?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-07-26T09:12:43.000Z",
+        "summary": null
+      },
+      {
+        "title": "NewEdge Wealth LLC Sells 21,687 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTjVVdXBGZmNPVWhOZUphUUwtYUc5NmYwUVMzeW5xTE1HTGpFakpWcllPZUEwc0hxdGFEMmRnWDQ5TGJBLVc2MEY5UDBPNTVsdXNkdFhyand6bzBJazRmSkk3ZFV3VVFEa2daVF9GOWNBYVVTSUY4bS1zMWkyNTlyd2Z0SFVmTlk4QWNIc1cyLXMzYVlGMWVTX19GeGluN1VKLWg5YjVDU1pPb1VZdFR0LWh5V0NVVnMyYnUyTlRZOVlkdw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-26T09:07:24.000Z",
+        "summary": null
+      },
+      {
+        "title": "Cetera Investment Advisers Purchases 42,342 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPamlrNFNmQkVCeTFUbndzNTJxZnBlYVRFcGxTeUlwUVppNENPQzZlT3BPX25Wc2lVSTdfZUh5bjMzc2drUkl6NlNxY1AwWjZzNms2VGxtS280eGhTUWZ5aDJOY1FSQVFGT000Z04tdWc2ekhtRnZWeVBWcUd6bU5TMXRoZERBa3RIa1pCYUdxUXZ2eWoyR3RPX2h1cWdjZG4xbDM2eTByY1pRbzRTc2ZSV3VuSWhMTXlKcWZNSlpLVTNhNmxHWTh2cF9VSGxxT2VBOUE?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-26T08:00:15.000Z",
+        "summary": null
+      },
       {
         "title": "Should You Buy the Dip in Intel Stock? - The Globe and Mail",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGhmZU5ZZUhLN3ZLdmJjb2VFaThReVc4OHh4YlBOZGI3Ql9HaFZ1R0hETEFkcDBMa2VPbmpDaG5RbXBjQ1QxekF4ZVVkbWZFenNNTUl4MU5hdFV1bTBPWUdHdDhRZGs0RVJ3elpobkRtZHN5cy15b05LOGJsdER4eUNmY2pSdmc0alF6Rm44RnFobFRrcERqZHVEWVBqM2dTdTQ5a2prb1lzX3JBSEVQME9BdlJTeGR2aFV6MV9EeWZ4dw?oc=5",
@@ -21,55 +70,6 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/intel-ceo-lip-bu-tan-013020984.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-26T01:30:20.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
-        "url": "https://www.fool.com/investing/2026/07/25/nvidia-vs-amd-vs-intel-which-one-actually-won-the/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-25T23:20:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Goldman delivers a candid response after Intel's stunning quarter",
-        "url": "https://www.thestreet.com/investing/stocks/intc-intel-stock-price-target-goldman-sachs-maintains-neutral-after-q2-results-july-2026?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-25T19:37:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel's CEO Just Made a Bold AI Prediction. Here's Why NVDA Investors Should Pay Attention",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intels-ceo-just-made-bold-173023048.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-25T17:30:23.000Z",
-        "summary": null
-      },
-      {
-        "title": "$INTC stock fell 3% this week. Here's what we see in our data. - Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTZMc2xxRi1GNkFfMWlfMjhrMGx4QnY4Z1I4aHdoN1UzWjRaTlpTRU5NSFVXX3gzempVaHNmdzV2eWxlYlZIU1FwS2lzMDlGNjBtXzkzSE84VEl2c3NEVnFEalpBeTVPM1JuSUtocmVjM2pLTHJ5WERfeGNNby0tc010Q0o3eXN2U0I1TmJkeHAzaXR0dWNrY3gxVXRYSUhzSFY0?oc=5",
-        "source": "Quiver Quantitative",
-        "publishedAt": "2026-07-25T16:37:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Goldman delivers a candid response after Intel’s stunning quarter - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbnNJUXBZMjh6d082dm9nb09KLXFiM2ZnQk1pQzBGQVVXX0ZISmxZM2FFR3ZFMDZrNzdXeU1IUjkxMDM4ejFCOUNmdE80WFFQWTJMYy1jRmRJT3RNdjJXNTVBN2I3SFV2RjlaWW9fRlRuLUtuOUltTExIX05WRTZodk5IUjlRcDZ0SENVX2hvMktGc29rd0tabGl4bENHTWZGT2h5OHJ1SW5mTlRGZUJPM2R0MEhvWUdfUnhKdElXejJwb2RmaERJYUludw?oc=5",
-        "source": "thestreet.com",
-        "publishedAt": "2026-07-25T16:37:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Should You Buy Intel Stock as It Rebuilds Its Chip Empire? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWtWMHRXLTg3ZUN5Njd0S0lfZHlzTXNFYVM0LVdqam1sMDhhcGNqQkYwUGlnQXdPTzBJZEFIdUEzYnRUZHd0bVE0V3Vyc2Ryd01SWVJzblJhQkVZMXhuYXlvRVdOeGI0blhQTk5IRXV2dFNYVGtaM01qY0NJVnIwRzJHVkNlNzR6UFQtd3RZSFd4Y3N4T08wVg?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-07-25T15:30:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Q2: AI Has Revived The CPU Franchise, But Foundry Has Not Earned Its Valuation - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNQRVpVNmhrX0h2akMwOWM2aWRmNkJ6SnNjUFItY2VFczNJbHZaNGpSTHBlTFllS0VEXzhYNG1INkFUVlI2dlJZa3pXX2xBNVpyZ2h1Y1N5MnpramZXTUo0QllHTm1rdnhsZ0luaVpJSVVCUzBCdTdpYWlYUkNnaDJRS3JBb0lFMnpvQWVmTFhpYkM4M3NTcUJBVHdNWmRnbDNxVjVITGx6anB4ZHlwS3RTRGFsaGlpQ1RHU2IyT3c?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-07-25T14:31:56.000Z",
         "summary": null
       }
     ],
@@ -124,10 +124,10 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-06T04:59:00.000Z",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-06T07:00:00.000Z",
         "summary": null
       },
       {
