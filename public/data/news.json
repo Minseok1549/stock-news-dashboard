@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T02:39:29.829Z",
+  "generatedAt": "2026-07-26T06:04:12.447Z",
   "articles": {
     "INTC": [
       {
@@ -7,6 +7,13 @@
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVGhmZU5ZZUhLN3ZLdmJjb2VFaThReVc4OHh4YlBOZGI3Ql9HaFZ1R0hETEFkcDBMa2VPbmpDaG5RbXBjQ1QxekF4ZVVkbWZFenNNTUl4MU5hdFV1bTBPWUdHdDhRZGs0RVJ3elpobkRtZHN5cy15b05LOGJsdER4eUNmY2pSdmc0alF6Rm44RnFobFRrcERqZHVEWVBqM2dTdTQ5a2prb1lzX3JBSEVQME9BdlJTeGR2aFV6MV9EeWZ4dw?oc=5",
         "source": "The Globe and Mail",
         "publishedAt": "2026-07-26T02:21:21.000Z",
+        "summary": null
+      },
+      {
+        "title": "Should You Buy the Dip in Intel Stock? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd2hkdTJzYTRIOEJoUU5iX284NkE0SDlqcTJnVUZuRTVrQ0hwWDQ4RG1uM1V1LTNNSmdGZUZid2MwTE5iTk5FeGphZFhOaEhZV2x2dGFnWkdYRF9FVGhmcndMNnhsSENSTVZXdy1LTm4tdERoODFCeEl3LVBRSmt6RjdFTlN1VkU?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-07-26T01:42:15.000Z",
         "summary": null
       },
       {
@@ -39,7 +46,7 @@
       },
       {
         "title": "$INTC stock fell 3% this week. Here's what we see in our data. - Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3dISmtDZkxiMzJWSHBmcXhSX1JSN0FzdmVqVGtxS2tQQ05wSDlTa2xxZk9zc0kxTWJDVVRXRWcySHhKQUJSX1p0aDdXSkxZRGYwSUcyWnZTcDVxeWU3UGtSZXVKRmRfNkRZdjk5VTNaTHpfNUFJTEhTNE1wc1JSZERfYkh1eUt0MEZyLTlaM2ZqMXNlMnFvY2d6TUh0eGRPb3c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTZMc2xxRi1GNkFfMWlfMjhrMGx4QnY4Z1I4aHdoN1UzWjRaTlpTRU5NSFVXX3gzempVaHNmdzV2eWxlYlZIU1FwS2lzMDlGNjBtXzkzSE84VEl2c3NEVnFEalpBeTVPM1JuSUtocmVjM2pLTHJ5WERfeGNNby0tc010Q0o3eXN2U0I1TmJkeHAzaXR0dWNrY3gxVXRYSUhzSFY0?oc=5",
         "source": "Quiver Quantitative",
         "publishedAt": "2026-07-25T16:37:00.000Z",
         "summary": null
@@ -64,28 +71,21 @@
         "source": "Seeking Alpha",
         "publishedAt": "2026-07-25T14:31:56.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Stock Leads 3 AI Picks For Enterprise Software Investors - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNejVHem9iQ1RtS2tvcl9wT1ZrUEpzUENNenBGUzlCMVhtMXBzbXY0eGpyRi1kaXRnN2s0akJLMnV5ZUFwOXQxdlpKc01IbUVRdW9RRXFGWlczeEt6ckRhRWtwb3RUWF9qZGk1aWdtbTVsSzltOUpmVUFCZjZzOW1Uek8yYVM2NnNwRm5wdV91VDhWTExHenZ3ZmRraHZ6MWtfY3loQmZfNllVc3F2bG9vd2tPNlVBWmxMbVFXZ3RENkdBbEJxc3FpZjAzalhsYnNQSHfSAdcBQVVfeXFMTm1YQjhoYW9weDV5UkZhZDMxQVJfY3k2TVJYZU1YZVM3R1FsMmU3YjJNZFp4WEZnS19GV2g1ZW5FcG9ySWFxdU5ILWoyM3M0VEJMcDF5ZF82SVNRZWdSTWV4Uzd1RGJmUVppN3lwXzBqUmFPZ3NhR29VcnNNX2d3eEJmek9OSTVMQVBCRnBZd1RrUjFiWUc0dHhUbEtzYnE2MmMtdFNnZjVHVVlKYklCZ3V5VTV3bTl1SVl3b1JvRDFLdGxmNldfUnY4RmJ2T1g5YWh5ZExBYWs?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-07-25T14:27:37.000Z",
-        "summary": null
       }
     ],
     "005930": [
-      {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLWlsc2RBYWtEdmlvNjRocVJieEN6MXZyMl9oWGQ1TW14QlQwOHVqTzN4SmVtM2RsU3ZnTGhqV3VwZndjaW5wY3MwOWhnMmtzcUdZQjhTd2Vkb0I5eDlRd2tJVTctcGx0d25NRnNlaUFOd05XQzNRSUYwaFp2NUlXUE1RYlNoMXR5WXFFYW1xTTBmMy1zTmg4?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-23T15:02:44.000Z",
-        "summary": null
-      },
       {
         "title": "삼성전자, 10,000원 상승 마감, 외국인·기관 수급 엇갈림…거래량 변화 (+005930, 주가, 외국인, 기관, 2026년 7월 23일 수요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWmtqWDl5UzZBWWlTeEljVWFUQXBsb2dGRVVpTjNEc0Q1d1pINXlqMFFWUjF3VWVHM25yeDR3MU5zNnJESXVPWTJTYTZJbjA5Q3ZsWFVmOVNvRFQ0Mzd5dWFnVGVaM2ZMZUxtVw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-07-23T06:44:11.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUo4NFZyOUdYTFB5V0lpampzOTlROUltaDJuU0ZPdFkxeFlTTmNxUHE2QWU3ZWFVWDhGNGNLTFVzQ1V2ZEs1RDBWcHo3RjFKUHRQbFhia0loenpSbUdWSFJHcHRDbVhpSUgzZXlYRWJUTlFpUVJfdkNtYW55TW9BVVpDRVpuWVpNN29nVWVWUUFGaTZ2V1hsSlhn?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-22T23:42:03.000Z",
         "summary": null
       },
       {
@@ -124,10 +124,10 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10SWs1X2NKWnhKVWhKbDRvLVk5Z29CTXNwX3ZXYnhWU1N3ZW1hYXFCdURSX2drZVRqbHhsd3Z2ZVhzRW4yUlpUazQwQmFBSDJ0NGc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-06T07:00:00.000Z",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
+        "source": "매일경제TV",
+        "publishedAt": "2026-07-06T04:59:00.000Z",
         "summary": null
       },
       {
