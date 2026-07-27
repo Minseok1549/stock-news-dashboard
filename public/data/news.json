@@ -1,86 +1,79 @@
 {
-  "generatedAt": "2026-07-27T06:29:14.674Z",
+  "generatedAt": "2026-07-27T12:21:55.844Z",
   "articles": {
     "INTC": [
       {
-        "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNVNTaWZqUFNya0RQdDNHQUdkQjV2SUltMXlubTkzV1NCR3h0Skk5dEpydWRwdWRuZ0FMOUdCUTRPTzY2T1Y0Uy1naE41UHVabkNNUEx3NFZPYi1pZW0wLXZOZ1hHWFR2Y1IzYW1MbDdUVXpIVTRCNUlQLWF1WG9TY3JRT0NFSWJlbTl1dWtZaThfZjY4VGI5SVRKNmZISDQzREQ0YnZONktDazVXeDlaNkdaYWl0Mk4xMFpyYmtRUXhaTU44NzEwbEVOQmo5N1h0WWxmWQ?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-07-27T06:00:17.000Z",
+        "title": "Baird raises Intel stock price target to $125 on foundry demand - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzdvMzNNejdKajhZa3F0UkIwWlI1X1cxYU5sNHJQLTR5NGhORmoxU2huNjRtTVh1akVFWDB2Uk8xUHlBbzhVYzk0MW1aYUdaUl9TUF9pdFVWWkc0MjBtRzcyRm9pd1Z5OFB2ZEZSSl9PSUdIS21ZZXdrMnJLdjhobU9fNUMycjRqQ0FCQ0JXOWRyZm9JU1NlYzNxN2hkbEVCZFlOV2xZczRvNUUwbGQxcDBkSmNKWFdfX3d1MGR1TkE?oc=5",
+        "source": "Investing.com Canada",
+        "publishedAt": "2026-07-27T11:55:25.000Z",
         "summary": null
       },
       {
-        "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%?",
-        "url": "https://www.fool.com/investing/2026/07/27/is-intel-stock-a-buy-as-ai-reveneu-surges-nearly-6/?.tsrc=rss",
+        "title": "Crypto Treasury Firms Pivot to AI in Bid to Win Back Investors",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-treasury-firms-pivot-ai-111422978.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-27T05:50:00.000Z",
+        "publishedAt": "2026-07-27T11:14:22.000Z",
         "summary": null
       },
       {
-        "title": "Is Intel Stock a Buy as AI Revenue Surges Nearly 60%? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVlJ4aElIa0s4OU9QcjlRRlVjY2gycFo3eFc4QmRMRF9ITFhfTVNUZU5UOTNXTTBaWWljVXRoRUk2N2NUakdKdi10My0xaHJESWdBekZ6TGhQd1VlZklNV2NrZVpMR1FZWGlMTURZSmpJb3FSdnJ0S0J1QVJKZ3MxZUJIUWVMbHF1LVlHeV9fRjlaWmwtcFpsRg?oc=5",
+        "title": "Micron, Sandisk, and Intel Have Dominated 2026. Which Is the Best Buy Now? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUlSMC1zU3ZpZFJZN0N2Qm10TkV3c1Jacmc3XzVwUC13OUp3REdIZTJ4TmR1THlwMFJubVg2VEFhYkFoTjJTUlhvRFlTSk1IaEpzZ1pJQ0ZLYmxCVlJSdllDLWlzWTlJOEJxeGc0SjFDRFNBRmtsU3ZqZHhzUDhVSjJUR2w3Q0YxSmxCTVBEV3kydXI4d1gtVg?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-07-27T05:44:00.000Z",
+        "publishedAt": "2026-07-27T10:50:34.000Z",
         "summary": null
       },
       {
-        "title": "CXMT Becomes China's Most Valuable Listed Company After Memory Chipmaker Surges 500% on Debut",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cxmt-becomes-chinas-most-valuable-052132806.html?.tsrc=rss",
+        "title": "Nvidia Eyes OpenAI, SK Hynix Deals—Why the Stock Still Looks Like a Chip Laggard",
+        "url": "https://finance.yahoo.com/m/6ab3072e-eacd-31e2-b70d-4835b7ae70b2/nvidia-eyes-openai%2C-sk-hynix.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-27T05:21:32.000Z",
+        "publishedAt": "2026-07-27T10:50:00.000Z",
         "summary": null
       },
       {
-        "title": "Learn All Crypto Topics | Phemex Blog - Phemex",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzlqVmhLY2E1YTk3ZHJOQXNmOVZ2RWxLVFZDZ0FXSlZOQ3RsMkZTYXN6MkxXZHZHZDl2THhqYjZwSjBMbGJEOVU0TTdHMk5nSGtWWUJteS1kVUdZeDZtWFAwZVotRms0NGdFcVNYOFUwZHhZa0FiSWhOckQ0bVZnNkNJREl2ZmU4SkE?oc=5",
-        "source": "Phemex",
-        "publishedAt": "2026-07-27T05:02:10.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock And 2 AI Infrastructure Picks Retail Investors Are Researching - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV3YwLUhjZk9CVEtncHY2X3JlenhJZk9GX1JObWo1SDJzNFQ3b3Nob1RDNE1qWEVFOFc1UVhFcmZUU2VmbjU5SW5DOTJ2eFZaZnZER2Y2dVM0SER4b2N6Qll0UWtXNWlkQ3FkZDU3aWJFSlltbF80SFlSb3pORm13SmlVZjRQLU1heUdsa3RtTWxwaVB6YzBCYXRDYWpLdTVnbUxpdUhYUTNkNmg0cVl1aHpVY1Uxa1NRTGtCWkExZS11S216TWtabURR0gHPAUFVX3lxTE9yWDlWbXlEQW5MZWZuVkxsVFpoUGM0RHd3dExYb3BwSGdOajVUVUR5QzhkOC0yVEtUOUVkN0JoSUdzM1N3RDRCbmVMUWdmTGp3WlBlTWRSWllJMEFBNTdURGo1ZmJ5emJfMGlsMFFpQlY4aWNnS0RBLVZEQkxKVDhnYWVha3FrSDIzMTFDNk1UcGZBempta2dBR0o3c1dwZGJqUTBkYjlOckFrT2JKYjhnYkMtWG00OTAycENGRGJYOXlQZHkwcEZuU05WejhHWQ?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-07-27T03:33:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZlVSQlRwa1RqU2tvV2pmckVDakNkM3RpY0JyUE5zS3EyVW9GVW1jcXJoLUd6TnVQd1hLb3NZSTh6VXk5emtiT1E3dGdsWEhHa2tFU0plelhKdk9wUUpZY2lhdUtyNEQzbjhkbjhYQUMyYmd4QnZJa2xkWnhXc2R1U2hQNGozOHBPZDRpTjNKb3BsZHhnR1c2dy0yRUU0RC1HWk9JTUxPNEFOXy1YZTR6dEd1cTR4MElDMm9IZ0hPdElyZml4cGQwbWJXdFhqS2NKaTdJZ1RLdmRZZkZQS1VvcUZOZzFEeXlJdUQ3bXE2U1J4UQ?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-07-27T02:11:10.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC",
-        "url": "https://stocktwits.com/news-articles/markets/equity/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-nvda-googl-orcl-tsla-intc/cZZxG0NR7CR?.tsrc=rss",
+        "title": "The Zacks Analyst Blog Highlights INTC, DELL and PGR",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-intc-103100807.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-27T02:05:25.000Z",
+        "publishedAt": "2026-07-27T10:31:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel (INTC) Teams With Lens Technology On AI Chip Packaging",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-teams-lens-technology-190906650.html?.tsrc=rss",
+        "title": "OMERS ADMINISTRATION Corp Acquires 61,550 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeTlHSC1hU0E5Z2lNUzhZNWQtNTV2S2cyLTlGaHVQZ3BmS2pEVHFfUUZkdnRlQnA2VkhQZ2plRzM2SG5nVkhwY2dmOEVqZ01XSTB4TExFdnJoSHRpck5qS1RCZUF5SFlxRGhNTWp0SGtnMmczbUNITFRTdkFsa1FtNG43N2h2VjJpTkh5Y05mTGRxay1QbUVSSTVrcUpqRmdtSE92RHpVeEFXZVZnMHhZaUU5WVlrWEo4R183MHYwWnNFMm1PRHo1MkZvdGR2a1E?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-27T10:16:30.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel More Than Quadrupled In A Year, So Why Has It Cooled",
+        "url": "https://www.trefis.com/articles/608973/intel-more-than-quadrupled-in-a-year-so-why-has-it-cooled/2026-07-27?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-26T19:09:06.000Z",
+        "publishedAt": "2026-07-27T09:14:27.000Z",
         "summary": null
       },
       {
-        "title": "Intel (INTC) Teams With Lens Technology On AI Chip Packaging - Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2FlY0dla3lGV3lJak0wUUlRcW1aVDBKc2dvWm12ck1CQkhEMTNJV09Ra29SdnZJREdBY3hQUjhXZGJUaWFhSy1DcEs1Rl9VQ0lLNWgtMzVlMXd5Qmc0YTFzMXYtN0NmclN3RE50S0RleWJPNWVWRkxPQXlkbHlFQURaYXpyLWkz?oc=5",
-        "source": "Yahoo! Finance Canada",
-        "publishedAt": "2026-07-26T19:09:06.000Z",
+        "title": "Micron Traded Its Cost-Cutting Story For A Contract Story",
+        "url": "https://www.trefis.com/articles/608970/micron-traded-its-cost-cutting-story-for-a-contract-story/2026-07-27?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-27T09:14:21.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel More Than Quadrupled In A Year, So Why Has It Cooled - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSlBlS0lnbXFLbVhFS2YwMnlqOHFEZG5yY0dSUjVrbHA2UkozZms0RkRhUjU3OWNvUU5RQmx6OGZETDZkbnR1VW01RkQ0eDhwZjNwVlpWZ2pJclYxaHZQeDlRcFpZMEhLUFI3WWtSNWl5cTFPWFk5MTFzRlVPTUJYVjhiZ2tqcmIzTUlOU244R3M1WGw2eV9mZE80cXlIOGtWeU1wWFo0RlJRMWdaancxMVlOdUZkQmwzTUE?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-07-27T08:48:34.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why Cheap QCOM Stock Fails Part Of The Value Test",
+        "url": "https://www.trefis.com/articles/608939/why-cheap-qcom-stock-fails-part-of-the-value-test/2026-07-27?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-27T08:46:04.000Z",
         "summary": null
       }
     ],
     "005930": [
-      {
-        "title": "삼성전자, 10,000원 상승 마감, 외국인·기관 수급 엇갈림…거래량 변화 (+005930, 주가, 외국인, 기관, 2026년 7월 23일 수요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWmtqWDl5UzZBWWlTeEljVWFUQXBsb2dGRVVpTjNEc0Q1d1pINXlqMFFWUjF3VWVHM25yeDR3MU5zNnJESXVPWTJTYTZJbjA5Q3ZsWFVmOVNvRFQ0Mzd5dWFnVGVaM2ZMZUxtVw?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-23T06:44:11.000Z",
-        "summary": null
-      },
       {
         "title": "삼성전자(005930) - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUo4NFZyOUdYTFB5V0lpampzOTlROUltaDJuU0ZPdFkxeFlTTmNxUHE2QWU3ZWFVWDhGNGNLTFVzQ1V2ZEs1RDBWcHo3RjFKUHRQbFhia0loenpSbUdWSFJHcHRDbVhpSUgzZXlYRWJUTlFpUVJfdkNtYW55TW9BVVpDRVpuWVpNN29nVWVWUUFGaTZ2V1hsSlhn?oc=5",
@@ -128,6 +121,13 @@
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
         "source": "매일경제TV",
         "publishedAt": "2026-07-06T04:59:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "2026-07-01 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 주성엔지니어링) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WTVvcUZWVmM3UDJtdGlzNUN4UWMtWnJfRmVud3RqVGZ3WUZtdHpRaGRlaWtneEI0eGtRMHN5UC0zWlFJdWNlc1hMT2ZXQnJkaDF1a3RPVms4YThZbXVWMjBhQS1Bd0lxejV2Yw?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-07-01T07:40:26.000Z",
         "summary": null
       },
       {
