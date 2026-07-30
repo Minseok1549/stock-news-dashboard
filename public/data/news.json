@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-07-30T13:57:08.912Z",
+  "generatedAt": "2026-07-30T16:25:35.832Z",
   "articles": {
     "INTC": [
       {
-        "title": "ASML's EUV Machines Are Becoming More Valuable Than Ever. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/07/30/asmls-euv-machines-are-becoming-more-valuable-than/?.tsrc=rss",
+        "title": "Intel Corp Stock (INTC) Moved Up by 12.53% on Jul 30: What Investors Need To Know - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQm9zbFJLWmV1SjU3V3pWaE9BenFXa3UzZGxOOEUzNElTOGQyVGFKLVplTzZaem1IMXJfTFEzNGVhbFAwU1U0bmxSN1lCT2VwdHBkdDhoa3Y3amJDRDVBOWZTdmpVRDF1T0JoWU4ta1MzTWRzeTlGcXFrS2VlbG1uTFJCVnhycThHWWF3?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-07-30T16:15:58.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel and AMD Soar 13%, Taiwan Semiconductor Rallies 7% as AI-Chip Stocks Bounce Hard",
+        "url": "https://247wallst.com/investing/2026/07/30/intel-and-amd-soar-13-taiwan-semiconductor-rallies-7-as-ai-chip-stocks-bounce-hard/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T13:05:54.000Z",
+        "publishedAt": "2026-07-30T15:51:09.000Z",
         "summary": null
       },
       {
-        "title": "Tech Stocks Rise: SMCI, TSM, INTC, and More See Gains - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdy1UX2g3emVXdHA2VGFRNUxBMEF0X0VoVzc4ODFWRHRlT1hEM3FBU2JpeXpsdkJRWlQ3cXNWTEQtUmstZFJoVGJTdnhGWTc5N1ktSXlrdjRHeDZHRFktWUlua2NfZWVza2pkbkZMX2E5bHJYdU9KdVBzX1NvZE1ENjNndG1uNmdzalJEUHFjT0dtUQ?oc=5",
-        "source": "GuruFocus",
-        "publishedAt": "2026-07-30T13:02:09.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia vs. AMD vs. Intel: Which Stock Is the Better Buy for the Server CPU Boom? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUpuWno2WjRzM3J3bnY3NWx2T1lZNHNiZlNMQU93WW5FMnY4ZGE1eHNvSWhBTXVxbUZJX3BkNzVJRnpUOW9VNDVqTzRSX2o4S1JMcG1JLUR3VUdQdURfdlg3Z0JIRHVjT2g2SDZSUjNzWFVyRWJoT1RsUThfOGZoNjJwdzZMTmh0c1RiRWNsT3JZcTFtbHFhWg?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-07-30T13:00:49.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (INTC) Rally Highlights the Fund’s Missed CPU Bet",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-corporation-intc-rally-highlights-125440941.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T12:54:40.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (INTC) Rally Highlights the Fund’s Missed CPU Bet - finance.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFJOd2w3UFNGWnNOaE9pT3JKTUtsR25IQVo5VU5tMFJ5YkZhend2QkhNSFVIRlFTSE85amhkbThla2lLYjFrTGRoNU05R3gzS0VSMUJOeGN5RFRkUDVZU0NyQ3FWOXlXZVJRbjNxNUJWMmt3UzRSWUxQaE9yVDNPSHFOWHp0Y0tvbWhERzZUWTVjbHFkLTVmVGdZbk9nVXI5Y3R3VE0yNA?oc=5",
-        "source": "finance.yahoo.com",
-        "publishedAt": "2026-07-30T12:54:40.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia vs. AMD vs. Intel: Which Stock Is the Better Buy for the Server CPU Boom?",
-        "url": "https://www.fool.com/investing/2026/07/30/nvidia-vs-amd-vs-intel-which-stock-is-the-better-b/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T12:43:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia vs. AMD vs. Intel: Which Stock Is the Better Buy for the Server CPU Boom? - finance.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSGVwSzBGQjgyMHFKTzVUWDdXWkp1YlE4Y1RpcF9FdE5DVm9KTjNPZGhYUjhVR09lT0JrS08waG1jMHV0Ykt5YlpvcjFrV2ZLS3dPQkJOZE5lY0k4WTBGREFxeW5oeWpGd2JLYlRtVjlPSTFKWmg5Tl9sUUhCOWxUbDVYZ1hfZTRxdU1wUXVHOXg?oc=5",
-        "source": "finance.yahoo.com",
-        "publishedAt": "2026-07-30T12:43:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Jim Cramer Just Dumped Tech Stocks. He’s Loading Up on Intel Instead of Cerebras.",
-        "url": "https://247wallst.com/investing/2026/07/29/jim-cramer-just-dumped-tech-stocks-hes-loading-up-on-intel-instead-of-cerebras/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T12:30:31.000Z",
+        "title": "Intel and AMD Soar 13%, Taiwan Semiconductor Rallies 7% as AI-Chip Stocks Bounce Hard - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjNkUlFwLW5GRm5rekkxNDVwNWRqbWdWMkMxbldhRTBGSnNfczRSUHNPNTU2aHdXdEE5OWJqeHNFM09tU1NQRzB6aV9jWVVfYzJCM1pkLUVVZWtzaEhWMXBMckl1eHJDeVNBbTFzZXIwbjNUR0JFaXBRTGl5S0hMa1F4QmpMWmNVTlBDdC0yYjRQMW43cWtKNzFBZ0xyRmhvX21ER0ZFdGpDakt5Rkw2VEp5R24xSDZCVGtWZURMOGxxSWZ5?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-07-30T15:51:09.000Z",
         "summary": null
       },
       {
         "title": "Nvidia Stock Is Showing Signs of Life. What’s Driving the Rebound.",
         "url": "https://finance.yahoo.com/m/fe1e2ac6-d4ba-3c64-85a4-806285ed89fb/nvidia-stock-is-showing-signs.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-07-30T12:28:00.000Z",
+        "publishedAt": "2026-07-30T15:28:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel: Buy The Turnaround As AI Demand Accelerates (NASDAQ:INTC) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUm5wRjUwZ1VpNUhOX1JHQlRiVm5CbmZDeXBZOGl1cXM1dUlLNVV6ZUNjbzNhcnZuTE9RbEZOczlyUm1TWDhTYnc3QjhjVjJuNTVoa1BlM2lBaFlxcDdwOEtKM0UxR2JmNjVkTnRLVldYSWZud1ZfSW9mRnhoeTVuSVBHZUpDVnRERlVSeFozMm0ycmFhQ19Sd2VqUUY?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-07-30T12:00:00.000Z",
+        "title": "Taiwan Semiconductor Is Copying One of Intel’s Best Ideas — Here’s Why Investors Should Pay Attention",
+        "url": "https://247wallst.com/investing/2026/07/30/taiwan-semiconductor-is-copying-one-of-intels-best-ideas-heres-why-investors-should-pay-attention/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-30T15:13:34.000Z",
+        "summary": null
+      },
+      {
+        "title": "Jim Cramer Says When Margin Goes Down Big You Have to Buy What Was Blown Out: 5 Stocks to Consider",
+        "url": "https://247wallst.com/investing/2026/07/30/jim-cramer-says-when-margin-goes-down-big-you-have-to-buy-what-was-blown-out-5-stocks-to-consider/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-30T15:11:42.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock’s Biggest Risk Is A Foundry Bill Due Long Before The Customers - trefis.com",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcmRzQ1JoZFlieUJGTGFYTm9TQk5YeHdsNDJCZnl3MVR2VnRFNkdDeFhweWtDUEcxeDFwd05HUGdBZzBFUVNybFlBV3hwUjJBTU1KNVEwZTJUdHpOd2tDRHNCLWh6dzE0QVV2LWJlbXZrZWgtU2w2UWxkOEozRE5mTklLRXVPdTRxc0JEV19NZTlETDhTVVY4T1hsblh3NzZzd0JBczNjUVBETjJONDQtTEtKNHFEV2hQWVlDa2RkaTk0cnZ5Q2pfUGlwZ0ZxLTg?oc=5",
+        "source": "trefis.com",
+        "publishedAt": "2026-07-30T15:09:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "The Hyperscaler Prisoner’s Dilemma: Why I Keep Buying Nvidia",
+        "url": "https://247wallst.com/investing/2026/07/30/the-hyperscaler-prisoners-dilemma-why-i-keep-buying-nvidia/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-30T15:08:47.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock's Biggest Risk Is A Foundry Bill Due Long Before The Customers",
+        "url": "https://www.trefis.com/articles/609510/intel-stocks-biggest-risk-is-a-foundry-bill-due-long-before-the-customers/2026-07-30?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-30T14:59:46.000Z",
+        "summary": null
+      },
+      {
+        "title": "TSMC Stock Gains On Report Of Developing 'EMIB-Like' Chips To Counter Intel's AI Threat",
+        "url": "https://stocktwits.com/news-articles/markets/equity/tsmc-stock-gains-developing-emib-like-intel-chips/cZN554qRJcq?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-30T14:46:51.000Z",
         "summary": null
       }
     ],
@@ -154,13 +154,6 @@
         "summary": null
       },
       {
-        "title": "AAPL Stock Quote Price and Forecast - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-07-27T16:43:18.000Z",
-        "summary": null
-      },
-      {
         "title": "Why Apple Stock Is Up Today - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qR256dDhjVXQ0NGJDT1BObkVmUzNyU25mcjZPUlFpMDg3OFRXYk9ja3pZdjNXaWtMZXBncHFmdWhMWnpIQTVOUGJTbktkdHIyUHFxSTQyZXdqZEswUXJ5RFZ1VzVMUU9ld3BDU00yVmlFbmd6SzBxR2xR?oc=5",
         "source": "The Motley Fool",
@@ -196,9 +189,9 @@
         "summary": null
       },
       {
-        "title": "Why Apple Stock Dropped Today - finance.yahoo.com",
+        "title": "Why Apple Stock Dropped Today - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHUxOW85Z05PdHhMNkJLcG1uTm9Fc0JhNFpfSmFZV0lVNW13cFNsVnllRFFXSFczMEhza29FQ2dMRUc2RFk5VGdUaC12X00yRkpiNFF5d09lQVVMOGc2dndfVENNaXRIQy1xVzl1OV9zNTFndm5zNlczbGxGWG1BSzRmNkZ3LUdoenh5ODJzMmpjdTVZemI2NzR3?oc=5",
-        "source": "finance.yahoo.com",
+        "source": "Yahoo Finance",
         "publishedAt": "2026-07-20T07:00:00.000Z",
         "summary": null
       },
@@ -214,6 +207,13 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FblYzYlBFTDRwYzRTbzRYdWVTbFItUmtRMWpJOU1ndXhIcFJsZXJIdzd2UWVHWENRV29BNWxnNHA2eGdCamZXem9Ma3RHYjh6QWI0T0lKMFVjSEYyczM3TDFTT2lkaU9FTkNlNHlBQmNVT3NYZTU2Q1FR0gF_QVVfeXFMT0FUY3lyN01USE9ieWxUbHU2Qk5vaFM5U25acnNoYXpTM1I0dzN0cmJuQkowdXE3NFZuU29GeVdsNEZiaGNHTlotWjUwSmdXT0lYbVBkdUFpWUFjNE5hczl0aUFzN0gzV0xraHZISDJPMjRVWU5zbV9BaHVfd3R2QQ?oc=5",
         "source": "CNBC",
         "publishedAt": "2026-07-17T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Prediction: Apple Will Become the Second Company in History to Reach a $5 Trillion Market Cap. Here's the Math. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaTNESUJOQjA3bWdyZldDcUVLVEFwMUl3b2FZblp3R1NtRi1PRURYOUs3Y1dEbXM3QkU3R2M5eTI0VEdrODUyTUplakJCSVk0cXY5Q0ZrckZPV3o4NURrZk1uZnRfakdjQ0ZkVnZRMkxvanl1WG1oczlRUE1SdWRkaXV2bktaTHVibmtTNWR4M092VVB1Z2YxVlZGYWswUlg4aG4xQ05B?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-16T07:00:00.000Z",
         "summary": null
       }
     ]
