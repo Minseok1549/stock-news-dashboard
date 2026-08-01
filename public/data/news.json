@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-07-31T22:03:50.528Z",
+  "generatedAt": "2026-08-01T02:40:13.177Z",
   "articles": {
     "INTC": [
+      {
+        "title": "TSMC is quietly borrowing a page from Intel's playbook",
+        "url": "https://www.thestreet.com/technology/tsmc-intel-emib-chip-packaging-rivalry?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-01T02:33:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (NASDAQ:INTC) Shares Down 1% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFNydHpXbktuSTBzZjI3TmdHLWxaYUt6a0VfMWItd0YxcWRyR09aaDJ2UGxyTERxT3A2VnQ1R1J6TUdUYXdJeEFDX0M3Tk04WWZzOVp3MDVWZl93TW5DbFRwZFZVUWVfcjBfaG54VHdiRXpwWjVhWk5tRjUyV0tTUVZ4aHY1cEJCcHFkMWFFVHZDSndSSkEwWXAwLS1sUVk0Y292MVBuWQ?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-07-31T22:12:46.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Stock Ends Week at $90 after Failing to Retake $100, Despite Improving Profitability - FXLeaders",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVZOSXpFVDd4My1LdnNzU092bzZic3ktX0tzeHBuWFdhNEdDSEg2b0hiVWhEVXdTcXF1bUdNRmxmM3BDcVhTd2VEdFFhUnl1alc5S2JUc29tNm9KTHBULXNabC1lVXhOR3VtWFM3anQtc2daWU5KMmpCeWxySGZpVGt2czVUaTh4R0thbm5LZDJpUTU2ekh2Y0Q3a0J4VlNBclRXWDdKbERMUThiQWxTRHctRlIxc3A1M1p3bHZJQkZMQVM0Qll0TkV3?oc=5",
         "source": "FXLeaders",
         "publishedAt": "2026-07-31T21:33:57.000Z",
+        "summary": null
+      },
+      {
+        "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/c7088c5b-b522-3124-b711-72c511e1146a/amazon%2C-apple%2C-microsoft%2C.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-07-31T21:06:00.000Z",
         "summary": null
       },
       {
@@ -17,10 +38,10 @@
         "summary": null
       },
       {
-        "title": "Intel Stock Rises as Analyst Sees Apple Supply Opportunity",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-rises-analyst-sees-191634969.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-31T19:16:34.000Z",
+        "title": "Apple Stock Plunges 9.6% as Analyst Cuts Target, Proposes Intel - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2VfLUVyVHlXUXg2cXZhYlJES0dld3B2RHY1NzJkT3lrR193X1AwVWVKUUdxUGtvY0hLSmMzRFNYd2RHX0NoeEJNVVM4dHppcHZXX2U4ZDdyTnR4QV9FWjY5SEIzdGItQ1BZYzhnTWhRaHdBQmRuS0hkZXQ3TW9mdUhrRThoR2lrX2pfaVhCNFM1LXR6S09wdUtKd3VsckF3Z0FYUmwyZ0ViRFBobHMwS19sV2RvRVVYck9ZMHZn?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-07-31T19:22:25.000Z",
         "summary": null
       },
       {
@@ -28,13 +49,6 @@
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2txV0xXYzYxeTQ2NDFVLVZEMkdGYTdDR1RzXzRmNDc0YjgyWGtJVVpSSFpoVERHdWg1d0s3QUZhR2ZnLXJOakhKN2ZMc1pJY3RDelVQWllFQ1BJNzNzTGRWd2psZ2tSbGNnUWNGVC1oT0tjdmQ3QVV5ZlhaYy1RZEQzOWxtRkZiUmdTaVVOOGxUdjJSc2NRejl3NXhFUnFlNnl4cDdmSHFXRUxIVkRaSU16SmN6RzJ0S3c?oc=5",
         "source": "TradingView",
         "publishedAt": "2026-07-31T19:16:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Amazon, Apple, Microsoft, Micron, Roblox, Reddit, SK Hynix, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/c7088c5b-b522-3124-b711-72c511e1146a/amazon%2C-apple%2C-microsoft%2C.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-31T18:11:00.000Z",
         "summary": null
       },
       {
@@ -56,20 +70,6 @@
         "url": "https://247wallst.com/investing/2026/07/31/amd-is-down-10-over-a-month-did-microsofts-catalyst-just-spark-the-155-upside-expected-by-wall-street-pro/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-31T15:50:40.000Z",
-        "summary": null
-      },
-      {
-        "title": "‘Be Smart,’ Says Investor About Intel Stock - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFdxODlCYmJoRHZWbU1OTktTOG5wNGpmTVFVOHhpdy14M01fN0d5Ny05a2RTbW9kb0FGUzFhV25mMlQ2SDM0ZDZMTkJndnhHY0E5X3ZIUWZ2M21kQ3FjMkxFc19pWjBiOTl5MGpJaE5lY0RTUzU0ZVR2dkNoOFFlSEkwT0k?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-07-31T15:23:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Should You Buy AMD Stock Ahead of Q2 Earnings? Here's What to Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/buy-amd-stock-ahead-q2-152100876.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-31T15:21:00.000Z",
         "summary": null
       }
     ],
@@ -131,17 +131,17 @@
         "summary": null
       },
       {
+        "title": "삼성전자, 9% 급락 마감…외국인·기관 동반 매도세 집중 (+005930, 주가급락, 외국인매도, 기관매도, 2026년 7월 2일 화요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRm9vMUF1bW5mM2ZoanZoSnVrTmNhQXh4bktaRmprZUZuN2s0SlNXOThxOTI0eXdjTDJGZ3JKc3JBV2MxSmMzeE5namRVakFQelZkY2VYSWQ5MDVRS0RLRkxiclJLUG56LWVVSQ?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-07-02T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "2026-07-01 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 주성엔지니어링) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WTVvcUZWVmM3UDJtdGlzNUN4UWMtWnJfRmVud3RqVGZ3WUZtdHpRaGRlaWtneEI0eGtRMHN5UC0zWlFJdWNlc1hMT2ZXQnJkaDF1a3RPVms4YThZbXVWMjBhQS1Bd0lxejV2Yw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-07-01T07:40:26.000Z",
-        "summary": null
-      },
-      {
-        "title": "다시 삼성전자 살 때?…‘초고수’들 순매수 1위 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wdGVPRTZINmxrcFMwaVY2M2NDa3ZlV3pIcVhMTm5pQ0xnVllaMlYwVmdLWGljdGIzT2ZrSG12ZTUwejI3VlAtbHVQTmtkc3dvRUHSAVNBVV95cUxPRDl2VkdMVnpzLVExVGQzQUs3OGswaXBGZGM5QWRicktDd2lVY0JPVmd4bFB0UVQ4YjdlV3J2Z1Atc04xajFsUk13V01qOUNVY1d3VQ?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-06-15T07:00:00.000Z",
         "summary": null
       }
     ],
@@ -151,13 +151,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3BQUnZKeVd4VVZCRkVCcVJBeXNLNkhKbU5FbTZlRlR2RkFPZU1neXRiRUc0Y2EtZkNqeGZmNUtFSDhnbThaOEkzYVZEZzNybHliMDVIMWlaZTc5WXYyeVJ6RjRnd1dsTWRMeTNHekN4SlpUQzFWNWx3eEk2SFhwclpHekZ1RDYtNXhFTUpuZEZKVzRCTS04SnhjRTloVzRCdGVXOE5VNUZmcHRic1dqSXkwWTRndVZDQlBR?oc=5",
         "source": "Benzinga",
         "publishedAt": "2026-07-31T17:42:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple stock slides as Q3 estimates beat on strong iPhone sales, but China, Services come up short - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTRvU1FvNGw1SnFkZ2R5VlpjVkRheXZtaGlBSlA2QnFNcVdZYVRjNTFVVkFXWmhUY0FKU2hjRnV1ZGtkYk82TnduVTMyT0lLUTNzdDk3eEV1V1B6N3ZWS3RQLXlJYWdoNlAwSXd6d2JNQm8wcWxYYXNXb2lId2FCaXJxa3VPNXlmMWFpUTFTcHlVTFBGRlZnc0NXT1YxNGdHeEdOOUg4cFFYazNTTWlBU2lyS2ZkM256MU84WUVBSnQ?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-31T12:12:11.000Z",
         "summary": null
       },
       {
@@ -189,16 +182,23 @@
         "summary": null
       },
       {
-        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - beincrypto.com",
+        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - BeInCrypto",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83b0MxQzUySWdTOFpibjBxSzlxMUFqZUpuODFDTGF5ZU1SNUFlMHcyck1abVl0WGNaRS1wNEw1YW5GbkYxXzI2Vl96MjFNbE9RT3RuSDU2bnpjcUlTMnB6MEhJOHdHR2tULUE?oc=5",
-        "source": "beincrypto.com",
+        "source": "BeInCrypto",
         "publishedAt": "2026-07-30T20:44:00.000Z",
         "summary": null
       },
       {
-        "title": "Stocks to Watch: Meta, Adidas, Apple, Shell -- WSJ - Moomoo",
+        "title": "Apple beats Q3 estimates on strong iPhone sales, but China, Services come up short - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGdDSjNTN1Y2NjFmbEtBaG5sLUNBTzU4bVI5VHRCc3hqaFptYjluS0pPYk5aTGJXR2VJbVBHbF9pWktQaU5WMmdMT0FhSW5VOVlhQlVqUXVvRnpDeXY3dWxKbl96cTJzQkg0QmhmUzlCaHpvWDJXTUQyV0RIOV80dDVtUXNxcWRVbHQwWS1JS2hycEszWXU4amxQTUdlVUFLYWh3VlowNG9ORDR1QjBpaTlOOExDUnZLanh1R3U3WUhscVk4WUIyaQ?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "publishedAt": "2026-07-30T20:35:45.000Z",
+        "summary": null
+      },
+      {
+        "title": "Stocks to Watch: Meta, Adidas, Apple, Shell -- WSJ - moomoo.com",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN25hVzd3WmV5SHdpUUl6YUJKd0FiSnVwYW00T1B0NEY1YXdJSWpmUGFBY0ZrQm9PU1Q3cGMwaVlBbGhHTE9ZTzhmdTZ2N2JSTGtsdzE1QUtYNzBnS25CcS1KZ0pYWlFtTjZWcVVqVFEzVXFQTGVsTVRHWWxQN2ZpNjBtSzctZ05iRkVPT1Vn?oc=5",
-        "source": "Moomoo",
+        "source": "moomoo.com",
         "publishedAt": "2026-07-30T10:19:46.000Z",
         "summary": null
       },
