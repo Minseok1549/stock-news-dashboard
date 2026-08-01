@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-01T08:18:12.005Z",
+  "generatedAt": "2026-08-01T10:39:24.562Z",
   "articles": {
     "INTC": [
+      {
+        "title": "CRDO, MU Look Smarter Buy Than Intel Stock - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlhhdENpQ2tlaExfSEpXUllsQ1h3TGFoS0NXVnp1emNUbXB6cHR5NldDd0xoVWE4MTlKeHBxUlBRa0R4WkY0S2ExeS1aeUdCX2JMNC1ZekRIVDZDWG5VWFMzYTFBaFlOMGxrVy1VTXU1R05LVUJPVnZ2Vlhrd2Q4OEZjci1YalI5bFdIRUg0cTR3U0FNSjc4dm1FYnVXQ1gwNXVZQ0pKdUxHUXN5LS1LaA?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-08-01T10:03:12.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Stock Price Forecast: After Over 30% July Drop, Will Shares Fall Further? - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZnRVNGJ0T1BiREVreUxBUW1VcUY3ZFVqVVNPY0JjVDYwZTRkZDd0Y1k1TE8zZHBsS2EtSHhReE5qZGY1YkFKWkFmZXVwa0JmckEtVXhmeDd1cmtZVUJFZm03czFMbnc0N1c3cnZLNldDN3IycEdoX0VLTy02aW1xS2p2S01uczJrajRUMkVobEU4X1N1dW5mbjZrQ0xobDBuTWRMMW12dEFXQWxzZTVVdUlDa2tVd0UwcGxqeWdHWUdjTGdlUUExeGItZTBMWVM0YXdjZzFPR3Y?oc=5",
@@ -64,27 +71,20 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-31T19:55:48.000Z",
         "summary": null
-      },
-      {
-        "title": "Apple Stock Plunges 9.6% as Analyst Cuts Target, Proposes Intel - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM2VfLUVyVHlXUXg2cXZhYlJES0dld3B2RHY1NzJkT3lrR193X1AwVWVKUUdxUGtvY0hLSmMzRFNYd2RHX0NoeEJNVVM4dHppcHZXX2U4ZDdyTnR4QV9FWjY5SEIzdGItQ1BZYzhnTWhRaHdBQmRuS0hkZXQ3TW9mdUhrRThoR2lrX2pfaVhCNFM1LXR6S09wdUtKd3VsckF3Z0FYUmwyZ0ViRFBobHMwS19sV2RvRVVYck9ZMHZn?oc=5",
-        "source": "TradingView",
-        "publishedAt": "2026-07-31T19:22:25.000Z",
-        "summary": null
       }
     ],
     "005930": [
       {
-        "title": "삼성전자, 2,500원 하락 마감…외국인·기관 수급 엇갈림 속 변동성 주목 (+005930, 삼성전자, 주가, 수급, 2026년 7월 30일 수요일) - minsimnews.com",
+        "title": "삼성전자, 2,500원 하락 마감…외국인·기관 수급 엇갈림 속 변동성 주목 (+005930, 삼성전자, 주가, 수급, 2026년 7월 30일 수요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BZkN4VHVrQV9iZ2VhRjludGJRUlRwS2ZwOG5aLXhqT0pZUmJ4VTVmMnpGSy1haTUwZDh2eHZFLWdvZExrSEtxb1JVMy0wQkFERHhnVGdsUU5jNUxldUsxM3pPUTNLTWRJVG04cg?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-07-30T06:44:06.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 2.00% 상승 마감…외국인·기관 수급 엇갈림 속 거래량 변화 (+005930, 반도체, 투자자별매매동향, 2026년 7월 27일 일요일) - minsimnews.com",
+        "title": "삼성전자, 2.00% 상승 마감…외국인·기관 수급 엇갈림 속 거래량 변화 (+005930, 반도체, 투자자별매매동향, 2026년 7월 27일 일요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYk5UV1VrWW0zMGZGNXg1NVo5cXVHbVh1dnJGdkJyUGFtWnRSZkg1ZnZmMjVmZlptV2tzd2Mzbnl1VWpnMHlyTURpMkx1WVdlSG5PMXhuRnJ0MXhfcFFfRHhpblZoRlVNZi1jag?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-07-27T06:44:12.000Z",
         "summary": null
       },
@@ -96,9 +96,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - minsimnews.com",
+        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWjJNUlRCZnZKQ2hUN0tlTWU1ZlhHbzNKT3c0NXVKWlJHZnF2MXlzSFBFd3BmcVM2Z3VGVy1iVU1yZ2U5VmpBTnhuZnZ1YXNaQzNrTVN5amwxRFhXenc3bDdyLTFzS1N6ZHVlVg?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-07-15T07:00:00.000Z",
         "summary": null
       },
@@ -131,25 +131,25 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 9% 급락 마감…외국인·기관 동반 매도세 집중 (+005930, 주가급락, 외국인매도, 기관매도, 2026년 7월 2일 화요일) - minsimnews.com",
+        "title": "삼성전자, 9% 급락 마감…외국인·기관 동반 매도세 집중 (+005930, 주가급락, 외국인매도, 기관매도, 2026년 7월 2일 화요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tRm9vMUF1bW5mM2ZoanZoSnVrTmNhQXh4bktaRmprZUZuN2s0SlNXOThxOTI0eXdjTDJGZ3JKc3JBV2MxSmMzeE5namRVakFQelZkY2VYSWQ5MDVRS0RLRkxiclJLUG56LWVVSQ?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-07-02T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "2026-07-01 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 주성엔지니어링) - minsimnews.com",
+        "title": "2026-07-01 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 주성엔지니어링) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WTVvcUZWVmM3UDJtdGlzNUN4UWMtWnJfRmVud3RqVGZ3WUZtdHpRaGRlaWtneEI0eGtRMHN5UC0zWlFJdWNlc1hMT2ZXQnJkaDF1a3RPVms4YThZbXVWMjBhQS1Bd0lxejV2Yw?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-07-01T07:40:26.000Z",
         "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - Benzinga",
+        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - benzinga.com",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3BQUnZKeVd4VVZCRkVCcVJBeXNLNkhKbU5FbTZlRlR2RkFPZU1neXRiRUc0Y2EtZkNqeGZmNUtFSDhnbThaOEkzYVZEZzNybHliMDVIMWlaZTc5WXYyeVJ6RjRnd1dsTWRMeTNHekN4SlpUQzFWNWx3eEk2SFhwclpHekZ1RDYtNXhFTUpuZEZKVzRCTS04SnhjRTloVzRCdGVXOE5VNUZmcHRic1dqSXkwWTRndVZDQlBR?oc=5",
-        "source": "Benzinga",
+        "source": "benzinga.com",
         "publishedAt": "2026-07-31T17:42:45.000Z",
         "summary": null
       },
@@ -161,9 +161,9 @@
         "summary": null
       },
       {
-        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - The Motley Fool",
+        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - fool.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
-        "source": "The Motley Fool",
+        "source": "fool.com",
         "publishedAt": "2026-07-31T10:15:00.000Z",
         "summary": null
       },
@@ -189,9 +189,9 @@
         "summary": null
       },
       {
-        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - BeInCrypto",
+        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - beincrypto.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83b0MxQzUySWdTOFpibjBxSzlxMUFqZUpuODFDTGF5ZU1SNUFlMHcyck1abVl0WGNaRS1wNEw1YW5GbkYxXzI2Vl96MjFNbE9RT3RuSDU2bnpjcUlTMnB6MEhJOHdHR2tULUE?oc=5",
-        "source": "BeInCrypto",
+        "source": "beincrypto.com",
         "publishedAt": "2026-07-30T20:44:00.000Z",
         "summary": null
       },
