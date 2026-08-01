@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-01T10:39:24.562Z",
+  "generatedAt": "2026-08-01T13:17:03.397Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Corporation $INTC Shares Sold by Groupe la Francaise - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSllBQmlMY1dzUG4yRGdrMUd4TnBoNllIMmhoOTByRVNQTDFDWHZhcGFDVVN4OXl2NEFFemtPQ0U2SjVyczVzTnhUMVMzUHBONll1YVVoeWxhZUZWQnpmdEpZYmlJTldnc1hWM1RuU1JTekptNF9LM2xua2R1VUFXcUpTSUhCODc1QmZxVEdtV3BYU2xlVUpYR21NTlNxMlZPZTk4VkJaNnFfLXZod282NzZERUpGSmRlWmc?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-01T10:44:03.000Z",
+        "summary": null
+      },
       {
         "title": "CRDO, MU Look Smarter Buy Than Intel Stock - Trefis",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlhhdENpQ2tlaExfSEpXUllsQ1h3TGFoS0NXVnp1emNUbXB6cHR5NldDd0xoVWE4MTlKeHBxUlBRa0R4WkY0S2ExeS1aeUdCX2JMNC1ZekRIVDZDWG5VWFMzYTFBaFlOMGxrVy1VTXU1R05LVUJPVnZ2Vlhrd2Q4OEZjci1YalI5bFdIRUg0cTR3U0FNSjc4dm1FYnVXQ1gwNXVZQ0pKdUxHUXN5LS1LaA?oc=5",
@@ -63,13 +70,6 @@
         "url": "https://finance.yahoo.com/m/c7088c5b-b522-3124-b711-72c511e1146a/amazon%2C-apple%2C-microsoft%2C.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-31T21:06:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Inside the Trump administration's equity stakes in 30 companies",
-        "url": "https://finance.yahoo.com/video/inside-trump-administrations-equity-stakes-195548911.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-31T19:55:48.000Z",
         "summary": null
       }
     ],
@@ -147,9 +147,9 @@
     ],
     "APPL": [
       {
-        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - benzinga.com",
+        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - Benzinga",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3BQUnZKeVd4VVZCRkVCcVJBeXNLNkhKbU5FbTZlRlR2RkFPZU1neXRiRUc0Y2EtZkNqeGZmNUtFSDhnbThaOEkzYVZEZzNybHliMDVIMWlaZTc5WXYyeVJ6RjRnd1dsTWRMeTNHekN4SlpUQzFWNWx3eEk2SFhwclpHekZ1RDYtNXhFTUpuZEZKVzRCTS04SnhjRTloVzRCdGVXOE5VNUZmcHRic1dqSXkwWTRndVZDQlBR?oc=5",
-        "source": "benzinga.com",
+        "source": "Benzinga",
         "publishedAt": "2026-07-31T17:42:45.000Z",
         "summary": null
       },
@@ -161,9 +161,9 @@
         "summary": null
       },
       {
-        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - fool.com",
+        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-07-31T10:15:00.000Z",
         "summary": null
       },
@@ -189,16 +189,16 @@
         "summary": null
       },
       {
-        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - beincrypto.com",
+        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - BeInCrypto",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83b0MxQzUySWdTOFpibjBxSzlxMUFqZUpuODFDTGF5ZU1SNUFlMHcyck1abVl0WGNaRS1wNEw1YW5GbkYxXzI2Vl96MjFNbE9RT3RuSDU2bnpjcUlTMnB6MEhJOHdHR2tULUE?oc=5",
-        "source": "beincrypto.com",
+        "source": "BeInCrypto",
         "publishedAt": "2026-07-30T20:44:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple beats Q3 estimates on strong iPhone sales, but China, Services come up short - Yahoo! Finance Canada",
+        "title": "Apple beats Q3 estimates on strong iPhone sales, but China, Services come up short - ca.finance.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGdDSjNTN1Y2NjFmbEtBaG5sLUNBTzU4bVI5VHRCc3hqaFptYjluS0pPYk5aTGJXR2VJbVBHbF9pWktQaU5WMmdMT0FhSW5VOVlhQlVqUXVvRnpDeXY3dWxKbl96cTJzQkg0QmhmUzlCaHpvWDJXTUQyV0RIOV80dDVtUXNxcWRVbHQwWS1JS2hycEszWXU4amxQTUdlVUFLYWh3VlowNG9ORDR1QjBpaTlOOExDUnZLanh1R3U3WUhscVk4WUIyaQ?oc=5",
-        "source": "Yahoo! Finance Canada",
+        "source": "ca.finance.yahoo.com",
         "publishedAt": "2026-07-30T20:35:45.000Z",
         "summary": null
       },
