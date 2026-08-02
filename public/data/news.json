@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-02T05:56:34.796Z",
+  "generatedAt": "2026-08-02T08:26:56.451Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Stock Crashes After Explosive Rally: Healthy Correction or Trend Reversal? - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1k2Q005OXo1QkN2Z1gzTzJ1VjBxUXNDQl9aWl8zRGZYZDR5SVRXd0FQWkxiR1dzbUgxVDhBTi0tRlNLODJfODRQWWdYdEpXbUtpVDhIWTNRS2NhR1dXM3JOb0JHTU93WW5objlrSnoxOUYwczhIUmtrc1MzMHNUMm03UDdGRmxoRjVHUERMd1pPQ1ZHU01wN2ZpM3VNUVRwc2cxYVAxZGxZUVE4amw3eE1wQ3BkelA4Sm4xVWZB?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-08-02T06:55:17.000Z",
+        "summary": null
+      },
       {
         "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
         "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html?.tsrc=rss",
@@ -21,13 +28,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-155557123.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-01T15:55:57.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (NASDAQ:INTC) Shares Fall After Earnings Beat, External Foundry Yields 5% of Revenue - TechStock²",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONUpNNl9pU2tTRUttMmY5akJCX3BpMXA5SEd2Y3lJYzFwaVU3RkdIWG5hTUFabG5tYm1zTWdOLXY2OWMySzlHTkNFNENnZGhvSjV0Slc5ODlUT3UzS2lhNmJYaEg5SXRrekREanlqOV9aV1VKR2pOZllhaHh6bWxTUEF2TGhJb09QbUdCMkw0TWw0UTZIM3hLR0tLWndlTjZOTkFvLXJjem9TTUJPZ1NLMUVSNzdqS3hMYlE?oc=5",
-        "source": "TechStock²",
-        "publishedAt": "2026-08-01T15:44:26.000Z",
         "summary": null
       },
       {
@@ -79,6 +79,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BZkN4VHVrQV9iZ2VhRjludGJRUlRwS2ZwOG5aLXhqT0pZUmJ4VTVmMnpGSy1haTUwZDh2eHZFLWdvZExrSEtxb1JVMy0wQkFERHhnVGdsUU5jNUxldUsxM3pPUTNLTWRJVG04cg?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-07-30T06:44:06.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자, 2.00% 상승 마감…외국인·기관 수급 엇갈림 속 거래량 변화 (+005930, 반도체, 투자자별매매동향, 2026년 7월 27일 일요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYk5UV1VrWW0zMGZGNXg1NVo5cXVHbVh1dnJGdkJyUGFtWnRSZkg1ZnZmMjVmZlptV2tzd2Mzbnl1VWpnMHlyTURpMkx1WVdlSG5PMXhuRnJ0MXhfcFFfRHhpblZoRlVNZi1jag?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-07-27T06:44:12.000Z",
         "summary": null
       },
       {
@@ -136,13 +143,6 @@
         "source": "서울경제",
         "publishedAt": "2026-06-15T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "삼성전자 노사, 특별성과급 전액 주식으로…상한 폐지(상보) - 뉴스1",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sSHdlc19LVTVZSnJ5TzA2MkZIdVZ0MS1YNlM5Z0c5QzBRVEc1TFpXZUVneFFzWnNabkpFTGFTTEdpVGZBOEJVVE1Qbko5RFNveHhyXzBJdTJSWHVzdVQwR2lsXzU?oc=5",
-        "source": "뉴스1",
-        "publishedAt": "2026-05-21T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
@@ -172,6 +172,13 @@
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-07-31T10:15:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "AAPL|Apple Inc|Price:308.910|Chg%:-24.520 - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUHY4Z0hpQW5PUTRKcUJ0UmhXN2xCMjJmVEJKWEdWWFQyZVpaNHpPVjltMFJkNl9fRlg3WndGd3dMaWtkVEJhbkJGR1NZX3daYkQxcHBXeWtfdw?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
       {
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
         "source": "CNN",
         "publishedAt": "2026-07-30T13:56:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stocks to Watch: Meta, Adidas, Apple, Shell -- WSJ - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN25hVzd3WmV5SHdpUUl6YUJKd0FiSnVwYW00T1B0NEY1YXdJSWpmUGFBY0ZrQm9PU1Q3cGMwaVlBbGhHTE9ZTzhmdTZ2N2JSTGtsdzE1QUtYNzBnS25CcS1KZ0pYWlFtTjZWcVVqVFEzVXFQTGVsTVRHWWxQN2ZpNjBtSzctZ05iRkVPT1Vn?oc=5",
-        "source": "Moomoo",
-        "publishedAt": "2026-07-30T10:19:46.000Z",
         "summary": null
       }
     ]
