@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-03T12:21:10.607Z",
+  "generatedAt": "2026-08-03T17:08:01.480Z",
   "articles": {
     "INTC": [
       {
-        "title": "Intel Stock Slides As Sector Fears And Tariff Risks Mount - timothysykes.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53bF9IMXJMZExLY21VU1BEaXBzdDJJM3NCVTNlUjVWWnlVdDlKa01jeGVsTmtzcWpJMHAxUDNLUzhlMHlnWW9ZbmxOUWc2RXVVR1huN3RNbGV6azR1TzVDZ1dET0ZtNG8wZjJKa3pJYk02ZjVRNU1STlNfVEZzZw?oc=5",
-        "source": "timothysykes.com",
-        "publishedAt": "2026-08-03T11:47:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-        "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html?.tsrc=rss",
+        "title": "Buying Intel Over TSMC Isn’t as Crazy as It Might Seem",
+        "url": "https://247wallst.com/investing/2026/08/03/buying-intel-over-tsmc-isnt-as-crazy-as-it-might-seem/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-03T11:00:00.000Z",
+        "publishedAt": "2026-08-03T16:06:51.000Z",
         "summary": null
       },
       {
-        "title": "Western Wealth Management LLC Increases Stock Position in Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOM1dzeEhPZE8xUUtWRnp0UGNfNXFuRXotUmxBS0gyc0RpeUR2MFV2ZHNRYWNkM3FNMklabkZiWHluMVBHNXRGMEpSTkxYalQ4QzFoWjh0bENVS1lMX2QyclluQVotN1FualBZZUhxQjlBaGt6Uk1rbGQ2Yk9CTmRWajZJVmxHbldLbDkta1h6d1NmUG82Y1U1eUtLSjVuNzJkbHZNTE83emRnbkVubXZzNjlyZG1yY1FXUjNPZ2dPQ2syX25YMU1QTTc0MUVyVGU5MkZsaGpzTU0?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-03T09:27:09.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Expands Lens Packaging Tie Up As TSMC Targets EMIB - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTldJVDVKYjc1Nk1XOWp5QUtOd2d4dGt3cU9yWFFYTTZILThkcTVWWm12TUlIUi1KZ1NZN25MNWEtMXFDbUhBbG4tcHJORTV3bzhXV0luTU1NbjdzQXRyT21qTXZwQXZYQzlRclkxT25EUmszaXpkcVdVdHZ3LTNWcUdrWW15OEFjSHczWENJcUJmeUF4UkdzSGNJQkpDeVk5c0UyTUVpMXNaemYwX2RoNmFmVWlKOXVHMkRreWdNenRlLVZCM0ROb2pn0gHPAUFVX3lxTE5QYkFOV2lmakdQQmVwZ01rd1BtNmFJcEdyNlNwZVBaZDcycFFCTkl2V1NnSVBDN3duZE9ocFpBRVVhTjgtY05IWXU2d0tVUnVURnpuNTlTRXVEd1dpS0ZfMzFRaFJJS2NTM1UzRVFZLW8tdXpSQmZkVkN6N19wYzlmV2ZjYUdMOUF0RG56c25hVmxJR25vQy1NVUJ3by04RTlfVk4wYUlGVllhU2tKU2ZMbjZ6bGRFLXZjM3AxYk9wV1FZTnl5a1QtZjhobnlpMA?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-02T20:28:22.000Z",
-        "summary": null
-      },
-      {
-        "title": "Semiconductor Sell-Off: 1 Chip Stock to Buy, 1 to Hold, and 1 to Sell - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkZSXy1wdzdub2xOcGZJVmhmLTBpRlR1QzFjdHl0ZXdZRmYzcjdLWTJoMlBHc3puMTlxSzJxN2oyamluc3paaTRoaTNHTE40UlZGVVFOdWNfcHZOUTlKTktob19qTy1QTDBTZTZ6WFhxTUlkb1c0alMyZk8wU0FEVjFhSFRTX1l1N1czaU1TRQ?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-02T17:45:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) stock ends week lower; pricing outpaces unit growth - TechStock²",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmcwZk54S0M5T29SdzRUYUxpalZ3dmZISHVtWHBXcVcxdWV4UFZjWWxPMDVKNXVoN2dmeF8wZDNQMy04RVpkcUVmcE9CT3A3WEpieHZhQU1XRFBPcFYwZEZvclFxS1QyY3JsYzZrQ0g0LUFjVFVodGR3WWJRZE50dExXdlhCY3Q5WUs3Q1FzdXRkZw?oc=5",
-        "source": "TechStock²",
-        "publishedAt": "2026-08-02T15:27:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "1 Beaten-Down Semiconductor Stock That Could Make a Comeback",
-        "url": "https://247wallst.com/investing/2026/08/02/1-beaten-down-semiconductor-stock-that-could-make-a-comeback/?.tsrc=rss",
+        "title": "AMD Fell: Here Are 3 Reasons I’m Buying Without Fear",
+        "url": "https://247wallst.com/investing/2026/08/03/amd-fell-here-are-3-reasons-im-buying-without-fear/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-02T13:30:09.000Z",
+        "publishedAt": "2026-08-03T15:59:51.000Z",
         "summary": null
       },
       {
-        "title": "1 Beaten-Down Semiconductor Stock That Could Make a Comeback - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZnZWTTZHOUJDc25JdzhYUUJzaFNBMG40MG9pMFpuUmUxNXZ5T0FnMzYzb0Y5Z3YyWUFqRzlkU3RzbnZodHRab3VZY3oybE1pN3NBeEtBOWpSV0tRY2xWM0pxSUlsNDRUZldFUDMyUHB4WTg4OXJZQlJBNVNKZ0VEVElzTjZEaDNXenpNaHNtUVZ6VjlJU0hBd0ZkMmNlM2d0M0k0anY1bw?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-08-02T13:30:09.000Z",
-        "summary": null
-      },
-      {
-        "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance",
-        "url": "https://finance.yahoo.com/technology/articles/tsmc-reportedly-developing-advanced-chip-220022568.html?.tsrc=rss",
+        "title": "Trump admin to take $874M in equity stakes in 7 chip companies — experts say it could set bad precedent",
+        "url": "https://finance.yahoo.com/economy/policy/articles/trump-admin-874m-equity-stakes-150000454.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-01T22:00:22.000Z",
+        "publishedAt": "2026-08-03T15:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
-        "url": "https://www.fool.com/investing/2026/08/01/what-morgan-stanley-buy-ai-infrastructure/?.tsrc=rss",
+        "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+        "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-01T16:18:00.000Z",
+        "publishedAt": "2026-08-03T14:04:19.000Z",
+        "summary": null
+      },
+      {
+        "title": "Semiconductor stocks pare losses amid fears of increased competition from China",
+        "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-pare-losses-amid-fears-of-increased-competition-from-china-133938642.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-03T13:39:38.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Is Falling Monday: What's Going On? - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjBTWTY2NkZtQnRWdFQ5MWVrbmplNFJ5Y1Z4RVNwemZJRzJGTjZXVmktYW40YmttUVoxRGNMT3ZxeDJKMnJSNnZJZkNqUGhtMkF4Vk0tZFpMakZYeGJQQ3NzLU9kRXlJLUdKZnVkbnFoV2ExVzAySVFTdG40UkVKcUcycDFrU2d6S1QyODY0MGlkWWFHSkR6RFpKMFM1UQ?oc=5",
+        "source": "Benzinga",
+        "publishedAt": "2026-08-03T13:23:45.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why is Intel stock down 2% today? By Investing.com - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3pObGFSaWk3eTNMYVJnN2x2MklfVGt6YWRSZW5KMk43RHBhTFg0OUtFWEt2a1o0Q1RzeHhiZTEwWlhlTVpTUS1SSWtibFZGems5TklWd1F6UE80NW40TnlqVjZDLWxETThJSmxNUWNSUjAwMmhJMG5hUndMeE9ITVVWMzlTVHJBYWl4RVJGSFFzOXJXb1ZB?oc=5",
+        "source": "Investing.com Canada",
+        "publishedAt": "2026-08-03T13:18:46.000Z",
+        "summary": null
+      },
+      {
+        "title": "GlobalFoundries Stock Costs More Than The Market On Earnings And Less On Cash Flow",
+        "url": "https://www.trefis.com/articles/609856/globalfoundries-stock-costs-more-than-the-market-on-earnings-and-less-on-cash-flow/2026-08-03?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-03T13:02:21.000Z",
+        "summary": null
+      },
+      {
+        "title": "INTC Stock Slides As Sector Weakness And Tariff Risks Mount - StocksToTrade",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBka2FwX3owSnhOMlcyc3h1bmMwX3FDOHNZV2VQQV9GM250SHdBajVReXg2WTlFQ3FfMXJNSlIwcXFhWFBVM1FYaWxoelA4YmxGTU1sMU5NWC1qaDBRdTQ3bmJ2S0pXVzMwbWhpdEZreEhqZjhhdlBNOXNGUl8?oc=5",
+        "source": "StocksToTrade",
+        "publishedAt": "2026-08-03T12:33:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel stock analysis: $14.62B daily volume and a confirmed downtrend - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0JWMFJMR2k5WHloTDNZcGQ2d1NKLVJXZG9YRU1Hd2FUYm9xbE90TmdKSmtWal9DN1ZERlMzUFRvSFlmZUFGLWtFSjFIeVREbTFUbXBMVnlVZnBiM3Z4SmZtRzY4STRYNmc4WU0yM2VhMC13SHpZeFFpYUtBbFMyOEdueE1RUU54NVpOWGZqTVZfMTh4OXJjTnhPdG5uYzhGekJsNG5mVWhlalRFZWtRM0lJT3dENmlXVTVMZ25FaFFta3lJ?oc=5",
+        "source": "Investing.com Canada",
+        "publishedAt": "2026-08-03T12:21:47.000Z",
         "summary": null
       }
     ],
@@ -147,6 +147,13 @@
     ],
     "APPL": [
       {
+        "title": "Apple: Why The Price Slump Was Deserved (NASDAQ:AAPL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbXNHVG15WW1jMkdGNmZqNUZPbjZqZHJtaHBHZUFIWjJFa2N0cUE2QjhCRGt4RmhzOWVKMG9BM3VXTEJjMFhHZFdLa2RFTGdtNUZOQi1vSHlyZTJaY2R5MzVVTXl1SnJKTXFuNmM5aWMyUzh5SWNmeXN5bE45c3oybVI2QTRjQQ?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-08-03T13:02:39.000Z",
+        "summary": null
+      },
+      {
         "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
         "source": "The Motley Fool",
@@ -189,9 +196,9 @@
         "summary": null
       },
       {
-        "title": "Apple blows away Wall Street guess-work again with record-breaking earnings - AppleInsider",
+        "title": "Apple blows away Wall Street guess-work again with record-breaking earnings - appleinsider.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2VVTTdWYWQySW5BR2wwOWxkSzNLSDRjUWFZMUlZc3dJYjFVZklreDAxa0c3bUZQUjlhVFEwbFd1WXhFUkd1MEh4RGQzZVZHV253MklDaGFHY19sTTdBT3ZWcEozTGVJODg1bFlGR2hvZWJRVEdtMzNkdHU4YXRLcmMxd0w0S0VDbW00M3Jpdk5BaU1rVC1sa3AzRV9iUzFPUnpqSm5pc25RSlFQWlh2Q3VKUllKYklkQWc?oc=5",
-        "source": "AppleInsider",
+        "source": "appleinsider.com",
         "publishedAt": "2026-07-30T21:28:27.000Z",
         "summary": null
       },
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGdDSjNTN1Y2NjFmbEtBaG5sLUNBTzU4bVI5VHRCc3hqaFptYjluS0pPYk5aTGJXR2VJbVBHbF9pWktQaU5WMmdMT0FhSW5VOVlhQlVqUXVvRnpDeXY3dWxKbl96cTJzQkg0QmhmUzlCaHpvWDJXTUQyV0RIOV80dDVtUXNxcWRVbHQwWS1JS2hycEszWXU4amxQTUdlVUFLYWh3VlowNG9ORDR1QjBpaTlOOExDUnZLanh1R3U3WUhscVk4WUIyaQ?oc=5",
         "source": "Yahoo! Finance Canada",
         "publishedAt": "2026-07-30T20:35:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stocks to Watch: Meta, Adidas, Apple, Shell -- WSJ - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN25hVzd3WmV5SHdpUUl6YUJKd0FiSnVwYW00T1B0NEY1YXdJSWpmUGFBY0ZrQm9PU1Q3cGMwaVlBbGhHTE9ZTzhmdTZ2N2JSTGtsdzE1QUtYNzBnS25CcS1KZ0pYWlFtTjZWcVVqVFEzVXFQTGVsTVRHWWxQN2ZpNjBtSzctZ05iRkVPT1Vn?oc=5",
-        "source": "Moomoo",
-        "publishedAt": "2026-07-30T10:00:00.000Z",
         "summary": null
       }
     ]
