@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T02:40:33.391Z",
+  "generatedAt": "2026-08-03T06:21:48.594Z",
   "articles": {
     "INTC": [
       {
@@ -45,6 +45,13 @@
         "summary": null
       },
       {
+        "title": "TSMC Is Reportedly Developing Advanced Chip Packaging Tech to Challenge Intel's Dominance - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUF9iWWQ5aWtkeFN6MFBVVWtfYjBVU2VURDFkMGIybGRkNkM2cGt4cUtFY0FETVg0d20xWHdWNVl0VjJwMTdVcEZUTEktcHE1SkhRT0tJMHlndE1VY1BkY3kxUE13UXB2a3p6SEJXMjdwOWltUk1yNkVSYkNwMm5TemVQZ3BnQkNiMUlhRkcxMHh2RWdZaG9Tak9vM1FoZ1FtVE5Z?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-01T22:00:22.000Z",
+        "summary": null
+      },
+      {
         "title": "Here's What Morgan Stanley Says About Buying the AI Infrastructure Dip",
         "url": "https://www.fool.com/investing/2026/08/01/what-morgan-stanley-buy-ai-infrastructure/?.tsrc=rss",
         "source": "Yahoo Finance",
@@ -63,13 +70,6 @@
         "url": "https://www.fool.com/investing/2026/08/01/prediction-intel-posts-a-profitable-year-before-20/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-01T15:29:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Sold by Groupe la Francaise - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSllBQmlMY1dzUG4yRGdrMUd4TnBoNllIMmhoOTByRVNQTDFDWHZhcGFDVVN4OXl2NEFFemtPQ0U2SjVyczVzTnhUMVMzUHBONll1YVVoeWxhZUZWQnpmdEpZYmlJTldnc1hWM1RuU1JTekptNF9LM2xua2R1VUFXcUpTSUhCODc1QmZxVEdtV3BYU2xlVUpYR21NTlNxMlZPZTk4VkJaNnFfLXZod282NzZERUpGSmRlWmc?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-01T10:44:03.000Z",
         "summary": null
       }
     ],
@@ -138,19 +138,26 @@
         "summary": null
       },
       {
-        "title": "삼성전자 노사, 특별성과급 전액 주식으로…상한 폐지(상보) - news1.kr",
+        "title": "삼성전자 노사, 특별성과급 전액 주식으로…상한 폐지(상보) - 뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sSHdlc19LVTVZSnJ5TzA2MkZIdVZ0MS1YNlM5Z0c5QzBRVEc1TFpXZUVneFFzWnNabkpFTGFTTEdpVGZBOEJVVE1Qbko5RFNveHhyXzBJdTJSWHVzdVQwR2lsXzU?oc=5",
-        "source": "news1.kr",
+        "source": "뉴스1",
         "publishedAt": "2026-05-21T07:00:00.000Z",
         "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - fool.com",
+        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-02T13:15:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "AAPL Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-07-31T20:15:35.000Z",
         "summary": null
       },
       {
@@ -175,9 +182,9 @@
         "summary": null
       },
       {
-        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - fool.com",
+        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-07-31T10:15:00.000Z",
         "summary": null
       },
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGdDSjNTN1Y2NjFmbEtBaG5sLUNBTzU4bVI5VHRCc3hqaFptYjluS0pPYk5aTGJXR2VJbVBHbF9pWktQaU5WMmdMT0FhSW5VOVlhQlVqUXVvRnpDeXY3dWxKbl96cTJzQkg0QmhmUzlCaHpvWDJXTUQyV0RIOV80dDVtUXNxcWRVbHQwWS1JS2hycEszWXU4amxQTUdlVUFLYWh3VlowNG9ORDR1QjBpaTlOOExDUnZLanh1R3U3WUhscVk4WUIyaQ?oc=5",
         "source": "Yahoo! Finance Canada",
         "publishedAt": "2026-07-30T20:35:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stocks to Watch: Meta, Adidas, Apple, Shell -- WSJ - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN25hVzd3WmV5SHdpUUl6YUJKd0FiSnVwYW00T1B0NEY1YXdJSWpmUGFBY0ZrQm9PU1Q3cGMwaVlBbGhHTE9ZTzhmdTZ2N2JSTGtsdzE1QUtYNzBnS25CcS1KZ0pYWlFtTjZWcVVqVFEzVXFQTGVsTVRHWWxQN2ZpNjBtSzctZ05iRkVPT1Vn?oc=5",
-        "source": "Moomoo",
-        "publishedAt": "2026-07-30T10:19:46.000Z",
         "summary": null
       }
     ]
