@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T17:08:01.480Z",
+  "generatedAt": "2026-08-03T19:27:57.604Z",
   "articles": {
     "INTC": [
       {
@@ -14,6 +14,13 @@
         "url": "https://247wallst.com/investing/2026/08/03/amd-fell-here-are-3-reasons-im-buying-without-fear/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-03T15:59:51.000Z",
+        "summary": null
+      },
+      {
+        "title": "Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/strong-data-center-revenues-boost-155600940.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-03T15:56:00.000Z",
         "summary": null
       },
       {
@@ -45,10 +52,10 @@
         "summary": null
       },
       {
-        "title": "Why is Intel stock down 2% today? By Investing.com - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ3pObGFSaWk3eTNMYVJnN2x2MklfVGt6YWRSZW5KMk43RHBhTFg0OUtFWEt2a1o0Q1RzeHhiZTEwWlhlTVpTUS1SSWtibFZGems5TklWd1F6UE80NW40TnlqVjZDLWxETThJSmxNUWNSUjAwMmhJMG5hUndMeE9ITVVWMzlTVHJBYWl4RVJGSFFzOXJXb1ZB?oc=5",
-        "source": "Investing.com Canada",
-        "publishedAt": "2026-08-03T13:18:46.000Z",
+        "title": "AMD, NVDA, and INTC Forecasts – AI Profitability Worries Pull Tech Lower",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-nvda-intc-forecasts-ai-132113052.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-03T13:21:13.000Z",
         "summary": null
       },
       {
@@ -63,13 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBka2FwX3owSnhOMlcyc3h1bmMwX3FDOHNZV2VQQV9GM250SHdBajVReXg2WTlFQ3FfMXJNSlIwcXFhWFBVM1FYaWxoelA4YmxGTU1sMU5NWC1qaDBRdTQ3bmJ2S0pXVzMwbWhpdEZreEhqZjhhdlBNOXNGUl8?oc=5",
         "source": "StocksToTrade",
         "publishedAt": "2026-08-03T12:33:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel stock analysis: $14.62B daily volume and a confirmed downtrend - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOY0JWMFJMR2k5WHloTDNZcGQ2d1NKLVJXZG9YRU1Hd2FUYm9xbE90TmdKSmtWal9DN1ZERlMzUFRvSFlmZUFGLWtFSjFIeVREbTFUbXBMVnlVZnBiM3Z4SmZtRzY4STRYNmc4WU0yM2VhMC13SHpZeFFpYUtBbFMyOEdueE1RUU54NVpOWGZqTVZfMTh4OXJjTnhPdG5uYzhGekJsNG5mVWhlalRFZWtRM0lJT3dENmlXVTVMZ25FaFFta3lJ?oc=5",
-        "source": "Investing.com Canada",
-        "publishedAt": "2026-08-03T12:21:47.000Z",
         "summary": null
       }
     ],
@@ -196,9 +196,9 @@
         "summary": null
       },
       {
-        "title": "Apple blows away Wall Street guess-work again with record-breaking earnings - appleinsider.com",
+        "title": "Apple blows away Wall Street guess-work again with record-breaking earnings - AppleInsider",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2VVTTdWYWQySW5BR2wwOWxkSzNLSDRjUWFZMUlZc3dJYjFVZklreDAxa0c3bUZQUjlhVFEwbFd1WXhFUkd1MEh4RGQzZVZHV253MklDaGFHY19sTTdBT3ZWcEozTGVJODg1bFlGR2hvZWJRVEdtMzNkdHU4YXRLcmMxd0w0S0VDbW00M3Jpdk5BaU1rVC1sa3AzRV9iUzFPUnpqSm5pc25RSlFQWlh2Q3VKUllKYklkQWc?oc=5",
-        "source": "appleinsider.com",
+        "source": "AppleInsider",
         "publishedAt": "2026-07-30T21:28:27.000Z",
         "summary": null
       },
