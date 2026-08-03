@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:54:29.505Z",
+  "generatedAt": "2026-08-03T02:40:33.391Z",
   "articles": {
     "INTC": [
       {
@@ -31,17 +31,10 @@
         "summary": null
       },
       {
-        "title": "73,382 Shares in Intel Corporation $INTC Purchased by First Nebraska Trust Co - marketbeat.com",
+        "title": "73,382 Shares in Intel Corporation $INTC Purchased by First Nebraska Trust Co - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY2tKNFR2OWhMZFhTVE1Md0xFcklodGpVWXpNSTdkQUo3VUVvR05pVEpsUFZ2blUtU091MWhTaTdQMndlMXFRSW5nVjdVQkE1LWNsOS1RM0gtVEFVQTIycjFKMTROYjBBVkE2YXFZUXJ6TlhXQmMtcTV1YjVIaW01bnU2R204NEhmd1RXZ3Etc1R0eUc0b25oRXlUV1V4WmsxWGhqMmZzZTRtTDJhVDZWSlZoWEhYUnVyeF94Z1hhb1dUcy00dFZWeGNwSzBEWmNacXc?oc=5",
-        "source": "marketbeat.com",
+        "source": "MarketBeat",
         "publishedAt": "2026-08-02T08:28:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock Crashes After Explosive Rally: Healthy Correction or Trend Reversal? - FXLeaders",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1k2Q005OXo1QkN2Z1gzTzJ1VjBxUXNDQl9aWl8zRGZYZDR5SVRXd0FQWkxiR1dzbUgxVDhBTi0tRlNLODJfODRQWWdYdEpXbUtpVDhIWTNRS2NhR1dXM3JOb0JHTU93WW5objlrSnoxOUYwczhIUmtrc1MzMHNUMm03UDdGRmxoRjVHUERMd1pPQ1ZHU01wN2ZpM3VNUVRwc2cxYVAxZGxZUVE4amw3eE1wQ3BkelA4Sm4xVWZB?oc=5",
-        "source": "FXLeaders",
-        "publishedAt": "2026-08-02T06:55:17.000Z",
         "summary": null
       },
       {
@@ -71,16 +64,16 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-01T15:29:00.000Z",
         "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Shares Sold by Groupe la Francaise - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSllBQmlMY1dzUG4yRGdrMUd4TnBoNllIMmhoOTByRVNQTDFDWHZhcGFDVVN4OXl2NEFFemtPQ0U2SjVyczVzTnhUMVMzUHBONll1YVVoeWxhZUZWQnpmdEpZYmlJTldnc1hWM1RuU1JTekptNF9LM2xua2R1VUFXcUpTSUhCODc1QmZxVEdtV3BYU2xlVUpYR21NTlNxMlZPZTk4VkJaNnFfLXZod282NzZERUpGSmRlWmc?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-01T10:44:03.000Z",
+        "summary": null
       }
     ],
     "005930": [
-      {
-        "title": "삼성전자, 2,500원 하락 마감…외국인·기관 수급 엇갈림 속 변동성 주목 (+005930, 삼성전자, 주가, 수급, 2026년 7월 30일 수요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BZkN4VHVrQV9iZ2VhRjludGJRUlRwS2ZwOG5aLXhqT0pZUmJ4VTVmMnpGSy1haTUwZDh2eHZFLWdvZExrSEtxb1JVMy0wQkFERHhnVGdsUU5jNUxldUsxM3pPUTNLTWRJVG04cg?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-30T06:44:06.000Z",
-        "summary": null
-      },
       {
         "title": "삼성전자, 2.00% 상승 마감…외국인·기관 수급 엇갈림 속 거래량 변화 (+005930, 반도체, 투자자별매매동향, 2026년 7월 27일 일요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYk5UV1VrWW0zMGZGNXg1NVo5cXVHbVh1dnJGdkJyUGFtWnRSZkg1ZnZmMjVmZlptV2tzd2Mzbnl1VWpnMHlyTURpMkx1WVdlSG5PMXhuRnJ0MXhfcFFfRHhpblZoRlVNZi1jag?oc=5",
@@ -143,13 +136,20 @@
         "source": "서울경제",
         "publishedAt": "2026-06-15T07:00:00.000Z",
         "summary": null
+      },
+      {
+        "title": "삼성전자 노사, 특별성과급 전액 주식으로…상한 폐지(상보) - news1.kr",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sSHdlc19LVTVZSnJ5TzA2MkZIdVZ0MS1YNlM5Z0c5QzBRVEc1TFpXZUVneFFzWnNabkpFTGFTTEdpVGZBOEJVVE1Qbko5RFNveHhyXzBJdTJSWHVzdVQwR2lsXzU?oc=5",
+        "source": "news1.kr",
+        "publishedAt": "2026-05-21T07:00:00.000Z",
+        "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
+        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - fool.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
-        "source": "The Motley Fool",
+        "source": "fool.com",
         "publishedAt": "2026-08-02T13:15:00.000Z",
         "summary": null
       },
@@ -175,9 +175,9 @@
         "summary": null
       },
       {
-        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - The Motley Fool",
+        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - fool.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
-        "source": "The Motley Fool",
+        "source": "fool.com",
         "publishedAt": "2026-07-31T10:15:00.000Z",
         "summary": null
       },
