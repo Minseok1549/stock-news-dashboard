@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-04T02:24:49.131Z",
+  "generatedAt": "2026-08-04T05:45:23.158Z",
   "articles": {
     "INTC": [
+      {
+        "title": "SpaceX Stock Price Today | SPCX Ticker, News, Retail Sentiment - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14dDZrLVdFblppX3BrZUxzRlI5YTN3c1Y1QTRfNlZ6OTU5OW5JUGZuT0NZYzhONHRWU3RjcVN6aGYxQzJzRmEzQUp3?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-08-04T04:07:11.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
         "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-faces-ai-packaging-001514674.html?.tsrc=rss",
@@ -64,13 +71,6 @@
         "source": "24/7 Wall St.",
         "publishedAt": "2026-08-03T16:06:51.000Z",
         "summary": null
-      },
-      {
-        "title": "AMD Fell: Here Are 3 Reasons I’m Buying Without Fear",
-        "url": "https://247wallst.com/investing/2026/08/03/amd-fell-here-are-3-reasons-im-buying-without-fear/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-03T15:59:51.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -79,6 +79,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zdWdJLXNqd3AzWFowVktJTldycHpvYlNhOXRhUVlBb2FoeWp3MDRYcXRJOUlLMVQ4dUpVSHZDZW9VbnpFenhyNkd1dzVmUkxoRHpuZDVQSl9VY3VkeUdSTUN4TUw3WWxBYXpETQ?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-03T07:56:27.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-08-03T07:32:58.000Z",
         "summary": null
       },
       {
@@ -136,13 +143,6 @@
         "source": "매일경제TV",
         "publishedAt": "2026-07-06T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "2026-07-01 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 주성엔지니어링) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44WTVvcUZWVmM3UDJtdGlzNUN4UWMtWnJfRmVud3RqVGZ3WUZtdHpRaGRlaWtneEI0eGtRMHN5UC0zWlFJdWNlc1hMT2ZXQnJkaDF1a3RPVms4YThZbXVWMjBhQS1Bd0lxejV2Yw?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-01T07:40:26.000Z",
-        "summary": null
       }
     ],
     "APPL": [
@@ -189,9 +189,9 @@
         "summary": null
       },
       {
-        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’ - TechCrunch",
+        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’ - techcrunch.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFpFRjBhSndQVFpBbEwyVnZiYW9vRUxka196cXFEQUxPWHcyWlU4SjNIUlM4czgxWkpLWm1sdWVkeGtEVmhYX2NZaDN2cnEyOU03dEtoVVpxUTRORV92dTJBalFyU2hZdTlPMHNyOGVtcDRMd01GaTdUWVcxRFhEdWdZcURhZE5tOW9vU2hDcGNrRHU1ejYyakpSOGJvR2pDVnRBTGhDT1VOSXpPYVE?oc=5",
-        "source": "TechCrunch",
+        "source": "techcrunch.com",
         "publishedAt": "2026-07-30T23:28:05.000Z",
         "summary": null
       },
@@ -203,17 +203,17 @@
         "summary": null
       },
       {
-        "title": "Apple beats Q3 estimates on strong iPhone sales, but China, Services come up short - Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdGdDSjNTN1Y2NjFmbEtBaG5sLUNBTzU4bVI5VHRCc3hqaFptYjluS0pPYk5aTGJXR2VJbVBHbF9pWktQaU5WMmdMT0FhSW5VOVlhQlVqUXVvRnpDeXY3dWxKbl96cTJzQkg0QmhmUzlCaHpvWDJXTUQyV0RIOV80dDVtUXNxcWRVbHQwWS1JS2hycEszWXU4amxQTUdlVUFLYWh3VlowNG9ORDR1QjBpaTlOOExDUnZLanh1R3U3WUhscVk4WUIyaQ?oc=5",
-        "source": "Yahoo! Finance Canada",
-        "publishedAt": "2026-07-30T20:35:45.000Z",
-        "summary": null
-      },
-      {
         "title": "Stocks to Watch: Meta, Adidas, Apple, Shell -- WSJ - Moomoo",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN25hVzd3WmV5SHdpUUl6YUJKd0FiSnVwYW00T1B0NEY1YXdJSWpmUGFBY0ZrQm9PU1Q3cGMwaVlBbGhHTE9ZTzhmdTZ2N2JSTGtsdzE1QUtYNzBnS25CcS1KZ0pYWlFtTjZWcVVqVFEzVXFQTGVsTVRHWWxQN2ZpNjBtSzctZ05iRkVPT1Vn?oc=5",
         "source": "Moomoo",
         "publishedAt": "2026-07-30T10:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "INSANE APPLE STOCK NUMBERS | AAPL STOCK ANALYSIS | STOCKS TO BUY NOW? Santos Fc (iqXg55swvq) - mshale.com",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sbHNwWmJISXdhdFV4MWxPZW9VMFd0MlhZNnpISG1BNDFMTVdFZ1Y1WVRiZndiVG50aDRsQnpldFVNcmI3TWtBODM1YVBzalVGY3dEa3BOaFdQbXMwa2xPYQ?oc=5",
+        "source": "mshale.com",
+        "publishedAt": "2026-07-30T05:40:55.000Z",
         "summary": null
       }
     ]
