@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-04T08:33:59.866Z",
+  "generatedAt": "2026-08-04T11:21:59.329Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Aeluma Names Jason Taylor Senior Director of Program and Project Management",
+        "url": "https://finance.yahoo.com/technology/articles/aeluma-names-jason-taylor-senior-110000694.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-04T11:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "RAD Intel Strengthens Leadership Team to Scale Its AI-Powered Portfolio of Operating Companies",
+        "url": "https://finance.yahoo.com/technology/ai/articles/rad-intel-strengthens-leadership-team-100000739.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-04T10:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "INTC Q2 Deep Dive: Data Center and AI Strength Offset Market Concerns Amid Supply Constraints",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intc-q2-deep-dive-data-083722483.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-04T08:37:22.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
         "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-faces-ai-packaging-001514674.html?.tsrc=rss",
@@ -38,9 +59,9 @@
         "summary": null
       },
       {
-        "title": "Hyperscaler Capex Seen At $1.2T: Nine Chip Stocks To Watch - Intel (NASDAQ:INTC), Broadcom (NASDAQ:AVGO) - Benzinga",
+        "title": "Hyperscaler Capex Seen At $1.2T: Nine Chip Stocks To Watch - Intel (NASDAQ:INTC), Broadcom (NASDAQ:AVGO) - benzinga.com",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQU5XVjUyVWJERVNfNEItZ19PNmVNbzRFNEZVMTh3a0F5bFYzalk0UEJ2QWh0RkI1OVctLU1vVkFTT3J1dGxxT1ZkSzc1bVZobFZELUp0cUNMVmF5dzlKRngwZ3NkTElhOHVTaHNUa2hteFgwbjljRHgtdjJGSTA4Q2hqSlRHNlRXRXczMkE2T2ppSHkzSDlBYVlPXzlQc3JQdW1vVHQ3eUEzMF8za3MzOQ?oc=5",
-        "source": "Benzinga",
+        "source": "benzinga.com",
         "publishedAt": "2026-08-03T19:31:54.000Z",
         "summary": null
       },
@@ -50,34 +71,13 @@
         "source": "TipRanks",
         "publishedAt": "2026-08-03T19:02:50.000Z",
         "summary": null
-      },
-      {
-        "title": "Buying Intel Over TSMC Isn’t as Crazy as It Might Seem",
-        "url": "https://247wallst.com/investing/2026/08/03/buying-intel-over-tsmc-isnt-as-crazy-as-it-might-seem/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-03T16:06:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "Buying Intel Over TSMC Isn’t as Crazy as It Might Seem - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRldUN3B4V0hMNldsM05taTR4RHJmQUdCSzZ2Q2wwckxSdkxETWJqS0Y0cnhCQ3JiaFJ4XzJHaWdVRTdpTW1UQk9PWnNzaWZnSTY4Q3JZTnJFbXZFNVozdXpJVk1RLThCd0d0WnhWSWF0X2dmclk3VFJKVW9aMW5rQjJQeTlJZkN3NHpWTkhmMy1RdkVjTTZQNkpWa2x3Zw?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-08-03T16:06:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD Fell: Here Are 3 Reasons I’m Buying Without Fear",
-        "url": "https://247wallst.com/investing/2026/08/03/amd-fell-here-are-3-reasons-im-buying-without-fear/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-03T15:59:51.000Z",
-        "summary": null
       }
     ],
     "005930": [
       {
-        "title": "2026-08-03 코스피 오늘 인기종목 30개 주식시황, 삼성전자 SK하이닉스 급락 (+ 005930, 000660, 반도체) - 민심뉴스",
+        "title": "2026-08-03 코스피 오늘 인기종목 30개 주식시황, 삼성전자 SK하이닉스 급락 (+ 005930, 000660, 반도체) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zdWdJLXNqd3AzWFowVktJTldycHpvYlNhOXRhUVlBb2FoeWp3MDRYcXRJOUlLMVQ4dUpVSHZDZW9VbnpFenhyNkd1dzVmUkxoRHpuZDVQSl9VY3VkeUdSTUN4TUw3WWxBYXpETQ?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-08-03T07:56:27.000Z",
         "summary": null
       },
@@ -89,16 +89,16 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8.19% 급락 마감…외국인·기관 매도세 엇갈림 (+005930, 주가하락, 외국인매매, 기관매매, 2026년 8월 3일 일요일) - 민심뉴스",
+        "title": "삼성전자, 8.19% 급락 마감…외국인·기관 매도세 엇갈림 (+005930, 주가하락, 외국인매매, 기관매매, 2026년 8월 3일 일요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MkJycVpIOUZMTGdhUDJjcHJRZnFOSXpCVnBfYU9jS3dfVVRXYmVRLTNub3lCU0k3dlNIV0xjU2pLNEdOWTdydVZIeDJwY3NBYzdvTWxMd1RKQ0dfWkozOGJhTGg0NWdlekVxZw?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-08-03T06:41:45.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 2.00% 상승 마감…외국인·기관 수급 엇갈림 속 거래량 변화 (+005930, 반도체, 투자자별매매동향, 2026년 7월 27일 일요일) - 민심뉴스",
+        "title": "삼성전자, 2.00% 상승 마감…외국인·기관 수급 엇갈림 속 거래량 변화 (+005930, 반도체, 투자자별매매동향, 2026년 7월 27일 일요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvYk5UV1VrWW0zMGZGNXg1NVo5cXVHbVh1dnJGdkJyUGFtWnRSZkg1ZnZmMjVmZlptV2tzd2Mzbnl1VWpnMHlyTURpMkx1WVdlSG5PMXhuRnJ0MXhfcFFfRHhpblZoRlVNZi1jag?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-07-27T06:44:12.000Z",
         "summary": null
       },
@@ -110,9 +110,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - 민심뉴스",
+        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWjJNUlRCZnZKQ2hUN0tlTWU1ZlhHbzNKT3c0NXVKWlJHZnF2MXlzSFBFd3BmcVM2Z3VGVy1iVU1yZ2U5VmpBTnhuZnZ1YXNaQzNrTVN5amwxRFhXenc3bDdyLTFzS1N6ZHVlVg?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-07-15T07:00:00.000Z",
         "summary": null
       },
@@ -168,9 +168,9 @@
         "summary": null
       },
       {
-        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - Benzinga",
+        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - benzinga.com",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3BQUnZKeVd4VVZCRkVCcVJBeXNLNkhKbU5FbTZlRlR2RkFPZU1neXRiRUc0Y2EtZkNqeGZmNUtFSDhnbThaOEkzYVZEZzNybHliMDVIMWlaZTc5WXYyeVJ6RjRnd1dsTWRMeTNHekN4SlpUQzFWNWx3eEk2SFhwclpHekZ1RDYtNXhFTUpuZEZKVzRCTS04SnhjRTloVzRCdGVXOE5VNUZmcHRic1dqSXkwWTRndVZDQlBR?oc=5",
-        "source": "Benzinga",
+        "source": "benzinga.com",
         "publishedAt": "2026-07-31T17:42:45.000Z",
         "summary": null
       },
@@ -196,9 +196,9 @@
         "summary": null
       },
       {
-        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - BeInCrypto",
+        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - beincrypto.com",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83b0MxQzUySWdTOFpibjBxSzlxMUFqZUpuODFDTGF5ZU1SNUFlMHcyck1abVl0WGNaRS1wNEw1YW5GbkYxXzI2Vl96MjFNbE9RT3RuSDU2bnpjcUlTMnB6MEhJOHdHR2tULUE?oc=5",
-        "source": "BeInCrypto",
+        "source": "beincrypto.com",
         "publishedAt": "2026-07-30T20:44:00.000Z",
         "summary": null
       },
