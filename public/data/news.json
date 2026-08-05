@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T02:24:41.979Z",
+  "generatedAt": "2026-08-05T05:44:52.441Z",
   "articles": {
     "INTC": [
       {
@@ -7,6 +7,13 @@
         "url": "https://www.fool.com/investing/2026/08/04/what-alphabets-stock-drop-tells-us-about-the-market-today/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-05T00:44:43.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (NASDAQ:INTC) Stock Price Up 10.8% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1ZhZVJZSFVxay0tTUNZa28tbzJrQmgyX1V4RFdTeVo4NjF0aTRtNE1LNHlyR3pCQ3BlZXNHY01BbEVCV2xIS1pBQklYRVEtYUJFbmNJbXRLbDJOSHVUZHBpZHFGZjVqZWo4Rzg5S0RCXzllbkk5RFdDdFY2c0VDMnRnemZ0YTVQNkVVbHJtekZhTkhTSlhVMjg4c3JUdnEt?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-04T22:56:10.000Z",
         "summary": null
       },
       {
@@ -59,17 +66,10 @@
         "summary": null
       },
       {
-        "title": "Intel Stock (NASDAQ:INTC) Blasts Up as Core Ultra Chips Get Price Hikes - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRmI5VzY1Q3hfSTlRMS00cGJfYkh2MUN2Mk15djIzbEg3bkRacXU2UDZ4cEVCdlRueFc2bDkwV3dLR1NZR3VRYkJkYXlERF9PZXZnZ2JYS1R4NVQ3Y0FqTDZMeUJyZGM0c1hfMjU3cWVsMmo1TUVnb2FibW9LdmY5RWlYdlBhWUw5ZVYtSHpvaTRldE8weW94ZEVlWlEyZms?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-08-04T19:12:13.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
-        "url": "https://finance.yahoo.com/m/f3ff39ea-18e1-38df-9674-60ba27148fb2/why-nvidia-stock-still-trades.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-04T18:05:00.000Z",
+        "title": "Why is Intel stock surging today? By Investing.com - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTlCdWlzNTNQa0IwcUN2Q1YxaUVhWTc2cWVsV0s5bzV4YXlwbVc1Wk9vUXdyU0Nxb2puMV9ISGFNd25GZkRWaklja01xenJ5ejBmdkxpNG5qRnpvYzI3OUpXekhMVWpHcms4YUdXWnNWMDluM2ZvcjdwRU9xNWRGZjBJYmJ4LTdPVHlVOG5ZQUZLNDNYcnM3bg?oc=5",
+        "source": "Investing.com Canada",
+        "publishedAt": "2026-08-04T19:39:35.000Z",
         "summary": null
       }
     ],
@@ -93,13 +93,6 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MkJycVpIOUZMTGdhUDJjcHJRZnFOSXpCVnBfYU9jS3dfVVRXYmVRLTNub3lCU0k3dlNIV0xjU2pLNEdOWTdydVZIeDJwY3NBYzdvTWxMd1RKQ0dfWkozOGJhTGg0NWdlekVxZw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-03T06:41:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakRQOTFlQXo0bzV6bXFvcE5pVTFOcTFiazJmb0MxdUpibldpWk9oVU9hYmRza0JiRkMxZUtULXg2d0k5OXJYTkcyS19vYXhZNHNuOTVOWjBwb1lrb0x6QkFDVVRUaDVtcmd4ejJDcEVsSEduYnJ0U25fSWhvT1otb3EwelhYblV5c2tNTmowd1R2bF9ZZFZR?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-22T15:30:43.000Z",
         "summary": null
       },
       {
@@ -138,6 +131,13 @@
         "summary": null
       },
       {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWljcS1hS2lHYmoxaWJIWm9ON2d6R0FmdS1BcW5CZmc1VVE4eEdHTGRtQmZqRTJRSnIwTFBHU0pFSjQ0a25yN1RhUkczXzVsSGtGNXNEVkppdC1HUFZHRGFtdGxSUG9zbnVYdGYteERjUXZDRVpiQUpYYWYxU3RPb0xGYi0zZ0pJUnduYWVubWFIcW5WRVdR?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-06-16T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "다시 삼성전자 살 때?…‘초고수’들 순매수 1위 [주식 초고수는 지금] - 서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wdGVPRTZINmxrcFMwaVY2M2NDa3ZlV3pIcVhMTm5pQ0xnVllaMlYwVmdLWGljdGIzT2ZrSG12ZTUwejI3VlAtbHVQTmtkc3dvRUHSAVNBVV95cUxPRDl2VkdMVnpzLVExVGQzQUs3OGswaXBGZGM5QWRicktDd2lVY0JPVmd4bFB0UVQ4YjdlV3J2Z1Atc04xajFsUk13V01qOUNVY1d3VQ?oc=5",
         "source": "서울경제",
@@ -150,7 +150,7 @@
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-08-04T23:07:25.000Z",
+        "publishedAt": "2026-08-04T23:48:00.000Z",
         "summary": null
       },
       {
@@ -175,17 +175,17 @@
         "summary": null
       },
       {
-        "title": "AAPL|Apple Inc|Price:304.640|Chg%:+1.220 - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUHY4Z0hpQW5PUTRKcUJ0UmhXN2xCMjJmVEJKWEdWWFQyZVpaNHpPVjltMFJkNl9fRlg3WndGd3dMaWtkVEJhbkJGR1NZX3daYkQxcHBXeWtfdw?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-08-03T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-08-02T13:15:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "AAPL Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-08-02T08:01:21.000Z",
         "summary": null
       },
       {
