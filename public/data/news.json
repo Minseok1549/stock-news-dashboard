@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-08-05T05:44:52.441Z",
+  "generatedAt": "2026-08-05T08:33:33.506Z",
   "articles": {
     "INTC": [
+      {
+        "title": "AMD falls as investors seek bigger AI payoff",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-investors-seek-bigger-082709887.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-05T08:27:09.000Z",
+        "summary": null
+      },
+      {
+        "title": "Sen. Shelley Moore Capito Sells Shares of Intel Corporation (NASDAQ:INTC) - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjZwSWFDS21UY3pXU2VUakg4SDg2QjdYU0NxVkYxSjg0ZmJDTU9XU0s4SUdKSVdrbHV1aVVLR1dsaDhmRzJfTERGSlktdlBLVF9PS2VkWUlQRkx4ZmxWYTBvNFNQT3ZlOTMzdUhtaVc2dHZpcnZfUzZ0SUlyM3ZFYThNWWJXOXdWZjFORjJ2SFFVRUxQcEtMYWdQOVNhN09BLTNZSGtpZDB2MDZTa2lWX0xmZ2h5VjdWZ0Rwek1EMkY?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-05T06:12:48.000Z",
+        "summary": null
+      },
       {
         "title": "What Alphabet’s Stock Drop Tells Us About the Market Today",
         "url": "https://www.fool.com/investing/2026/08/04/what-alphabets-stock-drop-tells-us-about-the-market-today/?.tsrc=rss",
@@ -45,9 +59,9 @@
         "summary": null
       },
       {
-        "title": "SOXX ETF Posts Best Four-Day Rally Since 2020: Five Stocks To Watch - Intel (NASDAQ:INTC), Advanced Micro - benzinga.com",
+        "title": "SOXX ETF Posts Best Four-Day Rally Since 2020: Five Stocks To Watch - Intel (NASDAQ:INTC), Advanced Micro - Benzinga",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFJGNVJEbkp1Y1dFZ2h4ZlBQbHh3VU5vN1dwOEc4ZEFkb0x1OWZoNmlIYnd4LTY2UzZOS3AyVXRzS09SZ0t1SWgzNTZ5UzVIQ2RZanJLcTRpU1FLa1dCODNBYklTUEJDb214dlJ1UmRTQUM4ZHZzcjVVd0liaEQ2TlQ5MmpLUGtSdmVwdGp1SVBuQ3RHc3dDUGRqSzc3OWZLdVpCcnBHQmdLLU9LblFIZW96TkRfQk43cS1yR3hWemFWRjk2?oc=5",
-        "source": "benzinga.com",
+        "source": "Benzinga",
         "publishedAt": "2026-08-04T20:13:54.000Z",
         "summary": null
       },
@@ -57,23 +71,16 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-04T19:59:01.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel's Packaging Progress Points to Google",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intels-packaging-progress-points-google-195322309.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-04T19:53:22.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why is Intel stock surging today? By Investing.com - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTlCdWlzNTNQa0IwcUN2Q1YxaUVhWTc2cWVsV0s5bzV4YXlwbVc1Wk9vUXdyU0Nxb2puMV9ISGFNd25GZkRWaklja01xenJ5ejBmdkxpNG5qRnpvYzI3OUpXekhMVWpHcms4YUdXWnNWMDluM2ZvcjdwRU9xNWRGZjBJYmJ4LTdPVHlVOG5ZQUZLNDNYcnM3bg?oc=5",
-        "source": "Investing.com Canada",
-        "publishedAt": "2026-08-04T19:39:35.000Z",
-        "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "2026-08-05 코스피 오늘 인기종목 30개 주식시황 분석! (005930, 삼성전자, SK하이닉스, 삼성전기) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeFVzVmpOTjJZQmI1YzlRb24xbUI2UC1nMjNySDFoOWwySjdjbU9KWmZEVks4c3pTWVN5SVROb3lJSndvSkpyZm5CT2hKd2R5STN1czhHcG02STJLNnBPM21paXp3TF9ZNGM3cA?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-08-05T07:56:21.000Z",
+        "summary": null
+      },
       {
         "title": "2026-08-03 코스피 오늘 인기종목 30개 주식시황, 삼성전자 SK하이닉스 급락 (+ 005930, 000660, 반도체) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zdWdJLXNqd3AzWFowVktJTldycHpvYlNhOXRhUVlBb2FoeWp3MDRYcXRJOUlLMVQ4dUpVSHZDZW9VbnpFenhyNkd1dzVmUkxoRHpuZDVQSl9VY3VkeUdSTUN4TUw3WWxBYXpETQ?oc=5",
@@ -110,6 +117,13 @@
         "summary": null
       },
       {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxpV3lnUHBleTRFeFhxcEVtd25EV1dBTi12QWlzSjN4bjlXblJhdVlUeVF4X1hHMGVQUTJxUnJPelpfWE9XYVkwX0ZjMjBEcTZRbFNzVmVmbWthdGRmSEJIMGlWYkZOQU1NNHpwMXRiNG1CWlQtVWNOVGpNbUNMMnFQLTUzbUhPODVqSmdKOEN4dUlkNU9j?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-08T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
         "source": "매일경제 마켓",
@@ -124,24 +138,10 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-06T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWljcS1hS2lHYmoxaWJIWm9ON2d6R0FmdS1BcW5CZmc1VVE4eEdHTGRtQmZqRTJRSnIwTFBHU0pFSjQ0a25yN1RhUkczXzVsSGtGNXNEVkppdC1HUFZHRGFtdGxSUG9zbnVYdGYteERjUXZDRVpiQUpYYWYxU3RPb0xGYi0zZ0pJUnduYWVubWFIcW5WRVdR?oc=5",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-06-16T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "다시 삼성전자 살 때?…‘초고수’들 순매수 1위 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wdGVPRTZINmxrcFMwaVY2M2NDa3ZlV3pIcVhMTm5pQ0xnVllaMlYwVmdLWGljdGIzT2ZrSG12ZTUwejI3VlAtbHVQTmtkc3dvRUHSAVNBVV95cUxPRDl2VkdMVnpzLVExVGQzQUs3OGswaXBGZGM5QWRicktDd2lVY0JPVmd4bFB0UVQ4YjdlV3J2Z1Atc04xajFsUk13V01qOUNVY1d3VQ?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-06-15T07:00:00.000Z",
+        "publishedAt": "2026-07-06T07:00:00.000Z",
         "summary": null
       }
     ],
@@ -196,17 +196,10 @@
         "summary": null
       },
       {
-        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - benzinga.com",
+        "title": "Stock Market Today: Amazon Jumps 15%, Apple Wipes Out $475 Billion - Benzinga",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3BQUnZKeVd4VVZCRkVCcVJBeXNLNkhKbU5FbTZlRlR2RkFPZU1neXRiRUc0Y2EtZkNqeGZmNUtFSDhnbThaOEkzYVZEZzNybHliMDVIMWlaZTc5WXYyeVJ6RjRnd1dsTWRMeTNHekN4SlpUQzFWNWx3eEk2SFhwclpHekZ1RDYtNXhFTUpuZEZKVzRCTS04SnhjRTloVzRCdGVXOE5VNUZmcHRic1dqSXkwWTRndVZDQlBR?oc=5",
-        "source": "benzinga.com",
+        "source": "Benzinga",
         "publishedAt": "2026-07-31T17:42:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Is Apple (AAPL) Stock A Good Buy Now? Or Should You Sell / Hold? Mint Tv Show (S8nKnkBjFp) - Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ISUo0MmNzNWI1bVU5b0RRZV9ZejRPR3BESG85ZGpRU0lkU2dWdVR2ek9jZGlUMDRYQk1HelIzX2N2T3lDb1V3ZVFacjljNWNXdGx2ZEctTUNTelU?oc=5",
-        "source": "Mshale",
-        "publishedAt": "2026-07-31T17:12:43.000Z",
         "summary": null
       },
       {
@@ -214,6 +207,13 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFpFRjBhSndQVFpBbEwyVnZiYW9vRUxka196cXFEQUxPWHcyWlU4SjNIUlM4czgxWkpLWm1sdWVkeGtEVmhYX2NZaDN2cnEyOU03dEtoVVpxUTRORV92dTJBalFyU2hZdTlPMHNyOGVtcDRMd01GaTdUWVcxRFhEdWdZcURhZE5tOW9vU2hDcGNrRHU1ejYyakpSOGJvR2pDVnRBTGhDT1VOSXpPYVE?oc=5",
         "source": "TechCrunch",
         "publishedAt": "2026-07-30T23:28:05.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83b0MxQzUySWdTOFpibjBxSzlxMUFqZUpuODFDTGF5ZU1SNUFlMHcyck1abVl0WGNaRS1wNEw1YW5GbkYxXzI2Vl96MjFNbE9RT3RuSDU2bnpjcUlTMnB6MEhJOHdHR2tULUE?oc=5",
+        "source": "BeInCrypto",
+        "publishedAt": "2026-07-30T20:44:00.000Z",
         "summary": null
       }
     ]
