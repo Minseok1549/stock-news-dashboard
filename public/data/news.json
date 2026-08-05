@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-08-05T11:19:52.672Z",
+  "generatedAt": "2026-08-05T14:05:37.753Z",
   "articles": {
     "INTC": [
       {
-        "title": "AMD, Nvidia, Intel, Booking, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/a7670b0f-ed38-324c-8ef1-46c9a987c3cd/amd%2C-nvidia%2C-intel%2C-booking%2C.html?.tsrc=rss",
+        "title": "SpaceX, Nvidia, AMD, Eli Lilly, Uber, CVS, Disney, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/a7670b0f-ed38-324c-8ef1-46c9a987c3cd/spacex%2C-nvidia%2C-amd%2C-eli.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T10:27:00.000Z",
+        "publishedAt": "2026-08-05T12:18:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Is Super Micro Computer (SMCI) Fully Valued On Its New AI Server Push?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-fully-111000886.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-05T11:10:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
+        "url": "https://www.fool.com/investing/2026/08/05/history-says-software-as-a-service-saas-stocks-wil/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-05T11:05:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "AI and Chip Stocks Drop After Musk's Nvidia Bombshell",
+        "url": "https://finance.yahoo.com/m/7d273947-122c-347f-9baa-ad635bda1b6d/ai-and-chip-stocks-drop-after.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-05T10:41:57.000Z",
         "summary": null
       },
       {
@@ -14,6 +35,13 @@
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORE9VUktnR0NadTFYa1g5anY0djV3NjNfQXIzVUhLZG15cEVjY29jckxhUlY3aUI3OTlqYlhJWlFOUjdhQmhHVzE0U0tma20xQWtXLVFvRTBrSHVYbURGbGVyUzJUa0xtelYtdVo1VFBEMDRsemVVdnQ5UHJmc251d0xRcXRCN05mMndGdm5BajY4dGZkdFN6VGk2dFJ3NHVsamgxTHF2N3gzaExXUzBGRHpJRjF6UXB0RThCcnE5QQ?oc=5",
         "source": "TipRanks",
         "publishedAt": "2026-08-05T10:11:50.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (NASDAQ:INTC) Shares Surge 10.8%, While Foundry Financials Remain Main Hurdle for Recovery - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcUF0TjVacUpHOW0zc1I4TThPNnRkQ05mX2VERHZpWHktYmgxWDhZd0MzaVZJRmt1TU5NMEIwLXJIWTV4bkJMT05heFBlZGFVX0o4Zzg4dXRETVl3bURyLXk1Mm9haW1zWjRCVDhjbWVHcmYzM3ltRzJQMVJGNGpYVkpuRXdCcWxZeDkwRG1fZjVUUzdhVnFkOTZGZ2pWaVpGSUh3LTZTQTRsOWo2bDFEeUVR?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-08-05T09:39:07.000Z",
         "summary": null
       },
       {
@@ -31,45 +59,17 @@
         "summary": null
       },
       {
+        "title": "AMD falls as investors seek bigger AI payoff",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-as-investors-seek-bigger-ai-payoff-082709887.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-05T08:27:09.000Z",
+        "summary": null
+      },
+      {
         "title": "Sen. Shelley Moore Capito Sells Shares of Intel Corporation (NASDAQ:INTC) - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUjZwSWFDS21UY3pXU2VUakg4SDg2QjdYU0NxVkYxSjg0ZmJDTU9XU0s4SUdKSVdrbHV1aVVLR1dsaDhmRzJfTERGSlktdlBLVF9PS2VkWUlQRkx4ZmxWYTBvNFNQT3ZlOTMzdUhtaVc2dHZpcnZfUzZ0SUlyM3ZFYThNWWJXOXdWZjFORjJ2SFFVRUxQcEtMYWdQOVNhN09BLTNZSGtpZDB2MDZTa2lWX0xmZ2h5VjdWZ0Rwek1EMkY?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-08-05T06:12:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "What Alphabet’s Stock Drop Tells Us About the Market Today",
-        "url": "https://www.fool.com/investing/2026/08/04/what-alphabets-stock-drop-tells-us-about-the-market-today/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T00:44:43.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) Stock Price Up 10.8% - Here's Why - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1ZhZVJZSFVxay0tTUNZa28tbzJrQmgyX1V4RFdTeVo4NjF0aTRtNE1LNHlyR3pCQ3BlZXNHY01BbEVCV2xIS1pBQklYRVEtYUJFbmNJbXRLbDJOSHVUZHBpZHFGZjVqZWo4Rzg5S0RCXzllbkk5RFdDdFY2c0VDMnRnemZ0YTVQNkVVbHJtekZhTkhTSlhVMjg4c3JUdnEt?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-04T22:56:10.000Z",
-        "summary": null
-      },
-      {
-        "title": "Is Intel (INTC) Fairly Valued Following Q2 Guidance And AI Partnership Updates?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-fairly-valued-following-221145977.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-04T22:11:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell Technology Stock Is On Sale, But Is It A Bargain?",
-        "url": "https://www.trefis.com/articles/610005/marvell-technology-stock-is-on-sale-but-is-it-a-bargain/2026-08-04?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-04T20:51:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdnJhZDNhOFFPWkZ0VzdObnJIUzJxRUlpbVdhQm9ZOU1vcmJ6LVhpNEtXbkxmWlh5aDZvUUl6aFgyTzdXYWhyZ1IzSTFjWmhhdXI2OWVMa2F1UzlsQS1QY0JVTmdUcllldV81eWpyNzB1ZUdNMHZjR1ZJYjZNZmZabmZEOThYWFRsMGJZME4tQ05ZREw3Mm9TR2IyVWVuMFlhZ1pxVTQxRGp0WTQ4b0o4dEhRRjVDR1h2dWpLVWxVS3VscS1aWEpzbGpOTQ?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-04T20:39:00.000Z",
         "summary": null
       }
     ],
@@ -175,17 +175,17 @@
         "summary": null
       },
       {
+        "title": "AAPL Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-08-03T08:01:17.000Z",
+        "summary": null
+      },
+      {
         "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-08-02T13:15:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "AAPL Stock Quote Price and Forecast - cnn.com",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
-        "source": "cnn.com",
-        "publishedAt": "2026-08-02T08:01:21.000Z",
         "summary": null
       },
       {
