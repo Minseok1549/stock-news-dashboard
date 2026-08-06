@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-05T22:11:47.315Z",
+  "generatedAt": "2026-08-06T02:26:43.625Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel (INTC) Stock Jumps 11% After Earnings Beat: Can the Rally Continue in 2026? - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGt1YVplYzdZanQ1NXVxZF83NGx2UENYeDVaU3ZHQm9IaWQybVlzX0VZeGZUQXAxcGdRNXZ3a2NaYU0wNkZ2d2E4RmxOeUhrR2lpMVhzQmJseWpGUTZOZXl3V2VUXzk3MGlkM3d1MS1hbXVxUy0teU0zcUpvdDRlbldOMDc1NEpWaWtBUWl2M2cxU1BpNlBUYVdyNERjY3ptendrdjMzd0llVkxicW5QR1AxbVNHVTBFTWRPSFlreDFadw?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-08-06T00:56:07.000Z",
+        "summary": null
+      },
       {
         "title": "SpaceX, Alphabet, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today’s Market",
         "url": "https://finance.yahoo.com/m/a7670b0f-ed38-324c-8ef1-46c9a987c3cd/spacex%2C-alphabet%2C-nvidia%2C.html?.tsrc=rss",
@@ -64,13 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-05T14:53:26.000Z",
         "summary": null
-      },
-      {
-        "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
-        "url": "https://247wallst.com/investing/2026/08/05/amd-drops-6-despite-record-quarter-as-nvidia-gains-4-on-spacex-nod/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T14:20:36.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -117,13 +117,6 @@
         "summary": null
       },
       {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxpV3lnUHBleTRFeFhxcEVtd25EV1dBTi12QWlzSjN4bjlXblJhdVlUeVF4X1hHMGVQUTJxUnJPelpfWE9XYVkwX0ZjMjBEcTZRbFNzVmVmbWthdGRmSEJIMGlWYkZOQU1NNHpwMXRiNG1CWlQtVWNOVGpNbUNMMnFQLTUzbUhPODVqSmdKOEN4dUlkNU9j?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-08T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
         "source": "매일경제 마켓",
@@ -142,6 +135,13 @@
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14bzJMLWx6NG95V3RRN2dlXzFNelVENnlBSV8zdGpPZ0s5SnJPUUR0NVhqZEdjbEVSeEVTdnNRMHJ6VE4xUXliLWFKQ1BpVU1lOWV6My1BS2F4NTZQbTM3ZGZSZXRkbUp4?oc=5",
         "source": "매일경제TV",
         "publishedAt": "2026-07-06T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWljcS1hS2lHYmoxaWJIWm9ON2d6R0FmdS1BcW5CZmc1VVE4eEdHTGRtQmZqRTJRSnIwTFBHU0pFSjQ0a25yN1RhUkczXzVsSGtGNXNEVkppdC1HUFZHRGFtdGxSUG9zbnVYdGYteERjUXZDRVpiQUpYYWYxU3RPb0xGYi0zZ0pJUnduYWVubWFIcW5WRVdR?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-06-16T07:00:00.000Z",
         "summary": null
       }
     ],
@@ -196,24 +196,24 @@
         "summary": null
       },
       {
-        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’ - techcrunch.com",
+        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-07-31T10:15:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’ - TechCrunch",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFpFRjBhSndQVFpBbEwyVnZiYW9vRUxka196cXFEQUxPWHcyWlU4SjNIUlM4czgxWkpLWm1sdWVkeGtEVmhYX2NZaDN2cnEyOU03dEtoVVpxUTRORV92dTJBalFyU2hZdTlPMHNyOGVtcDRMd01GaTdUWVcxRFhEdWdZcURhZE5tOW9vU2hDcGNrRHU1ejYyakpSOGJvR2pDVnRBTGhDT1VOSXpPYVE?oc=5",
-        "source": "techcrunch.com",
+        "source": "TechCrunch",
         "publishedAt": "2026-07-30T23:28:05.000Z",
         "summary": null
       },
       {
-        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - beincrypto.com",
+        "title": "Apple Beats Earnings but Services, China Disappoint. How Should Stock Traders Position? - BeInCrypto",
         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83b0MxQzUySWdTOFpibjBxSzlxMUFqZUpuODFDTGF5ZU1SNUFlMHcyck1abVl0WGNaRS1wNEw1YW5GbkYxXzI2Vl96MjFNbE9RT3RuSDU2bnpjcUlTMnB6MEhJOHdHR2tULUE?oc=5",
-        "source": "beincrypto.com",
+        "source": "BeInCrypto",
         "publishedAt": "2026-07-30T20:44:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stocks to Watch: Meta, Adidas, Apple, Shell -- WSJ - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN25hVzd3WmV5SHdpUUl6YUJKd0FiSnVwYW00T1B0NEY1YXdJSWpmUGFBY0ZrQm9PU1Q3cGMwaVlBbGhHTE9ZTzhmdTZ2N2JSTGtsdzE1QUtYNzBnS25CcS1KZ0pYWlFtTjZWcVVqVFEzVXFQTGVsTVRHWWxQN2ZpNjBtSzctZ05iRkVPT1Vn?oc=5",
-        "source": "Moomoo",
-        "publishedAt": "2026-07-30T10:00:00.000Z",
         "summary": null
       }
     ]
