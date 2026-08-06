@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-08-06T08:33:39.335Z",
+  "generatedAt": "2026-08-06T11:21:50.981Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Investors Send SoftBank Stock 4.4% Lower Even as Profit Beats Estimates",
+        "url": "https://beincrypto.com/softbank-shares-drop-profit-beat-intel/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-06T10:12:53.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Shares Fall Beneath $100 as 2026 Earnings Forecasts Surge 38% - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSi1TR1hmTk1waUNSM0F6b3dLNzZlSHZMNGRVcG1DWG1tckRMeS1XQlVVcHBtR0NDWThMMmtYOFU2WmFzNHNSU1BycTBGUDJXYkR0dGRnRVNacEpZQlQzMUpvUXpwR291Y1V1SEE1aWMxTm42TGpLZ0JWWkNrdkJIV0U1MWNVNW5Ca3prQnctSQ?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-08-06T09:28:02.000Z",
+        "summary": null
+      },
+      {
+        "title": "SoftBank Q1 Net Profit Beats Estimates as Intel Gains Offset OpenAI Valuation Stagnation - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNW1uTk1Gekl6c2Z4OGRaYlExQ1VkSTlhbzdNUHBTNkFnMmRhZE5BMGFhaHNVa3pIek1BZUM4R0tOamJTb3dfOUlsNFJweVdHRmJDRGp5azQ0TnpJR1VTT2xjZEhLRUxfSGhySjVtNlZpSXBsYkJrV2toN1RnTXlhVUJWQk1hRFk5S3A2X284dTRSWmhXbmphbF9iMVlHX1kwa19wMnhScGVLMlUteGhiNVY0bTZJaGJfZUtLUUxmNWRxWDdiM2czTw?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-08-06T09:02:04.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why Intel Stock Looks Undervalued After Its Q2 2026 Operating Margin Results - TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUDlBYjdxQVJ6VEtaZHR6TFA5ejNtcURha2JTdU5uYXZkOUZCSVNHalYxeXcwTjNQMEdUYzlEalUxd2lNN3ZQdXRzTk9tcEZpTHpSN254Sm0tbFF6MmZJbVA5TWtSTm4wT3k1dXg5MjVaSVVyRFlnZ3N5Mm5yN19KMHZ1bU9fbW8zOEZ0QWEzRUVYNlIydlRuZkpyUzVkeFpZNUsybQ?oc=5",
+        "source": "TIKR.com",
+        "publishedAt": "2026-08-06T08:22:39.000Z",
+        "summary": null
+      },
+      {
+        "title": "SoftBank Group Q1 Net Profit Falls 18% as Intel Stock Gains Offset Rising Costs - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jNXRvWHQ4bV92ZW9nZDdCYlZiQVBBX1kyMHBNRThvd2RxSUM5SC00ZTdfbXkzZVpCdklrNGtjV1RZelZvRGpVZVRoNmpyRkdVdlFnQVVsdTYtQlV6eS1OcXVYam9WUGFyanNBamJIUGU2aDBRclE?oc=5",
+        "source": "finance.biggo.com",
+        "publishedAt": "2026-08-06T08:05:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel and ByteDance stakes help SoftBank beat expectations",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-bytedance-stakes-help-softbank-073943546.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-06T07:39:43.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why is Intel stock surging today? - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkw4cFBOcVIxVE1YUnh2dTBCOHdEUENsRWFFeTgySFVSYU95LW43bk4tVzZ2TmpPRUdBZFFlel9qYW1SWDhLdklJd2ptZGtxektUU2FlUTVwUjBqMnlPOVZZWGx3R1BkZHlSTGxCdUl2YUFLUmJlTzhlWFQtNTJXX3VBNjhXVXYwWWZOUDY1YkthRUpNTU55bzlB?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-08-06T05:33:01.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (INTC) Stock Jumps 11% After Earnings Beat: Can the Rally Continue in 2026? - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGt1YVplYzdZanQ1NXVxZF83NGx2UENYeDVaU3ZHQm9IaWQybVlzX0VZeGZUQXAxcGdRNXZ3a2NaYU0wNkZ2d2E4RmxOeUhrR2lpMVhzQmJseWpGUTZOZXl3V2VUXzk3MGlkM3d1MS1hbXVxUy0teU0zcUpvdDRlbldOMDc1NEpWaWtBUWl2M2cxU1BpNlBUYVdyNERjY3ptendrdjMzd0llVkxicW5QR1AxbVNHVTBFTWRPSFlreDFadw?oc=5",
@@ -21,55 +70,6 @@
         "url": "https://www.trefis.com/articles/610184/how-to-bank-14-on-mu-stock-before-buying-a-single-share/2026-08-05?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-05T18:24:36.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia Just Won a Major SpaceX AI Deal. Stock Jumps as AMD Sinks",
-        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-won-major-spacex-171119544.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T17:11:19.000Z",
-        "summary": null
-      },
-      {
-        "title": "What Is Going on With Intel Stock on Wednesday? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSmlMc1FpWG5oMWRuUld6OHBsYzM5dVM4dUs1V2xlR09McWhDOVBSTkc0V0U5SFhKeHoyVDdEbUd0YkZSNlJpV0dxdUJxYlVjckN1WDNubGlwTE9aak53OHY3M0RxamFXYVFEUFNrQnlWandYTUtsWUxianhuUHVLdHpuZkJ4elBaQjdWTks1LXJOYzhiVFNYck9CeTc1cHZKU1VR?oc=5",
-        "source": "Benzinga",
-        "publishedAt": "2026-08-05T16:30:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell Stock Amplifies The Market You Already Own",
-        "url": "https://www.trefis.com/articles/610206/marvell-stock-amplifies-the-market-you-already-own/2026-08-05?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T16:13:54.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD’s Data Center Business Doubled and Our Price Target Shows Why",
-        "url": "https://247wallst.com/investing/2026/08/05/amds-data-center-business-doubled-and-our-price-target-shows-why/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T16:00:59.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Of The Day: What Price Level Is Important For Intel? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0pKdHUyMGVXX09fbDVwZkRYRDFCMkQtc1drdWQ4ZGZldWxJQWR6eVdMMEdmTTY3Szl4dVBDbGluSk85eFFaeU5jQ2I0RHlvOXl3dFhTV1FFc210MlExNDhyV0h3RHJNVmVudEpxZWRBN2FIN3czaG1PUFU0alpMS1ZrcE9TVWQzZm9TTDEzUUx3T3BIckxYTHlwTlEwdWh2dnQzS0JaSFoxSFE4NC04b0U4bnhCV0ZkdjRJTmJn?oc=5",
-        "source": "Benzinga",
-        "publishedAt": "2026-08-05T15:28:46.000Z",
-        "summary": null
-      },
-      {
-        "title": "Wall Street Sold Off Intel After Its Earnings. But the Company Is Setting Up a Monster 2027.",
-        "url": "https://247wallst.com/videos/wall-street-sold-off-intel-after-its-earnings-but-the-company-is-setting-up-a-monster-2027/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T14:53:26.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
-        "url": "https://247wallst.com/investing/2026/08/05/amd-drops-6-despite-record-quarter-as-nvidia-gains-4-on-spacex-nod/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-05T14:20:36.000Z",
         "summary": null
       }
     ],
@@ -147,16 +147,16 @@
     ],
     "APPL": [
       {
-        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
+        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - fool.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
-        "source": "The Motley Fool",
+        "source": "fool.com",
         "publishedAt": "2026-08-04T23:48:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple Is Down 10%. Should Investors Buy the Dip? - The Motley Fool",
+        "title": "Apple Is Down 10%. Should Investors Buy the Dip? - fool.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM3FtSlQ3Q3M5ZFA1REJYSmRiV1h4aERtNzdBaGxkcGk1MGtlTFhoLUE3dGhPeThRZkstYS1aWkN6aGFBYjZ0d2I2dkJHOXo2SngweVpOTVkzNGdaT3doLV9iaGdrMEdELXFEUW43UVo1bV83akkydjlicFpFeGlLUklUVGZ6VDZkeXE5RExpWXBRZw?oc=5",
-        "source": "The Motley Fool",
+        "source": "fool.com",
         "publishedAt": "2026-08-04T17:15:00.000Z",
         "summary": null
       },
@@ -175,9 +175,9 @@
         "summary": null
       },
       {
-        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
+        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - fool.com",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
-        "source": "The Motley Fool",
+        "source": "fool.com",
         "publishedAt": "2026-08-02T13:15:00.000Z",
         "summary": null
       },
@@ -196,9 +196,9 @@
         "summary": null
       },
       {
-        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - The Motley Fool",
+        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - fool.com",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
-        "source": "The Motley Fool",
+        "source": "fool.com",
         "publishedAt": "2026-07-31T10:15:00.000Z",
         "summary": null
       },
