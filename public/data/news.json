@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T02:26:43.625Z",
+  "generatedAt": "2026-08-06T05:47:33.755Z",
   "articles": {
     "INTC": [
       {
@@ -28,13 +28,6 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-just-won-major-spacex-171119544.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-05T17:11:19.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock (NASDAQ:INTC) Gains With New OCUDU Ecosystem Foundation Membership - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTDFKSzN0bzNtQXRGeUVnNGh6blJMV3BZUGt5Y0Y0bk9IRGZJa0RwZEZBWk05ODNISDhCVjlUOHQ3b1lmbll1Uk15WWpkTDI4RGNzQ0pQcU5adjlPZWZlWDNQY1E4akpCQ25QTzYxai12eFhGTEY3RDd5MnJfT19iU0tjUENzUWZuN2VFU3ZzSDJaalFEU2Vua0EwOVJOTDlZZFh1Y3k3UHI?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-08-05T17:07:36.000Z",
         "summary": null
       },
       {
@@ -70,6 +63,13 @@
         "url": "https://247wallst.com/videos/wall-street-sold-off-intel-after-its-earnings-but-the-company-is-setting-up-a-monster-2027/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-05T14:53:26.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
+        "url": "https://247wallst.com/investing/2026/08/05/amd-drops-6-despite-record-quarter-as-nvidia-gains-4-on-spacex-nod/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-05T14:20:36.000Z",
         "summary": null
       }
     ],
@@ -117,17 +117,17 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KZ09aUUFyN0dwUXJiUngzaFdfZlVoNkJ6Yzl5S2JjeWl2Z25IejhXZWo5T2ZlS0REU3lNcEk2UWFsb2MyaXNfQWZEc3lITmtqaVE?oc=5",
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNXpOYllqZEVVSUFzWm1IeE5tVGZISU9zTmtwSmxMekxlZ2V4STZ0VzNfeThTTUI3dXM2Z2dJRmpKVUdCbkEyRTl3Z3hHeXpIX2d0NHRONnFDcVVyT05yY0lzNExyeWFw?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-07T05:00:00.000Z",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       },
       {
