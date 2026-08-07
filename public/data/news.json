@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-08-07T02:49:33.559Z",
+  "generatedAt": "2026-08-07T04:53:22.066Z",
   "articles": {
     "INTC": [
+      {
+        "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
+        "url": "https://247wallst.com/investing/2026/08/07/how-will-intel-really-be-able-to-beat-tsmc-in-the-next-year/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-07T04:46:53.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why Intel Stock Fell 35% Last Month - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4eFhIeE1aRFlBVWp6Rzd6T2JTMjFmRVJzeXgwVWxncGNFbllLZXpOWmtsZy1vSEtnTl9VdEE4WkVVMGM0bGhvUkg2NXpldC1EU1pBZDNtd19xS201cGhNRFdfeEVhS3BxTG1RLWxHNjFlVm9VMHc?oc=5",
+        "source": "AOL.com",
+        "publishedAt": "2026-08-07T02:30:08.000Z",
+        "summary": null
+      },
       {
         "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
         "url": "https://www.trefis.com/articles/610346/earn-14-on-mrvl-stock-now-or-own-it-60-cheaper-later/2026-08-06?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-07T01:48:35.000Z",
+        "summary": null
+      },
+      {
+        "title": "INTC Stock Hits New All-Time High After Intel, Apple Reportedly Reach Preliminary Chipmaking Agreement - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX3lnTjBlZkMxUmYyOTF6bnBEa2xCejNJZjVNNXJhYjR3Q0o5U0xORndHWnZqckx5amZTR2pHYWxWcnoxZURNaXhDandBejktNXYxVW85cldxX2ZnLUFrYjFYNHFxSUNvR05WSmFrQlp1aWZPaElsdENiVFVYTVg3WDF1Rk85T0pHaFdEenBucDRCU3BJTmV1d0ZYVEdXTUhKZ2xTR2xVRVliWTNXOVk3LVlfM1lKWFFLSGJtYUcxM2JvbEE?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-08-06T23:34:55.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why is Intel stock surging today? - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkw4cFBOcVIxVE1YUnh2dTBCOHdEUENsRWFFeTgySFVSYU95LW43bk4tVzZ2TmpPRUdBZFFlel9qYW1SWDhLdklJd2ptZGtxektUU2FlUTVwUjBqMnlPOVZZWGx3R1BkZHlSTGxCdUl2YUFLUmJlTzhlWFQtNTJXX3VBNjhXVXYwWWZOUDY1YkthRUpNTU55bzlB?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-08-06T22:40:21.000Z",
         "summary": null
       },
       {
@@ -42,34 +70,6 @@
         "url": "https://www.trefis.com/articles/610419/qualcomms-largest-revenue-line-is-shrinking-from-both-sides/2026-08-06?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-06T18:09:35.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD's Record Quarter Landed With A Margin Guide That Did Not Move",
-        "url": "https://www.trefis.com/articles/610417/amds-record-quarter-landed-with-a-margin-guide-that-did-not-move/2026-08-06?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-06T17:54:19.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock (NASDAQ:INTC) Slips With Reports of New CPU-Level Attack - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREgyOFhMcWU5M1F1WDNEWDgybDNYY1FPaXVmMWtOVTVJN3hTbDBLVnlfbDlmTkQ0R2J0SXJmVUdxNEtYQlN3d0JuQWh3dkNYc2Y4LVk0NW5zWUJXbk9Ja042Szh6VTlQSXNSZ21aZUx1T1ZlV0h4aUFXYVZrVXpzZ29uUkdVYXkzY2s0R25HRVFOcHFiMEVadlJDWQ?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-08-06T17:32:42.000Z",
-        "summary": null
-      },
-      {
-        "title": "What's Going On With Intel Stock Thursday? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNDlXMzhMcmRIdXFmZmR4WXFRZm0tLU1BVVVuZ3preU1KS3FhRzJHYjdaNUVPT2t3TV9GeTZfQmhWTnF0d2laVjIxb19scmtnUHZoNzliczczX1JiR29TOEJ1ZzNra2RmUDlKOUw1V0JoQ3cxX1FxbXdHNmQtT2w2SmdYeTNaLVIxdkNsYlBqZUFycVdibFB5UVd1QQ?oc=5",
-        "source": "Benzinga",
-        "publishedAt": "2026-08-06T17:27:11.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel's Turnaround Entered A New Phase (NASDAQ:INTC) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUxXRkJnYjRkdk1vem44QWZnZ0hmZUFMQ2Q1SVBjT3IxeHFKTTJZNC1XUnVycGpBOTFNMDFsQWdhQWdrSXpNQmRlWEdMaUxraEE3NGpyQVN2Z2U0czBYUHRHR2tPQ3IzMkdwdks5dFc4bnVnQk5tQ29mNjAyYkRneXNLUFo?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-08-06T16:54:00.000Z",
         "summary": null
       }
     ],
@@ -124,10 +124,17 @@
         "summary": null
       },
       {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUxpV3lnUHBleTRFeFhxcEVtd25EV1dBTi12QWlzSjN4bjlXblJhdVlUeVF4X1hHMGVQUTJxUnJPelpfWE9XYVkwX0ZjMjBEcTZRbFNzVmVmbWthdGRmSEJIMGlWYkZOQU1NNHpwMXRiNG1CWlQtVWNOVGpNbUNMMnFQLTUzbUhPODVqSmdKOEN4dUlkNU9j?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-08T07:00:00.000Z",
+        "title": "삼성전자, 8,000원 상승 마감…외국인·기관 매수세 유입되며 2.88%↑ (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 7월 10일 목요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aZTg5NzdOd1d3ZjhZX0NtcG5iTDlWR0lpaHpjYWFLTWZSU1V2RkkySVBQZ1A1Z1ZVVjB1WUFQa0toYWRPN0JqVm12bzdHYXpyeS1McUgyM2VZNXZpWXRhdnBMZHpWM0ZIdHN2eA?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-07-10T06:41:37.000Z",
+        "summary": null
+      },
+      {
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YT21ueHoyNS1Wb2l4TDhNX2UyR1l6QlVKN3hvdDZkUk5nb2Q2OTY4dVYyWDdERGJVV3h2T2Nmb1d1dGxlWTByNDhwcFdtbU5PQVExMm4yWnQwM1NzcVNjRDQ3emk3a2lF?oc=5",
+        "source": "매일경제TV",
+        "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       },
       {
@@ -136,27 +143,20 @@
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - fool.com",
+        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-04T23:48:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple Is Down 10%. Should Investors Buy the Dip? - fool.com",
+        "title": "Apple Is Down 10%. Should Investors Buy the Dip? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM3FtSlQ3Q3M5ZFA1REJYSmRiV1h4aERtNzdBaGxkcGk1MGtlTFhoLUE3dGhPeThRZkstYS1aWkN6aGFBYjZ0d2I2dkJHOXo2SngweVpOTVkzNGdaT3doLV9iaGdrMEdELXFEUW43UVo1bV83akkydjlicFpFeGlLUklUVGZ6VDZkeXE5RExpWXBRZw?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-04T17:15:00.000Z",
         "summary": null
       },
@@ -175,9 +175,9 @@
         "summary": null
       },
       {
-        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - fool.com",
+        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-02T13:15:00.000Z",
         "summary": null
       },
@@ -196,9 +196,9 @@
         "summary": null
       },
       {
-        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - fool.com",
+        "title": "Apple's New Leasing Program Could Spur More Upgrades. Here's What Investors Should Be Watching - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXlDdUhfYTljUHdVYnpmbGZzTGIyMFVkdkI4UTUwNjA4dnhDVW5odjRYWG4wTXVLWkRERkFKcGhVS1ZlRWRXT0ZEbDJidmN3MlVKeHZfbXpVVzB2a183b0lqdTFNS1NBdUxndjBpY3h2NzJQTTBSMC1KQ2JlTC12d0FoaXM5N1Zqb3JDM0dDdmVsckFU?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-07-31T10:15:00.000Z",
         "summary": null
       },
