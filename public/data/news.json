@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-07T09:59:52.759Z",
+  "generatedAt": "2026-08-07T12:59:22.712Z",
   "articles": {
     "INTC": [
+      {
+        "title": "SpaceX and Tesla Are Building Their Own $119 Billion Chip Factory — and the Compute Landlord Thesis Just Got Its Most Expensive Chapter",
+        "url": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-07T10:27:44.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Corporation (NASDAQ:INTC) Stock Rises Premarket as Profit Estimates Jump - TechStock²",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR0ZmNVp5MDdfdDJKcWhQVnI0ZF9BdUVMellpTTFiNGhidWZRbkhUbF9IYzctV21JYVZXRGF0eTNMZW8wSTZNUjlZNlI3VWlrWGZvbGI0R0UwTTNFaUpRYTNlQ2s4N0V2bWNVYkthUm1IVEd2NFc2WWtlZW15UVZITmdTQ3E5ZzNZaFVMc3dpNWRyVTluVVRXT1NyUDk?oc=5",
@@ -48,7 +55,7 @@
         "title": "TSLA Stock Eyes Weekly Comeback As Elon Musk Touts Terafab’s Colossal Scale — Analyst Flags A Big Intel Question Mark - Stocktwits",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzNkMEp2QUZwRDB0cXpLcEQycThOQm5tRk12eWVRV0J5U2twampZM0RZeFpsNEk5RklFNk5OUG04SzVDMDFsVEoxSUtRRXZLU3d5c2dHNXBsUlowc2o5TE44TTlQd09mZ0dWMlpycE5iSGMtcXNMMngzbUgtX2htWXpEWmsySWlfWE80VVNhQnIxUTZDZDlYbW9DWE1qcFdWV09zcHExR1ktQk5fV05fdTJJdjM0UzRpdXB0OA?oc=5",
         "source": "Stocktwits",
-        "publishedAt": "2026-08-07T03:12:00.000Z",
+        "publishedAt": "2026-08-07T03:15:56.000Z",
         "summary": null
       },
       {
@@ -63,13 +70,6 @@
         "url": "https://www.trefis.com/articles/610346/earn-14-on-mrvl-stock-now-or-own-it-60-cheaper-later/2026-08-06?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-07T01:48:35.000Z",
-        "summary": null
-      },
-      {
-        "title": "INTC Stock Hits New All-Time High After Intel, Apple Reportedly Reach Preliminary Chipmaking Agreement - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX3lnTjBlZkMxUmYyOTF6bnBEa2xCejNJZjVNNXJhYjR3Q0o5U0xORndHWnZqckx5amZTR2pHYWxWcnoxZURNaXhDandBejktNXYxVW85cldxX2ZnLUFrYjFYNHFxSUNvR05WSmFrQlp1aWZPaElsdENiVFVYTVg3WDF1Rk85T0pHaFdEenBucDRCU3BJTmV1d0ZYVEdXTUhKZ2xTR2xVRVliWTNXOVk3LVlfM1lKWFFLSGJtYUcxM2JvbEE?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-08-06T23:34:55.000Z",
         "summary": null
       }
     ],
@@ -124,6 +124,13 @@
         "summary": null
       },
       {
+        "title": "삼성전자, 8,000원 상승 마감…외국인·기관 매수세 유입되며 2.88%↑ (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 7월 10일 목요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aZTg5NzdOd1d3ZjhZX0NtcG5iTDlWR0lpaHpjYWFLTWZSU1V2RkkySVBQZ1A1Z1ZVVjB1WUFQa0toYWRPN0JqVm12bzdHYXpyeS1McUgyM2VZNXZpWXRhdnBMZHpWM0ZIdHN2eA?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-07-10T06:41:37.000Z",
+        "summary": null
+      },
+      {
         "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제TV",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YT21ueHoyNS1Wb2l4TDhNX2UyR1l6QlVKN3hvdDZkUk5nb2Q2OTY4dVYyWDdERGJVV3h2T2Nmb1d1dGxlWTByNDhwcFdtbU5PQVExMm4yWnQwM1NzcVNjRDQ3emk3a2lF?oc=5",
         "source": "매일경제TV",
@@ -136,23 +143,9 @@
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-06T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
-      {
-        "title": "AAPL|Apple Inc|Price:312.445|Chg%:+1.445 - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUHY4Z0hpQW5PUTRKcUJ0UmhXN2xCMjJmVEJKWEdWWFQyZVpaNHpPVjltMFJkNl9fRlg3WndGd3dMaWtkVEJhbkJGR1NZX3daYkQxcHBXeWtfdw?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-08-07T04:53:07.000Z",
-        "summary": null
-      },
       {
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
@@ -214,6 +207,13 @@
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFpFRjBhSndQVFpBbEwyVnZiYW9vRUxka196cXFEQUxPWHcyWlU4SjNIUlM4czgxWkpLWm1sdWVkeGtEVmhYX2NZaDN2cnEyOU03dEtoVVpxUTRORV92dTJBalFyU2hZdTlPMHNyOGVtcDRMd01GaTdUWVcxRFhEdWdZcURhZE5tOW9vU2hDcGNrRHU1ejYyakpSOGJvR2pDVnRBTGhDT1VOSXpPYVE?oc=5",
         "source": "TechCrunch",
         "publishedAt": "2026-07-30T23:28:05.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple options are doing something unusual into earnings - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjh1Tl9KYmpqUm1rUVNubjE3UUFKaHc4cE8zSEdSd2sxM0RjWDlGSnBBcnZlZVYzVkRmcTc4dXZTRHFtX042UGR6aVdFZ01VakVVVkM1a1ZfMUg5ZFM5UjcyOGtGYXNfOUxKNjNTaHIyQXg3SlluWU5QQXFBMjI2MG8wTUpyU1ZWUWRzLXdKOTJCd3pfTjc40gGcAUFVX3lxTE52YzFmVGhYUW9PQVJWQnJTYzVhWlNyRm9Fb2I1cUJvTEZSVi1PWEEwY2VWY0Z3VmlrUkxMUUJNTmZjMTdrTks1NXV1a1ZibUZBVWxnbUg3Q05jaHVlVFhCMWctLUdyOUtWR3JWOGFDQVZYWWY0a0t4bk1aMHJTYzNNQlBmVmFOZFlKbHZodWxubVo5YjZNd3FnMjV4OQ?oc=5",
+        "source": "CNBC",
+        "publishedAt": "2026-07-27T07:00:00.000Z",
         "summary": null
       }
     ]
