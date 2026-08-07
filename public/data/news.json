@@ -1,12 +1,26 @@
 {
-  "generatedAt": "2026-08-07T04:53:22.066Z",
+  "generatedAt": "2026-08-07T07:13:09.311Z",
   "articles": {
     "INTC": [
+      {
+        "title": "AMD Is Focused Correctly So I Continue Loading Up",
+        "url": "https://247wallst.com/investing/2026/08/07/amd-is-focused-correctly-so-i-continue-loading-up/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-07T04:53:52.000Z",
+        "summary": null
+      },
       {
         "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
         "url": "https://247wallst.com/investing/2026/08/07/how-will-intel-really-be-able-to-beat-tsmc-in-the-next-year/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-07T04:46:53.000Z",
+        "summary": null
+      },
+      {
+        "title": "TSLA Stock Eyes Weekly Comeback As Elon Musk Touts Terafab’s Colossal Scale — Analyst Flags A Big Intel Question Mark - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzNkMEp2QUZwRDB0cXpLcEQycThOQm5tRk12eWVRV0J5U2twampZM0RZeFpsNEk5RklFNk5OUG04SzVDMDFsVEoxSUtRRXZLU3d5c2dHNXBsUlowc2o5TE44TTlQd09mZ0dWMlpycE5iSGMtcXNMMngzbUgtX2htWXpEWmsySWlfWE80VVNhQnIxUTZDZDlYbW9DWE1qcFdWV09zcHExR1ktQk5fV05fdTJJdjM0UzRpdXB0OA?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-08-07T03:12:00.000Z",
         "summary": null
       },
       {
@@ -57,20 +71,6 @@
         "source": "FXLeaders",
         "publishedAt": "2026-08-06T19:57:23.000Z",
         "summary": null
-      },
-      {
-        "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-workloads-drive-cpu-demand-182055034.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-06T18:20:55.000Z",
-        "summary": null
-      },
-      {
-        "title": "Qualcomm's Largest Revenue Line Is Shrinking From Both Sides",
-        "url": "https://www.trefis.com/articles/610419/qualcomms-largest-revenue-line-is-shrinking-from-both-sides/2026-08-06?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-06T18:09:35.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -86,13 +86,6 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeFVzVmpOTjJZQmI1YzlRb24xbUI2UC1nMjNySDFoOWwySjdjbU9KWmZEVks4c3pTWVN5SVROb3lJSndvSkpyZm5CT2hKd2R5STN1czhHcG02STJLNnBPM21paXp3TF9ZNGM3cA?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-05T07:56:21.000Z",
-        "summary": null
-      },
-      {
-        "title": "2026-08-03 코스피 오늘 인기종목 30개 주식시황, 삼성전자 SK하이닉스 급락 (+ 005930, 000660, 반도체) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zdWdJLXNqd3AzWFowVktJTldycHpvYlNhOXRhUVlBb2FoeWp3MDRYcXRJOUlLMVQ4dUpVSHZDZW9VbnpFenhyNkd1dzVmUkxoRHpuZDVQSl9VY3VkeUdSTUN4TUw3WWxBYXpETQ?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-08-03T07:56:27.000Z",
         "summary": null
       },
       {
@@ -124,16 +117,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8,000원 상승 마감…외국인·기관 매수세 유입되며 2.88%↑ (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 7월 10일 목요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aZTg5NzdOd1d3ZjhZX0NtcG5iTDlWR0lpaHpjYWFLTWZSU1V2RkkySVBQZ1A1Z1ZVVjB1WUFQa0toYWRPN0JqVm12bzdHYXpyeS1McUgyM2VZNXZpWXRhdnBMZHpWM0ZIdHN2eA?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-07-10T06:41:37.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제TV",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - mbnmoney.mbn.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YT21ueHoyNS1Wb2l4TDhNX2UyR1l6QlVKN3hvdDZkUk5nb2Q2OTY4dVYyWDdERGJVV3h2T2Nmb1d1dGxlWTByNDhwcFdtbU5PQVExMm4yWnQwM1NzcVNjRDQ3emk3a2lF?oc=5",
-        "source": "매일경제TV",
+        "source": "mbnmoney.mbn.co.kr",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       },
@@ -143,9 +129,30 @@
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
+      },
+      {
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-07-06T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkpxeDMwS1U4TEE4RmdsTXR2cktsbUl3N3Jsc1V3M2U4UWRPVDBENzJNLVB4a0RGSjBTamNFSVNYeHYxdVgycmJ3Nkp3OFpVQ2tsLWdIZ3E1ZFRpYnMwN1lOdzB5bzZlejNoR1ZOaVJMMnRteHV5N2FGQ2wwNzVPa2E5SHI1Y0Z2OUZrZmxCQTlXcFNRN0tZ?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-06-18T07:00:00.000Z",
+        "summary": null
       }
     ],
     "APPL": [
+      {
+        "title": "AAPL|Apple Inc|Price:312.445|Chg%:+1.445 - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKUHY4Z0hpQW5PUTRKcUJ0UmhXN2xCMjJmVEJKWEdWWFQyZVpaNHpPVjltMFJkNl9fRlg3WndGd3dMaWtkVEJhbkJGR1NZX3daYkQxcHBXeWtfdw?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-08-07T04:53:07.000Z",
+        "summary": null
+      },
       {
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWR4d29YU2lnaDRPMWUwRGplVFBIcDBYd1lka1d4c2JmVE5ZNWY3Q0ppMFJ2NkNKbTNmSmRjSlJMdk8wT1FuLVlrczd4aGlOcjZzM3ZYV0lZTVRBZW93YWNiTHRIU3NMWDU1Qzc2Y1dMSVBDYnhqLXdUNlprOWhVaVktZnRqUjcyNjNjbjBqMG41bnc?oc=5",
         "source": "Mitrade",
         "publishedAt": "2026-07-31T02:17:20.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’ - TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFpFRjBhSndQVFpBbEwyVnZiYW9vRUxka196cXFEQUxPWHcyWlU4SjNIUlM4czgxWkpLWm1sdWVkeGtEVmhYX2NZaDN2cnEyOU03dEtoVVpxUTRORV92dTJBalFyU2hZdTlPMHNyOGVtcDRMd01GaTdUWVcxRFhEdWdZcURhZE5tOW9vU2hDcGNrRHU1ejYyakpSOGJvR2pDVnRBTGhDT1VOSXpPYVE?oc=5",
-        "source": "TechCrunch",
-        "publishedAt": "2026-07-30T23:28:05.000Z",
         "summary": null
       }
     ]
