@@ -1,19 +1,26 @@
 {
-  "generatedAt": "2026-08-08T12:43:44.773Z",
+  "generatedAt": "2026-08-08T15:27:43.509Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Ron Paul: Trump’s New Policy Is ‘As Dangerous to Liberty and Prosperity’ as Mamdani’s",
+        "url": "https://247wallst.com/investing/2026/08/08/ron-paul-trumps-new-policy-is-as-dangerous-to-liberty-and-prosperity-as-mamdanis-2/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-08T14:00:08.000Z",
+        "summary": null
+      },
+      {
+        "title": "This Analyst On Wall Street Thinks The CPU Trade Is Overdone, Should You Sell ARM (ARM) Stock?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-08T12:55:33.000Z",
+        "summary": null
+      },
       {
         "title": "MFG Wealth Management Inc. Reduces Stock Position in Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWTU1VWt1c3pjQ19XeXlPUF9weUJfOWUxNEhMQUpwZE02X3JrVFo1b2hvMEc4SDZMdHNrNEEyUnFJcEduQUhmX1IzTUJDSWJyQXl2S0pqeHE1TnZWSGgxWDVSRENuZUd2cnNybkNVQTB0TzlzWWhEelIydEk1V3NSOEhUOURaeXZhSFdOVnphbUtiQVlVSVVrTEpJdGJQT3RGX05qWUdvOEsyWnB4eFAyYjZpZDNMa0VxSFAwaWZzVE9xd1J0Njl6TVNUa3VRZ19t?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-08-08T09:53:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "The AI Trade Rotation: Money Is Moving Out of Chips and Into This - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOENwMEFRc295NzJpNmxuUWVqY3g5ZURrQU1NMFBlbkxaM3diNnliNF9TT2xMbnRvbFNzNXNlenZHQ19uQ21KUENmTDZJT3d5dk80MEJtYW43VVEyWTNpakhOaUpGYUJBSnQyZ2JtVk9QRW16X2JkdnprbmtWdkRtMUlZdGFFMnU2cnRwd0t5SHJ1V3Q2M21LQzJlb0hRMm9JUXFveWp4N1F6eElzVWMwa1Z6R1hlR1ZmaFhwTEZNU0FkZGlPU0JmZ1pZVXFkcU1jbjlvdnZCMXpLRVlVNEEwOTZYYVlsdw?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-08-08T08:23:05.000Z",
         "summary": null
       },
       {
@@ -64,34 +71,27 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-07T19:50:54.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Stock (NASDAQ:INTC) Gains With Progress on HDMI 2.1 - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjZNQ3dCYUlIbnAxYnJMdEc0MzdBQjVxcHBWQ2hfVVhQZGVaUmd1am02VTJkY1dSMlE2WlhUVXVPeWEyNkJkbE00d2h5Y1VFSkUtQUhzUngyVEFKa3l2X1ZvQkpuaWg0NDc5VktDYXgtdU9zTEs5SFZhLVZMbEFwYWJ5THIwOVhwU05EMA?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-08-07T19:13:43.000Z",
-        "summary": null
       }
     ],
     "005930": [
       {
-        "title": "삼성전자, 0.22% 상승 마감…외국인·기관 수급 엇갈림 속 눈길 (+005930, 반도체, 투자자별매매동향, 2026년 8월 7일 목요일) - 민심뉴스",
+        "title": "삼성전자, 0.22% 상승 마감…외국인·기관 수급 엇갈림 속 눈길 (+005930, 반도체, 투자자별매매동향, 2026년 8월 7일 목요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kd1hCVFppODhkSDVybnNvaDFBS0d5VTMyQmRjMEhXb1pGMHJDODcwUHBWUG1QUDQyamVhTmZUaVZCVlNTeEI3VEZsV29xWXpDS1VfeER2TlJTUU1xNlJVYUdiX1BVVkJfM2xJWA?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-08-07T06:44:06.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자 6.30% 급락, 외국인 306만주 순매도… 투매 공포인가 (+005930, 삼성전자, 반도체, 외국인매매, 2026년 8월 6일 수요일) - 민심뉴스",
+        "title": "삼성전자 6.30% 급락, 외국인 306만주 순매도… 투매 공포인가 (+005930, 삼성전자, 반도체, 외국인매매, 2026년 8월 6일 수요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ZXZTR3NPclNvZXRybG9UU0pjM19EcWtqbnc4MkYtajJaaHBydmpPaktlNDIxU0JnWDVJOGpsZ1NNYk43d2JCRVVUVW02TXJyZjBZdWJkUktJTHRTMVVlR09HY2swTnVvbHo4dA?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-08-06T06:44:13.000Z",
         "summary": null
       },
       {
-        "title": "2026-08-05 코스피 오늘 인기종목 30개 주식시황 분석! (005930, 삼성전자, SK하이닉스, 삼성전기) - 민심뉴스",
+        "title": "2026-08-05 코스피 오늘 인기종목 30개 주식시황 분석! (005930, 삼성전자, SK하이닉스, 삼성전기) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeFVzVmpOTjJZQmI1YzlRb24xbUI2UC1nMjNySDFoOWwySjdjbU9KWmZEVks4c3pTWVN5SVROb3lJSndvSkpyZm5CT2hKd2R5STN1czhHcG02STJLNnBPM21paXp3TF9ZNGM3cA?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-08-05T07:56:21.000Z",
         "summary": null
       },
@@ -103,16 +103,16 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8.19% 급락 마감…외국인·기관 매도세 엇갈림 (+005930, 주가하락, 외국인매매, 기관매매, 2026년 8월 3일 일요일) - 민심뉴스",
+        "title": "삼성전자, 8.19% 급락 마감…외국인·기관 매도세 엇갈림 (+005930, 주가하락, 외국인매매, 기관매매, 2026년 8월 3일 일요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MkJycVpIOUZMTGdhUDJjcHJRZnFOSXpCVnBfYU9jS3dfVVRXYmVRLTNub3lCU0k3dlNIV0xjU2pLNEdOWTdydVZIeDJwY3NBYzdvTWxMd1RKQ0dfWkozOGJhTGg0NWdlekVxZw?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-08-03T06:41:45.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - 민심뉴스",
+        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWjJNUlRCZnZKQ2hUN0tlTWU1ZlhHbzNKT3c0NXVKWlJHZnF2MXlzSFBFd3BmcVM2Z3VGVy1iVU1yZ2U5VmpBTnhuZnZ1YXNaQzNrTVN5amwxRFhXenc3bDdyLTFzS1N6ZHVlVg?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-07-15T07:00:00.000Z",
         "summary": null
       },
@@ -124,9 +124,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8,000원 상승 마감…외국인·기관 매수세 유입되며 2.88%↑ (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 7월 10일 목요일) - 민심뉴스",
+        "title": "삼성전자, 8,000원 상승 마감…외국인·기관 매수세 유입되며 2.88%↑ (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 7월 10일 목요일) - minsimnews.com",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aZTg5NzdOd1d3ZjhZX0NtcG5iTDlWR0lpaHpjYWFLTWZSU1V2RkkySVBQZ1A1Z1ZVVjB1WUFQa0toYWRPN0JqVm12bzdHYXpyeS1McUgyM2VZNXZpWXRhdnBMZHpWM0ZIdHN2eA?oc=5",
-        "source": "민심뉴스",
+        "source": "minsimnews.com",
         "publishedAt": "2026-07-10T06:41:37.000Z",
         "summary": null
       },
@@ -203,17 +203,17 @@
         "summary": null
       },
       {
-        "title": "Apple set to lose nearly $500 billion in value after weak forecast - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZi0ya0lkQWtBRjNSR0o0YkFvMnVrZUx6N3EzRHBnTEtva0gtc2RwajIxM0ZXY2hLN2h1eUl3THBILVBrbTNrNHRDVmpLUmxBWWtQeUNuTURRa2xMZXktdG55Ymd3YzZmR296U3lTLVFSZjQ3eS01QzFwZExkVDN5Mk9PWjROR3hDZlRja0YxNGM2Tm5MUE9CRjNYWUtuR19RQUxPc0FoZEdaVGsyQUtiQmdqQmFGUmhqV0l0SXZqUzRoRHhzckpv?oc=5",
-        "source": "Reuters",
-        "publishedAt": "2026-07-31T21:39:31.000Z",
+        "title": "Apple stock price falls: 3 reasons why AAPL shares are down after a record-breaking quarter - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW5ZMl9mcnpHSG01MkVNMmI1RHlQVnRnWno3dktKRUNLcG5aVHliVzBScHNleGx4bDZqVFYzWTFLRFBGZDRTMHRlMDR0YnhKb29RUEFHZ1pQemVFTmVycmFEeXlOWW9uaUVZT29LRmh2RFZfR1VUZmY5ZXVycm16N1ZHeGd5TFJuMkg3NQ?oc=5",
+        "source": "Fast Company",
+        "publishedAt": "2026-07-31T13:52:46.000Z",
         "summary": null
       },
       {
-        "title": "Apple stock price falls: 3 reasons why AAPL shares are down after a record-breaking quarter - fastcompany.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW5ZMl9mcnpHSG01MkVNMmI1RHlQVnRnWno3dktKRUNLcG5aVHliVzBScHNleGx4bDZqVFYzWTFLRFBGZDRTMHRlMDR0YnhKb29RUEFHZ1pQemVFTmVycmFEeXlOWW9uaUVZT29LRmh2RFZfR1VUZmY5ZXVycm16N1ZHeGd5TFJuMkg3NQ?oc=5",
-        "source": "fastcompany.com",
-        "publishedAt": "2026-07-31T13:52:46.000Z",
+        "title": "Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhXYzFzVVpTR0x1YnZGRTJ5ZnRMNzdEbnM5Z3JLc1h1enl5Vi1salJrNnZfcXllekRtMUlxeG1vWlo0OGRHT2Y5bmwtM0g5OVR0czZZdUh6SnhWZnQyWTZEZEpiNGFacHFRdDN6UlE5U01lQlZTWEpRZlhvYzN3MTBFbC11eFpIZWUxQjlkMHZVTWpBUzBtU1pIVlRoQ1FsZWt4elhZNDVTM0x5Zlo3QTFaQWctVGRWdS1pRUdvbzBHWVdIRl9qUEhYdHN0OEFqak13?oc=5",
+        "source": "MarketWatch",
+        "publishedAt": "2026-07-31T13:51:00.000Z",
         "summary": null
       }
     ]
