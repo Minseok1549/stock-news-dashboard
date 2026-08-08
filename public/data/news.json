@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-07T21:37:13.354Z",
+  "generatedAt": "2026-08-08T01:25:42.896Z",
   "articles": {
     "INTC": [
       {
-        "title": "Intel (NASDAQ:INTC) Shares Up 1.8% - Should You Buy? - MarketBeat",
+        "title": "Intel (NASDAQ:INTC) Shares Up 1.8% - Should You Buy? - marketbeat.com",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWx4aTBzZHVCSlozNm5aTDJONDdDdDgxLTBmNy1EMS1uTkZPWkx0cDJId0NBWE9hTVdHd0Q0OVBqVllPb2FSTmk1TkQ4ZEpCVndqcncxZGxmbHhlV3RVVTRjWm0wbHc4QW9pSFFpYVdZdEZSVnM3Z2tXdnJueU1UZ25qZXBmZkk1TC10NmJwNmJvNUZ0bk9tb05GdGstTzA?oc=5",
-        "source": "MarketBeat",
+        "source": "marketbeat.com",
         "publishedAt": "2026-08-07T21:22:30.000Z",
         "summary": null
       },
@@ -147,6 +147,13 @@
     ],
     "APPL": [
       {
+        "title": "AAPL Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-08-05T20:18:29.000Z",
+        "summary": null
+      },
+      {
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
         "source": "The Motley Fool",
@@ -196,9 +203,9 @@
         "summary": null
       },
       {
-        "title": "Apple options are doing something unusual into earnings - cnbc.com",
+        "title": "Apple options are doing something unusual into earnings - CNBC",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjh1Tl9KYmpqUm1rUVNubjE3UUFKaHc4cE8zSEdSd2sxM0RjWDlGSnBBcnZlZVYzVkRmcTc4dXZTRHFtX042UGR6aVdFZ01VakVVVkM1a1ZfMUg5ZFM5UjcyOGtGYXNfOUxKNjNTaHIyQXg3SlluWU5QQXFBMjI2MG8wTUpyU1ZWUWRzLXdKOTJCd3pfTjc40gGcAUFVX3lxTE52YzFmVGhYUW9PQVJWQnJTYzVhWlNyRm9Fb2I1cUJvTEZSVi1PWEEwY2VWY0Z3VmlrUkxMUUJNTmZjMTdrTks1NXV1a1ZibUZBVWxnbUg3Q05jaHVlVFhCMWctLUdyOUtWR3JWOGFDQVZYWWY0a0t4bk1aMHJTYzNNQlBmVmFOZFlKbHZodWxubVo5YjZNd3FnMjV4OQ?oc=5",
-        "source": "cnbc.com",
+        "source": "CNBC",
         "publishedAt": "2026-07-27T07:00:00.000Z",
         "summary": null
       },
@@ -206,13 +213,6 @@
         "title": "Why Apple Stock Is Up Today - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qR256dDhjVXQ0NGJDT1BObkVmUzNyU25mcjZPUlFpMDg3OFRXYk9ja3pZdjNXaWtMZXBncHFmdWhMWnpIQTVOUGJTbktkdHIyUHFxSTQyZXdqZEswUXJ5RFZ1VzVMUU9ld3BDU00yVmlFbmd6SzBxR2xR?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-07-24T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock Price Forecast: BofA and Morgan Stanley Expect Third-Quarter Earnings to Top Wall Street Consensus, Can Share Price Hit New High? - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVjA0WVpzZFFmWGdVU0JCLWVlRTFvUHB2SUVkOEFnXzRZcnR3NnBrNTJLamtlMnBtZVJpSzFGNnN4SG9iTUZKT1pNaEl2Z3pkV0lLdHFxc1RzZFE3ZGFDcW9Jb0lDdUhlaFY2TUZhMms4RFRKdVp3YnFDdW10UUZZVjRSV2tJMktWdHM0LWhxM2ppeV9MNjR5ZWsxd084QmJudTRaMDRBRkM3VTZ2VGFSRWxmNWtFTFExdHlFdnJXdVNCUlIxS3ZWTmFwZXUySkRVZTFwMXBBM180QXBaa3Vyem54NWlDbU0?oc=5",
-        "source": "TradingKey",
         "publishedAt": "2026-07-24T07:00:00.000Z",
         "summary": null
       }
