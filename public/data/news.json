@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T04:09:30.606Z",
+  "generatedAt": "2026-08-08T06:50:10.721Z",
   "articles": {
     "INTC": [
       {
@@ -17,6 +17,13 @@
         "summary": null
       },
       {
+        "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
+        "url": "https://www.barchart.com/story/news/3728869/intel-quashed-its-dividend-in-2024-now-the-stock-s-up-389-and-investors-want-it-back?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-07T23:00:02.000Z",
+        "summary": null
+      },
+      {
         "title": "Intel (NASDAQ:INTC) Shares Up 1.8% - Should You Buy? - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWx4aTBzZHVCSlozNm5aTDJONDdDdDgxLTBmNy1EMS1uTkZPWkx0cDJId0NBWE9hTVdHd0Q0OVBqVllPb2FSTmk1TkQ4ZEpCVndqcncxZGxmbHhlV3RVVTRjWm0wbHc4QW9pSFFpYVdZdEZSVnM3Z2tXdnJueU1UZ25qZXBmZkk1TC10NmJwNmJvNUZ0bk9tb05GdGstTzA?oc=5",
         "source": "MarketBeat",
@@ -31,13 +38,6 @@
         "summary": null
       },
       {
-        "title": "Intel Stock (NASDAQ:INTC) Gains With Progress on HDMI 2.1 - tipranks.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjZNQ3dCYUlIbnAxYnJMdEc0MzdBQjVxcHBWQ2hfVVhQZGVaUmd1am02VTJkY1dSMlE2WlhUVXVPeWEyNkJkbE00d2h5Y1VFSkUtQUhzUngyVEFKa3l2X1ZvQkpuaWg0NDc5VktDYXgtdU9zTEs5SFZhLVZMbEFwYWJ5THIwOVhwU05EMA?oc=5",
-        "source": "tipranks.com",
-        "publishedAt": "2026-08-07T19:13:43.000Z",
-        "summary": null
-      },
-      {
         "title": "The Toughest Questions AMD Faced On Its Latest Call",
         "url": "https://www.trefis.com/articles/610570/the-toughest-questions-amd-faced-on-its-latest-call/2026-08-07?.tsrc=rss",
         "source": "Yahoo Finance",
@@ -45,9 +45,9 @@
         "summary": null
       },
       {
-        "title": "Why Is INTC Stock Falling Nearly 2% Premarket Today? - Stocktwits",
+        "title": "Why Is INTC Stock Falling Nearly 2% Premarket Today? - stocktwits.com",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0daUWk3OTZxTDJaYnRGTEhPWkZOTS1VMVlNazZXVGZBaU5HMTRzWG9Wdnc3MXNNNjBnam00aVBfU0c4NUwzZEtpZXpfV0Q3dTBhYjB0Vng0T19kSEM0bXRJREhURFpnWEl5YzZSTWNKYnlHbFdvU2loWGxJZUdqZDdXbDBIRTRhcVRDc19OY3ZKRHhBZ0ZFcXNfLXpmYWcyRENxTFNwR0VxeDl5T1BrR2hNblY?oc=5",
-        "source": "Stocktwits",
+        "source": "stocktwits.com",
         "publishedAt": "2026-08-07T17:58:10.000Z",
         "summary": null
       },
@@ -96,9 +96,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - infostockdaily.co.kr",
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
-        "source": "infostockdaily.co.kr",
+        "source": "인포스탁데일리",
         "publishedAt": "2026-08-03T07:32:58.000Z",
         "summary": null
       },
@@ -146,6 +146,13 @@
       }
     ],
     "APPL": [
+      {
+        "title": "MU, SNDK, WDC, SKHY Stock Jump After-Hours — Memory Chipmakers Soar After Amazon, Apple Management Flag Soaring Costs, Supply Crunch - stocktwits.com",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZjlaZEl3bE1qZWExVXIzN3BhdEhkT1prYnk4c3Y0TktkVjJZQ3FfRGE3aVhVVjhKbFk3dGlsYnNmd3NJbGNpNnU2VkJybEx0dFRybWFmU05HRWNfbi16OWNIcDdneENNWHlkQTdEaXVRcEExM1NOalBEN0tvZERlZlAyT3YwSTJwZngtN0FGNUgxbHVwNUhaR0Q4dXFkbmJzYjlJWk1TMjA3MzhhbHFCV2ZZZWwwVVQ3WndhQ2FGUnB1RFk0NmJfQ2hQTml2c0pubTdtVXFRRGJGZVBpMTRHTzJDdw?oc=5",
+        "source": "stocktwits.com",
+        "publishedAt": "2026-08-07T03:21:39.000Z",
+        "summary": null
+      },
       {
         "title": "AAPL Stock Quote Price and Forecast - CNN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTVDTlRuakJsWTFGbTVEdHZ6X3FXTVZLN2FwT2lSRHpObDRqeTJqajBYa3dpSU1IbVpLZG52MzFGQ2VlY01LdWhrbWpjbmRxNlhzUkdvM09pYUNTQ2c2NjYzX1pUX3VBUGYzLUJSRFNtTk11TGw2dG1BVzZnOEthS3V4TGVLWW5rVVQ0WGVnR0xXLVBPMGNITHdDZkhKMzl2LTI1cDU1NjBYQmVxdV95dlhWUEtFeUZtU1kwRTZiZnJSQXE3SHRn?oc=5",
         "source": "Yahoo Finance",
         "publishedAt": "2026-07-31T18:29:13.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple stock price falls: 3 reasons why AAPL shares are down after a record-breaking quarter - Fast Company",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW5ZMl9mcnpHSG01MkVNMmI1RHlQVnRnWno3dktKRUNLcG5aVHliVzBScHNleGx4bDZqVFYzWTFLRFBGZDRTMHRlMDR0YnhKb29RUEFHZ1pQemVFTmVycmFEeXlOWW9uaUVZT29LRmh2RFZfR1VUZmY5ZXVycm16N1ZHeGd5TFJuMkg3NQ?oc=5",
-        "source": "Fast Company",
-        "publishedAt": "2026-07-31T13:52:46.000Z",
         "summary": null
       }
     ]
