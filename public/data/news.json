@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T18:35:03.608Z",
+  "generatedAt": "2026-08-08T21:28:19.364Z",
   "articles": {
     "INTC": [
       {
@@ -21,6 +21,13 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-wall-street-thinks-cpu-125533234.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-08T12:55:33.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Stock Position Lessened by Victrix Investment Advisors - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV19nLUdTMGNjVktTWGVyRE9TTFFmazBUdm45bWlUYXN6QWlfRGNhS2t4SDNETXVNVHphdXZFMS1kR3hQaUNRVmRZMUR2Rm90bzV0WWJzY0FDcVdlRlRUSDRKVi1EUElOY1pKekpBalJYQnprQkJxTlB0MjRQZjhBTS1lNElOajdnTzBTbHZQZnY0Ry1DdWRQa2JWRUV5TmxqWTVnalJnYmtCLUluaTBfbXpjNldfNnpaQXlhUk9oZlJfeDU4Nm9CcVFac2tRVktBcUZIVg?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-08T10:12:36.000Z",
         "summary": null
       },
       {
@@ -64,34 +71,27 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-07T23:00:02.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back. - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXNFTnN3a1RHN241Q2xKb1NoaG91T0Y2LWU2OVhyM1dOUzF3d0FxblVSdUJ6ZjRMMV9Va1FkbUtzTHFtczhXRllIS1RTZU1BTFRaalQ4LW1DTENfTGFzRktsdHJEbnZxdU9vbkpiRkU1YzR0VnZaQXlfN0dWT0lvTzRzZ0l1V2E1V1VPVEsxVWo1ZENFNlpfZzY5OG5Gc3kzc0J0bEgwbDRCT1FSSUQ2T096dFNKam1LMWRmUEpBRTlESG5ZeFo4?oc=5",
-        "source": "Barchart.com",
-        "publishedAt": "2026-08-07T23:00:02.000Z",
-        "summary": null
       }
     ],
     "005930": [
       {
-        "title": "삼성전자, 0.22% 상승 마감…외국인·기관 수급 엇갈림 속 눈길 (+005930, 반도체, 투자자별매매동향, 2026년 8월 7일 목요일) - minsimnews.com",
+        "title": "삼성전자, 0.22% 상승 마감…외국인·기관 수급 엇갈림 속 눈길 (+005930, 반도체, 투자자별매매동향, 2026년 8월 7일 목요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kd1hCVFppODhkSDVybnNvaDFBS0d5VTMyQmRjMEhXb1pGMHJDODcwUHBWUG1QUDQyamVhTmZUaVZCVlNTeEI3VEZsV29xWXpDS1VfeER2TlJTUU1xNlJVYUdiX1BVVkJfM2xJWA?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-08-07T06:44:06.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자 6.30% 급락, 외국인 306만주 순매도… 투매 공포인가 (+005930, 삼성전자, 반도체, 외국인매매, 2026년 8월 6일 수요일) - minsimnews.com",
+        "title": "삼성전자 6.30% 급락, 외국인 306만주 순매도… 투매 공포인가 (+005930, 삼성전자, 반도체, 외국인매매, 2026년 8월 6일 수요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ZXZTR3NPclNvZXRybG9UU0pjM19EcWtqbnc4MkYtajJaaHBydmpPaktlNDIxU0JnWDVJOGpsZ1NNYk43d2JCRVVUVW02TXJyZjBZdWJkUktJTHRTMVVlR09HY2swTnVvbHo4dA?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-08-06T06:44:13.000Z",
         "summary": null
       },
       {
-        "title": "2026-08-05 코스피 오늘 인기종목 30개 주식시황 분석! (005930, 삼성전자, SK하이닉스, 삼성전기) - minsimnews.com",
+        "title": "2026-08-05 코스피 오늘 인기종목 30개 주식시황 분석! (005930, 삼성전자, SK하이닉스, 삼성전기) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VeFVzVmpOTjJZQmI1YzlRb24xbUI2UC1nMjNySDFoOWwySjdjbU9KWmZEVks4c3pTWVN5SVROb3lJSndvSkpyZm5CT2hKd2R5STN1czhHcG02STJLNnBPM21paXp3TF9ZNGM3cA?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-08-05T07:56:21.000Z",
         "summary": null
       },
@@ -103,16 +103,16 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8.19% 급락 마감…외국인·기관 매도세 엇갈림 (+005930, 주가하락, 외국인매매, 기관매매, 2026년 8월 3일 일요일) - minsimnews.com",
+        "title": "삼성전자, 8.19% 급락 마감…외국인·기관 매도세 엇갈림 (+005930, 주가하락, 외국인매매, 기관매매, 2026년 8월 3일 일요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94MkJycVpIOUZMTGdhUDJjcHJRZnFOSXpCVnBfYU9jS3dfVVRXYmVRLTNub3lCU0k3dlNIV0xjU2pLNEdOWTdydVZIeDJwY3NBYzdvTWxMd1RKQ0dfWkozOGJhTGg0NWdlekVxZw?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-08-03T06:41:45.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - minsimnews.com",
+        "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWjJNUlRCZnZKQ2hUN0tlTWU1ZlhHbzNKT3c0NXVKWlJHZnF2MXlzSFBFd3BmcVM2Z3VGVy1iVU1yZ2U5VmpBTnhuZnZ1YXNaQzNrTVN5amwxRFhXenc3bDdyLTFzS1N6ZHVlVg?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-07-15T07:00:00.000Z",
         "summary": null
       },
@@ -124,9 +124,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8,000원 상승 마감…외국인·기관 매수세 유입되며 2.88%↑ (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 7월 10일 목요일) - minsimnews.com",
+        "title": "삼성전자, 8,000원 상승 마감…외국인·기관 매수세 유입되며 2.88%↑ (+005930, 삼성전자, 주가, 외국인, 기관, 2026년 7월 10일 목요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aZTg5NzdOd1d3ZjhZX0NtcG5iTDlWR0lpaHpjYWFLTWZSU1V2RkkySVBQZ1A1Z1ZVVjB1WUFQa0toYWRPN0JqVm12bzdHYXpyeS1McUgyM2VZNXZpWXRhdnBMZHpWM0ZIdHN2eA?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-07-10T06:41:37.000Z",
         "summary": null
       },
@@ -150,7 +150,7 @@
         "title": "MU, SNDK, WDC, SKHY Stock Jump After-Hours — Memory Chipmakers Soar After Amazon, Apple Management Flag Soaring Costs, Supply Crunch - Stocktwits",
         "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZjlaZEl3bE1qZWExVXIzN3BhdEhkT1prYnk4c3Y0TktkVjJZQ3FfRGE3aVhVVjhKbFk3dGlsYnNmd3NJbGNpNnU2VkJybEx0dFRybWFmU05HRWNfbi16OWNIcDdneENNWHlkQTdEaXVRcEExM1NOalBEN0tvZERlZlAyT3YwSTJwZngtN0FGNUgxbHVwNUhaR0Q4dXFkbmJzYjlJWk1TMjA3MzhhbHFCV2ZZZWwwVVQ3WndhQ2FGUnB1RFk0NmJfQ2hQTml2c0pubTdtVXFRRGJGZVBpMTRHTzJDdw?oc=5",
         "source": "Stocktwits",
-        "publishedAt": "2026-08-07T03:21:39.000Z",
+        "publishedAt": "2026-08-07T15:51:25.000Z",
         "summary": null
       },
       {
@@ -210,10 +210,10 @@
         "summary": null
       },
       {
-        "title": "Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhXYzFzVVpTR0x1YnZGRTJ5ZnRMNzdEbnM5Z3JLc1h1enl5Vi1salJrNnZfcXllekRtMUlxeG1vWlo0OGRHT2Y5bmwtM0g5OVR0czZZdUh6SnhWZnQyWTZEZEpiNGFacHFRdDN6UlE5U01lQlZTWEpRZlhvYzN3MTBFbC11eFpIZWUxQjlkMHZVTWpBUzBtU1pIVlRoQ1FsZWt4elhZNDVTM0x5Zlo3QTFaQWctVGRWdS1pRUdvbzBHWVdIRl9qUEhYdHN0OEFqak13?oc=5",
-        "source": "MarketWatch",
-        "publishedAt": "2026-07-31T13:51:00.000Z",
+        "title": "Why Micron Stock Is Rising on What Apple's Tim Cook Didn't Say -- Barrons.com - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGRfeHVYeUlFU1lOV1F0WHVUakVuX0lYNnNjb3l4X3YzdGdlVFNIOGM3SjItUmU4VnNFeUNQeXJNLTdMMlltM0dsTENtX2RxTnRVTEt6NUNGN0JMTmFJeTNWWXdUN3IxYV95NlY4RnBVR3o3QzlnYmNQejFjdU9sdFdPVFNWZjRjbVNuRWNTR3FVZw?oc=5",
+        "source": "Moomoo",
+        "publishedAt": "2026-07-31T09:48:00.000Z",
         "summary": null
       }
     ]
