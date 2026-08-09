@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T21:28:19.364Z",
+  "generatedAt": "2026-08-09T01:38:09.875Z",
   "articles": {
     "INTC": [
       {
@@ -38,20 +38,6 @@
         "summary": null
       },
       {
-        "title": "The AI Trade Rotation: Money Is Moving Out of Chips and Into This - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOENwMEFRc295NzJpNmxuUWVqY3g5ZURrQU1NMFBlbkxaM3diNnliNF9TT2xMbnRvbFNzNXNlenZHQ19uQ21KUENmTDZJT3d5dk80MEJtYW43VVEyWTNpakhOaUpGYUJBSnQyZ2JtVk9QRW16X2JkdnprbmtWdkRtMUlZdGFFMnU2cnRwd0t5SHJ1V3Q2M21LQzJlb0hRMm9JUXFveWp4N1F6eElzVWMwa1Z6R1hlR1ZmaFhwTEZNU0FkZGlPU0JmZ1pZVXFkcU1jbjlvdnZCMXpLRVlVNEEwOTZYYVlsdw?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-08-08T08:23:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Intel Stock Fell 35% Last Month - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4eFhIeE1aRFlBVWp6Rzd6T2JTMjFmRVJzeXgwVWxncGNFbllLZXpOWmtsZy1vSEtnTl9VdEE4WkVVMGM0bGhvUkg2NXpldC1EU1pBZDNtd19xS201cGhNRFdfeEVhS3BxTG1RLWxHNjFlVm9VMHc?oc=5",
-        "source": "AOL.com",
-        "publishedAt": "2026-08-08T08:12:36.000Z",
-        "summary": null
-      },
-      {
         "title": "What Does Intel (INTC) Gain From Its Texas Chip Facility Joint Venture?",
         "url": "https://finance.yahoo.com/technology/ai/articles/does-intel-intc-gain-texas-021111723.html?.tsrc=rss",
         "source": "Yahoo Finance",
@@ -70,6 +56,20 @@
         "url": "https://www.barchart.com/story/news/3728869/intel-quashed-its-dividend-in-2024-now-the-stock-s-up-389-and-investors-want-it-back?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-07T23:00:02.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back. - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXNFTnN3a1RHN241Q2xKb1NoaG91T0Y2LWU2OVhyM1dOUzF3d0FxblVSdUJ6ZjRMMV9Va1FkbUtzTHFtczhXRllIS1RTZU1BTFRaalQ4LW1DTENfTGFzRktsdHJEbnZxdU9vbkpiRkU1YzR0VnZaQXlfN0dWT0lvTzRzZ0l1V2E1V1VPVEsxVWo1ZENFNlpfZzY5OG5Gc3kzc0J0bEgwbDRCT1FSSUQ2T096dFNKam1LMWRmUEpBRTlESG5ZeFo4?oc=5",
+        "source": "Barchart.com",
+        "publishedAt": "2026-08-07T23:00:02.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (NASDAQ:INTC) Shares Up 1.8% - Should You Buy? - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWx4aTBzZHVCSlozNm5aTDJONDdDdDgxLTBmNy1EMS1uTkZPWkx0cDJId0NBWE9hTVdHd0Q0OVBqVllPb2FSTmk1TkQ4ZEpCVndqcncxZGxmbHhlV3RVVTRjWm0wbHc4QW9pSFFpYVdZdEZSVnM3Z2tXdnJueU1UZ25qZXBmZkk1TC10NmJwNmJvNUZ0bk9tb05GdGstTzA?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-07T21:22:30.000Z",
         "summary": null
       }
     ],
@@ -154,13 +154,6 @@
         "summary": null
       },
       {
-        "title": "AAPL Stock Quote Price and Forecast - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-08-05T20:18:29.000Z",
-        "summary": null
-      },
-      {
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
         "source": "The Motley Fool",
@@ -203,17 +196,24 @@
         "summary": null
       },
       {
-        "title": "Apple stock price falls: 3 reasons why AAPL shares are down after a record-breaking quarter - Fast Company",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW5ZMl9mcnpHSG01MkVNMmI1RHlQVnRnWno3dktKRUNLcG5aVHliVzBScHNleGx4bDZqVFYzWTFLRFBGZDRTMHRlMDR0YnhKb29RUEFHZ1pQemVFTmVycmFEeXlOWW9uaUVZT29LRmh2RFZfR1VUZmY5ZXVycm16N1ZHeGd5TFJuMkg3NQ?oc=5",
-        "source": "Fast Company",
-        "publishedAt": "2026-07-31T13:52:46.000Z",
-        "summary": null
-      },
-      {
         "title": "Why Micron Stock Is Rising on What Apple's Tim Cook Didn't Say -- Barrons.com - Moomoo",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGRfeHVYeUlFU1lOV1F0WHVUakVuX0lYNnNjb3l4X3YzdGdlVFNIOGM3SjItUmU4VnNFeUNQeXJNLTdMMlltM0dsTENtX2RxTnRVTEt6NUNGN0JMTmFJeTNWWXdUN3IxYV95NlY4RnBVR3o3QzlnYmNQejFjdU9sdFdPVFNWZjRjbVNuRWNTR3FVZw?oc=5",
         "source": "Moomoo",
         "publishedAt": "2026-07-31T09:48:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple stock price falls: 3 reasons why AAPL shares are down after a record-breaking quarter - Fast Company",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW5ZMl9mcnpHSG01MkVNMmI1RHlQVnRnWno3dktKRUNLcG5aVHliVzBScHNleGx4bDZqVFYzWTFLRFBGZDRTMHRlMDR0YnhKb29RUEFHZ1pQemVFTmVycmFEeXlOWW9uaUVZT29LRmh2RFZfR1VUZmY5ZXVycm16N1ZHeGd5TFJuMkg3NQ?oc=5",
+        "source": "Fast Company",
+        "publishedAt": "2026-07-31T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhXYzFzVVpTR0x1YnZGRTJ5ZnRMNzdEbnM5Z3JLc1h1enl5Vi1salJrNnZfcXllekRtMUlxeG1vWlo0OGRHT2Y5bmwtM0g5OVR0czZZdUh6SnhWZnQyWTZEZEpiNGFacHFRdDN6UlE5U01lQlZTWEpRZlhvYzN3MTBFbC11eFpIZWUxQjlkMHZVTWpBUzBtU1pIVlRoQ1FsZWt4elhZNDVTM0x5Zlo3QTFaQWctVGRWdS1pRUdvbzBHWVdIRl9qUEhYdHN0OEFqak13?oc=5",
+        "source": "MarketWatch",
+        "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       }
     ]
