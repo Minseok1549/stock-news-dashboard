@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-09T04:16:24.842Z",
+  "generatedAt": "2026-08-09T06:53:47.141Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Foundry Lands a Major New Client Worth Watching",
+        "url": "https://www.fool.com/investing/2026/08/09/intel-foundry-lands-a-major-new-client-worth-watch/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-09T06:30:00.000Z",
+        "summary": null
+      },
       {
         "title": "Is AMD Stock a Buy on the Dip as AI Revenue Surges? - The Globe and Mail",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdWIycm5MX05Uc29zUkdfV2xJUGZiRmtlSVhUQ0lvYkM4VUlINTg1TG91blZiczZHS3Y5Ny1GdENtODIybkZzaExpU3EtN1MtUzRXSG1RdG9IT3JLU0c5eC1rTUNfMlFQbTlNc0tOaU1IMkRqZnEyc0F2S2J1aVFhV3Zua0VaU1hid2NVVDc2U1NwWHNrNDFEeGNqVUtHWDJqU0pzc2JxZWxYMmtsM2RCX281TUN4TWVQNVdHZDQ2a3doZ1FRbmluaUxSM2w0WUZQ?oc=5",
@@ -59,17 +66,10 @@
         "summary": null
       },
       {
-        "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back. - barchart.com",
+        "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back. - Barchart.com",
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXNFTnN3a1RHN241Q2xKb1NoaG91T0Y2LWU2OVhyM1dOUzF3d0FxblVSdUJ6ZjRMMV9Va1FkbUtzTHFtczhXRllIS1RTZU1BTFRaalQ4LW1DTENfTGFzRktsdHJEbnZxdU9vbkpiRkU1YzR0VnZaQXlfN0dWT0lvTzRzZ0l1V2E1V1VPVEsxVWo1ZENFNlpfZzY5OG5Gc3kzc0J0bEgwbDRCT1FSSUQ2T096dFNKam1LMWRmUEpBRTlESG5ZeFo4?oc=5",
-        "source": "barchart.com",
+        "source": "Barchart.com",
         "publishedAt": "2026-08-07T23:00:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) Shares Up 1.8% - Should You Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWx4aTBzZHVCSlozNm5aTDJONDdDdDgxLTBmNy1EMS1uTkZPWkx0cDJId0NBWE9hTVdHd0Q0OVBqVllPb2FSTmk1TkQ4ZEpCVndqcncxZGxmbHhlV3RVVTRjWm0wbHc4QW9pSFFpYVdZdEZSVnM3Z2tXdnJueU1UZ25qZXBmZkk1TC10NmJwNmJvNUZ0bk9tb05GdGstTzA?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-07T21:22:30.000Z",
         "summary": null
       }
     ],
@@ -96,9 +96,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - infostockdaily.co.kr",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
-        "source": "인포스탁데일리",
+        "source": "infostockdaily.co.kr",
         "publishedAt": "2026-08-03T07:32:58.000Z",
         "summary": null
       },
@@ -118,9 +118,9 @@
       },
       {
         "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONjc5Vmp1UDR5V2ZMQlFZVXNEMWRhNUFXSUw1Z01IaWp2RVlsZElrQkEyZ09UUzQtR1NGODdIOVMxVjhVX18tMVItaThhU1ktOWtZODBidlhVQ3NTT2VPcUVtaEhzNTBCdU8zeDVQZ252S0ZQd05SSEx2SGRDMTdURGNjaU51OW41RnR5cTNmVW5yRlZHajJN?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVU9TZzJpdjE5QW50ck02WDNZSUU5Y19SbTNOOGZTeEtWclNOeDJ5RzAzZ3dOc01SQnh2c2F5WmkteTVnV3pVSGE1YkFucWxUNDlVcTJ5NUN3T0h0NERYdTFFVW9KbFdMUWZxajI2eFBnNlA5ZmwxVXpPcnFuRFpmRFlua01FdG9VaTcycDdYemJ2T3NKUHM0?oc=5",
         "source": "매일경제 마켓",
-        "publishedAt": "2026-07-14T02:15:49.000Z",
+        "publishedAt": "2026-07-13T15:08:39.000Z",
         "summary": null
       },
       {
@@ -146,13 +146,6 @@
       }
     ],
     "APPL": [
-      {
-        "title": "MU, SNDK, WDC, SKHY Stock Jump After-Hours — Memory Chipmakers Soar After Amazon, Apple Management Flag Soaring Costs, Supply Crunch - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZjlaZEl3bE1qZWExVXIzN3BhdEhkT1prYnk4c3Y0TktkVjJZQ3FfRGE3aVhVVjhKbFk3dGlsYnNmd3NJbGNpNnU2VkJybEx0dFRybWFmU05HRWNfbi16OWNIcDdneENNWHlkQTdEaXVRcEExM1NOalBEN0tvZERlZlAyT3YwSTJwZngtN0FGNUgxbHVwNUhaR0Q4dXFkbmJzYjlJWk1TMjA3MzhhbHFCV2ZZZWwwVVQ3WndhQ2FGUnB1RFk0NmJfQ2hQTml2c0pubTdtVXFRRGJGZVBpMTRHTzJDdw?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-08-07T02:09:01.000Z",
-        "summary": null
-      },
       {
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
@@ -213,6 +206,13 @@
         "title": "Apple heads for $460 billion wipeout with its stock seeing worst post-earnings drop in 13 years - MarketWatch",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOGhXYzFzVVpTR0x1YnZGRTJ5ZnRMNzdEbnM5Z3JLc1h1enl5Vi1salJrNnZfcXllekRtMUlxeG1vWlo0OGRHT2Y5bmwtM0g5OVR0czZZdUh6SnhWZnQyWTZEZEpiNGFacHFRdDN6UlE5U01lQlZTWEpRZlhvYzN3MTBFbC11eFpIZWUxQjlkMHZVTWpBUzBtU1pIVlRoQ1FsZWt4elhZNDVTM0x5Zlo3QTFaQWctVGRWdS1pRUdvbzBHWVdIRl9qUEhYdHN0OEFqak13?oc=5",
         "source": "MarketWatch",
+        "publishedAt": "2026-07-31T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple set to lose nearly $500 billion in value after weak forecast - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZi0ya0lkQWtBRjNSR0o0YkFvMnVrZUx6N3EzRHBnTEtva0gtc2RwajIxM0ZXY2hLN2h1eUl3THBILVBrbTNrNHRDVmpLUmxBWWtQeUNuTURRa2xMZXktdG55Ymd3YzZmR296U3lTLVFSZjQ3eS01QzFwZExkVDN5Mk9PWjROR3hDZlRja0YxNGM2Tm5MUE9CRjNYWUtuR19RQUxPc0FoZEdaVGsyQUtiQmdqQmFGUmhqV0l0SXZqUzRoRHhzckpv?oc=5",
+        "source": "Reuters",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       }
