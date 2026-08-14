@@ -1,19 +1,54 @@
 {
-  "generatedAt": "2026-08-14T15:50:12.685Z",
+  "generatedAt": "2026-08-14T18:51:40.123Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird’s $1,250 Call",
+        "url": "https://247wallst.com/investing/2026/08/14/broadcom-sinks-6-as-bofa-flags-370b-in-ai-debt-amd-climbs-4-on-bairds-1250-call/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-14T18:07:38.000Z",
+        "summary": null
+      },
+      {
+        "title": "1 Semiconductor Stock on Our Buy List and 2 We Brush Off",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/1-semiconductor-stock-buy-list-180500555.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-14T18:05:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/spacex%2C-sandisk%2C-micron%2C.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-14T18:02:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Marvell's Year Was Made In Interconnect, Not Yet In Custom Silicon",
+        "url": "https://www.trefis.com/articles/611551/marvells-year-was-made-in-interconnect-not-yet-in-custom-silicon/2026-08-14?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-14T17:41:38.000Z",
+        "summary": null
+      },
+      {
+        "title": "Veteran Bank Gives Intel Foundry a Major Vote of Confidence",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-focus-23-billion-161053832.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-14T16:10:53.000Z",
+        "summary": null
+      },
+      {
+        "title": "Donald Trump Is 'the Most Powerful Socialist in the Country Today,' Former Obama Economic Advisor Says",
+        "url": "https://finance.yahoo.com/economy/policy/articles/donald-trump-most-powerful-socialist-154604027.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-14T15:46:04.000Z",
+        "summary": null
+      },
       {
         "title": "Why one analyst says investors should be cautious on the memory stock rally",
         "url": "https://finance.yahoo.com/video/why-one-analyst-says-investors-153000940.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-14T15:30:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Sandisk, Micron, Workday, Reddit, Applied Materials, SpaceX, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/82f07888-be7d-3f5c-a0bb-93ad17632414/sandisk%2C-micron%2C-workday%2C.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T14:17:00.000Z",
         "summary": null
       },
       {
@@ -35,41 +70,6 @@
         "url": "https://finance.yahoo.com/technology/articles/strong-leap-demand-help-ase-132600307.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-14T13:26:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Could Intel return to the red-hot memory market after $20B raise and recent hire?",
-        "url": "https://finance.yahoo.com/technology/articles/could-intel-return-red-hot-125725820.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T12:57:25.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD’s Massive Upside: Why One Analyst Sees 160% Price Appreciation Ahead Following a Tough Month",
-        "url": "https://247wallst.com/investing/2026/08/14/amds-massive-upside-why-one-analyst-sees-160-price-appreciation-ahead-following-a-tough-month/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T12:29:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Rockwell Automation’s (ROK) Strength Lies in Operations",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-rok-strength-lies-122346310.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T12:23:46.000Z",
-        "summary": null
-      },
-      {
-        "title": "Energy Transfer (ET) Positions to Capitalize on the AI Power Surge",
-        "url": "https://finance.yahoo.com/energy/articles/energy-transfer-et-positions-capitalize-122126224.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T12:21:26.000Z",
-        "summary": null
-      },
-      {
-        "title": "Strong Buy Case for Abbott Laboratories (ABT)",
-        "url": "https://finance.yahoo.com/healthcare/articles/strong-buy-case-abbott-laboratories-121938364.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T12:19:38.000Z",
         "summary": null
       }
     ],
@@ -147,9 +147,9 @@
     ],
     "APPL": [
       {
-        "title": "Apple Dropped by 5% After Earnings. History Says This May Happen Next - fool.com",
+        "title": "Apple Dropped by 5% After Earnings. History Says This May Happen Next - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1k1cTc0MVBiT0h4d051aWotOEd2RVpBcUVYaEVxeE1rRVRiMzRqTG1iZlJJZXRucUJERGVYMVZIQkhVZ1NySWdpcXljZHFKd2tNbERKUVotOWJnN25kTkRzbTVfS0ZPckFleVprekdTS08zZkxIWWE5NmVpZ1NOZHY0WHBXSGhQVS1HRUppQlllMHQ0N0xFQg?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-13T11:30:00.000Z",
         "summary": null
       },
@@ -161,9 +161,9 @@
         "summary": null
       },
       {
-        "title": "Trading expert sets date when Apple stock will crash to $245 - finbold.com",
+        "title": "Trading expert sets date when Apple stock will crash to $245 - Finbold",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGNaT3BOVksyOXl4Yk9yenV6cExGLTNqVUppOHhqcW9CdnY4dDNJUmRkRXk2VWZHR1hqOVg4ZWpwOHNBVXJiUWU2bEdCMk8tdkNDU0Q3NHlac3Z1NGJOdDUxS2hsYUdOQlZLN0Y0VXJHSnc4aXdnMFRiellDYTNPNUlVNjZscjg?oc=5",
-        "source": "finbold.com",
+        "source": "Finbold",
         "publishedAt": "2026-08-12T12:31:39.000Z",
         "summary": null
       },
@@ -189,16 +189,16 @@
         "summary": null
       },
       {
-        "title": "Apple CEO Tim Cook Just Passed His Successor a Mess - fool.com",
+        "title": "Apple CEO Tim Cook Just Passed His Successor a Mess - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRS1za1loZFBiVlhtTnV6Y3A2ZlA3YTNOTjRoSFc0SGtKLTZJVlJvNXh2UkNVUEF2YnBuQ0doV1RIdl9FYTR1cGZvQThDRGE2TFBpUzBKdXhfZm1sb1oyZXFQZ2hxYmlFcTgwdkhNWlZDRTJGZm1uNU8tMm92UzFBQ2hFSjVjYm9SOVVMcHZFWG0zUnlRUTUzYw?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-09T23:00:00.000Z",
         "summary": null
       },
       {
-        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - fool.com",
+        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-04T07:00:00.000Z",
         "summary": null
       },
