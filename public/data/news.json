@@ -1,7 +1,42 @@
 {
-  "generatedAt": "2026-08-15T06:35:00.482Z",
+  "generatedAt": "2026-08-15T09:24:06.113Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Shares Dip 2%, Remain 7.9% Above $95 Share Sale Level - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3puSS1PUmptLUpkYmdxRHZ1RnpzMVZPTWJqVWNDVlFocW04dk5rWHQ3Nm54Y0hwcFA0WWpsRDRMR0xaOWFtMUNWZ1k1S0lVMjBTemo2TnNsWkowbU5NSTlDeUxvVEkzWDlkNDdUUmlmR29wOU1Hb0ZCRWJpT0N0TW1WM01BbXVSX055Mg?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-08-15T09:17:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Florida Trust Wealth Management Co Reduces Stock Position in Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZ3lyaU1zLXdfTkpKSVRfTW1CUU83TEg4aUZYYTlBWU9UVHFfbVRJZWxyd3Bhc2FESHEzYkpLeXdlNFcwcFhueGJ1alBUOHlYSGlNdFhLTVNIV2tPVXMxbTU1V2NrODBDd25kYjBwMDh0UWpEMWZ0NzhjWExYd21LbUhfdW1GT1JoQzdaRmRleTlMT0lTMUhjS1dYREVFaWNRQ3dmeEpKN1libjBNaFZPUnc3ZUNLSHBjcFBCTmw4ZnYtel90ZmVNQXdSYlJOeTBGTXZoNTFueTBOU3I1?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-15T08:58:12.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Shares Acquired by Erste Asset Management GmbH - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXBPOTk4N0VBLVJNT1lTcnpweDJKQVdKOGFwZ3F4Tm43OFVJVzRMR0x6aUc0NFUwMXNTcGotdDUtMUFYcGNLbkUteUk1MmRteWJlZjlYcWR0a08xek1FN2RZUzRZeWVTeWplSDhkOTNrSEoxTTFicFJ3TmtaQ0hLNzZPeXZ1aFgzQ1dObmg4VDVUdnhTM2hIWWw3aXRDa3ROMzJPSXotdmNVNXprWDk5QWc3X2dEYVg2R0JPcmZYc2ZKZHMzczhyOTdn?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-15T08:14:35.000Z",
+        "summary": null
+      },
+      {
+        "title": "Asset Management One Co. Ltd. Acquires 79,682 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXJkdndSOUZ2dzVzc3hTMDVjZ0pITExnd1d1eEEtUF9rMTZ4N0wzVDMwQm1OcjA1ZWxBUGJCRG04TlhFNWpQM0hicGJxXzB6ajZyeEtkSnJzR0V2dXFqNGpaZTl3QUI0N3JsNmpYblVUUFdQT3hfMEFBaXZHQjlscFZJdDRvWHdBVGx6cWNoaFFqcnd1ei14WmtLak1mbTI0SllLZkFzN3ZlSzA4RVZNby1iQVZaVmVYRVRaVXhfdllYM1pXa0wwTFphVGh4VTdvTXc?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-15T07:23:31.000Z",
+        "summary": null
+      },
+      {
+        "title": "Key facts: Intel (INTC) Raises ~$20B; Nvidia Holds ~214.8M Shares - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVEZSOFgzb0NmRThIMW1uNzZSVk1GSERuYTFtMHpEWFJyNHA4ejAzQmtUT3Z5M3l1WGdiMlI2Tm1JNXQ5QTdKM0oxbTNRUm1CLTVGdWV3QkFjTkVCNzJFTko1ajJhb05YRnJmUndsWFQ5LTl6VWxKenlKb1lkODI5cDFEcXJTZVFlcVhvVlVTakVJa3JWdGc1N1lvaU51V0RDV3JoUnk4akJselBsV244ZWhTZFFQMTVjaHVXbg?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-08-15T07:13:54.000Z",
+        "summary": null
+      },
       {
         "title": "NVDA Discloses $21B Stake In SpaceX — Elon Musk’s Rocket Firm Becomes Nvidia’s No. 2 Holding",
         "url": "https://stocktwits.com/news-articles/markets/equity/nvda-discloses-21-billion-stake-in-spacex-elon-musks-rocket-firm-becomes-nvidias-no-2-holding/cZotyxyRJKP?.tsrc=rss",
@@ -36,41 +71,6 @@
         "source": "MarketBeat",
         "publishedAt": "2026-08-14T21:31:56.000Z",
         "summary": null
-      },
-      {
-        "title": "Insider Buying: Intel (NASDAQ:INTC) CEO Purchases 105,263 Shares of Stock - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZDA3cmNKQ0N6a0tEU1BLZWdibnZZVU01SVE0WGRGaWRUbER6bXZjYnhVMGptV21FRTA5R1NaUGswS2N3MHE2S1IxZEVUbmEtOTlTbW9ZNG5wMTBneklYcVFIc2Z5WUd3Zno2RzN2UEVkMFJJbmZma0pQUkVXRmFuSHM4R2k3a2V6RUtDZDJRZ0QweTFKYUlXT1Z6eHIwTjJWVFA4dlg1c0lIYldodlAyeGNmZ0NrNTJMeXZXV1FkMA?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-14T21:14:03.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corp (INTC) CEO Tan Lip Bu acquires 105,263 shares in Family Trust - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRG9vUnJtVEVKZ2ZKaFUyNXNzcE85R0syeVJPbHYwX1EtUG9GQkNTcDNOZk96VGhLclRtVDRLMEZqby00Zi02OEZ0eHNaUEhtdUZlWXcxTExibVJ0U09xaWRsRDNoeFB3RFU5YmZxNER2WHlvR1RtLTZDdjNnMFhwSkswWXZIaE4xTmJDbDhXNG05bHlUcVhpRGczMEF5WEg5TTZpcmJ0SQ?oc=5",
-        "source": "Stock Titan",
-        "publishedAt": "2026-08-14T20:31:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "QCOM: A Cash Gusher At A Marked-Down Price",
-        "url": "https://www.trefis.com/articles/611499/qcom-a-cash-gusher-at-a-marked-down-price-2/2026-08-14?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T20:25:37.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Banks $150M Paper Gain As Joby And Mobileye Rally In Q2 - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZVNKbmU1VlRTYVdUcExFLTRvdXhPLWJ5MkJyUFVMT3RMMlFvWjI5ejFPVjBfVFlET0p3RG04enRyd09pMHdpLWFZME94OXFoNHdFdFBJbXNMekRhR3pfcGstVmRWMTBEcHViMDdBaWxSLVRPNHhNUlZLYkRlcE1xM1BoS1NIWmpQUk9zQy1oUm5Fd1BOUWkyQkpGQnF5YUltUDAwS0tEYnJ0c2hkNVg5ZWFGalpxTTU4V3JyU3ZVc3MtazFJeXdkVnhHNA?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-08-14T19:58:14.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Banks $150M Paper Gain As Joby And Mobileye Rally In Q2",
-        "url": "https://stocktwits.com/news-articles/markets/equity/intel-banks-150-million-paper-gain-as-joby-and-mobileye-rally-in-q2/cZotsZFRJKG?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-14T19:52:56.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -103,16 +103,16 @@
         "summary": null
       },
       {
-        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - infostockdaily.co.kr",
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
-        "source": "infostockdaily.co.kr",
+        "source": "인포스탁데일리",
         "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - 네이버 프리미엄콘텐츠",
+        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - contents.premium.naver.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
+        "source": "contents.premium.naver.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
@@ -154,9 +154,9 @@
         "summary": null
       },
       {
-        "title": "Why I Sold AAPL Stock To Buy Tesla Stock | TSLA | Stocks To Buy Now Storm Vs Sun (P5drniZwI4) - Mshale",
+        "title": "Why I Sold AAPL Stock To Buy Tesla Stock | TSLA | Stocks To Buy Now Storm Vs Sun (P5drniZwI4) - mshale.com",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lTXBnQ2lrb3hYNEZwZm54eWx6UHBxRmV5VEFHSEczYW00Qm9wQ0gxUVpzYnZENGt1Rnp0d0NRTG01UmxlVUtHUGh4eFFEVWUtajB6UkJiZHdHVzg?oc=5",
-        "source": "Mshale",
+        "source": "mshale.com",
         "publishedAt": "2026-08-13T08:08:00.000Z",
         "summary": null
       },
@@ -168,16 +168,16 @@
         "summary": null
       },
       {
-        "title": "​Apple Stock Analysis: The Road To $4 Trillion Starts NOW! AAPL STOCK PODCAST TODAY PRICE ANALYSIS Connections Hints Today (fglPiZ39Mm) - Mshale",
+        "title": "​Apple Stock Analysis: The Road To $4 Trillion Starts NOW! AAPL STOCK PODCAST TODAY PRICE ANALYSIS Connections Hints Today (fglPiZ39Mm) - mshale.com",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aZE1kLUIwVUZwaFJWRGh6SjRreHpoSGRPN1hfWHBtUWs1OVRTSC11ZjJlVlYtZG5KcWtMNjRmekE2Q3AtcjdXLU8zRmF4LXA0a0czVFAtVG5FTUZjYXdrTQ?oc=5",
-        "source": "Mshale",
+        "source": "mshale.com",
         "publishedAt": "2026-08-12T10:15:13.000Z",
         "summary": null
       },
       {
-        "title": "INSANE APPLE STOCK NUMBERS | AAPL STOCK ANALYSIS | STOCKS TO BUY NOW? Santos Fc (iqXg55swvq) - Mshale",
+        "title": "INSANE APPLE STOCK NUMBERS | AAPL STOCK ANALYSIS | STOCKS TO BUY NOW? Santos Fc (iqXg55swvq) - mshale.com",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUN0Z1Zmd5ckFoeGR5a21XajhVUFhQLVdWY3ViUFpoejZCVDFEUDZZUDlNVEY5U1FDUWw4TDdTdU1NTDNUakppTVQ3NTdTS08zYW1meFFzT2JSeWc?oc=5",
-        "source": "Mshale",
+        "source": "mshale.com",
         "publishedAt": "2026-08-11T06:15:46.000Z",
         "summary": null
       },
