@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T03:46:20.405Z",
+  "generatedAt": "2026-08-16T06:36:57.704Z",
   "articles": {
     "INTC": [
       {
@@ -103,9 +103,9 @@
         "summary": null
       },
       {
-        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - 네이버 프리미엄콘텐츠",
+        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - contents.premium.naver.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
+        "source": "contents.premium.naver.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
@@ -146,6 +146,13 @@
       }
     ],
     "APPL": [
+      {
+        "title": "How to Buy Apple Stock (AAPL): Everything You Need to Know - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUnl3Tmx0MXR0emNtcDhoVFZjX1ZoNVlhbGN2VkM0Z0tnZmVBUmgxVG1uT2p6azdHOTNFekFMblREWm5XQm5sVmhaOGxrck9zMTNlVmJBMnVVXzNTUlFnZDI2NDQ1ZkRjQTJCSUh6T0NPSnN4dWdYbzg2N3BuRWhIZkdMM0N5VUtoMzU2enB2NDF4azhmcFcySUR6ZzNmZlZ5QjRtdWtrYnFIdGZmTWo5amRESDJZWEdZTDVCT2htUGZBdHhoNWNQV0tUTkozUkhGa2J3aEVFbnlZOVRqa3hObV9aWWhvSm5EeENyT1dHQ2RyNzBlUzVuM0ZLSVYwYmNYTEZJUnVocFVoQ0JWNGhzTFo0cXF1UGo1cWlrVm4zRQ?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-08-16T01:26:38.000Z",
+        "summary": null
+      },
       {
         "title": "AAPL Stock Quote Price and Forecast - CNN",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlJjYjlSLWs4WE5jV0VydW5CRjNZb3RBa0wzaEpLYmhqRVNybG1JVjAyQV9oWWhuOHZWYlMxRnRsYmFiTkZkbkZ6RnFoX3l0OWNMTXd4UHpjZU5CSWFUM2syTkJOdHY1aWJPRWVjRmYtcWdXQVJkZVU0UGk5eGxjWXZ5cHNxbTF4enluN0VjWjRFZw?oc=5",
         "source": "Seeking Alpha",
         "publishedAt": "2026-08-04T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-02T07:00:00.000Z",
         "summary": null
       }
     ]
