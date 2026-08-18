@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-08-18T09:30:55.464Z",
+  "generatedAt": "2026-08-18T12:41:42.517Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Why Intel, Marvell Stocks Are Dropping After Chip Stocks Enter New Bull Market - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONlR0c0ZHZUFxd0pPRTRPRFJYYjBjOGhUMC11MldvQWRYTUNqeGdYVWVLQThiRGtxSEI4QUVHOVp6aUpJa1BmMFYtZjE3VUtlb3E5dTF0VzdhWkRtRm1mQzhRQmZFOElfZHdCTjhkX1pSNmZaRVNqd044VzQ5dzhNaF9Hbk41UQ?oc=5",
+        "source": "Barron's",
+        "publishedAt": "2026-08-18T12:24:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "SoftBank put two-thirds of its U.S. stock portfolio into Intel, SEC filing shows - qz.com",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PMEFHOTB2Zkk4SlNVZFdxWGNmTE8xcTY5dWUyeks5Sl9WZkVPZmJ1dldPUC1EaUxmT1NmenE3amI0Wmd2S0liR09aaEc0QS0wREs0UGNPU0ZxN0dCaTQ5bQ?oc=5",
+        "source": "qz.com",
+        "publishedAt": "2026-08-18T12:16:22.000Z",
+        "summary": null
+      },
+      {
+        "title": "SoftBank Group put 67% of U.S. portfolio into Intel stock",
+        "url": "https://qz.com/softbank-intel-13f-sec-filing-081826?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T12:15:39.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Falls 4% Premarket as SoftBank’s 67% Weight Came Without New Buying - ts2.tech",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2lTQVY3U2lqUmpta29lZ3U3cWtYeE1ZRDRjLUtkTlFFWnYwR0stWlVSbDdEaU5ORHRfbWRnNnU1dlVxNEZrWnBxVlNpWmlTcHdCcmt3ejAzS1BzZHZ5RVpldUhLYk9WX005Z2xIaXUweXRITllucWFvZ3FQYWdKOElyX2xvbTVUdk4wOXhqQ0pPMVRvd1FlMnp5R0czdw?oc=5",
+        "source": "ts2.tech",
+        "publishedAt": "2026-08-18T11:52:55.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Steadies After Aggressive $20B Share Offering - timothysykes.com",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBWDVJUVZSSzlnYXJVTFlQWWtJdnd0WUhPZi04VDByenU0b3pHOU9SVmY4akE1RkpINEZaeTBOZ0dGZkJITzBfUTdIUVJla1ZLY1FsM1N6WkVONWp5dUpfR1pHUUlidGcybGtMd0x2ODREMU1kcWZQa3VrTWFHZw?oc=5",
+        "source": "timothysykes.com",
+        "publishedAt": "2026-08-18T11:48:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meet the Vanguard ETF That's Crushing the S&P 500 and Nasdaq-100 Despite Not Owning Micron, Sandisk, or Any of the \"Magnificent Seven\" Stocks",
+        "url": "https://www.fool.com/investing/2026/08/18/meet-the-vanguard-etf-thats-crushing-the-sp-500-an/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T11:10:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "The Surprising Chip Stock That Led the Sector Into Its New Bull Run",
+        "url": "https://finance.yahoo.com/m/e95a9aa7-8311-3561-bab6-4bda8c823839/the-surprising-chip-stock.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T10:31:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Monster insider trading alert for Intel stock - Finbold",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tUVZzVU5SVm1ETGNKOUxSZ1ZrRy1Tc0J2WWJtWFBCS2FjYWtfUkV1c2JjX3lBWHZJNTFEekduaUI1ZXJYRFExVUV5UXFGRzN6b1Q1LVhLaklxRHVWLWxfZ2E2c3RxMTNHYmE2YkFtdmVuRjE4?oc=5",
+        "source": "Finbold",
+        "publishedAt": "2026-08-18T10:00:04.000Z",
+        "summary": null
+      },
       {
         "title": "Sumitomo Mitsui Trust Group Inc. Sells 542,006 Shares of Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOazVnWktpaDBzWVRPNnBZakZWN19CNnU3WXpBZE1PWVByWkktT1NRclVEWjlWM3ZIQmdmWXNYUlNEUDl4TnhpS2theHVUa3NzdFdvU1BJV1FUcnVPYVBYc0ZqUWtGYUpQNldieG1yWmtqSXFXbGd3NmRTZEctR1c2WDkwZkhmcFZSY20wNG5DU1hGVTQxUEI3cUV0eWlCbnY4TjJ2RFpuczJpbV9ySzdJeWJ3ZTAzVzY3UTFnX0NDQnF2bW9Ub0hXMmZlMThVVkV4cGNNTg?oc=5",
@@ -14,62 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUNoeDVZQUhieldHb3k1bG0yUG51Y1ZJM0xJanlsUFVwYzBpSmFoM3VXbGsxN0Z1dFFXakI4YlB2VFE1RVpBZVdhZ25uNVltX0VkWGZRZ1lZTnlpcjJvMndHaHJHZFFVOWpFMERuaXJ1cWwzZElPcllQQkxIQm5iOWxMWXBmU0gtc1ZUVVdDSXhBc3NEck5hLXp2MjJ6QUZZZzBQQUxpbnpiOVJQb0gwRFFrZllXdUxOV2U1a2NyUGhSaFVNeGxn?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-08-18T08:04:14.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Acquired by Chicago Partners Investment Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMC15YzMtNXRwb2hIMFIxUUF3V0VPeldwRTlUOVBudlkzbmFWeVhEeDhadk9HbWZUdVNPbzNsWFQ5WExmeUVRN2dpN2g3eG9EcmxlcmlYM0JidmlVeFNJOWFnVFJXakFzSDFlZm9jMHhMNkRoWlVKSkhyeEtPNVJaRWltb2o4SUVtSXIyQ1dneklHcWE4MVhVZXFYb2M0Nl9adG9qT1c4YTFrcHlUeDdFOWVweEF0MFFnbDg3NHA5U28yRkdoM1M5S0Z4MlJLcVcyU3BSWkVNcw?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-18T08:04:14.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Stock Position Raised by Ethic Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjdFZUtlSGVLaGZ5R0ZkNFNVZk5YNVNFTU1XNmNnU05VTGUyRnZJa3VDWkdkWUt2SnFodTZYZjlVajVjVmpkUUlTRmFONDY0bXlTbGZ3Q3kwRXpaN004bjhTZEktNmhWX0RoMDN3TEl4dGRnTEc0aEpQMVZ2b2p6MDVYeXUzN0hNZ3JZdS1nWWI3SUdoY1FhendCNW1PWWxTTU1STFF0SFhVbjNKSkdKdDVRYThMXzJSVWc?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-18T08:04:13.000Z",
-        "summary": null
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others - Zacks Investment Research",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEVDTWpXZ1Z4Z0ZBRVF5MzctdEdQbnkxeHE2SDZBZ2lWd2owY0RHTEVIakpCU0k1ZUxiNjR2LVNhUGJ1ekN3OHJrNF85WEZIcXYtaEVHWUFza2k1amlzOEpIQTRZdlRBNl9UUlBrSlI1b09oTDZ2QjFuX3kta3hTTmJoY1NnUzhzX040YTRNcDB1MkhNRVdQblNTNmFabHJhV3RrVm5EZ0ZKT0xKM1otNjRyLU8?oc=5",
-        "source": "Zacks Investment Research",
-        "publishedAt": "2026-08-18T08:02:03.000Z",
-        "summary": null
-      },
-      {
-        "title": "Assetmark Inc. Increases Stock Holdings in Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWxueTg0YkdqcllfY1hpYndUbVRTZFpUQ1lnYTQyVWRLRkhiQlNIanNLX2c0RXYwMkw4TkNaYmk2c2RkMVdNcGY5S1loZVZOZlM2TXV6bXRoRHVvVWRhNkdYY3hJa2ZsZXlyTERDaDdWSjNLWl9wcVBzc2R2MHByNVFhVHhSbnRheHpFZWRkYlVDTy1fNDRIaDVqdHdaeEZnOGhJM180SnZTQ2ZSUXpiVEVrTzZtdGJCY1Y5dGlseHlGUVk?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-18T07:43:55.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Pushes Deeper Into AI Data Centers With Co Packaged Optics - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOENIaEZQcjJmWnBrU2tZenlJQ0FmeU1ralIyNkhHb2l2VUdiU3k3U2R2RWxJdFhGWXpxSTB6eFkxaXZpaklEU2NWWkpITDBKdWZlMnNhWG5IRWtNdWtmQUJGbGxqODNvY0I1ellNOXVqU05ldFROVFh0UFBzTXl4Q0RBclhIaFFsOTlCN20yRW9DajZVZzNoaS00ZXR5Y251RHlKVkN6QnlsN09KZTRhUW1RZGNjRmh4NURRamJQSkVQSGRWSWFpNjVn0gHPAUFVX3lxTE0tZkpBcEJUUFIxeXlfRGpZdF9EUm8yR0hvTEppclhMV3R6LW15eG0yYTRSeUkwYkpmU2RJdXhhc3RFS1l3TkpjUHRsclJreVJRbXc5UTYwM012ZFVPbWV6LXRLV2JPT0pNbm9maXZJSUNTNGlEVWlhVm9yaGc2a2h6SS1GcUVkQ2RCb1hTVzNneGpxM1pzaVlyMm9WNDdTWkZVU2p5TzdnM3Q5VVRtU25MQTFUaUhSOG1YSklDcDRRV0hIZGs2c3hLV0NUVVNoUQ?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-18T07:39:44.000Z",
-        "summary": null
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064700198.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T06:47:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T06:47:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Is Up 6.1% After $20 Billion Equity Raise To Fund AI Build-Out - What's Changed",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-6-1-20-020946989.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T02:09:46.000Z",
         "summary": null
       }
     ],
