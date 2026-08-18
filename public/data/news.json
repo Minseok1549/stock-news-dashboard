@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-08-18T18:35:48.278Z",
+  "generatedAt": "2026-08-18T21:22:05.721Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Corporation to Participate in Upcoming Investor Conference",
+        "url": "https://finance.yahoo.com/technology/articles/intel-corporation-participate-upcoming-investor-203000270.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T20:30:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Micron, Coherent, SpaceX, Klarna, Amylyx, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/50aebea7-647e-3adc-9ba2-a10e96115411/micron%2C-coherent%2C-spacex%2C.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T20:27:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "INTC Stock Fails to Hold $100 as Intel Dilution Concerns and UBS Downgrade Pressure Shares - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFpPaG1FbDNkaWxkYVhYbXZYY1l4UkNIOGpkQm1XQXhVRjNkQzg4UkZZX3k5Z09GR1oyZjFJRVNfVXk5REZ5ekc5Wl9OT1BELWNJcUZaWkVNc2xVcG1xNkZRWkFqZVFnRXpfZ25qX0paUzlfU0Z1R0J1UmJOelBDX0pZbWoyUkhidi1mODBRTTU0b2VjekR4dGxZYWViYU43ckk1TDlvNVBvSDF6RGI1R1E1TXdXMU5pV1BQeG5hbFA1Z1NaemF6LUZfMzA?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-08-18T20:22:56.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia Reveals a $21 Billion Position in SpaceX. Here's How That Could Impact Its Earnings",
+        "url": "https://www.fool.com/investing/2026/08/18/nvidia-reveals-a-21-billion-position-in-spacex-her/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T20:06:01.000Z",
+        "summary": null
+      },
+      {
+        "title": "CEO Lip-Bu Tan Just Bought Another 105,000 Shares of Intel Stock - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOUU0cDRITFNFX1VvVEtxWDVyMl93TXF6V0xjXzhMQ3E0QW1tVGFrSFhZQUs5RTROMGlVS1p0S0sxVXJ1NFduWlo5aDYwYURRYnVrSFhla2J3RktXN21oTzA1ZUNhWk5LYmhnWmFSQ1JYTHRXSjNfVFNoSF9HNmFKUXl4VzZBVUJ1dy1Rd2djSk9zWWhCbjc3dV9kSXJMcU5vMndyYWZjb0NLQ3h4?oc=5",
+        "source": "Barchart.com",
+        "publishedAt": "2026-08-18T19:33:01.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock (NASDAQ:INTC) Plummets 7% After Snapdragon Testing - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZWYxOEo5YmhFZjB6SkdqUThoOFRFaFM3YUt2NlVTM0hLWG1ZMWFOcUk1Y1Flb0N3MU1lQ3FIeGlBamhMWGVNM3dmN1JlNzlDYTdtc0VRMkVBc3czUUU3UVBtVTVFcnQzUEtwaWRLY044WFZjQTRUT21Kd1pfVFpZLXFYN21LOTVqZGR5TTZITHhLUQ?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-08-18T19:12:24.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Has Plunged 32% — What Investors Need to Know Beyond Dilution - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY2o2bFdvVi1XRXVuMksxeUN2bC1TbGVnYU9EcXJqZmhpcmtfWHRRTGEwNlBZaXRXSmFKWTluWXc3Zm1jX0Q0NUNWcHFqZG1DSF8wZVJicUxrTm9rQnBqclF3eFhBRDZ5UU9nblZDOEtRT3ptNHkxcGhpdFZkSXMyQ24tdEEzYkY1WFY0NEhxTDZQSzF0NG0wcnU4by1JRGtUcTFwUk1tZHM0VzhLUTdMOUlTeE8?oc=5",
+        "source": "Barchart.com",
+        "publishedAt": "2026-08-18T19:12:04.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why Intel Stock Is Falling Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa2tGSXJjYlRfUWFxUER6eV9RZXl3X1VYRUk3emd5RHY0b1ByTmxKY3Q1bGl0NEJVWjl0aTVqbUdxQ1NVYkpYQ3ZNSWNBWlVLZzNjRE5RSGFTMTZjaEpQQUpEWi1RRHVBRE55WXB5LWJTQ0dVVVQ5aXBZZ2FEejM3ZQ?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-08-18T18:29:34.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Stock Plunges 7% as UBS Cuts Price Target to $112",
         "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-plunges-7-ubs-182632378.html?.tsrc=rss",
@@ -10,66 +66,10 @@
         "summary": null
       },
       {
-        "title": "Why Intel Stock Is Falling Today",
-        "url": "https://www.fool.com/investing/2026/08/18/why-intel-stock-is-falling-today/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T18:13:23.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Intel Stock Is Falling Today - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVk9wcHZnY1U5WjR3S0hES1dmdlU0Wm5QbEhRcVh2aVN2Q3ZXeXVONFJLVVNUbXc5QnJTZEpKVkIyYVdSNEFDRUI0QXBtaTJpX09iZ0ZLblNXdlFkQW5vNmRPM1N4LTVyTE1fdF92VUJuRzdlRHJtM2RUYlFxYmRacDJGcEp4YUFyckRoWGRRbFhaMGZoUEc3bFln?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T18:13:23.000Z",
-        "summary": null
-      },
-      {
-        "title": "Tech Stocks Slide With Bond Yields at Decade Highs",
-        "url": "https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T18:06:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Cerebras, Intel, and AMD Shares Fall Ahead of Tonight’s ‘Supernova’ Event",
-        "url": "https://247wallst.com/investing/2026/08/18/cerebras-intel-and-amd-shares-fall-ahead-of-tonights-supernova-event/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T17:56:07.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Intel, Marvell Stocks Are Dropping After Chip Stocks Enter New Bull Market - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONlR0c0ZHZUFxd0pPRTRPRFJYYjBjOGhUMC11MldvQWRYTUNqeGdYVWVLQThiRGtxSEI4QUVHOVp6aUpJa1BmMFYtZjE3VUtlb3E5dTF0VzdhWkRtRm1mQzhRQmZFOElfZHdCTjhkX1pSNmZaRVNqd044VzQ5dzhNaF9Hbk41UQ?oc=5",
-        "source": "Barron's",
-        "publishedAt": "2026-08-18T17:51:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "INTC Stock Fails to Hold $100 as Dilution Concerns and UBS Downgrade Pressure Shares - FXLeaders",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRGxFUDNEUVNIWVFBb1E3OWxaNzRualFYZFdJT1pnU3JzbmdNTFdnM2NqT2Y5RmMtcjNrcFJONGh4cjFmOHd2aVFEUTJKaVlQQ05MZktGZVIxSzVyZnBZakstTUx1NF85NFZSZzJjZXdUenNtdFhKRVZJTGtNaV90Sk9Kd0xGUG0tUDJScXRyWFJLMmVKYVVQcVpDbmljQ0c2U0lLQm5XNWhfUUI2VjNLNGRqZ0NWRURBV1lpXzBWUDVXdmxP?oc=5",
-        "source": "FXLeaders",
-        "publishedAt": "2026-08-18T17:42:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "The Gap Between MRVL Stock And Its Own Numbers",
-        "url": "https://www.trefis.com/articles/611834/the-gap-between-mrvl-stock-and-its-own-numbers/2026-08-18?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T16:41:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Micron, Coherent, SpaceX, Home Depot, Klarna, Amylyx, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/50aebea7-647e-3adc-9ba2-a10e96115411/micron%2C-coherent%2C-spacex%2C.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-18T16:19:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "VOO is down 0.6% today, on INTC stock price movement - Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOXFtODFlc0ktcDdYZG1US1hYOWVfYm1EbjZIQkNZSnFmSUpVSFB5RW1sRXgtc0ZoaFRPYkNDbjV4RkpLQ21IUURsZThnTXRxcTc1aWcyb0FWZ2lsYUFrY09wU053WlZ6bWZPVDZsM2tlcXdYZ2RCeWgxV21rWDVuZktBX29DZmxrbm9RYmJqTXpIMHM?oc=5",
-        "source": "Quiver Quantitative",
-        "publishedAt": "2026-08-18T16:15:00.000Z",
+        "title": "Intel Stock Plunges 7% as UBS Cuts Price Target to $112 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYy1EZDVGXzVINkhFUWVmYy1USTdaM0hDVW5qU3BfbXdPUlZyWV9CXzdfeVg5UGVVRXVlU2lpVHRRbzI5SWFJWVlyT0RHOXdwSzFMREJONktQbDYyYk5vUlpWS3lsMExhVGVVSzA4dWRfdnZpSG5hUldGUi14a2pjV3BiZGt5eFdqTnRyTHEwWlJpekNKMkJsOE13anZqSHhuOEdiQXRqNmxFV3BEUUZBbHlCRQ?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-08-18T18:26:32.000Z",
         "summary": null
       }
     ],
@@ -124,9 +124,9 @@
         "summary": null
       },
       {
-        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - contents.premium.naver.com",
+        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - 네이버 프리미엄콘텐츠",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
-        "source": "contents.premium.naver.com",
+        "source": "네이버 프리미엄콘텐츠",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
@@ -189,6 +189,13 @@
         "summary": null
       },
       {
+        "title": "Apple Stock Downgraded Ahead Of iPhone 18 Launch - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYS1PMVN3OUJDd1F3VWs0cHRGRm8tRDFaOVJHTkFzOFNUa25hc0JyMnM1QkJ5Y2hZQ2FXVkRYcFFCbHNpYVJTRGl3S3phQlpfUmhiRWEtN2F2NjIyMWFXWlNlUVhWTnJYQlJRYTdCMktkQjRzLXRQdU1CMzhWbUMzYnFYRDI0Z0JwWk04NFFIT1F0TXM?oc=5",
+        "source": "Investor's Business Daily",
+        "publishedAt": "2026-08-10T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
         "source": "The Motley Fool",
@@ -196,24 +203,17 @@
         "summary": null
       },
       {
-        "title": "The Post Earnings Dip For Meta, Amazon and Apple: Buy, Sell or Hold? - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0xDZTJtX2lYbm9PTFZJODdpOFlpSFFqRFQ1WXhtVEEtVV9LVkMxU0dWSXZsQjhrU2ZaQ1p0UzhfV094NGNFNDRUdkZFdi15WTY1R05IUlhIa0wzTEpaZXZPZS1NZkF6TDRJMUFpUVIwTUo5b3lsSi1oY1djV0xVZ3k0ZjZSbEF5VG82SEZDSFJ3MFJOQ2JoOUJ4ZDk1N1FMZWR1cHQwWmloV19U?oc=5",
-        "source": "24/7 Wall St.",
+        "title": "Apple Just Reported Earnings. With Tim Cook's Era Ending, Is the Stock a Buy for the Next Decade? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3haRm5TWDBTVVQwYWNVRXM0WFduSlZGTHl4dXhlZTNDNXNUWDlpY0xhMHduQTdkT1FXN05DeG5sdkhJaGI2c2pwRmlwbHVnb0FpUURsVl9tc1V3YS1Ddnl5STBmcVB1b3VZVDBaR05zQ0o5NHVHT3VJbkxkUXVjeFN0RzVuTC0zU0c4X0F5ckVTVEkzeGdFVw?oc=5",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Is Apple Stock a Buy on the Dip as iPhone Sales Surge? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUJlM3UxZ1hvdnZkQnFaR3lYc1I0M1VRWFZxSXVTaEJraDRsZ043cng3Vkp0b3ZoVERjUC1hRndNMUlzNkx0UjlaSnVsb2YwS0lzYmVZc3FSbEFjQU5acnJFem00UkxCX29UTDkyc1ZuenJaZDRmN0ZsVU1MOUJfWmFiU3g3dUcxZ01xbg?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-02T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Just Did Something It Hasn't Done in Over a Year, and the Stock Can Keep Climbing Higher From Here - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmY2VVQwOTRtdk1CZkhxWm9PVzloWkdHXzYyVUhsYV85QUtrTUh5eHBWckRidDFOS2NhMG1fbk02ZVl5VnRxbVdvRXVfMEFUekVaQndKOHZNbktla2ZUNGM3V05DMUJtNHptOVJlSklHR2Fwc1k4dDdITzRnZE1JYXlqTEk2NWo3?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-01T07:00:00.000Z",
+        "title": "The Post Earnings Dip For Meta, Amazon and Apple: Buy, Sell or Hold? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS0xDZTJtX2lYbm9PTFZJODdpOFlpSFFqRFQ1WXhtVEEtVV9LVkMxU0dWSXZsQjhrU2ZaQ1p0UzhfV094NGNFNDRUdkZFdi15WTY1R05IUlhIa0wzTEpaZXZPZS1NZkF6TDRJMUFpUVIwTUo5b3lsSi1oY1djV0xVZ3k0ZjZSbEF5VG82SEZDSFJ3MFJOQ2JoOUJ4ZDk1N1FMZWR1cHQwWmloV19U?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
       }
     ]
