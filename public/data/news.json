@@ -1,79 +1,86 @@
 {
-  "generatedAt": "2026-08-18T06:39:51.421Z",
+  "generatedAt": "2026-08-18T09:30:55.464Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Sumitomo Mitsui Trust Group Inc. Sells 542,006 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOazVnWktpaDBzWVRPNnBZakZWN19CNnU3WXpBZE1PWVByWkktT1NRclVEWjlWM3ZIQmdmWXNYUlNEUDl4TnhpS2theHVUa3NzdFdvU1BJV1FUcnVPYVBYc0ZqUWtGYUpQNldieG1yWmtqSXFXbGd3NmRTZEctR1c2WDkwZkhmcFZSY20wNG5DU1hGVTQxUEI3cUV0eWlCbnY4TjJ2RFpuczJpbV9ySzdJeWJ3ZTAzVzY3UTFnX0NDQnF2bW9Ub0hXMmZlMThVVkV4cGNNTg?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-18T09:17:16.000Z",
+        "summary": null
+      },
+      {
+        "title": "First National Trust Co Sells 5,719 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdUNoeDVZQUhieldHb3k1bG0yUG51Y1ZJM0xJanlsUFVwYzBpSmFoM3VXbGsxN0Z1dFFXakI4YlB2VFE1RVpBZVdhZ25uNVltX0VkWGZRZ1lZTnlpcjJvMndHaHJHZFFVOWpFMERuaXJ1cWwzZElPcllQQkxIQm5iOWxMWXBmU0gtc1ZUVVdDSXhBc3NEck5hLXp2MjJ6QUZZZzBQQUxpbnpiOVJQb0gwRFFrZllXdUxOV2U1a2NyUGhSaFVNeGxn?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-18T08:04:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Shares Acquired by Chicago Partners Investment Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMC15YzMtNXRwb2hIMFIxUUF3V0VPeldwRTlUOVBudlkzbmFWeVhEeDhadk9HbWZUdVNPbzNsWFQ5WExmeUVRN2dpN2g3eG9EcmxlcmlYM0JidmlVeFNJOWFnVFJXakFzSDFlZm9jMHhMNkRoWlVKSkhyeEtPNVJaRWltb2o4SUVtSXIyQ1dneklHcWE4MVhVZXFYb2M0Nl9adG9qT1c4YTFrcHlUeDdFOWVweEF0MFFnbDg3NHA5U28yRkdoM1M5S0Z4MlJLcVcyU3BSWkVNcw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-18T08:04:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Stock Position Raised by Ethic Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjdFZUtlSGVLaGZ5R0ZkNFNVZk5YNVNFTU1XNmNnU05VTGUyRnZJa3VDWkdkWUt2SnFodTZYZjlVajVjVmpkUUlTRmFONDY0bXlTbGZ3Q3kwRXpaN004bjhTZEktNmhWX0RoMDN3TEl4dGRnTEc0aEpQMVZ2b2p6MDVYeXUzN0hNZ3JZdS1nWWI3SUdoY1FhendCNW1PWWxTTU1STFF0SFhVbjNKSkdKdDVRYThMXzJSVWc?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-18T08:04:13.000Z",
+        "summary": null
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEVDTWpXZ1Z4Z0ZBRVF5MzctdEdQbnkxeHE2SDZBZ2lWd2owY0RHTEVIakpCU0k1ZUxiNjR2LVNhUGJ1ekN3OHJrNF85WEZIcXYtaEVHWUFza2k1amlzOEpIQTRZdlRBNl9UUlBrSlI1b09oTDZ2QjFuX3kta3hTTmJoY1NnUzhzX040YTRNcDB1MkhNRVdQblNTNmFabHJhV3RrVm5EZ0ZKT0xKM1otNjRyLU8?oc=5",
+        "source": "Zacks Investment Research",
+        "publishedAt": "2026-08-18T08:02:03.000Z",
+        "summary": null
+      },
+      {
+        "title": "Assetmark Inc. Increases Stock Holdings in Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSWxueTg0YkdqcllfY1hpYndUbVRTZFpUQ1lnYTQyVWRLRkhiQlNIanNLX2c0RXYwMkw4TkNaYmk2c2RkMVdNcGY5S1loZVZOZlM2TXV6bXRoRHVvVWRhNkdYY3hJa2ZsZXlyTERDaDdWSjNLWl9wcVBzc2R2MHByNVFhVHhSbnRheHpFZWRkYlVDTy1fNDRIaDVqdHdaeEZnOGhJM180SnZTQ2ZSUXpiVEVrTzZtdGJCY1Y5dGlseHlGUVk?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-18T07:43:55.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (INTC) Pushes Deeper Into AI Data Centers With Co Packaged Optics - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOENIaEZQcjJmWnBrU2tZenlJQ0FmeU1ralIyNkhHb2l2VUdiU3k3U2R2RWxJdFhGWXpxSTB6eFkxaXZpaklEU2NWWkpITDBKdWZlMnNhWG5IRWtNdWtmQUJGbGxqODNvY0I1ellNOXVqU05ldFROVFh0UFBzTXl4Q0RBclhIaFFsOTlCN20yRW9DajZVZzNoaS00ZXR5Y251RHlKVkN6QnlsN09KZTRhUW1RZGNjRmh4NURRamJQSkVQSGRWSWFpNjVn0gHPAUFVX3lxTE0tZkpBcEJUUFIxeXlfRGpZdF9EUm8yR0hvTEppclhMV3R6LW15eG0yYTRSeUkwYkpmU2RJdXhhc3RFS1l3TkpjUHRsclJreVJRbXc5UTYwM012ZFVPbWV6LXRLV2JPT0pNbm9maXZJSUNTNGlEVWlhVm9yaGc2a2h6SS1GcUVkQ2RCb1hTVzNneGpxM1pzaVlyMm9WNDdTWkZVU2p5TzdnM3Q5VVRtU25MQTFUaUhSOG1YSklDcDRRV0hIZGs2c3hLV0NUVVNoUQ?oc=5",
+        "source": "simplywall.st",
+        "publishedAt": "2026-08-18T07:39:44.000Z",
+        "summary": null
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064700198.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T06:47:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnBhc0RBRzlIakZLUDlBZXZObUg4X0RsazJvYmxYd0hrM01wVFZoQzZRaFdoYUtNamNPU29BOU5RVnZwMi1EaUxFWEgwWF9UVWVicDQ3SURZX1NocFpGT29YR1RHMko1ZVM4bDJLQmNqbDNaUzBPTjV3Qk01Q2M2VUVla1diS1FLTFhrYzNmVmh5bzY0Q3JYY3FHRGdpa2hIN045LVJhUmwydw?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-18T06:47:00.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (INTC) Is Up 6.1% After $20 Billion Equity Raise To Fund AI Build-Out - What's Changed",
         "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-6-1-20-020946989.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-18T02:09:46.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year. - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVEpRRlZaVlZieTlwRHJZNFEzVFpGMUdZY1BFYUZGaGc2OXFmN0tONDVLY3VmV29IYWEwMXBPX2ZMVDlSQ2hWVUdCUTRvRWhrcjNvbnVGSktTelJmbE0xSXJBNlc0SmJrT0l4MzBvZTFfY0VsTl83a004SlNIbFhnOFRQUWZpZndsYmFFMFktWURLUmFNN0tJSUl0VzREc05RZF9aZ0Nyb3NEeWNOb2xSemM5dGxXb3RCdGFnWlpMM0pXM1lTSjkwQmlzS2l5ZU12TFJpa0I4bkszM3FQMWZmN01GM3IzblJPVTJQaTNGemdORGoxNkE?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-08-17T23:06:44.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock Closes 8.9% Above $20 Billion Offering as CEO Buy Signals Confidence - TechStock²",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb081X2pxY3ZwRWtEcEducER1NGJHc2d5dUYxeDJFQzRITHRYZ3FwU0EtVGhsSERQZU1ldVJzVnJSam5NOHF2aUgtTlI2VmhjNXVFenJzT2pXaWcwek44UzloX09yS2l2MVdBNGQwS1R1c3FBYzhtUFpHd0xmOXhvN2k3TDhVSVJXRl9Jb0g4aEcyMExTVlVheGVjVHI2N29E?oc=5",
-        "source": "TechStock²",
-        "publishedAt": "2026-08-17T23:05:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Costs 62 Times Next Year's Earnings. It Lost $11 Billion Over the Past Year.",
-        "url": "https://www.fool.com/investing/2026/08/17/intel-costs-62-times-next-year-s-earnings-it-lost-usd11-billion-over-the-past-year/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-17T22:56:01.000Z",
-        "summary": null
-      },
-      {
-        "title": "Dear Synopsys Stock Fans, Mark Your Calendars for August 26",
-        "url": "https://www.barchart.com/story/news/3893330/dear-synopsys-stock-fans-mark-your-calendars-for-august-26?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-17T20:53:28.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel’s $23 Billion Capital Raise May Have a Silver Lining for INTC Stock",
-        "url": "https://www.barchart.com/story/news/3893044/intels-23-billion-capital-raise-may-have-a-silver-lining-for-intc-stock?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-17T20:39:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel’s $23 Billion Capital Raise May Have a Silver Lining for INTC Stock - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXhLdlpzZ3EtVXpoaEpKZDZRT3llRWRPcjk4ZEQ1VmppOC04bVFoOFl6WlhrMUhJeE5lOTNEam8wQXEwekRSWDFYUFRiMVh0NUQ5V2R3QW1SUi0wNXFPaDRteHdpZ3BNdDktblNOeHNmSmRwYURjbVEzbkxUR1dUSWNTbkdLSjFiZ0FORnhDRWNpUk4zSWxWUWhzdw?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-17T20:39:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel’s $23 Billion Capital Raise May Have a Silver Lining for INTC Stock - barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3M0OFZucjBWYUwwdWZxTU5mYXhvT0pjZUVJVjZydHY4X3kwWkdtMThXbGVLejB3SllhT3MzV0ZVa25ENW5oY0JNRnFiVWRibmplNldUVURVN2MzSC05cGdOR0ZDVl9uQnZRSndUWEt1TWMxcU1td2VPZm5QRlEySm9uNEF0ZWxQc3ZpQXZVSTVNZi1hUU1xTllpNEFSVHlReDNtbUZCZDJkMkJFaU8xSzdzeGZJdw?oc=5",
-        "source": "barchart.com",
-        "publishedAt": "2026-08-17T20:39:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
-        "url": "https://www.trefis.com/articles/611676/micron-stock-has-a-new-profit-floor-but-did-it-build-a-ceiling-too/2026-08-17?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-17T20:34:28.000Z",
-        "summary": null
-      },
-      {
-        "title": "Billionaire Masayoshi Son  Put 66% of Its $18 Billion US Portfolio Into 1 Stock",
-        "url": "https://247wallst.com/investing/2026/08/17/billionaire-masayoshi-son-put-66-of-its-18-billion-us-portfolio-into-1-stock/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-17T19:54:24.000Z",
-        "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "2026-08-18 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, AI, 낸드) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vb2ZUYTZDLWtQN1E0c2RjNWFpV2pPZzJodzVEWmxmS1lZVVliWVgtMkdMUmZCZFVNOERLc1RoZzJWazBKYllNTGlDRml3Y3BWM2l1YlFrVTJCVmtmU29pRlhDdjVaNkZ3Smd1Yw?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-08-18T07:56:18.000Z",
+        "summary": null
+      },
       {
         "title": "2026-08-14 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, LG전자) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSzc2S3h6UlY1SGllcE1LYUNERFB3c3V1S3NQNEhUcE5QaWpXbVdoc0Z3TFpqQjVuVEE1R3ZxQVFlQjFxdlEwXzM2UGhvWGQ5bUVQTWJ4SW1mQnd1ZzFLOERNVk83ejFkVXpUQg?oc=5",
@@ -136,13 +143,6 @@
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T15:18:50.000Z",
         "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
@@ -182,6 +182,13 @@
         "summary": null
       },
       {
+        "title": "Apple CEO Tim Cook Just Passed His Successor a Mess - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRS1za1loZFBiVlhtTnV6Y3A2ZlA3YTNOTjRoSFc0SGtKLTZJVlJvNXh2UkNVUEF2YnBuQ0doV1RIdl9FYTR1cGZvQThDRGE2TFBpUzBKdXhfZm1sb1oyZXFQZ2hxYmlFcTgwdkhNWlZDRTJGZm1uNU8tMm92UzFBQ2hFSjVjYm9SOVVMcHZFWG0zUnlRUTUzYw?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-08-09T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
         "source": "The Motley Fool",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmY2VVQwOTRtdk1CZkhxWm9PVzloWkdHXzYyVUhsYV85QUtrTUh5eHBWckRidDFOS2NhMG1fbk02ZVl5VnRxbVdvRXVfMEFUekVaQndKOHZNbktla2ZUNGM3V05DMUJtNHptOVJlSklHR2Fwc1k4dDdITzRnZE1JYXlqTEk2NWo3?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-08-01T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple stock slides nearly 10% as Cook warns of memory shortage impact - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSTVDTlRuakJsWTFGbTVEdHZ6X3FXTVZLN2FwT2lSRHpObDRqeTJqajBYa3dpSU1IbVpLZG52MzFGQ2VlY01LdWhrbWpjbmRxNlhzUkdvM09pYUNTQ2c2NjYzX1pUX3VBUGYzLUJSRFNtTk11TGw2dG1BVzZnOEthS3V4TGVLWW5rVVQ0WGVnR0xXLVBPMGNITHdDZkhKMzl2LTI1cDU1NjBYQmVxdV95dlhWUEtFeUZtU1kwRTZiZnJSQXE3SHRn?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       }
     ]
