@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-21T03:48:59.063Z",
+  "generatedAt": "2026-08-21T06:42:22.580Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcUxqVXhsazdWN05hT3VFbUNLTGItS3ctOVlqa1Z6WkF4S3lkVGF1OXp3My1QNzltNG43UlJrek5LemZkRDlFVUZoN2kyRkpRbVd0aWVjN1FsSUpXdVM4a3ZyUzlTdTNaQWs4Rmo3UmNDczdoUVVyNXduWUMtNnM3MFhuT2o2ZkhfZnRacmJZNzA2NjdGTHk4Qw?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-08-21T03:00:00.000Z",
+        "summary": null
+      },
       {
         "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree.",
         "url": "https://www.fool.com/investing/2026/08/20/nvidia-amd-and-intel-wall-street-says-to-buy-2-and/?.tsrc=rss",
@@ -14,6 +21,13 @@
         "url": "https://finance.yahoo.com/technology/ai/articles/lenovo-group-limited-lnvgy-intel-232453667.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-20T23:24:53.000Z",
+        "summary": null
+      },
+      {
+        "title": "Coatue Management Opens New Position in AMD Stock. View This as a Renewed Bet on the AI Trade.",
+        "url": "https://www.barchart.com/story/news/3959404/coatue-management-opens-new-position-in-amd-stock-view-this-as-a-renewed-bet-on-the-ai-trade?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-20T21:47:33.000Z",
         "summary": null
       },
       {
@@ -57,20 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-20T18:45:35.000Z",
         "summary": null
-      },
-      {
-        "title": "Billionaire Stanley Druckenmiller Dumped Micron, Intel, and Broadcom: Here Are the AI Infrastructure Stocks He Bought Instead",
-        "url": "https://247wallst.com/investing/2026/08/20/billionaire-stanley-druckenmiller-dumped-micron-intel-and-broadcom-here-are-the-ai-infrastructure-stocks-he-bought-instead/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T17:46:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-became-67-170734414.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T17:07:34.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -113,7 +113,7 @@
         "title": "삼성전자, 0.22% 상승 마감…외국인·기관 수급 엇갈림 속 눈길 (+005930, 반도체, 투자자별매매동향, 2026년 8월 7일 목요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kd1hCVFppODhkSDVybnNvaDFBS0d5VTMyQmRjMEhXb1pGMHJDODcwUHBWUG1QUDQyamVhTmZUaVZCVlNTeEI3VEZsV29xWXpDS1VfeER2TlJTUU1xNlJVYUdiX1BVVkJfM2xJWA?oc=5",
         "source": "민심뉴스",
-        "publishedAt": "2026-08-07T06:44:06.000Z",
+        "publishedAt": "2026-08-07T07:00:00.000Z",
         "summary": null
       },
       {
@@ -148,9 +148,9 @@
     "APPL": [
       {
         "title": "​Apple Stock Analysis: The Road To $4 Trillion Starts NOW! AAPL STOCK PODCAST TODAY PRICE ANALYSIS Connections Hints Today (fglPiZ39Mm) - Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uemE0UWd2QVhUS1FieUJGVXNFV3F0T3dpa0piYzBoTmdKbk8zREE2S3VQb2drbUVLTzZFMzR1Vy1VQWIyU2FpTFRmSWJXVWtmWVVQQ0lDdzM0Tms?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aZE1kLUIwVUZwaFJWRGh6SjRreHpoSGRPN1hfWHBtUWs1OVRTSC11ZjJlVlYtZG5KcWtMNjRmekE2Q3AtcjdXLU8zRmF4LXA0a0czVFAtVG5FTUZjYXdrTQ?oc=5",
         "source": "Mshale",
-        "publishedAt": "2026-08-16T16:04:53.000Z",
+        "publishedAt": "2026-08-20T09:18:52.000Z",
         "summary": null
       },
       {
@@ -175,10 +175,10 @@
         "summary": null
       },
       {
-        "title": "Apple CEO Tim Cook Just Passed His Successor a Mess - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRS1za1loZFBiVlhtTnV6Y3A2ZlA3YTNOTjRoSFc0SGtKLTZJVlJvNXh2UkNVUEF2YnBuQ0doV1RIdl9FYTR1cGZvQThDRGE2TFBpUzBKdXhfZm1sb1oyZXFQZ2hxYmlFcTgwdkhNWlZDRTJGZm1uNU8tMm92UzFBQ2hFSjVjYm9SOVVMcHZFWG0zUnlRUTUzYw?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-09T07:00:00.000Z",
+        "title": "After Earnings, Is Apple Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjZpRVNZOXZfQ1dxcFNtTXJqRjhtdnhNczBRaVc4UElvcnhVV3pRZk1YVTRZYTRmWm84LWp6R2htcm9YS0tCOXJDcVFOUEU1TkRtYWZkTUJFX1YtNG9CdUxIOTAwb0hFeThvWEplWVpUTWpSMmdDLVljenpmWUpLX1dqb2hwU0ZPMXRZZHR5TEVpUnBqTW1mTUFDWnpkUVl0ME1F?oc=5",
+        "source": "Morningstar",
+        "publishedAt": "2026-08-10T07:00:00.000Z",
         "summary": null
       },
       {
@@ -189,10 +189,10 @@
         "summary": null
       },
       {
-        "title": "Apple: I'm Selling Puts Into The Worst Post-Earnings Drop Since 2013 (NASDAQ:AAPL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUtyRjVuSk9tTHZaOXVpYXJHZ0RVTHR4WUdBLWpCNDJCSVctYWZrb0FUV2otU3dYbTNfSHMtbmJObXc1QVBBX3NFU2VzS0tMM0NrTnZKbEtCS1RXdHBkczF2WHhsVERvU3lJOWNoajJMMGRmb1JndzZCTUc2Z1FuN2lwNmpLU0dIMDh4Smdabkloel9fRmk3QnloOEpxQ3UySUM1NkxMcHg1T2M?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-08-05T07:00:00.000Z",
+        "title": "This Comment From Apple CEO Tim Cook Supports Buying the Dip in Micron Stock - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjAtLUJQeU44Z1h1OXZyZTI0SmZ1NkdoVk5VUzY4QXByak5idUlzMWtkZkVaUWEzS09Jd25RMDZqT3lnaU9kZ2lfOXk4Vmx3VklMQ194Z1plYlVBOEhmdlpqTjU0QUhZNkhVcTlfTmNTTGljbFVnd29ORm9LVDBfZHdPYnBSNGRDOEF4cGFpN1RSdm1EMjJnRQ?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
         "summary": null
       },
       {
@@ -203,10 +203,10 @@
         "summary": null
       },
       {
-        "title": "Meet the Most Profitable Company in America Right Now (It’s Not Apple or Microsoft) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWhwdWJRaThQY29ZRS1RaDlIOWtMbW9jOE9XUUYzZ0ZRa25LOXhZUW05SkJxLVphb21zSWUySktWTS1na1dBcDFLcGxGdzlnMnBPWXNHRllPd0JSWUtqYkhPSm1ZdnZMYkotbkQ4alRiUXF6Q1pmOWRiTzRrSHJuRWZidWxmVmh4bzVqUXplQ05CX0dpQlAtMlZtbGFGX2ZGRkhZ?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-04T07:00:00.000Z",
+        "title": "Apple: I'm Selling Puts Into The Worst Post-Earnings Drop Since 2013 (NASDAQ:AAPL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUtyRjVuSk9tTHZaOXVpYXJHZ0RVTHR4WUdBLWpCNDJCSVctYWZrb0FUV2otU3dYbTNfSHMtbmJObXc1QVBBX3NFU2VzS0tMM0NrTnZKbEtCS1RXdHBkczF2WHhsVERvU3lJOWNoajJMMGRmb1JndzZCTUc2Z1FuN2lwNmpLU0dIMDh4Smdabkloel9fRmk3QnloOEpxQ3UySUM1NkxMcHg1T2M?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-08-05T07:00:00.000Z",
         "summary": null
       },
       {
