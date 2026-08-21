@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-21T01:11:31.705Z",
+  "generatedAt": "2026-08-21T03:48:59.063Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree.",
+        "url": "https://www.fool.com/investing/2026/08/20/nvidia-amd-and-intel-wall-street-says-to-buy-2-and/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-21T02:20:00.000Z",
+        "summary": null
+      },
       {
         "title": "Lenovo Group Limited (LNVGY) and Intel Corporation (INTC) are Both Riding the AI Hardware Boom. One Just Posted a Loss Anyway",
         "url": "https://finance.yahoo.com/technology/ai/articles/lenovo-group-limited-lnvgy-intel-232453667.html?.tsrc=rss",
@@ -64,13 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-20T17:07:34.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS2tvWjhadlh4OE81VldzbzBfRkg4X1BpdndsOUZJQm5IVjNMTk81UU9tRVJIVmR4VHdrREJYR3VHRG5WbGNNMmkzSXpGMF91c2lZYTV4OXZscER0TzBnQXExM2xRR2ctOVJ5NUJPRzY1QWRwNFJZaWxUOFhNQzlJVG4tWWE0WS0xanJlLUpwX01HdVM5d2c?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-20T17:07:34.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -86,6 +86,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vb2ZUYTZDLWtQN1E0c2RjNWFpV2pPZzJodzVEWmxmS1lZVVliWVgtMkdMUmZCZFVNOERLc1RoZzJWazBKYllNTGlDRml3Y3BWM2l1YlFrVTJCVmtmU29pRlhDdjVaNkZ3Smd1Yw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-18T07:56:18.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 2.00% 하락 마감, 외국인·기관 수급 엇갈림…거래량 변화 (+005930, 반도체, 주가, 투자자별매매동향, 2026년 8월 18일 월요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1udUpHX0o5T3E2NDBQbmR5bm5fVW5oYXdJS0RjcUg4bGt6akl4b3BJcHlMVWdFMGpYR0Z4a3hvMGJjSHdOMU1ySG5uems2RVQ1bFVvWUFvWF9BWkhpc1FwU1lWSDJjVnhpLUhCLQ?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-08-18T06:41:39.000Z",
         "summary": null
       },
       {
@@ -106,7 +113,7 @@
         "title": "삼성전자, 0.22% 상승 마감…외국인·기관 수급 엇갈림 속 눈길 (+005930, 반도체, 투자자별매매동향, 2026년 8월 7일 목요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kd1hCVFppODhkSDVybnNvaDFBS0d5VTMyQmRjMEhXb1pGMHJDODcwUHBWUG1QUDQyamVhTmZUaVZCVlNTeEI3VEZsV29xWXpDS1VfeER2TlJTUU1xNlJVYUdiX1BVVkJfM2xJWA?oc=5",
         "source": "민심뉴스",
-        "publishedAt": "2026-08-07T07:00:00.000Z",
+        "publishedAt": "2026-08-07T06:44:06.000Z",
         "summary": null
       },
       {
@@ -136,13 +143,6 @@
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNXpOYllqZEVVSUFzWm1IeE5tVGZISU9zTmtwSmxMekxlZ2V4STZ0VzNfeThTTUI3dXM2Z2dJRmpKVUdCbkEyRTl3Z3hHeXpIX2d0NHRONnFDcVVyT05yY0lzNExyeWFw?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
@@ -151,13 +151,6 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uemE0UWd2QVhUS1FieUJGVXNFV3F0T3dpa0piYzBoTmdKbk8zREE2S3VQb2drbUVLTzZFMzR1Vy1VQWIyU2FpTFRmSWJXVWtmWVVQQ0lDdzM0Tms?oc=5",
         "source": "Mshale",
         "publishedAt": "2026-08-16T16:04:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "How to Buy Apple Stock (AAPL): Everything You Need to Know - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUnl3Tmx0MXR0emNtcDhoVFZjX1ZoNVlhbGN2VkM0Z0tnZmVBUmgxVG1uT2p6azdHOTNFekFMblREWm5XQm5sVmhaOGxrck9zMTNlVmJBMnVVXzNTUlFnZDI2NDQ1ZkRjQTJCSUh6T0NPSnN4dWdYbzg2N3BuRWhIZkdMM0N5VUtoMzU2enB2NDF4azhmcFcySUR6ZzNmZlZ5QjRtdWtrYnFIdGZmTWo5amRESDJZWEdZTDVCT2htUGZBdHhoNWNQV0tUTkozUkhGa2J3aEVFbnlZOVRqa3hObV9aWWhvSm5EeENyT1dHQ2RyNzBlUzVuM0ZLSVYwYmNYTEZJUnVocFVoQ0JWNGhzTFo0cXF1UGo1cWlrVm4zRQ?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-16T01:26:38.000Z",
         "summary": null
       },
       {
@@ -199,6 +192,13 @@
         "title": "Apple: I'm Selling Puts Into The Worst Post-Earnings Drop Since 2013 (NASDAQ:AAPL) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUtyRjVuSk9tTHZaOXVpYXJHZ0RVTHR4WUdBLWpCNDJCSVctYWZrb0FUV2otU3dYbTNfSHMtbmJObXc1QVBBX3NFU2VzS0tMM0NrTnZKbEtCS1RXdHBkczF2WHhsVERvU3lJOWNoajJMMGRmb1JndzZCTUc2Z1FuN2lwNmpLU0dIMDh4Smdabkloel9fRmk3QnloOEpxQ3UySUM1NkxMcHg1T2M?oc=5",
         "source": "Seeking Alpha",
+        "publishedAt": "2026-08-05T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple’s Buyback Is Retiring Less Stock Just As The Memory Bill Grows - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmtyNHp6aWhScXFkSnpqUmozVk5Ncl8wa2hlYVJPWXdrYTBfWkZsRFMtY0dNY1FBZmM3U2s2bWNUaWxhbkZiNVM0N0hWZm1pUnlqX0hVRjFmcXltWTlCSWp0Zllrc0ZGajNZRUt2OGlzajkzZzZuR3dXenhRd21SMlY0ODktc0dScmZQejBpYzFtVWJsNVNBb2RkSDFuLU8taFpQVk9EeEpZWktKbmZ1LWNNZE9ZNVpmZ1RTMnJUMl9aVVFJak00?oc=5",
+        "source": "Trefis",
         "publishedAt": "2026-08-05T07:00:00.000Z",
         "summary": null
       },
