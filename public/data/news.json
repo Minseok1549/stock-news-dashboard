@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-08-21T18:33:54.147Z",
+  "generatedAt": "2026-08-21T21:22:07.624Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Elon Musk's SpaceX and Tesla Are Building a $16.8 Billion Chip Factory 5 Times Bigger Than Earth's Largest Building. What Does That Mean for Both Stocks?",
+        "url": "https://www.fool.com/investing/2026/08/21/elon-musks-spacex-and-tesla-are-building-a-168-bil/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-21T20:57:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
+        "url": "https://www.trefis.com/articles/612357/the-116-billion-that-nvda-quietly-paid-its-owners/2026-08-21?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-21T20:38:55.000Z",
+        "summary": null
+      },
       {
         "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving Its Low Valuation.",
         "url": "https://finance.yahoo.com/m/dba4afdf-cea3-3eb9-a7a3-1c29298d7e0e/is-micron-a-commodity-or-an.html?.tsrc=rss",
@@ -14,6 +28,13 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-commits-higher-capex-2026-154100814.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-21T15:41:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Duquesne Entered a New Position in Riot Platforms During Q2. What This Means for RIOT Stock.",
+        "url": "https://www.barchart.com/story/news/3971533/duquesne-entered-a-new-position-in-riot-platforms-during-q2-what-this-means-for-riot-stock?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-21T14:53:55.000Z",
         "summary": null
       },
       {
@@ -49,27 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOThpM2MtM1dZcjdBaEtDUy00UlV5Q0FORkdzUW8xX2ZnTlVZZWlucnFRT0Nia2FPVXR6TXM0cy0zaFJfdDhibXZGT1hKRnlaRjcwUHJROG1fY3RFV0t2RXpGTzVJVjRONWM4VXlxMHkxX2trZ3hyN2ROSEpTMkhJWkg0NEdWdVBYUmNGSkRR?oc=5",
         "source": "TIKR.com",
         "publishedAt": "2026-08-21T12:29:39.000Z",
-        "summary": null
-      },
-      {
-        "title": "Micron Technology Stock Has Become A Bet On Memory Prices",
-        "url": "https://www.trefis.com/articles/612378/micron-technology-stock-has-become-a-bet-on-memory-prices/2026-08-21?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-21T11:47:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "Massachusetts Financial Services Co. MA Cuts Stock Holdings in Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOejNuc256ck00ck1RQmJXYUdkWGdJcmQ2ZTR3SVdIc0FqRkZRVjFUWXJNbFRMd2d6QlprOTBoZ2d1ODdQM0ZvNzk0dFU1YVo3a2JaSldkM3Fxc18wLTVUN0RNQzF1VjBJQlZvWEZhMm5qeS1pM1B3THZmdTZmZDhxdWRtLU5lUTNUR19NZE5RMXNvcFgzMl8wTHJUMzR0XzhFVzRTSHFhem1IZmExWXRnVjlGVk9xUXA3SUtxSHdYTU9NektoMG55TnVfMDBQa2owMDROSC1CU2g1X0pwNXc?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-21T09:08:21.000Z",
-        "summary": null
-      },
-      {
-        "title": "Integrity Alliance LLC. Sells 6,250 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGhKeWVkN1hxN2s4S3RuZVRsa1dIX2VOMTdXYm1SUVdhdV9jQ1JPX21DWFVNSWNIZHAyNU5yamJPczg0b1NrZWZuSFFlYV94RUt5OWU0XzVMZmlKak1LdjJna3NWRHBjVm1OS3Z6OGRTQ0VIUVE5YkhvWkxJQzJSNkEwdXI0Q1hBVmxEY29FbDBaWDZtc1BoM2hDY2tQdXhsY0JudnY5WU1Mdms2dFRIMEhNYnlpcGszYTIzUnl0bTYyQjVocXc?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-21T09:08:17.000Z",
         "summary": null
       }
     ],
@@ -161,6 +161,13 @@
         "summary": null
       },
       {
+        "title": "If You Invest $1,000 in Apple Today, What Happens in 5 Years? - GOBankingRates",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnllU25pemNoVW15WlZlNnRmM2ZoNmh3VDhvRzRGdEpkX24yV1pucjl6VFJQS3FNOHFYMVdXb3VQOHo5SERzdTRRRXU4OG91LTlkbXRvNjJDTml3VXB0Q0t3c3JSVWJ4RnVzcEd5Y3NobTFuRnpSbjl1SzEtVkNrNTBjZ1JsTmt2UWhyS2RRRUFpXzdhLURaYUpWdEhBbzhQZEFSTkx0VFR3TDhpdE9zRVo1MmPSAYYCQVVfeXFMTlhVUUY3QTMxWTRFTmhCR082RGx2VzUtcGtJOTlkVms5VEU4UXVra3hrekNpRFhCUDFUOVR0Y0lKUjBBS1JiYXpsQjduNm50TlJMVUhkWUEzMjJOUEFRX2pfUUdHeUZnNmdka25tZlhsUExfXzVzbVpoTW1Jck1TVXVpVFZoU1dIbzE2YU44REVDV0FLb0ptQjRBXzBuWi1yOThvd29LVUc2amVWLWFnMVh2S21qYVNxaUJNWTc3TGVZTklRQkpFcHM2S1U2ek81U3I2WUJxSVB4NVlSWS1EQkVOMUJyWk1jNmFUWXZMcFNaaUt3VWhndDVTYkhuaTVuVXR1MzhWZw?oc=5",
+        "source": "GOBankingRates",
+        "publishedAt": "2026-08-17T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "Apple Dropped by 5% After Earnings. History Says This May Happen Next - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1k1cTc0MVBiT0h4d051aWotOEd2RVpBcUVYaEVxeE1rRVRiMzRqTG1iZlJJZXRucUJERGVYMVZIQkhVZ1NySWdpcXljZHFKd2tNbERKUVotOWJnN25kTkRzbTVfS0ZPckFleVprekdTS08zZkxIWWE5NmVpZ1NOZHY0WHBXSGhQVS1HRUppQlllMHQ0N0xFQg?oc=5",
         "source": "The Motley Fool",
@@ -206,13 +213,6 @@
         "title": "Tim Cook's Last Quarter as CEO Was Apple's Best June Quarter Ever. The Stock Fell Anyway. - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWN3dUNrQ1BBOV80dXVlQUp4YTV3OUlubWhuSXNaa2dBTnNveE1VcXhUenZ4cElDa3JlYVdiSkhUQzdmbjlWZHAtWTkyUzhOaFlydjdjVXR3SDhiR1NlR0R2X1Ztd25ZZHpYVUNhTy1JWFJqYU1hRUdvSFlidW03ZWxTdXFuUlhuMkpFbEJ3MnpaMU9PM3NaaQ?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-08-05T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple’s Buyback Is Retiring Less Stock Just As The Memory Bill Grows - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmtyNHp6aWhScXFkSnpqUmozVk5Ncl8wa2hlYVJPWXdrYTBfWkZsRFMtY0dNY1FBZmM3U2s2bWNUaWxhbkZiNVM0N0hWZm1pUnlqX0hVRjFmcXltWTlCSWp0Zllrc0ZGajNZRUt2OGlzajkzZzZuR3dXenhRd21SMlY0ODktc0dScmZQejBpYzFtVWJsNVNBb2RkSDFuLU8taFpQVk9EeEpZWktKbmZ1LWNNZE9ZNVpmZ1RTMnJUMl9aVVFJak00?oc=5",
-        "source": "Trefis",
         "publishedAt": "2026-08-05T07:00:00.000Z",
         "summary": null
       }
