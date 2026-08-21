@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-08-21T15:30:55.765Z",
+  "generatedAt": "2026-08-21T18:33:54.147Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving Its Low Valuation.",
+        "url": "https://finance.yahoo.com/m/dba4afdf-cea3-3eb9-a7a3-1c29298d7e0e/is-micron-a-commodity-or-an.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-21T16:50:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "TSMC Commits Higher CapEx in 2026 While Raising Dividend Payouts",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-commits-higher-capex-2026-154100814.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-21T15:41:00.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Stock Trades Below $95 Offering Price as $20 Billion Raise Tests the Rally - TechStock²",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOG85bU41U2doMkU0c2w2ZU8yRllJdjBkcDYxLVN6V1BoZnMydjRMajNEem9aMHNITjhIRkdFWGFxaWN4aEtEMnBuSkJoRndvV0k2Uy1XS0x4VDliR3lmMDlBdFMxQ1RURzF4OG9FWi1Ibzg4MUhUZWt6WktqelRFejVXdy1hbi1HRktsLWNkcEVIajhzVGlsOGdRZDN4dFpt?oc=5",
@@ -14,13 +28,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/add-nvidia-stock-portfolio-ahead-141400651.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-21T14:14:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving MU’s Low Valuation.",
-        "url": "https://finance.yahoo.com/m/dba4afdf-cea3-3eb9-a7a3-1c29298d7e0e/is-micron-a-commodity-or-an.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-21T13:30:00.000Z",
         "summary": null
       },
       {
@@ -63,13 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRGhKeWVkN1hxN2s4S3RuZVRsa1dIX2VOMTdXYm1SUVdhdV9jQ1JPX21DWFVNSWNIZHAyNU5yamJPczg0b1NrZWZuSFFlYV94RUt5OWU0XzVMZmlKak1LdjJna3NWRHBjVm1OS3Z6OGRTQ0VIUVE5YkhvWkxJQzJSNkEwdXI0Q1hBVmxEY29FbDBaWDZtc1BoM2hDY2tQdXhsY0JudnY5WU1Mdms2dFRIMEhNYnlpcGszYTIzUnl0bTYyQjVocXc?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-08-21T09:08:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Sold by Soltis Investment Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMDdyWmVNQlRrZHFBZDVRWUI4Q3dPOFJVNGdiUFNFSDdnbVdQRzBtSkRwdWlMM0ZDbG1ndnhSTHF2MUwwX1gxSk9qNEplU0tFNmNNcHdqamlSQVFaSGJhYkoxbWUxV0l2X1E3ZHRTdFdYQ19DV1ZPa3k4OU51akFVSFZlYjk2bjBZV0RhWE1Fa2tPTjc3blFQMUNjMnRGR29ZcURsZ1h3R0ppVWtHMFZ3R3dkSm16ZklvOTBvdEo2ckNLZFZEaDE4cA?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-21T09:08:15.000Z",
         "summary": null
       }
     ],
@@ -124,9 +124,9 @@
         "summary": null
       },
       {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YT21ueHoyNS1Wb2l4TDhNX2UyR1l6QlVKN3hvdDZkUk5nb2Q2OTY4dVYyWDdERGJVV3h2T2Nmb1d1dGxlWTByNDhwcFdtbU5PQVExMm4yWnQwM1NzcVNjRDQ3emk3a2lF?oc=5",
-        "source": "매일경제TV",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
+        "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       },
@@ -203,16 +203,16 @@
         "summary": null
       },
       {
-        "title": "This Comment From Apple CEO Tim Cook Supports Buying the Dip in Micron Stock - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjAtLUJQeU44Z1h1OXZyZTI0SmZ1NkdoVk5VUzY4QXByak5idUlzMWtkZkVaUWEzS09Jd25RMDZqT3lnaU9kZ2lfOXk4Vmx3VklMQ194Z1plYlVBOEhmdlpqTjU0QUhZNkhVcTlfTmNTTGljbFVnd29ORm9LVDBfZHdPYnBSNGRDOEF4cGFpN1RSdm1EMjJnRQ?oc=5",
+        "title": "Tim Cook's Last Quarter as CEO Was Apple's Best June Quarter Ever. The Stock Fell Anyway. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWN3dUNrQ1BBOV80dXVlQUp4YTV3OUlubWhuSXNaa2dBTnNveE1VcXhUenZ4cElDa3JlYVdiSkhUQzdmbjlWZHAtWTkyUzhOaFlydjdjVXR3SDhiR1NlR0R2X1Ztd25ZZHpYVUNhTy1JWFJqYU1hRUdvSFlidW03ZWxTdXFuUlhuMkpFbEJ3MnpaMU9PM3NaaQ?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "publishedAt": "2026-08-05T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Departing Apple CEO Tim Cook Just Gave Memory Stocks Good News - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUhkMVpXR0YwRFRFMXVnMWR2MksxaDk1c1RpZ1MteG1aMjdzWDJITERjWEl3bTlWVzlKNmp3aFh1N0xSeVdRODk5X24xd3ByZ05udlQ3YmxoM2MzeDNiU1JIQXBHbG8tdy1iWkM4Vm5Mel8zQzRncXNQRWtPRXZ4NnUzYUw4cXdqUDBaNW9zLVJoRGpz?oc=5",
-        "source": "The Motley Fool",
+        "title": "Apple’s Buyback Is Retiring Less Stock Just As The Memory Bill Grows - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmtyNHp6aWhScXFkSnpqUmozVk5Ncl8wa2hlYVJPWXdrYTBfWkZsRFMtY0dNY1FBZmM3U2s2bWNUaWxhbkZiNVM0N0hWZm1pUnlqX0hVRjFmcXltWTlCSWp0Zllrc0ZGajNZRUt2OGlzajkzZzZuR3dXenhRd21SMlY0ODktc0dScmZQejBpYzFtVWJsNVNBb2RkSDFuLU8taFpQVk9EeEpZWktKbmZ1LWNNZE9ZNVpmZ1RTMnJUMl9aVVFJak00?oc=5",
+        "source": "Trefis",
         "publishedAt": "2026-08-05T07:00:00.000Z",
         "summary": null
       }
