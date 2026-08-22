@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-22T18:27:57.595Z",
+  "generatedAt": "2026-08-22T21:19:38.264Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Why Masayoshi Son Put 67% of SoftBank's US Stock Portfolio Into Intel? INTC Stock Upside Potential Analysis - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmxjcGtEbFE2bU1GOWltclNOQmQwNUV4ejQxYUFUanlQeHFKdmhROF9WZjJlckVfb1NUbE5BWFg3WndUOXdUUFJJei1fYXFpcjZ2NThRb0k4NFU3cjQ5STlWVG5TUDdjSGhUTGI4ZFFCb2JvanFDLXhQdnk4YnJQVnVrV1NPd3JRT0ljY29HVHppcUtTbEdzTFFsVE9ZLW5LcnJfdTdCb3JOMDZpSS04dXhCZWwzU0NoTjlmYjlFVUcxeFZLOWl5ekdRU3VLUTB5RUd4eWVTVklabjUwWGhwVg?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-08-22T19:07:30.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Shares Slip Under $95 Offer Price; Dilution Pressures Foundry Investment - TechStock²",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamNtUWRPQmxSYnE3V0pibVpOa0FVc3hIQmhaZmtJSXp2M2xVUXdBUFN0UFY4UG40RF8wZWFyRElPYURVWlBVNm1Kd2RqczdlNnUyeWlnVndZbWI1QUVWNC1vVzZhZUhHeUEzMU1obGlGM2VkQ3JIemhWbXY0MnplbjFuMDdIaUF1Ul9OS1R2YWsxcW1odDZN?oc=5",
@@ -64,13 +71,6 @@
         "source": "The Motley Fool",
         "publishedAt": "2026-08-22T01:12:00.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93. - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fRU1YRGdjeEhTLUJmX3BPMldKa0FuaWF3TG5sdVV1MGhod0tQSWQyeDJRTk4tSkdpYjdWWFktbnlnZU13ZjVsT2JobUF0d2tEbWh4X0NMYV9PbjNXNzNkU19QVGlrMFdneGhkQ01NSC1KVWMwNVQwZEJQYw?oc=5",
-        "source": "AOL.com",
-        "publishedAt": "2026-08-22T00:44:57.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -86,6 +86,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9odl9JdFhPX2JGSEk5ZnRBT2tvZEVjSE5HR3VvYTNEcHNXeUN3MFY2cWFvVURYMmg0eW9Mc2tlWVUyZEJ2TjB3VnQ4TXRVY0ItUVJ6U3RWQVBQbHYxTTdIeEh0RGZXOGZmbWRaRg?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-20T06:44:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 005930 - 데일리바이트(DAILY BYTE)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3VUdxUnNyeHppSHVFU1o2QXNXZUM5UlBQcjloVHBYQV9mbnhYWXJ3OGlGM3EyYjZxVnQzbVRFdUl1Q0J6SjloRTIwbVIwTWVhZ0NvS1g3cWJYWFJLVnA2Njd6X1NNcjJXd21Lc3dn?oc=5",
+        "source": "데일리바이트(DAILY BYTE)",
+        "publishedAt": "2026-08-20T00:43:56.000Z",
         "summary": null
       },
       {
@@ -117,10 +124,10 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 사우디 주요 모스크에 맞춤형 HVAC 솔루션 공급 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Kb3VnNDd5VzBlRmxRNXZReDhPdHlnci1xVS1MVkItbnhnZi1VSHcwZnA5YWl5Q29tVXdpRC1BUHRLWGZ3VjJidU1oV2lIY1BmbjVLX19FeVJVbVFWUTJyTDB2VXlyNElMWkJVOElxVTRJVFlFSXc?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-07-19T07:00:00.000Z",
+        "title": "주가 반등에도 대탈출…주식 고수들, 삼전닉스 순매도 1·2위 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZVp1TmY0eThoZ3VPckpDellQQy1PNnUwRVhEc2NjempLVmctV2VhT3IzQ215V3Z3c0E2VG9ndXpaQVRLMTdiTGJGQWFmQmJ0OHc?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-07-30T07:00:00.000Z",
         "summary": null
       },
       {
@@ -136,49 +143,35 @@
         "source": "매일경제TV",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "​Apple Stock Analysis: The Road To $4 Trillion Starts NOW! AAPL STOCK PODCAST TODAY PRICE ANALYSIS Connections Hints Today (fglPiZ39Mm) - Mshale",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aZE1kLUIwVUZwaFJWRGh6SjRreHpoSGRPN1hfWHBtUWs1OVRTSC11ZjJlVlYtZG5KcWtMNjRmekE2Q3AtcjdXLU8zRmF4LXA0a0czVFAtVG5FTUZjYXdrTQ?oc=5",
-        "source": "Mshale",
-        "publishedAt": "2026-08-20T09:18:52.000Z",
+        "title": "OpenAI trade secrets litigation risk limits upside for Apple stock - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTkVpR09zem43aEJoTDAyMGxUajJyeDFMcE5CQk92SkhRRTE4RDFCZWcxb21KNjJQRmU0cHVVWEQ0MEVUWDdUNDdwYUhNNk5wNGxwUXNONWdUaDRKa0tQYlg4MXdWOWpJdExfTlhzV1UxeUJ3R3oyMFNGZmU2SE1WTEpVOHd0aXlzOFNR?oc=5",
+        "source": "Traders Union",
+        "publishedAt": "2026-08-21T15:14:35.000Z",
         "summary": null
       },
       {
-        "title": "If You Invest $1,000 in Apple Today, What Happens in 5 Years? - GOBankingRates",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnllU25pemNoVW15WlZlNnRmM2ZoNmh3VDhvRzRGdEpkX24yV1pucjl6VFJQS3FNOHFYMVdXb3VQOHo5SERzdTRRRXU4OG91LTlkbXRvNjJDTml3VXB0Q0t3c3JSVWJ4RnVzcEd5Y3NobTFuRnpSbjl1SzEtVkNrNTBjZ1JsTmt2UWhyS2RRRUFpXzdhLURaYUpWdEhBbzhQZEFSTkx0VFR3TDhpdE9zRVo1MmPSAYYCQVVfeXFMTlhVUUY3QTMxWTRFTmhCR082RGx2VzUtcGtJOTlkVms5VEU4UXVra3hrekNpRFhCUDFUOVR0Y0lKUjBBS1JiYXpsQjduNm50TlJMVUhkWUEzMjJOUEFRX2pfUUdHeUZnNmdka25tZlhsUExfXzVzbVpoTW1Jck1TVXVpVFZoU1dIbzE2YU44REVDV0FLb0ptQjRBXzBuWi1yOThvd29LVUc2amVWLWFnMVh2S21qYVNxaUJNWTc3TGVZTklRQkpFcHM2S1U2ek81U3I2WUJxSVB4NVlSWS1EQkVOMUJyWk1jNmFUWXZMcFNaaUt3VWhndDVTYkhuaTVuVXR1MzhWZw?oc=5",
-        "source": "GOBankingRates",
-        "publishedAt": "2026-08-17T07:00:00.000Z",
+        "title": "Why is Apple stock down today? CEO transition, App Store news and support levels - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkEyMnZFVV9SQnRtVU9MMkZGaEl0QXZxYXROZTFBWXdXZDJNRjZiZXRiTzhwMVhoLUFGcHYtVlIwYkxFR09CZmlzX2ZzN3ZHdlNsa0JTSmZSTmNXbUZMZlZqbHFzeXUtdEFKUnBXRk1yYjF0MTNNalp0c2ZBcVFTVlE1R3hFcHJtMGZJ?oc=5",
+        "source": "Traders Union",
+        "publishedAt": "2026-08-21T14:07:39.000Z",
         "summary": null
       },
       {
-        "title": "Apple Dropped by 5% After Earnings. History Says This May Happen Next - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1k1cTc0MVBiT0h4d051aWotOEd2RVpBcUVYaEVxeE1rRVRiMzRqTG1iZlJJZXRucUJERGVYMVZIQkhVZ1NySWdpcXljZHFKd2tNbERKUVotOWJnN25kTkRzbTVfS0ZPckFleVprekdTS08zZkxIWWE5NmVpZ1NOZHY0WHBXSGhQVS1HRUppQlllMHQ0N0xFQg?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-13T07:00:00.000Z",
+        "title": "Apple stock trades flat after US Commerce Secretary urges shift from Chinese chip suppliers - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMVd4NUJVVkJHclJ6UW1Od19uWlJkQjJPT2FNRVpMM29obHEwelJYdkJxZWJfMTQ3ZkN6OUdUbFR2MWJ5ck5JbnI3bERzNUtVLXRPNXpxOUJpdmFJb1NGR0ZvRTY2YTZFd2NyaVlSSG12WktkTTY1MGlKWkt2VkdWRGtMcWViSmVlWnowQXBKSEo?oc=5",
+        "source": "Traders Union",
+        "publishedAt": "2026-08-17T15:04:43.000Z",
         "summary": null
       },
       {
-        "title": "Trading expert sets date when Apple stock will crash to $245 - Finbold",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNGNaT3BOVksyOXl4Yk9yenV6cExGLTNqVUppOHhqcW9CdnY4dDNJUmRkRXk2VWZHR1hqOVg4ZWpwOHNBVXJiUWU2bEdCMk8tdkNDU0Q3NHlac3Z1NGJOdDUxS2hsYUdOQlZLN0Y0VXJHSnc4aXdnMFRiellDYTNPNUlVNjZscjg?oc=5",
-        "source": "Finbold",
-        "publishedAt": "2026-08-12T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock price overreaction? Apple is reportedly still moving forward with its glass-bodied iPhone but has abandoned the all-glass design. - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXBNSjhTRU1CTzByS28tMERkVS1Xand6Y29sal9qVGIyWTR1ZGZ6TThoUXdtWFYtM2diSTVoal93TWNVTWpFTU9nSlBSbWZuX2NKOEM3Nzdia3psYUVsVmFUeFJXdDM3YVdqVXAxMWZad0N6RnZCXzY2RExvRGxvV3l1cDNqS2dlazZ1NEpzc3QxelpuZ0FyUXBJQkZEdFBxdENOV1dJWkIxS0NQR0QwZC1B?oc=5",
-        "source": "Moomoo",
-        "publishedAt": "2026-08-11T07:00:00.000Z",
+        "title": "Apple stock holds $304.03 support as EU data policy changes restrict ad targeting - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHNUNHBhMkpBVnduVjFZeWczYktaUVdjd0Fia3VrRmVwLWFtT2d5bEVSZEp5TE1lMVpjaWJQd0JmYUNOOUNGSGo0UHh3c1hsYnhGdkpDTXRnVjJHczNCUmZpS3RreHl1bHBiaGY2aXRnWkRvR3RvWmFESV9vajhZYnlGWDZ5X2xDNGJFb0FOTQ?oc=5",
+        "source": "Traders Union",
+        "publishedAt": "2026-08-17T14:02:32.000Z",
         "summary": null
       },
       {
@@ -189,31 +182,38 @@
         "summary": null
       },
       {
-        "title": "This Comment From Apple CEO Tim Cook Supports Buying the Dip in Micron Stock - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjAtLUJQeU44Z1h1OXZyZTI0SmZ1NkdoVk5VUzY4QXByak5idUlzMWtkZkVaUWEzS09Jd25RMDZqT3lnaU9kZ2lfOXk4Vmx3VklMQ194Z1plYlVBOEhmdlpqTjU0QUhZNkhVcTlfTmNTTGljbFVnd29ORm9LVDBfZHdPYnBSNGRDOEF4cGFpN1RSdm1EMjJnRQ?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-06T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Tim Cook's Last Quarter as CEO Was Apple's Best June Quarter Ever. The Stock Fell Anyway. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWN3dUNrQ1BBOV80dXVlQUp4YTV3OUlubWhuSXNaa2dBTnNveE1VcXhUenZ4cElDa3JlYVdiSkhUQzdmbjlWZHAtWTkyUzhOaFlydjdjVXR3SDhiR1NlR0R2X1Ztd25ZZHpYVUNhTy1JWFJqYU1hRUdvSFlidW03ZWxTdXFuUlhuMkpFbEJ3MnpaMU9PM3NaaQ?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-05T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Departing Apple CEO Tim Cook Just Gave Memory Stocks Good News - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUhkMVpXR0YwRFRFMXVnMWR2MksxaDk1c1RpZ1MteG1aMjdzWDJITERjWEl3bTlWVzlKNmp3aFh1N0xSeVdRODk5X24xd3ByZ05udlQ3YmxoM2MzeDNiU1JIQXBHbG8tdy1iWkM4Vm5Mel8zQzRncXNQRWtPRXZ4NnUzYUw4cXdqUDBaNW9zLVJoRGpz?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-05T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "Has Apple's Stock Peaked? - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xZlRsY3QyOHNYSXVsSXBjS2ptemxNSlItYU1QLTdyUk5BdlpnZEdGTkFmNmF2cjZqQVJYVTdLODlxZXA3Q3VhanJfbDdYZTRHUWVUUzludWgxS2dzT2VnU2tjMFVuM1JXbXFIYWk3WXl1V3ZT?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-08-04T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ1U2V3RRTTRtc3Vvc24xdnRqMkxWZXROLVlBTFVsNjFSbXFPVG1xZnN1QjlRaUZ5bHBUUDVCM0xGZ0pTZ09rdEdiM3lpaExCY1QyZGo1Q1dmV2JvSWVaZU53NEZudm5McVpYX2lrYjZHaVVGajBZRGJZX0pfc0ZOZWQzNkNVSndrOUl4VnhlY0h2WWUwWUREbg?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-08-04T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHNnUmFXUDJ3MEpsSW9MTHFNajlld1NhTXZnSWc3LUxPcGIzQTZzSGlQS3lyWGwzS0FBbHFCdXUyVi1iWnZxaTdsU01CM2MtVXZaZ1ZILXFYdE5tUENCeWxaUE1CdDhreVJoSS00a3dJdGhHaERibVpNOFk3YWRXVC1IdWpvUGlJRUZTYmZGdF9KN2Ux?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-04T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meet the Most Profitable Company in America Right Now (It’s Not Apple or Microsoft) - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWhwdWJRaThQY29ZRS1RaDlIOWtMbW9jOE9XUUYzZ0ZRa25LOXhZUW05SkJxLVphb21zSWUySktWTS1na1dBcDFLcGxGdzlnMnBPWXNHRllPd0JSWUtqYkhPSm1ZdnZMYkotbkQ4alRiUXF6Q1pmOWRiTzRrSHJuRWZidWxmVmh4bzVqUXplQ05CX0dpQlAtMlZtbGFGX2ZGRkhZ?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-04T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Bank of America doubles down on Apple stock for rest of 2026 - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmdQVWxKNU9YUHczcENTX2RjdFlhQ2FMZTBpMXpFXzhYY1RpWHl1cHI4Z3JDZ1JPUUIzX1NZNjR4b3h4Yno4TUFmNllSbjBBMjg5ODZUaGk2eGROanNWRHJRcHV5bXcwVjhHOEQwaEZiVHRSVnJiRElIaXJCTDA2V3I4V1M1QXpHclhuaFJPWVZsYzRfV0MyeHBZWFpDV3RXMG5QbG93?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
       }
     ]
