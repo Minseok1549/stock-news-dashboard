@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-22T01:07:37.313Z",
+  "generatedAt": "2026-08-22T03:39:44.730Z",
   "articles": {
     "INTC": [
+      {
+        "title": "67% of SoftBank's U.S. stock portfolio is in Intel, with no new shares bought last quarter. - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQN2s4QmZwLVdPSjF4dDVpOV95UXl0VE1Qd2w1RjhwdjV6OFphZ1NWOEdrY1JBYk5sU0JBcGxCcEFQdnJ2dU1RanhHQ3NXSVhfQ3prS2VJbXo3WDVBdnFzd3F4MERueUdJQkw5NHcwQXQ0dVowQWxtVzVaNFpoU2kwc3ZQdFNURlBDRnRwM3N6UGQxTmpjbDdPbjZHSUFOeUZQU3dveGJB?oc=5",
+        "source": "Pluang",
+        "publishedAt": "2026-08-22T01:26:17.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93. - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzJRejJhNzF2WHFuNjRGWWxGMW5ZVlFNTTIxcEdZVXY0Z3BLcFhPdkJibU1JeS1iOExzRF9uc1lIM3FKQVhQZkVGSUpUdEtTYWJqNHhpbmZKUm5WemlCQ3AyRGpINDUxZHZ1MlpWeHhUak4xanFUeHN5Rk9xbW9FaGlWUTBidWwyTkd5RjMyTGFOZXJqdS1NUHFIeTBFY1pUVnhfeVUzd0dTdWV0SHdfTjhKZ09STjR0WGw4?oc=5",
@@ -64,13 +71,6 @@
         "source": "TipRanks",
         "publishedAt": "2026-08-21T18:30:47.000Z",
         "summary": null
-      },
-      {
-        "title": "Is Micron a Commodity or an AI Powerhouse? The Debate Driving Its Low Valuation.",
-        "url": "https://finance.yahoo.com/m/dba4afdf-cea3-3eb9-a7a3-1c29298d7e0e/is-micron-a-commodity-or-an.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-21T16:50:00.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -93,6 +93,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EUy0xM3lsUVpwOW53ZmVHVDZnOC1yYjNudk9mUXR3a0t0SDJtZXByNUc4WEE0NVNxbVZhS0VxOGFnNjRlcWc3d0R6SHg4MmRNREQwOU5sTE1EZ0xSY2ZDcml6b3gxQkwxS2JCRw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-12T06:41:39.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
       },
       {
@@ -135,13 +142,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
         "source": "매일경제 마켓",
         "publishedAt": "2026-07-06T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "상위 1%, 급락장에 ‘삼전닉스’ 집중 매수 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pc1J5RTZxMUR1eUZGdGFsNlc5aFRnRm9od2VnVWRTWHA1aVZKdVVqSUotTHMzNTlETXVGMWhuSi1GVTUwWGxkWGRsRnp3TVVFYlE?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-07-02T07:00:00.000Z",
         "summary": null
       }
     ],
