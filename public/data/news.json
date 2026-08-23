@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T15:20:17.212Z",
+  "generatedAt": "2026-08-23T18:26:27.677Z",
   "articles": {
     "INTC": [
       {
@@ -45,13 +45,6 @@
         "summary": null
       },
       {
-        "title": "Intel (INTC) Q2 Earnings Thursday; Up 163% YTD, Options Price 15% Swing - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHBrX2ZDYjRVWU5aZkFGZTZmdVR2NkRacGYxYlJINmc0ejNHdFlIUmc3c3QweTNvc2RkZ011TDdLcUhJU3lqSTNjdnVkbWM0N25id2JYMjZMY2lFcjFOWS1UeGpkUWpuS1RyN0VyaTRfdS1JdlQtTXZwSzhxa3ZkMGFNMWlIdzJWSWNRSnJ4dk9HZWJ3WE12UGx6UUYtR1hBaDd0OW1FRFQ1MGtwdDMtbTBHUXBnTVZYOFN5QkRSNnZULWhFd0pWOUNQOVNEZw?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-08-22T17:10:33.000Z",
-        "summary": null
-      },
-      {
         "title": "Oppenheimer & Co. Inc. Has $16.76 Million Stock Position in Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVEJ2Y3ZIWmZHMVlFcmxnNUlTT3dpRjF1bTVZRDZhdUNOT0tyeFBIeWVrRGw2cm5Mdkh0SlY4UDRwM2Nwd2twc0lhemU5MVBKcTFDZVM5ZXZZalZweUxROFFXOS1mYWdZMWZFZUNNX1JfU0NSVjE0NFlpLXo5RXpLNjJXcnRUUWxqZnVsSUhaUGdISDJWcHExNlRjVzJobGIteHM4elRKQ21mTktqMlcyNkdwaVRIR1JuNkVYa1g3SkJYSlRqdlZ6OFNrWDFkbllzR2pB?oc=5",
         "source": "MarketBeat",
@@ -70,6 +63,13 @@
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVBoeF91STNKdFJQZ3BvSjEta2Z0QVliVkZPeFRPNnR1VnVtY1ZXWTVLajZoeW1ZYnJacHFDMEoyMGRWUTJQd0lXbkZRMlBfNVpWWE0wQnNXdXAzLUdaR2hXTlBfUVJpcEpuUG5XT3EwVXhzMlZ6RWtJZ0o0WXdBQjhncFRscGZUUkpNWXNZV3lJQUNYZkgzb2pUb2xjVDdfd3ozQ3JWdVJRTHBSaXVMMml3?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-08-22T08:53:37.000Z",
+        "summary": null
+      },
+      {
+        "title": "Elyxium Wealth LLC Buys 21,796 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMlVKLTNLUG8yMk84YW9fZUxQR2ZleERrZmY2M1N4WUtBTnVQYk1OSFd1bkV4djdqYXB3WDUxMVhPSGlEMXZTTkNQekNObURnQjFIaDdLZ2pDbkhDX250bzZZSWVqak00cUl3U2czRElOcDR3dE9kWFFYeWlycHM3T3RjQTk2YUI2czhzOVhVMF9FTFhaSDBTWDlRNWFhUTZ4Q3ZmUXV3WW9XZGJXVDdlU014R2duQkRNVjRmNXhFOWs?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-22T07:45:17.000Z",
         "summary": null
       }
     ],
@@ -161,13 +161,6 @@
         "summary": null
       },
       {
-        "title": "If You Invest $1,000 in Apple Today, What Happens in 5 Years? - GOBankingRates",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUnllU25pemNoVW15WlZlNnRmM2ZoNmh3VDhvRzRGdEpkX24yV1pucjl6VFJQS3FNOHFYMVdXb3VQOHo5SERzdTRRRXU4OG91LTlkbXRvNjJDTml3VXB0Q0t3c3JSVWJ4RnVzcEd5Y3NobTFuRnpSbjl1SzEtVkNrNTBjZ1JsTmt2UWhyS2RRRUFpXzdhLURaYUpWdEhBbzhQZEFSTkx0VFR3TDhpdE9zRVo1MmPSAYYCQVVfeXFMTlhVUUY3QTMxWTRFTmhCR082RGx2VzUtcGtJOTlkVms5VEU4UXVra3hrekNpRFhCUDFUOVR0Y0lKUjBBS1JiYXpsQjduNm50TlJMVUhkWUEzMjJOUEFRX2pfUUdHeUZnNmdka25tZlhsUExfXzVzbVpoTW1Jck1TVXVpVFZoU1dIbzE2YU44REVDV0FLb0ptQjRBXzBuWi1yOThvd29LVUc2amVWLWFnMVh2S21qYVNxaUJNWTc3TGVZTklRQkpFcHM2S1U2ek81U3I2WUJxSVB4NVlSWS1EQkVOMUJyWk1jNmFUWXZMcFNaaUt3VWhndDVTYkhuaTVuVXR1MzhWZw?oc=5",
-        "source": "GOBankingRates",
-        "publishedAt": "2026-08-17T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "Apple Dropped by 5% After Earnings. History Says This May Happen Next - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1k1cTc0MVBiT0h4d051aWotOEd2RVpBcUVYaEVxeE1rRVRiMzRqTG1iZlJJZXRucUJERGVYMVZIQkhVZ1NySWdpcXljZHFKd2tNbERKUVotOWJnN25kTkRzbTVfS0ZPckFleVprekdTS08zZkxIWWE5NmVpZ1NOZHY0WHBXSGhQVS1HRUppQlllMHQ0N0xFQg?oc=5",
         "source": "The Motley Fool",
@@ -213,6 +206,13 @@
         "title": "Apple: I'm Selling Puts Into The Worst Post-Earnings Drop Since 2013 (NASDAQ:AAPL) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUtyRjVuSk9tTHZaOXVpYXJHZ0RVTHR4WUdBLWpCNDJCSVctYWZrb0FUV2otU3dYbTNfSHMtbmJObXc1QVBBX3NFU2VzS0tMM0NrTnZKbEtCS1RXdHBkczF2WHhsVERvU3lJOWNoajJMMGRmb1JndzZCTUc2Z1FuN2lwNmpLU0dIMDh4Smdabkloel9fRmk3QnloOEpxQ3UySUM1NkxMcHg1T2M?oc=5",
         "source": "Seeking Alpha",
+        "publishedAt": "2026-08-05T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Departing Apple CEO Tim Cook Just Gave Memory Stocks Good News - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTUhkMVpXR0YwRFRFMXVnMWR2MksxaDk1c1RpZ1MteG1aMjdzWDJITERjWEl3bTlWVzlKNmp3aFh1N0xSeVdRODk5X24xd3ByZ05udlQ3YmxoM2MzeDNiU1JIQXBHbG8tdy1iWkM4Vm5Mel8zQzRncXNQRWtPRXZ4NnUzYUw4cXdqUDBaNW9zLVJoRGpz?oc=5",
+        "source": "The Motley Fool",
         "publishedAt": "2026-08-05T07:00:00.000Z",
         "summary": null
       }
