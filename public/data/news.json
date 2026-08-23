@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T01:13:09.963Z",
+  "generatedAt": "2026-08-23T03:48:49.168Z",
   "articles": {
     "INTC": [
       {
@@ -14,6 +14,13 @@
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOamNtUWRPQmxSYnE3V0pibVpOa0FVc3hIQmhaZmtJSXp2M2xVUXdBUFN0UFY4UG40RF8wZWFyRElPYURVWlBVNm1Kd2RqczdlNnUyeWlnVndZbWI1QUVWNC1vVzZhZUhHeUEzMU1obGlGM2VkQ3JIemhWbXY0MnplbjFuMDdIaUF1Ul9OS1R2YWsxcW1odDZN?oc=5",
         "source": "TechStock²",
         "publishedAt": "2026-08-22T16:58:01.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Slides as Big Bet Faces Big Questions - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1NMeXFTOHdzWXpROW9zUzU0RGxWUFBGWkxtcjRuWjRuWjNYcElscnFTTWUyZWdoX0lVNkRGeHdpalV4M0dFMG85akpQbHZ3aHpsZkVkOUpYUFFQTWxkaTAwcUoxV1hVbTFWdVhFZFVKOFpIaUg3enR4U01aYS1aU01xQ3hFWEV2Y29IQUVzd2h3WEZ1VWNpRWczUQ?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-08-22T14:24:41.000Z",
         "summary": null
       },
       {
@@ -63,13 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzJRejJhNzF2WHFuNjRGWWxGMW5ZVlFNTTIxcEdZVXY0Z3BLcFhPdkJibU1JeS1iOExzRF9uc1lIM3FKQVhQZkVGSUpUdEtTYWJqNHhpbmZKUm5WemlCQ3AyRGpINDUxZHZ1MlpWeHhUak4xanFUeHN5Rk9xbW9FaGlWUTBidWwyTkd5RjMyTGFOZXJqdS1NUHFIeTBFY1pUVnhfeVUzd0dTdWV0SHdfTjhKZ09STjR0WGw4?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-08-22T01:12:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
-        "url": "https://www.fool.com/investing/2026/08/21/intel-sold-usd20-billion-of-stock-at-usd95-a-share-it-now-trades-below-usd93/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-22T00:32:01.000Z",
         "summary": null
       }
     ],
@@ -131,17 +131,17 @@
         "summary": null
       },
       {
+        "title": "삼성전자, 사우디 주요 모스크에 맞춤형 HVAC 솔루션 공급 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Kb3VnNDd5VzBlRmxRNXZReDhPdHlnci1xVS1MVkItbnhnZi1VSHcwZnA5YWl5Q29tVXdpRC1BUHRLWGZ3VjJidU1oV2lIY1BmbjVLX19FeVJVbVFWUTJyTDB2VXlyNElMWkJVOElxVTRJVFlFSXc?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-07-19T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "삼성전자, 6.27% 급등 마감…외국인·기관 동반 매수세 증시 견인 (+005930, 반도체, 코스피, 수급, 2026년 7월 15일 화요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QWjJNUlRCZnZKQ2hUN0tlTWU1ZlhHbzNKT3c0NXVKWlJHZnF2MXlzSFBFd3BmcVM2Z3VGVy1iVU1yZ2U5VmpBTnhuZnZ1YXNaQzNrTVN5amwxRFhXenc3bDdyLTFzS1N6ZHVlVg?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-07-15T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNXpOYllqZEVVSUFzWm1IeE5tVGZISU9zTmtwSmxMekxlZ2V4STZ0VzNfeThTTUI3dXM2Z2dJRmpKVUdCbkEyRTl3Z3hHeXpIX2d0NHRONnFDcVVyT05yY0lzNExyeWFw?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       }
     ],
@@ -150,7 +150,7 @@
         "title": "Apple Announced Its Largest-Ever Stock Buyback Under Tim Cook's Leadership. Here's Why the Size of the Repurchase Program Matters for Shareholders. - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOFF3OFdaT0F1NTEtWDhtTlRfeDc4X2NpdzVHRkNnWTliVVRVdW9JUFo3YThULW5vbVNrUklPVGczeV9WbHNwd0g2cmVjZ2JPWG9VWHZMdDBraXNEMU14bGo5MVc1QTluWnFhd3dyMjZVQzlnN01NR25xMkNDejhCMVRENnBSOGo1cHREU2VYV2d3cndyeEFYbA?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-08-22T22:22:19.000Z",
+        "publishedAt": "2026-08-22T23:00:00.000Z",
         "summary": null
       },
       {
