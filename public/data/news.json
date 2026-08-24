@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-08-24T09:44:51.183Z",
+  "generatedAt": "2026-08-24T12:45:48.724Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Rapidus to receive $944 allocation from Japanese government for AI chip manufacturing",
+        "url": "https://www.verdict.co.uk/japan-allocate-further-944m-rapidus/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-24T11:37:43.000Z",
+        "summary": null
+      },
       {
         "title": "New Paradigm Capital Management LLC Buys Shares of 27,500 Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaE9ua2pJR0FqSlZhU1FaWVNuTEk3a2JCbXJlZ0psdWZPOW9YUlJBbVEtTlBlSmd1MGszSlFBU3l1ZUZ5czlIN2hRV2dRYWo3ZzFfYTBBbVZ5bWtXYkw3cXczbktRVUJpbmVhbHZyZVJIcHdGWjk0ZnRHTlhaX2JzdTI0YzhVYVViUmNmbHdUWnZ0OE9hdjhVcDNrTDFJMG5rTFNFdzZOQlZRQ3paMDJ4VS1ZZGR0V0U1YUIwMzdvYjkyMllOOUxtT0tkR2hHSFlCc2pRZnExUQ?oc=5",
@@ -64,13 +71,6 @@
         "source": "Stocktwits",
         "publishedAt": "2026-08-23T22:10:05.000Z",
         "summary": null
-      },
-      {
-        "title": "Resilient Intel stock holds above $90 as AI and memory ambitions expand - Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR0VucjJSc2E3NTJScF9lX1NPdmlScWR2NnMzSUU1YnZNeVdVZUlsY3QzTFR0aTBXeFp5Nk1lSTE0cGZEUTBsTjFPTkZDYXdhWE5fa0tMSldIYlpySHB5eXlKcmRITDZZdGhIUlZpUEM5S25KM1JHa2otU0pUTUdkekpuTnpNRWxWbVgwMU9qM1JXajkydDBQdVRsekRidjhGWlc0OUFfZlJ6ZkpuS0dMOWxwc1hTTzVLWEhYR1pHMXVpNS12QjR1akcxdHFyQQ?oc=5",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-08-23T14:29:57.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -86,13 +86,6 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EUy0xM3lsUVpwOW53ZmVHVDZnOC1yYjNudk9mUXR3a0t0SDJtZXByNUc4WEE0NVNxbVZhS0VxOGFnNjRlcWc3d0R6SHg4MmRNREQwOU5sTE1EZ0xSY2ZDcml6b3gxQkwxS2JCRw?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-12T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자, 0.22% 상승 마감…외국인·기관 수급 엇갈림 속 눈길 (+005930, 반도체, 투자자별매매동향, 2026년 8월 7일 목요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Kd1hCVFppODhkSDVybnNvaDFBS0d5VTMyQmRjMEhXb1pGMHJDODcwUHBWUG1QUDQyamVhTmZUaVZCVlNTeEI3VEZsV29xWXpDS1VfeER2TlJTUU1xNlJVYUdiX1BVVkJfM2xJWA?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-08-07T07:00:00.000Z",
         "summary": null
       },
       {
@@ -141,6 +134,13 @@
         "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제TV",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNXpOYllqZEVVSUFzWm1IeE5tVGZISU9zTmtwSmxMekxlZ2V4STZ0VzNfeThTTUI3dXM2Z2dJRmpKVUdCbkEyRTl3Z3hHeXpIX2d0NHRONnFDcVVyT05yY0lzNExyeWFw?oc=5",
         "source": "매일경제TV",
+        "publishedAt": "2026-07-07T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
+        "source": "매일경제 마켓",
         "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       }
