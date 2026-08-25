@@ -1,7 +1,63 @@
 {
-  "generatedAt": "2026-08-24T21:26:51.929Z",
+  "generatedAt": "2026-08-25T01:09:45.596Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel stock price down 3.12% on Monday - StockInvest.us",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZVE4Qmp5cXAzckE2WXRrQlgzNWpiejJicFVaYVpPejMyRDM0TmJ1WGZ5dTN3Q2htaFdWc3Q2anQxeXRKc1Rzd3AtYW5CNGNXOWFvTWRaOTdFTHlkSG9ZRDlNX2JkZkVDSW5hUjZ2bEh0NHFTVG5wREc5amczOFBHZC1HN1g4MFlo?oc=5",
+        "source": "StockInvest.us",
+        "publishedAt": "2026-08-25T00:44:06.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nancy Pelosi Discloses First-Ever Bloom Energy Trade, Adds to Intel Bet Amid AI Power Boom - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOGRETzRMRmV5QlA5azByMUtEYlJObVJtdk55UVA1TXprRVRaNjQ2a1JZV0VEVGVldV9idkN0Y0N2c0NMYXdMcVgwekYxVmpraTE3N2FkbVdNeVo2bEJiTVZqc01jOFcxOWNmR0M1RlpDODFNMnBOVjRiSVM2SkM2YjRocTJBaXJCaXM0TGw4enAxY09rQXdoanE0UUtpcFhuM3EtTFdwYUNZMUNsVEdqZmxoOER2VEtKZy1mUF9zTjdHdmpnd2txZ1JXSU1oQUJIT3VZeVRzU2RKX2lRejNxdDdSLW9mQVNnOHd6d0lzVGZ5NTRaemtZd3MwUloyWkpBNnFXcg?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-08-25T00:00:56.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nancy Pelosi purchases Bloom Energy and Intel stocks, invests in luxury hotel property By Investing.com - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWlhyWE5FVU94SmxuM1NQWEpjdENULU9jMXRfRjFWNFlnT3diZXhhZng4R05JeFAwZGVsako5ZVBpWnZIbjB3WWtyN3luMUdhc28yVGRJUzZUdGlVbnpOeU9waHRFZ3gwY0QzOXhrYUI4ck5EWE9lZEVZX2ZWUXczalVtMFNnZlZiV19wVkhOTU1mVGt1UU14alkzelhOVXFTUlptVlROV1pvR2JNOW5EWWdKczNzMlRBNHMxbGZUUWlraTZXYkgySmhENUxJRi1EMkd1MHdiX1dmQQ?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-08-24T23:12:51.000Z",
+        "summary": null
+      },
+      {
+        "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONGZGaFNEeGVjOFlkd2Q0NFhCQU5pcGZySHRmSWo2bkFLZXN5dGUwU0Z3M1E4bmlkYmlsTWQyNzFINWJsU2F0MjVLWm5RU0VwVkhieXgxVjVKZWEtQmFBYUl2MndjLUJDME44bW40MTFRaVFidHJsblJ1bGxqcUszc05LLV9NOHlndzJwaUtrSVl5YzhzQ3owU2NXakYwOFd6VVVmT2hqN2ZnVXk1a08yQk9JOUI?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-08-24T21:54:22.000Z",
+        "summary": null
+      },
+      {
+        "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus",
+        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-on-chipmaker-weakness/cZYKu7wRJFn?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-24T21:52:14.000Z",
+        "summary": null
+      },
+      {
+        "title": "What You Actually Pay To Join The MU Run",
+        "url": "https://www.trefis.com/articles/612528/what-you-actually-pay-to-join-the-mu-run-2/2026-08-24?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-24T21:45:30.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (NASDAQ:INTC) Stock Price Down 3.1% - Here's Why - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdFdsNXM3TTFsMU5hM0pPS0pwLXVfbnU0RVNEMFR1aThwSnp6bHpCWk10SGNuQWwwUG43MEtRMzRWb0hLaUpNcFJpMWMzeWpvLWZvS1g0dllzbkNIYnlGV1JoLUQ2OFBUazBsZHB6cUpBR3hZaEZ5aUFKRlgwU0tmcVFiYXlFSndubGlxelJ4ajNlVzhGamhNOG94NDd0YjVTRkE?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-24T21:22:41.000Z",
+        "summary": null
+      },
+      {
+        "title": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
+        "url": "https://www.trefis.com/articles/612589/marvell-technology-stock-more-than-tripled-on-a-roadmap-it-had-been-publishing-all-along/2026-08-24?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-24T21:11:52.000Z",
+        "summary": null
+      },
       {
         "title": "Can $80 Support Hold INTC Stock as Intel CPU Market Share Hits 3-Decade Low Despite Pelosi's Investment? - FXLeaders",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUjVCa3ItbHktS05mNUFieHJVck9teElmUlZIMXF0Snk2OXJIbnNjdmhvLWl5V1p3SnQta3Vnd2tyWnFDU0ZYbGJQWXZISlhCNmQwSkV1LV9WMVdPa1pxb2FUMDZ2RFdjQ2NOMjBxWURqekVvU18wYkxFcTFvcUEzUG91Z05YTDlwc1I0VGdOeEZmcjVUTGVPb251VXBSUmk2ajF3TUttSHdSWVM2Vk5feUZIRHdyZU1VUE5KX19KN1YyLURaaTFNdThIMHphMXRQVjVOVlJQbkQ4THJR?oc=5",
@@ -14,62 +70,6 @@
         "url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-24T20:09:36.000Z",
-        "summary": null
-      },
-      {
-        "title": "Should Intel (INTC) Fear In House AI Chips From Data Center Customers? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMGlqMnkxNVNEQWFkcHZpcHE0a1BfT3JTelhuQi1wdEhtTGtfNDBGei0xRDdUZC1IVnkxdm9NeFEtbTJvRGpsakNUYW93VWlHUHc3eTctQlg2SXpOSTFwY0lxVzZHZ05qbUJqekNCVWFrVGM1Z3FjcWc1cWJaMkh0c2VxZjdFWlZlQVhYb0QxV0hjMXJHTVJlWWRsRDFuVTcteHJvbUhoaEJXY3BIYU5OczlYUDNDQ3V2LWhQOFgyQmQ5X0gzeFd4LXBB0gHPAUFVX3lxTFA1c0hEOF9HVml3S2YzSV9KaFROOEdtaW15YzFBeXhVdjBxSUVydGR2MkRnX0s3dzF4SmtsbXhfTk9XQlF0VmNhVXhHNUZ1MmZtVklHRHZCdl9wUVhQLUxDZ2prTkd4V25xd3ZhNWsxRmNuMlNsVzEtTkZBVS1IZmRsYUY3aGFmNlcwVzFWbF9wLTBITHNhcGllOWdOTll3TDh0aG1NNWFDdW1FbjAyamIxbkVETFJ1ZzdrZThWZXBFNlYyU1hvZ3c2QWZVSm9sTQ?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-24T19:28:38.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Joins City Scale Open 5G And NextG Testing Push",
-        "url": "https://finance.yahoo.com/technology/articles/intel-intc-joins-city-scale-190930730.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-24T19:09:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-disclosure-reveals-two-183432115.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-24T18:34:32.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock - Yahoo",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHpmOHFQNmxzSEV0SDE5S29jNUZiS08tWmRpVXhCMnRhU2Z4UFhKMk1ReVB0d2tUOTJmYXFsbFYtYWZZY0hkbU1ZM1hLRVVQYVpfS1NqTHlMUk5qdTBoYTQ5bncyMURVVVR5Wms0U2ZMX292SDhuN0s0S1NjT1k1YmI0c2NWbzNUSmYySl9GSVhvXzc2VVJaSA?oc=5",
-        "source": "Yahoo",
-        "publishedAt": "2026-08-24T18:29:07.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLU1wQXJQaHkwRXBZSWg4dFFqNmhmUXBCd1pqdE92M2Z3OER4cEQzQ01DNk1YMjdMY0FZVW9fWEdYV002ZlI2dW93Q1FXNlZDSnRCbmd4MFgzLWE0RDBSYm9xdVEzRFFwTU0tOHp0dU1oWkZqWVd5SkhEUEZCM2c2Z0lJZlRZZ2NGY3lHb0JyNVRCVlhBMGkxN0VqZ00xeE9ZNE56QkdhRFp3bHVkODBNSw?oc=5",
-        "source": "TradingView",
-        "publishedAt": "2026-08-24T18:29:07.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell’s $120 Billion Google Deal Changes Everything Ahead of Earnings",
-        "url": "https://finance.yahoo.com/m/60852ee6-3abe-3be0-b1c1-c6b99386da7c/marvell%E2%80%99s-%24120-billion-google.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-24T18:29:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nancy Pelosi Takes Long Positions In BE, INTC Stock - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1ZfaE9Lei1vc1N1N2VWUmtJcWlfWnNYRlFnUXBkNEFWc1liRWU2UGxrNmx3czNIV2had0lrQ0pxWDFMRjRpbklWakczWENCOWRnaDBlZUJYRXlmOGJaaWJzZXU4bnhsdHN5cldNR0JMcVZSMWtHM25BRUNKeUItNFNDYkhKaWZhUWN0S0lpU0ZDdGJBMW16eDRxdVQ5c0Y3aGNkdTRpZFJWdUhRNmNFTDJvZ1c?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-08-24T18:29:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock (NASDAQ:INTC) Slides as CPU Market Share Reaches Low Not Seen in Decades - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOajBxQlZPckk5UEVsSzZfalczRHRoWk9wY3ZjWk5DWVUtOGpJQTJZYkNfcGx0bUZEZVVEd2pKajJXendiQXYtRzVtalE4azhueUwxdmhaNmRva0hUYnNsRTZOZ1hjbXEtb3RBM1dBVmhWZ1RueEVxT1Z2WGpsbXRFbXVvZFhEMU1JYkZtQnp3OFl4UmZxbHliSko4WmM3eVg0SzhvNFQ5ZE9YUmx6WVBsNA?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-08-24T18:20:44.000Z",
         "summary": null
       }
     ],
