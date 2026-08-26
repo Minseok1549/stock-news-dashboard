@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-08-26T09:39:10.620Z",
+  "generatedAt": "2026-08-26T12:48:43.150Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Unveils Next-Gen AI Processors to Drive Enterprise and Data Center Growth",
+        "url": "https://finance.yahoo.com/technology/ai/articles/intel-unveils-next-gen-ai-113104944.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-26T11:31:04.000Z",
+        "summary": null
+      },
+      {
+        "title": "$Intel (INTC.US)$ - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzY2YXZ2SUg1Tk43eGR2SlZOMEtNb1JHWWxKcXlZaEF6Mk5NYS1tUnZTaGU0YjJ6OWdMVTlwYjlzMElPVWlRenFWX0dEQm1qLW1zNm5xa0IyeUtkWXFFdE5EU1ZMNTFPOFFXU0hEVWNqNFRXaWppeXR6MmFuMVluRS1iUzNJQVZOMW5uS3JRYXR1UWwxWTZMbWFGbmV2bjl6aWVXeUd0X1FuQmZ1RUxRMg?oc=5",
+        "source": "Moomoo",
+        "publishedAt": "2026-08-26T10:15:10.000Z",
+        "summary": null
+      },
       {
         "title": "4 reasons Nvidia stock is lagging",
         "url": "https://finance.yahoo.com/markets/stocks/article/4-reasons-nvidia-stock-is-lagging-093542775.html?.tsrc=rss",
@@ -57,20 +71,6 @@
         "source": "MarketBeat",
         "publishedAt": "2026-08-26T07:20:04.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel stock steadies after $20 billion equity raise as AI revenue surges - Ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSURINXhOUDZ1WC1xYXFlaUpmeVNPUGU2MGlFSUVRR29vRko4ZTJQWlB2bUxRd3RudlUtNXd5aHppSHVzbTF4d2tpb2cyQTlUdnlwREh2TUxWTFpzT0FKRDVMN09rX2ZlOHlLTG43ckUwaFJ5WUxvNkp3d2R5dkxIZ2lld3ItbWY0TGdvdDlkajcwM0lMbThHUE9JX083emFsbmlKalF3SkZYa3l6cXZWSlA0M3RyRklXTkptU3RyVXlGSFp4cUJIM0d0TXFXMWM?oc=5",
-        "source": "Ad-hoc-news.de",
-        "publishedAt": "2026-08-26T06:21:10.000Z",
-        "summary": null
-      },
-      {
-        "title": "What Is Intel (INTC) Telling Investors With Its New TRACE AI Standard? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1BXVGpJN2Yyc21yd09PWVdEUXVBUjNYWTQ2a2h4WmZfZ3RvUkw5aFg3Q1VrRVFVNkpqMTJ2amRvTjRZVG9wRlVydTVzNjBtYzVmYk1OWDNJN0FvVDFFaXhlSnE3aDlUQXB0SmNndmFfV2hJX3d1aUZzMjc3Y2VBMzlwSzNCUWM4NWlRS0JkV2RnUlV3WThhbDVJUVZab2hubkk4eXc1NE5aTjRoSExfbkhXREtxOWZKNzRtTEowb0xJczgzSkRwVXN30gHPAUFVX3lxTE5SLVJHLVIxVnZhNnRFeV9CZ0VOZnlqaThtalVaMVJSRjEzYzM3NUF2Ukc1c3RYZGE4TXNHd2I4V2lPUjNYZlNIdmgwRktfRXpPNnhYeGdTbXBZTUlCS09qY1lZcERYblkyU25fY1I2UUZITzhZLUgzTjJTSE9TTng0YTdWNXlXbElzemdIQ1dZTzBTU3lqNlZPNkxCZTJXSXNEbF9JQUVFZjI0UUY5ZnlKcDN0QV96N1hFTWJtZ2hzaHZ4UnFPdkZHS3p1RXdFWQ?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-26T00:38:18.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -79,6 +79,27 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qTWlvZkNOai1GWm1TU0hBQVBxX1A3MGRtVDNDTmlxN0ZaSXNMTHFSZTFWOWlRTFh4SjdOVk9wNGxhSmtJRXR5TnJqdkx3UFVPaU1vZ3h0aE1LT3NqR3JpNUhCQkVRTi1JQXFueA?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-25T06:41:42.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 005930 - 데일리바이트(DAILY BYTE)",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3VUdxUnNyeHppSHVFU1o2QXNXZUM5UlBQcjloVHBYQV9mbnhYWXJ3OGlGM3EyYjZxVnQzbVRFdUl1Q0J6SjloRTIwbVIwTWVhZ0NvS1g3cWJYWFJLVnA2Njd6X1NNcjJXd21Lc3dn?oc=5",
+        "source": "데일리바이트(DAILY BYTE)",
+        "publishedAt": "2026-08-20T00:43:56.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 6.89% 급등 마감, 외국인·기관 매수세 집중…거래량 폭증 (005930, 삼성전자, 반도체, 코스피, 2026년 8월 12일 수요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EUy0xM3lsUVpwOW53ZmVHVDZnOC1yYjNudk9mUXR3a0t0SDJtZXByNUc4WEE0NVNxbVZhS0VxOGFnNjRlcWc3d0R6SHg4MmRNREQwOU5sTE1EZ0xSY2ZDcml6b3gxQkwxS2JCRw?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-08-12T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS3ZDbTU2SEhjbks1UG5pMXhucGQ0b2ZELUxEV3BVT0N0bkl3aTc1Q2FVRUgxNE5xM1hnTkJUbDdpd2tPcjNDSnV3VTk1Tl9VMFE?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
         "summary": null
       },
       {
@@ -96,52 +117,31 @@
         "summary": null
       },
       {
+        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - 네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "publishedAt": "2026-07-31T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "상위 1% 투자자도 반도체株 던진다…SK하닉·삼전 순매도 1,2위 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40dEpZc2Z6bFdfQVY4emR6TG9iWldoZzBQNkNTSVA3S1hndFFYYlM3Y3J0SHk5cWI1SW04ZXpyVHlJU0tZZVNDc2hwVnBQd3hjTmc?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-07-29T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자, 사우디 주요 모스크에 맞춤형 HVAC 솔루션 공급 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Kb3VnNDd5VzBlRmxRNXZReDhPdHlnci1xVS1MVkItbnhnZi1VSHcwZnA5YWl5Q29tVXdpRC1BUHRLWGZ3VjJidU1oV2lIY1BmbjVLX19FeVJVbVFWUTJyTDB2VXlyNElMWkJVOElxVTRJVFlFSXc?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-07-19T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제TV",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNXpOYllqZEVVSUFzWm1IeE5tVGZISU9zTmtwSmxMekxlZ2V4STZ0VzNfeThTTUI3dXM2Z2dJRmpKVUdCbkEyRTl3Z3hHeXpIX2d0NHRONnFDcVVyT05yY0lzNExyeWFw?oc=5",
         "source": "매일경제TV",
         "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표, 반도체 조정 속 건설주 부상 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aN3BnaFdDelBUT2Q4cDBVVzdYYllWY1NtVXRCOUg2QTFtVTVoQ1NSQlFKNVRwNGdUcWg3VjMwa2FWZDhRWXUzcTJKbno3c2E0NHc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 임박, 반도체 쏠림과 투자 전략 - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vRXIzNWhNMERCUmNvZHlHU0NMNGEzay1GUlB5WjNPdk5jOGplcHdvcVFyX3l3STlIalFvRGNyX1ZOaGJfdmcwQ1dWalNkUEhOQXc?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-07-06T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자 쓸어담는 상위 1%…'53만전자' 기대감에 저가 매수 [주식 초고수는 지금] - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43V1VBX0E1aVVxdDR1Q0Vocy13aThoc3RjNmtzeVJOX0xpR1pJZDUwY0NVaXo1RkpEc0NsMDU1TUdLMnYtMk5jZjRMLVFJOS1sTVY0?oc=5",
-        "source": "네이트",
-        "publishedAt": "2026-06-17T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "초고수들, 종전 훈풍에 방산주 차익실현…이틀 연속 삼성전자 베팅[주식초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nb0dnMVZUQWxJSzloSTRoU0JFQS13UnduS2IyTnJsWVlTQ1pfbHp4dGU0NndyRDFpeFhUR0RLYW9aQW85YXlzSzNybS1fTFlOY1E?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-06-16T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자, 임직원에 레버리지 투자 경고…\"주식 거래와 동일 규제\" - 네이트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XS1I0SENGZS1xRDVaUFBkQ2ZOZE5NZHBsSlF4TFg2a3RldzRTNHlhd0FMb2VPOHlSV0hvWVJoZVFJdVZLek9qSTlHUXRaU09DZ3ZV?oc=5",
-        "source": "네이트",
-        "publishedAt": "2026-05-26T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자(005930)저점을 줄때마다 물량 모아둘 기회로 보이며 이후 전망 및 대응전략. - 씽크풀 AI",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05eUNsdWszRnVNVGw0WXpVaU9aempYMmlHRjNibVlZcExDNURaOUNoSGV0RjBBcnU3VWUxX2h6ZWlFSUtGcDd1Z2NLcExrRE12VnBycklyRlR0ZFhI?oc=5",
-        "source": "씽크풀 AI",
-        "publishedAt": "2026-05-11T07:00:00.000Z",
         "summary": null
       }
     ],
