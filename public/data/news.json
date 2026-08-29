@@ -1,12 +1,33 @@
 {
-  "generatedAt": "2026-08-28T23:51:47.399Z",
+  "generatedAt": "2026-08-29T05:43:29.705Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel stock steadies after sector pullback as AI roadmap and 14A progress come into focus - Ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTjBXRHhEd2RPVlNYVWFDbVlHS2NaZS1GNVZBVjJvRnJjbDJCVWxYNW1iLUw0TFNQaDd0SmVlNU1QLXktd25TeVdLaEphdEp6RExqQUpLZEMzSGh6UkZGaWZCa1NhemFNeVUwR2RXR1RpSmxFbm1sUFUtYlpFak1qZGNsTE1ZOGVSd3hzemJlLXRpRWx5RGdOME9yOWpiUXVRc1dTcXBFb19lNkxkRml4d1RabUFGdFBjeHZHanR5SDEyY0RQYTc2QnpKY3BaSmVKc2c?oc=5",
+        "source": "Ad-hoc-news.de",
+        "publishedAt": "2026-08-29T05:16:41.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel’s On‑Prem AI and TRACE Bet Could Be A Game Changer For Intel (INTC) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTnREY1ltV290OElZb281WFRwUG0ydEROV3E1SGdGdTU0MEhBaXY2TnFvSFdfdHVlY1I5ejJfQUUxbTdnakVkNExZQTdzM3dLbzVPSlJCSC12Ty1KaVB6WUxwb2dPQWFXd1dGVUliUlRlZ2RibjlqYjI1U0lXUDZ6SEdpYmhHSXBjSkU1WXhRbVRZajVPT0ZZRDdLMW1oNzYwc3QxRUJSN0dGUzZ0LWRrcWlFVzNyMi0xb1dQbjBJbUQ2R1ZRdk5aM0lR0gHPAUFVX3lxTE9zTWpSWVJkaWFIcXp0dzZIcWNxZkJMaW1zREdRXzh3c1NiRnVSeFF4aVJTemZlMldxMGpDdjZENWQwQkhoY293SVI5QTFYRnBEXzl3eGNwV2dJVnVpczFjLTlQUzJON1J4WmpZS2kyVHJwRGJ4aU9WY3RtV3o2Z2J1eGdibXV4ckxlTnZqcmxWeHdwdmVJdnZuTWFsUUdXMWxoT3o5Vm1uSEhGYnQ0cU5SU0p2Zm1CLWpfZEFGTXRzVXF2bkdKdjgwcmprQjBLbw?oc=5",
+        "source": "simplywall.st",
+        "publishedAt": "2026-08-29T04:43:05.000Z",
+        "summary": null
+      },
       {
         "title": "INTC, AMD, AVGO: Chip Stocks Jump Premarket After Nvidia's Blowout Report - Stocktwits",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQUU4dTZXYndUX2YwZlZ6VmR6d3JoV2dDbE1XR1FKS0p2YTZScmlIclZkTUxxb0paRW00TEgwVlE1Qk5hT3BnM3J4eVZqVDBpZ3o1blFiYTQ5M2t3OTlJU3pud01kVlJYQzFVaF82a2xfWXRfM2R2MzBVRDczX0pnRkpPZ3dpam03QlhibkliRnQ3NWhJU25VM0d1bVlvSm02bjJaV2pjZlJwTUpVVnZCMHRxYjFFd2Q2RXRNOFl3ZkItc0llS0JKR2dVN1VORDg?oc=5",
         "source": "Stocktwits",
         "publishedAt": "2026-08-28T23:40:51.000Z",
+        "summary": null
+      },
+      {
+        "title": "(INTC) as a Liquidity Pulse for Institutional Tactics - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYU1Rc1FDeEdKcVpkclVoWmJEWUdaZGk5d1p1MVFrUmRsWnMwelNuTjRZWTRsS0dhMWNseFprSHVxSUxScXVLR25DdGowSG04UTFfeDNSVGNycGRKSXc2a0JHb1F6LVBhUlNPVDZrajZpQ3BZblUzOWR6WnBlT040VmVFcVFVbDVVcHpFSl9iN1dZa3BjcWtEczQ1UFVQVGhULW1MT2xKNW1IdlMwMUxDOThHTi1tTk8zb2dsZXBUVnYzZDNMRkI3di15VQ?oc=5",
+        "source": "Stock Traders Daily",
+        "publishedAt": "2026-08-28T23:00:02.000Z",
         "summary": null
       },
       {
@@ -49,27 +70,6 @@
         "url": "https://finance.yahoo.com/m/e4657499-aea8-3697-bf17-617e8a1e16a0/marvell%2C-nvidia%2C-paypal%2C.html?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-28T21:26:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Unveils New Enterprise AI Push With Governance And Local Deployment Focus",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-unveils-enterprise-ai-201417837.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-28T20:14:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-breaks-ranks-chip-stocks-174824369.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-28T17:48:24.000Z",
-        "summary": null
-      },
-      {
-        "title": "Kevin Warsh didn't bring up the $40 trillion national debt or historic deficits in his Jackson Hole speech",
-        "url": "https://finance.yahoo.com/economy/policy/article/kevin-warsh-didnt-bring-up-the-40-trillion-national-debt-or-historic-deficits-in-his-jackson-hole-speech-151333308.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-28T15:13:33.000Z",
         "summary": null
       }
     ],
@@ -175,6 +175,13 @@
         "summary": null
       },
       {
+        "title": "Apple: The Winter Is Coming (NASDAQ:AAPL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3Y1hWWndpSmh3VjJaUmVYYmZfdXF2MG9xNWFKUUZzVGNqOUVjQ01XclZkMVQwNUZ6SDJrMEtxMThrX2xpMERrOHpyMHppeWw5MW5leGJHM05GWWRYcWhiU3NBczZNZzVNa3NtV1R0X25YdDNkMEE?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-08-26T15:27:31.000Z",
+        "summary": null
+      },
+      {
         "title": "Is Apple (AAPL) Stock A Good Buy Now? Or Should You Sell / Hold? Mint Tv Show (S8nKnkBjFp) - Mshale",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSS1Zpcl9BOVY2LXRzOGpGREh0bHU1emY2d1JCaW9lT1JHWkwxMEx6a2FoVEFmaXpJZld4SDBuNTFieGw2QTJORDlXTHBxSXZWQTlpVDJRcWliQndmNXVHYQ?oc=5",
         "source": "Mshale",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT212eHQ0T2o3eHd6UE9QRHRWeXRON0tKck5hZy11NGdTRlQxRnFmTTBvTG1rM28yRUVfMm5aaURSS3JTWlNld2NTdDg5SHdxNWZuZjBXSkRhRUF0ZFVsY3VWZjlzbUVvN1FXUjFYTjVsQ2thcGhTVW4xXzRxMS0xRHZkTUc5VVNnZW1udTJ3eGRUSEd5OTFEV1VpR293YkRiUjByZ00xNTgxamdCWmY3OUduTk82aDBuclVteXUxWWE?oc=5",
         "source": "MarketWatch",
         "publishedAt": "2026-08-17T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Does Apple Stock Still Have Room to Run? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMGdpNlpoVXRfVUhnS2FhTjEwekd5VXlRR3FucFA2MS1qMzlyLTFiUjFKOFpjaTgwSXlKS1hKdmdLWTJZcXNlZTFhT2tnTm41NWFWSHR6NnRsQXdEZmFRNnpxVnE1WGVfWlE3Y2gyQ2xHckdoQ2ttMTNrOGFBdDhNMDU0NWZXUUxHdm1PS04xQXVrc2UtUjJIN1VBMjFVRmM2TDVDWGx3NnFJLTlHNjBR?oc=5",
-        "source": "Trefis",
-        "publishedAt": "2026-08-15T07:00:00.000Z",
         "summary": null
       }
     ]
