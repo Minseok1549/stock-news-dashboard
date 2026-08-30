@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T16:04:51.121Z",
+  "generatedAt": "2026-08-30T20:36:13.925Z",
   "articles": {
     "INTC": [
       {
@@ -7,13 +7,6 @@
         "url": "https://www.fool.com/investing/2026/08/30/nvidia-just-delivered-bad-news-for-amd-and-intel/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-30T15:42:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel stock eases after 2.9 percent drop as 14A foundry progress and Q2 2026 guidance reshape the ou - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUIwSDl5eE4wSkwwQmt4ZVZMd252cHRtel84ZU41cm9DUHRTUm5OSDBRTWpINnk5WEJOWEhlTHN0WDkzQVhTSjFFY1FhQXFXVzRYb2dpYXJtU281NmNhWmJLTkV6cDlNdlZQb1p6ZGkwcGMyRG81eXo0b2UtMWd1OHNQblFjNW1DR3c5Y0FURW9sRlB5N0ZTNW5jeXdVRXE0eWlRb2lXanU4MXJxYTQ2aU1pRUVTaUNST00ybGtyVjV4eUlZTnZwenhiSVZ5SEk?oc=5",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-08-30T14:08:37.000Z",
         "summary": null
       },
       {
@@ -70,6 +63,13 @@
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOHB6cVR3ME9pd2JORlc0aWVYc2VyQTRKbERFRWNCOTNsN1g3a3dsZEFYUHJDWTVkaUw4N2RWdWY5ZzRaWjdMWU8zSlN5NGNRUjVCOFlRSTh3eXlTMEdsVW91d2dDdlJHZjgwbzZmS1lqUk5aY1cwb0tORkFuVzMyR3RTaDRMMkZoUlJIZkpYbmlmQTYwdkNXRThuaUJxbTF3ZmI1aGZpeUlWZXJHRTlWVk9DRTk1Y3V5eENUdzNqZGtQTWg0WFR2VmtSTzhudw?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-08-30T07:42:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "63,206 Shares in Intel Corporation $INTC Purchased by Geneva Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSlV5MmU1SzdmTnNnS1hjSEZPb3hxZWNsc041cnVXSGE4SkVMUGQteFp3UWI0U2gwQ3NrU1N0eHJxT015bW1hZUtZdE5LNml1X05vZ1RsblJCWDQ0UEcxNEowODFlT2VPVlQ1RW1BRWFyaUdjMjVaZFB4OUlaSTAzOUREZDFNeXpjUVJZLXZuUUNvLTV5bGJiWmJ6VFYxS21Ia2NBc3Vmcm1qTXBuYWVQdmI5dUE4TG45THdkSkY3N1VfWUV6UmNKM25wLVc?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-30T07:42:47.000Z",
         "summary": null
       }
     ],
@@ -203,16 +203,16 @@
         "summary": null
       },
       {
-        "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here’s Why It Led Magnificent 7 Stocks - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalNzWk9Hb2Z6bzNPS29fUTFCajdFRVJhTXlGWHNCTHBPZDVyRzhoWEZEV04tV2lLaFBIbnVkd0dZTTNQb0JOLTJ2eVpCMGFIMzZlbjlRVHJCanBJb1VvSnlZTnJuQy0zbDJWOWFTSl9iSmwxd0dGc1gtZ0lSZ1BXbzVYQVdfZHdGVjJzUW5NZ3ROYTNuUVhWSHRtekU?oc=5",
-        "source": "Yahoo Finance",
+        "title": "Apple’s Anti-AI Position Suddenly Becomes Stock Market Baggage - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3hVcFo4aXJweEVPYXpCUHNOMy1uWUlRX2luTGVLZW1YazRkMW1BNm9aRFd2ZnFIUWxiaFlmbUt3Tm85SmhxOHlqM2NCSG5LX1Zkckk5MGtwZzIzNUFzeEtIdTFFd1VJYUxtaEl5VE8tOUxFM21ueER3TTE5WDZ1bTB1TzRWY0xoU1VuQ2RGS0NuSGJWdjJPY3lHSTdraGJTeFBWY1dHUl95dXpJX3NyUEN5VQ?oc=5",
+        "source": "Bloomberg.com",
         "publishedAt": "2026-08-18T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple’s Anti-AI Position Suddenly Becomes Stock Market Baggage - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3hVcFo4aXJweEVPYXpCUHNOMy1uWUlRX2luTGVLZW1YazRkMW1BNm9aRFd2ZnFIUWxiaFlmbUt3Tm85SmhxOHlqM2NCSG5LX1Zkckk5MGtwZzIzNUFzeEtIdTFFd1VJYUxtaEl5VE8tOUxFM21ueER3TTE5WDZ1bTB1TzRWY0xoU1VuQ2RGS0NuSGJWdjJPY3lHSTdraGJTeFBWY1dHUl95dXpJX3NyUEN5VQ?oc=5",
-        "source": "Bloomberg.com",
+        "title": "Apple’s anti-AI position is becoming stock market baggage - The Mercury News",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrX2N1blg1aEFHS3AwZWFOZnE0NDJmX1U2NWFibldTSW5adEhFejFBMW02Zl9NQXR0ak4xTXdyaWU5QXFwWmhyQ1JjYVNaRW5SWlR0NjQ4SlBNUVhfZy1oXzJFbUZaSUV1R0c1c9IBckFVX3lxTE5UX29ESXlsX2VLeWoxQ05OS29xSjM4SEozVFMtZnEzc09PeDhkUHFfSTlfVFNwRG1GOFFzTmNuSTkxbEtKVEI3SWdsTFB1TWQ1STktZUJNTEpfRUpsQ1R6VS1vN1QtZEVtYk41OV9jZEdzdw?oc=5",
+        "source": "The Mercury News",
         "publishedAt": "2026-08-18T07:00:00.000Z",
         "summary": null
       }
