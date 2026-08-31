@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-08-31T12:45:48.674Z",
+  "generatedAt": "2026-08-31T20:39:16.849Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-microsoft-intel-201000476.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-31T20:10:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock (NASDAQ:INTC) Notches Up as SK Hynix Considers New Deal - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlNBdGhqbHVweDlXeHVCeXNJdkg5RkY3Z1Z0a3pVbVlyTWxVZUhkR1BHTGdJdWNtdkJNSWZDWE14a0x2YWcwTlRUX1luSkgzUDlQQThVcGY1bkNtS2RCbTlxZGJOQ0RuYV9JWEp5MXIyQ0JZZlM2akZyY1BfdGRwajVnMXpuZVJpcnBsVnZTYkZVYzQxSVdnbzVR?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-08-31T18:53:11.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Is Paying Now For Revenue Due Later",
+        "url": "https://www.trefis.com/articles/613729/intel-stock-is-paying-now-for-revenue-due-later/2026-08-31?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-31T14:51:04.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Is Paying Now For Revenue Due Later - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGVNYUVBWEVEWFpJU01tdW5pbk5FSU9GbkRPUWdETFB3YXhGamlZM3l5RE01dmlwR1p5Y3lWUGJLQ19RRVpwUnI4TjRfRWVXOFhYekRpSnYxYVpXWVNmS2NmazBQcVBZcUxqa3dsUHRQb3hXR3VNc3ZPVmhhclkwbHM1SlNnY21kLWFMNktja2tnNU93ZTZMWnM1anJDQV8tT2FjR0xwZFRNUHFm?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-08-31T14:50:34.000Z",
+        "summary": null
+      },
+      {
+        "title": "Amkor's Global Footprint Expands: Can It Strengthen Customer Ties?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/amkors-global-footprint-expands-strengthen-143600057.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-31T14:36:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Insider Confidence Is Building in These 3 Very Different Stocks - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2xwRVJjazcxQ1NCeUw2bmx2bk9SdUVjTVRmdnFacEV3OXU3ZDdKUTI0a1I2MkduY3pfT21XaHdDYW01M0tZUWdVSWdWMHBpY3BUcmo4SWdLTmVIVHZSSnNqMlhmcU1GWHU3a180TENTSmRTa24yOG9RWHJqN0hFaFAyVS1IV3U4blppYWQ0eXAzdS1TQ295ZUgyY1NmZ3RZb1E?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-08-31T14:32:37.000Z",
+        "summary": null
+      },
+      {
+        "title": "The Floor Under Micron's Worst Case Is Written Into Its Contracts, Not Memory Prices",
+        "url": "https://www.trefis.com/articles/613723/the-floor-under-microns-worst-case-is-written-into-its-contracts-not-memory-prices/2026-08-31?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-31T13:52:02.000Z",
+        "summary": null
+      },
+      {
+        "title": "Here’s how much Intel stock is down since CEO bought $12m of INTC shares - Finbold",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHZ3ZzlNNy1meHFVZkN4YjZzRmNKcnN3TGdKMnlJNXlQNGdIYkJIb0JiNFV3S1Q1RG5JSWhiTmhUS0V2M2pheWViUF9VZVIzVFpKUU5vNVQzMXZFMGVacUhSTTctNzhDVkNTNFF0REtuakRMWE1fend2c3A4S1MzX0Y2N3hManczWHkzU00zWXhUMjdwMnc?oc=5",
+        "source": "Finbold",
+        "publishedAt": "2026-08-31T13:34:18.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Shares Rise 0.3% in Premarket, Remain 5.5% Under $95 Offering Price - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa25FMzVtXzN1R3c0RUJZU1Mxdkt0ZFBvTGxCOXVBLXpkcWhUdDg1Vl95Vk4xMjdYcENZVFAzQV9RVVlXZUZzM3VnYTdiVmoxZ2tsNDlhMW8tOWlFdHc5NjB2WWJzVldHUWZaUWZYNC1qQlRmcVQtTl9TTEpqc28wTjNMZmFFMmtuZTNfVHpGQ1JKRWppbl9j?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-08-31T13:10:05.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (INTC) Is A Key Vendor In The 5G Edge Cloud Market - simplywall.st",
         "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3g3Um5MWTNDaVBWR05EajZ4U0xQam90Yk5VemlGTmIyRXVnQkZhUjJxNm0wcEJ1NjlHVGdpS2ktbFlTYzRNNWNjYktwektFQkI0UjVJcnBXYlBPak9Qd21TOEFDLS1CY2RHb1B3cXBlYmlTYVI1SThPQ3l6bEI2ZWdQbVV3OGcxZU0zX3dKMlJmUjNjeW9zSVVHT1M2amxNYVlubGZGQmdORUNGZGRtaEZzM0RIQmpxWmFGLTNCQmJTQdIBxwFBVV95cUxOM1Fqem9ORUIxNWZnUC1oTEdnVldxazdSMzFOOU5UTjRjOHVpMWx6R09ubXh6Smt6dzJsdmtCbUY2TGJOOUYtSnVSUUMwYlNZYm00c1YtT0Z3RWowY2xnOWQ4SEdnWmlqYURXR3AzYnh3Q0ViQ3pEM25rNExJME5hc3pOZ2Z3NTd3QzdXS3dqMnduQ2JuUXlGVThsV0FZcXcwWFRkQlpEV05mMFBoM1ZXbXRWcTFCa2stT28zcmtoLVBZT3VpZ0pJ?oc=5",
         "source": "simplywall.st",
-        "publishedAt": "2026-08-31T11:30:20.000Z",
-        "summary": null
-      },
-      {
-        "title": "CEO Lip-Bu Tan Just Gave 12 Million Reasons to Buy Intel Stock - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUVYaHAxNThMMmVVVnoxb0JYU3d4cldSNHpVNXRxR0M1VWxXcVM0QkVoWnZ2cW5ZS2t1TnJZR3lUWjZFWFVSWmZ0NVBEZ3pmNTJVMjJ6RjZjTi1VSnRINklTdEhOc0s1eE9IOHh1TEgxN2IxM0lqU2JXR2ExbjlyS1BsY3lndFhnZGlRVlJ5dURxZHBmQWVvQg?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-08-31T11:07:50.000Z",
-        "summary": null
-      },
-      {
-        "title": "Update: Market Chatter: SK Hynix Denies Report of Intel Foundry Partnership for HBM4E",
-        "url": "https://finance.yahoo.com/technology/articles/market-chatter-sk-hynix-denies-110516290.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-31T11:05:16.000Z",
-        "summary": null
-      },
-      {
-        "title": "CEO Lip-Bu Tan Just Gave 12 Million Reasons to Buy Intel Stock",
-        "url": "https://www.fool.com/investing/2026/08/31/ceo-lip-bu-tan-just-gave-12-million-reasons-to-buy/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-31T11:05:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel, ServiceNow, Chevron, Strategy, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/f4e62109-88a1-3f26-9769-b6faaf8c8d8b/intel%2C-servicenow%2C-chevron%2C.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-08-31T10:16:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel, ServiceNow, Chevron, Strategy, and More Stocks That Explain Today’s Market - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CM1Z4ZXJzWnZUZU9Nam5TaXpmV0tYV3ZwbU1yMmJUWUFrX09kS0dScGloQU5DR2NLbG9kVXZ6TTgzaFlYcGMzZFF3MUlwUUsySjFmbG55c1lHQVNlQzRWLTVMU2g?oc=5",
-        "source": "Barron's",
-        "publishedAt": "2026-08-31T10:16:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Is Intel Stock Rising in Premarket Today, 8/31/26? - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRWFuOV84c3NtYUZoR3c1eFZvbDEtdndfazU0dFdtYm16MWJXTDVVM1l4NWhfcE5MYUJxMUdLbkQzZUNVMmRaTUhOX0dFN09FbTZqMVp0dnNkdGdwREdmUHhfV3g0RzU4M3hScHFJcUN1QU82TjhuUXhUNXplVXpFa18zTUxqdV9NbXc?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-08-31T09:10:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "926,753 Shares in Intel Corporation $INTC Acquired by Ieq Capital LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbUhidTVhMmN2OUFQYXJFTnVxVEc3TlowRlpwQ25vLUs4N3k0d05MOURaRFdRLUJwSmo1NUZtTmhrRUFFaTZYZEk4UHJMQ2lOT1lpS0xJVWZYbXdKa25ZUW0tN0I0T05ZengzNlJpQlZERC1wLXpBLVM1LXFRb2VubHByeUxza3JrRmRZZkN4QnJNaDMwN2tuNHNJR3hTSzNkN18xcHVVRGNQbjNXVXlTZ2pjWkNDVTR3bWk0RzFtdnRqZHQzQjlR?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-31T08:51:01.000Z",
-        "summary": null
-      },
-      {
-        "title": "Keebeck Wealth Management Acquires Shares of 14,308 Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGpZT1QtaW5CUjU4cE1uaFdEeXRvWDJhWVYtUUc5emZaUTg0TFk3b1ZxeHozeEpMcmp1NHdMQl9LNUdOSHJBckZZM00zcHlYcEozeEMzNEo4eEI2Mm1taGpET2xKdDlFRmRoSkMxaU52U2FiWkYxTzlaMW1TQkxqM0s2d0JpR0NZU3piU25xNmlhQU5RTHplOWpvbElyUFpkQ3M4RFYtVFZVR2FxTzVNajhjT3h6YThfRV9OWEhDcWVRcy1YM3lwTmpibkFZLTQ?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-08-31T08:51:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Are Nasdaq, S&P 500 Futures Subdued Premarket? NVDA, AAPL, INTC, CRWD, RKLB, SLS Stocks In Focus - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQb29xeTFVTy1BUXRKcXRjZFd0S2NMMkppMHhfUDNKcXZaTXFvUUhDTnMzREJwOHphWFhzZVV5UjNYN1FBSVEtbFloTnhxdkNoWFNqbHVwTGFUdTB1aGotMXJiTnB0WlBZeGJsUWRzMlp0dzZHQS1sTno3M1EyWERrbmVNYlZJdk5IUi1xcnJCeS10U2ltRFJHRUdfUy01eUFVbWVyWFZldUhnS3E1UkNmNi1FcHhFU3FfYTUtNlVCUUk2QVN5YWhIUzlySnktOWJXY1BxRkZWbVZqbF82bDRqbm0zSkZ3QUdOYXpENmotM2x2bEJNajdF?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-08-31T08:37:13.000Z",
+        "publishedAt": "2026-08-31T12:17:24.000Z",
         "summary": null
       }
     ],
@@ -138,19 +138,19 @@
         "summary": null
       },
       {
-        "title": "주가 반등에도 대탈출…주식 고수들, 삼전닉스 순매도 1·2위 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrZVp1TmY0eThoZ3VPckpDellQQy1PNnUwRVhEc2NjempLVmctV2VhT3IzQ215V3Z3c0E2VG9ndXpaQVRLMTdiTGJGQWFmQmJ0OHc?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-07-30T07:00:00.000Z",
+        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제TV",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNXpOYllqZEVVSUFzWm1IeE5tVGZISU9zTmtwSmxMekxlZ2V4STZ0VzNfeThTTUI3dXM2Z2dJRmpKVUdCbkEyRTl3Z3hHeXpIX2d0NHRONnFDcVVyT05yY0lzNExyeWFw?oc=5",
+        "source": "매일경제TV",
+        "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "AAPL Stock Quote Price and Forecast - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-08-30T11:58:09.000Z",
+        "title": "1 Top Warren Buffett Stock for Dividend Investors - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVEhBbjctdDNfSGx4OVpFVG04MGQzTlpiZ0NaNC1NQjhZWkxld1VjTmRqb250VTBQUFhFcVppeVgweFpYeGRpVUJDdDdCTHhhSjJCVlFsd2NOcUpUTHJ0OE9weF8ydE1udjdKTktHNDB5RFF3NG9CSi1Hc3hGdlBsS25uRTBmLXAyWVB6dmpXTzRoNjV6U3ln?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-08-31T01:05:00.000Z",
         "summary": null
       },
       {
