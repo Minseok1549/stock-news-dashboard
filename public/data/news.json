@@ -1,7 +1,28 @@
 {
-  "generatedAt": "2026-08-31T20:39:16.849Z",
+  "generatedAt": "2026-09-01T00:23:27.192Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Marvell's Hyperscaler Deal Lands In A Fiscal Year Management Will Not Size Yet",
+        "url": "https://www.trefis.com/articles/613731/marvells-hyperscaler-deal-lands-in-a-fiscal-year-management-will-not-size-yet/2026-08-31?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-31T23:53:57.000Z",
+        "summary": null
+      },
+      {
+        "title": "The Biggest Risk To Cerebras Systems Stock Is Sitting Inside Its Backlog",
+        "url": "https://www.trefis.com/articles/613716/the-biggest-risk-to-cerebras-systems-stock-is-sitting-inside-its-backlog/2026-08-31?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-31T20:58:15.000Z",
+        "summary": null
+      },
+      {
+        "title": "Is Broadcom (AVGO) Stock a Buy Before Its Q3 Earnings?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-buy-q3-203900190.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-08-31T20:39:00.000Z",
+        "summary": null
+      },
       {
         "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
         "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-microsoft-intel-201000476.html?.tsrc=rss",
@@ -50,27 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-08-31T13:52:02.000Z",
         "summary": null
-      },
-      {
-        "title": "Here’s how much Intel stock is down since CEO bought $12m of INTC shares - Finbold",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeHZ3ZzlNNy1meHFVZkN4YjZzRmNKcnN3TGdKMnlJNXlQNGdIYkJIb0JiNFV3S1Q1RG5JSWhiTmhUS0V2M2pheWViUF9VZVIzVFpKUU5vNVQzMXZFMGVacUhSTTctNzhDVkNTNFF0REtuakRMWE1fend2c3A4S1MzX0Y2N3hManczWHkzU00zWXhUMjdwMnc?oc=5",
-        "source": "Finbold",
-        "publishedAt": "2026-08-31T13:34:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Shares Rise 0.3% in Premarket, Remain 5.5% Under $95 Offering Price - TechStock²",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa25FMzVtXzN1R3c0RUJZU1Mxdkt0ZFBvTGxCOXVBLXpkcWhUdDg1Vl95Vk4xMjdYcENZVFAzQV9RVVlXZUZzM3VnYTdiVmoxZ2tsNDlhMW8tOWlFdHc5NjB2WWJzVldHUWZaUWZYNC1qQlRmcVQtTl9TTEpqc28wTjNMZmFFMmtuZTNfVHpGQ1JKRWppbl9j?oc=5",
-        "source": "TechStock²",
-        "publishedAt": "2026-08-31T13:10:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Is A Key Vendor In The 5G Edge Cloud Market - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3g3Um5MWTNDaVBWR05EajZ4U0xQam90Yk5VemlGTmIyRXVnQkZhUjJxNm0wcEJ1NjlHVGdpS2ktbFlTYzRNNWNjYktwektFQkI0UjVJcnBXYlBPak9Qd21TOEFDLS1CY2RHb1B3cXBlYmlTYVI1SThPQ3l6bEI2ZWdQbVV3OGcxZU0zX3dKMlJmUjNjeW9zSVVHT1M2amxNYVlubGZGQmdORUNGZGRtaEZzM0RIQmpxWmFGLTNCQmJTQdIBxwFBVV95cUxOM1Fqem9ORUIxNWZnUC1oTEdnVldxazdSMzFOOU5UTjRjOHVpMWx6R09ubXh6Smt6dzJsdmtCbUY2TGJOOUYtSnVSUUMwYlNZYm00c1YtT0Z3RWowY2xnOWQ4SEdnWmlqYURXR3AzYnh3Q0ViQ3pEM25rNExJME5hc3pOZ2Z3NTd3QzdXS3dqMnduQ2JuUXlGVThsV0FZcXcwWFRkQlpEV05mMFBoM1ZXbXRWcTFCa2stT28zcmtoLVBZT3VpZ0pJ?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-08-31T12:17:24.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -103,9 +103,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자 005930 - 데일리바이트(DAILY BYTE)",
+        "title": "삼성전자 005930 - mydailybyte.com",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3VUdxUnNyeHppSHVFU1o2QXNXZUM5UlBQcjloVHBYQV9mbnhYWXJ3OGlGM3EyYjZxVnQzbVRFdUl1Q0J6SjloRTIwbVIwTWVhZ0NvS1g3cWJYWFJLVnA2Njd6X1NNcjJXd21Lc3dn?oc=5",
-        "source": "데일리바이트(DAILY BYTE)",
+        "source": "mydailybyte.com",
         "publishedAt": "2026-08-27T04:47:43.000Z",
         "summary": null
       },
@@ -131,9 +131,9 @@
         "summary": null
       },
       {
-        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
+        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - sedaily.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlE?oc=5",
-        "source": "서울경제",
+        "source": "sedaily.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
@@ -203,9 +203,9 @@
         "summary": null
       },
       {
-        "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here’s Why It Led Magnificent 7 Stocks - Yahoo Finance",
+        "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here’s Why It Led Magnificent 7 Stocks - finance.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalNzWk9Hb2Z6bzNPS29fUTFCajdFRVJhTXlGWHNCTHBPZDVyRzhoWEZEV04tV2lLaFBIbnVkd0dZTTNQb0JOLTJ2eVpCMGFIMzZlbjlRVHJCanBJb1VvSnlZTnJuQy0zbDJWOWFTSl9iSmwxd0dGc1gtZ0lSZ1BXbzVYQVdfZHdGVjJzUW5NZ3ROYTNuUVhWSHRtekU?oc=5",
-        "source": "Yahoo Finance",
+        "source": "finance.yahoo.com",
         "publishedAt": "2026-08-18T07:00:00.000Z",
         "summary": null
       },
