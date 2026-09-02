@@ -1,12 +1,54 @@
 {
-  "generatedAt": "2026-09-02T07:50:01.590Z",
+  "generatedAt": "2026-09-02T13:14:30.069Z",
   "articles": {
     "INTC": [
       {
-        "title": "Intel stock slips as foundry losses weigh on AI gains - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHZwZ0ZYb00zYXN0REVNVDRhSkxvVlVmN012VVkyNElxUzNmQ05mRWJYZVlJWFpWUjd2cTV6dU1tQ0RYWTY4SVRnR24zU09NZmdzWk9pVnQzamVpeFYtMEVYR3k5aWRxQ3d0OWxYSUhNYXNpcmdwdWZnZ1Z0aUlqY2c0N0tLSTFTNDc2bmZKdkNSNFRDX2M1V3lFbzkxbzFVNjJ2QnRwalVKczdhWHlxVmctaGlvUWM?oc=5",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-09-02T05:34:54.000Z",
+        "title": "Nvidia’s $14 Billion Hugging Face Deal Looms But Does It Make Sense?",
+        "url": "https://finance.yahoo.com/m/90c3c364-c7bc-3e50-aa37-6075c6388e55/nvidia%E2%80%99s-%2414-billion-hugging.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-02T12:12:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "The Firm That Filed a Bet Against Taiwan Semiconductor Then Launched a Foundry Fund Five Days Later",
+        "url": "https://247wallst.com/investing/etf/2026/09/02/the-firm-that-filed-a-bet-against-taiwan-semiconductor-then-launched-a-foundry-fund-five-days-later/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-02T11:09:05.000Z",
+        "summary": null
+      },
+      {
+        "title": "Here's the biggest thing keeping AI stock investors up at night",
+        "url": "https://finance.yahoo.com/markets/stocks/article/heres-the-biggest-thing-keeping-ai-stock-investors-up-at-night-095513638.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-02T09:55:13.000Z",
+        "summary": null
+      },
+      {
+        "title": "Tairen Capital Ltd Purchases Shares of 469,340 Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeEdscEJhd2NORHROaTY2cm9fVWRHOVByR0hHT3JTUFFNenNsdmdGWkdrbThDU2x4ckJBSTFQaDllMFhtc3k2TExQSE1fR2JLVEtBRmlicFg2bDc5TU5HeEMzVkF5RmZvVTZRT0sweHF1Wi1QeDNsUDNtQUJ5QlBiQkJwd3U2VlRtR2tYRHlTajhKZVJ0elFDd1hmSUxYMmlBS0F2VDdKMjB4LW1EOVNkX0lDZTl2dnBXY3I3aUtkbkEtdVZPSUlRYg?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-02T09:04:09.000Z",
+        "summary": null
+      },
+      {
+        "title": "Sanctuary Advisors LLC Buys Shares of 366,969 Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbzE3NjVFdFpoWHdMd3JYQzVEYW1FOGtFTU1nS3lKSHNLc0x0VmhZRndOVGdlM3hnalNMX3VUaVpoNHR3YjBLYTdxMGdFdEkxbFNoRTBFX3lZTzFsZVZvYlRmYTdzNVZ6MU9kZnBwb2hBbUdsTndIX1l3dFM3Q2IxX2NDQlNJeE51SkdXZ3dOR3VjcDQzNmV2Yjd5ajZVYUNJMVZOcjVBYVNONTZwTGdLT2h1YzNVaTJlckpxVGZiOHE1SkRvSndz?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-02T09:04:05.000Z",
+        "summary": null
+      },
+      {
+        "title": "Visionary Wealth Advisors Buys Shares of 9,151 Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcm1qaDZEUExvVHNTZGswNEtzaEVJaldBTkpFYlVfQWZQX0tIYTU2cDgzTXFCTUpjcWxxN1RGenNuSFc3aVBjZDExVkhFN1EtYlhSS3ZiTDhyMVVmNGtPWTJJcEotSFdObW9tZU9iYXl6dTVmRXNTbXFSdkFCY2hfT3MtOHlReEhGbXRvNnpYLXozVThqREYyTHA0M0tpLU1hZGtfWkZETUxJZ0VjdUJ2S2k5ak1Xb3FHN1dBZHQxemIwTF9GbzNYUw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-02T09:03:17.000Z",
+        "summary": null
+      },
+      {
+        "title": "E20 Capital Ltd Purchases Shares of 1,442,910 Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONGJNSHU4aXhRcVBlNThpTFJIT3hNUmtPb3lOLVlTNWVCQnRXVzBxZnlINzYxOThhN0FGUzVkWTgySXplQ0s3VHNKcTRwb2ZzaWxETUJnNFNEZTRUdUs0ZURQQmlNQlZ4QUFCSGM0Y1dzME5HRDdMVDN5RmxkRTRnT0d5a0RJNDh4Y054a0ZMSXVkNDNxVGVqbzNScDFjX1E2LWFfb1o5V1g3YjR6WncwZlZLczY1a0tfcTZBZ001VnAyZ29XaUE?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-02T07:39:31.000Z",
         "summary": null
       },
       {
@@ -28,48 +70,6 @@
         "url": "https://beincrypto.com/strategy-phong-le-bitcoin-buying-logic/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-09-02T01:39:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "INTC Stock’s Next Boost Could Be Here: Report Says Intel May Land Korea's SK Hynix As Major Customer - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWJaV1MwbXUzanFQdjJWQUxVNmJUSF9Ra2xUUGlMalk0VjV4NFVQeE5BX3IxSnhyejZNMTlBVnhwWFFxN0V4ZWlELWNDRm51Z0NJR2NWWlZTOEFQbnRERVBoMFdWWS1CZ0hocTVmUF9xNnhjZlFobUtCdFNPeUg1WDhnWFliSUpXTC1weW9od1hydG4tY3lDcDV2VWpmeDAzVExDNFFnQkMtOUNkSzNvWWhJM2dqR1R4ZE5RSjZKV0N2bTMwVE5fZWt3RUdqcTFkdWdhMUlVNFJuRi1keF9wUmtrTmdibjVRUEN0eW5aNk8yU2pxTnc?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-09-01T22:19:59.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-intel-falls-on-chip-stock-pressure/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-01T21:43:56.000Z",
-        "summary": null
-      },
-      {
-        "title": "Stock Market Today, Sept. 1: Intel Falls on Chip Stock Pressure - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0ItUThZNGx6X3dtamZ6TnJobmdVT2JiTi11a1ZfN2lHc0hTRjA4ZXlveEtMbG5DTzdwdl9XaS1iLVhLNnRTNWNCUmFrMHBYbnJDNmxkRzRRMk1hRjktbFBzMm9YcG5HLTJGUWwyQ1paV0xhekJIWlVibXlIeVIzU1VickRTaVdPMnJGaFVIMGc1bGtENTJjcGR5N1lNNTNTZ3liSkhJT2Zjc3diRUYwT1l0RVczNUtUYmxvUWhB?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-09-01T21:35:23.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel’s CEO Put $10 Million Into His Own Stock. It’s Now Cheaper Than He Paid",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-ceo-put-10-million-213239962.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-01T21:32:39.000Z",
-        "summary": null
-      },
-      {
-        "title": "Tesla, Apple, Nvidia, Medtronic, Alumis, Robinhood, Fervo, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/f25073b8-cd7e-34f5-9321-76bd88931527/tesla%2C-apple%2C-nvidia%2C.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-01T20:24:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia-Backed Anthropic Inks $35 Billion Deal. Just Don’t Call It ‘Circular Financing’",
-        "url": "https://finance.yahoo.com/m/3bc517ef-df4b-385c-82ac-32a84b9836ae/nvidia-backed-anthropic-inks.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-01T18:36:00.000Z",
         "summary": null
       }
     ],
@@ -124,32 +124,46 @@
         "summary": null
       },
       {
-        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - infostockdaily.co.kr",
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
-        "source": "infostockdaily.co.kr",
+        "source": "인포스탁데일리",
         "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
+        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - sedaily.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlHSAVNBVV95cUxQcUVTRnB3UXpKbEdKdy1mbl9FNDdxWHlGeWVNaDlVWkpWbzFKSUxJSHh2eHdpRWx4XzFiOTdVd1NsSlktbUJfRDVyQnRVNmZCQklSYw?oc=5",
-        "source": "서울경제",
+        "source": "sedaily.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 주가 급락에 배당 매력도는 급등 -미래에셋 - infostockdaily.co.kr",
+        "title": "삼성전자, 주가 급락에 배당 매력도는 급등 -미래에셋 - 인포스탁데일리",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vbzl0bVo4bkFSRU5uemVySUJWWUFTN1NORWcxUGtEVlNhTWtaRDdtZ2I3emVxQ0o2bVdaRmRBczI1WTZ2RzF6UUc4VnliQ2ZNOWNIam00VUJweXJFbWlCSXFaR3U1YnV0d2t5YmJlbWZmczdralE?oc=5",
-        "source": "infostockdaily.co.kr",
+        "source": "인포스탁데일리",
         "publishedAt": "2026-07-29T07:00:00.000Z",
         "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "LETS WATCH THE STOCK MARKET: APPL, QQQ, SPY, SPX, NVDA, TSLA Nike Stock (6H5K2D7ntC) - mshale.com",
+        "title": "With Tim Cook's Era Ending, Is Apple Stock a Buy Under John Ternus? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZHF4RERoa0g1TUhPRUtTWmowUUFrMnY0NmI4c0RISVltNEpQYWoyT0l5TGVPRGFjSkdsXzB6dldEbTZpMXNMa1JmZUZSZkNsWlRpSTZ2ZXEyOFNZTDBCSkdHNlhWb2JmX1VDb3pocHdSOGN0RktrYlpxVjNkT1k4Z2pvNzBCUVpDTmt0U3Jqb1g1SkU1ZWc5RA?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-09-02T10:40:29.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Inc (AAPL) Technical Analysis - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRjZ5RGxiUjNNc2g0akxOWHlUOXozQk85MXNzaF84cTZMUUVSMXEyRDZ1SVBGQW1JTlc4TXY5cGhhMlV3Q0hUakpIV2xNVVNpWm5fZnhlN3NuMkNDQjNfNURES2JCUQ?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-08-31T21:07:01.000Z",
+        "summary": null
+      },
+      {
+        "title": "LETS WATCH THE STOCK MARKET: APPL, QQQ, SPY, SPX, NVDA, TSLA Nike Stock (6H5K2D7ntC) - Mshale",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5laUpQQ3Nib0ROMjg2bHRwZHNOWFV2VFB2bnV5bThuWEg5ckUtRDhiOEVnSDZrWldHeHJhVkhwM2dEeW5JOW5iQ2p5eDZsTGx6SUE4V2VWWDBrWDBsUzhEdg?oc=5",
-        "source": "mshale.com",
+        "source": "Mshale",
         "publishedAt": "2026-08-31T08:38:19.000Z",
         "summary": null
       },
@@ -175,9 +189,16 @@
         "summary": null
       },
       {
-        "title": "Why I Sold AAPL Stock To Buy Tesla Stock | TSLA | Stocks To Buy Now Alexandra Diaz (dlGQmXwmDu) - mshale.com",
+        "title": "Apple (AAPL) Stock Forecast for 2026, 2027, 2028–2030 and Beyond - LiteFinance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjhTSUdRdzFBRjRyeFFZUS1oRU1VWlpUa3hVYi15dmhad3BudXpNNXVOczUzUV9XN0ZlYkFmc2t0Z2Jna1BoOVBlWVd2Q3lOX1pmRjZ5Y0FRblcySjlYaERjZ21sWl9samhoZUFpUWFTUEZPLURyTjBXMUZuNU9LQ21jQTRtaF8xaVQ4bGRxMmFuRm94ZnV4QkxkSDdzQjlE?oc=5",
+        "source": "LiteFinance",
+        "publishedAt": "2026-08-27T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why I Sold AAPL Stock To Buy Tesla Stock | TSLA | Stocks To Buy Now Alexandra Diaz (dlGQmXwmDu) - Mshale",
         "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1odWdLSDByNm9kZnlaX0VFZXlobnZmQlZCb3YzdHBzcmQ1ZEQyUzAzR2d1ODdSUHc1bzMxT0RVdS1tb25yMXVFUHljblZVTkpiNkJtaFVDRDJxcU1rN1BONw?oc=5",
-        "source": "mshale.com",
+        "source": "Mshale",
         "publishedAt": "2026-08-26T19:46:27.000Z",
         "summary": null
       },
@@ -193,27 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVp6ajM3SU9ZcE02cHM1c0haV2o4eWUzaFp5SERWM282SUlaY2hJMGZPa3U5bks4bmpzZmtwZXJsS0RrS2QwT05VT1hFZkRDblM4Z05Ha1lJYS1TS0VoWmpkamZVZlFHdmNmeXFHWFJaME91dzhfd1lqNEZ2eW53Ny1aRmc2Qlh5SHF0RG5JX21pbjRRUWdFUl9QTlZ3Q0VHR0N5TVZXRTFkNU9zUGxDRjFBVjFUNWt5WklZUS1VOV83aU9GQlYxSlBNMUI?oc=5",
         "source": "Stocktwits",
         "publishedAt": "2026-08-24T08:36:23.000Z",
-        "summary": null
-      },
-      {
-        "title": "Bank of America predicts big changes for Apple after Tim Cook - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRaUU1WmFVdGZ3TXNWRVVpVmJ4WU9IRVZVeFJZNk9CSzZ0amZkdzJjMGFLVlpTbmFhV1RBTXZXYjNJOEJMVHloTzBHTzlhVFJ5OG5lQV9oTkp2OUs2R2ZJUENaUmVmT2pRX2hSM1FZbUNoV3daMk1GR1pTUQ?oc=5",
-        "source": "thestreet.com",
-        "publishedAt": "2026-08-21T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock Target Jumps From $260 to $400 in Rare Upgrade to Buy - FinanceBuzz",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WUFd2T2pyYmlyWU5TazMyR3hwX2x3c2s4MllxNGxaRTZWcG5sVk9URE44SkQ1X0NTbWwxdWFOdG0tbDh2NXVUV3NGRzE3S2NoU29OVE1QTVBfN3pTd25oWVl3R0lXVUlhelVHamsxUnVVNHhq?oc=5",
-        "source": "FinanceBuzz",
-        "publishedAt": "2026-08-19T09:59:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why is Apple stock rallying today? - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb3VwM0diakdQaEpUeWlTdk1LRkx3SHVnMFMtMGZzNEZ2YTlGdHVWZ2VVWGpBamVRbjh5TjNhUTlYZWMzazJjTU1Calh4cktlMkw2d2JiX1JVNXJRWXF6YlY4MV8xbC00VmF4TFJlOWh0NTdhalJ4ci1HZXBHU3IyUldkdWhmWGR2RGFTMldqTlFnVVBXUGtYSXVpOA?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-08-19T07:00:00.000Z",
         "summary": null
       }
     ]
