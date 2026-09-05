@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-09-05T14:37:38.464Z",
+  "generatedAt": "2026-09-05T17:09:04.840Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Stock Adds $21 Billion; a $200 Target Would Make It a $1 Trillion Company - TechStock²",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkQxOG5oQ0hITU0xazF0OEU0TkdibjZSWDF6dHFnMUFVWXd4R2Y5Sllnb19BbU8tcFF6cFNMb1RjWVBNOTRVT240LXJuT2dFbURQaDhwV0tpV295SXUtcEhfTHJtR0ZqZkNVWGZBbGVwMXc4NzBwWkp4Qnd4dzkxejdMaFdCVkFha0lyLVRUR053M3VQLXlOTVUzOGg?oc=5",
+        "source": "TechStock²",
+        "publishedAt": "2026-09-05T15:32:29.000Z",
+        "summary": null
+      },
       {
         "title": "183,653 Shares in Intel Corporation $INTC Bought by Ratan Capital Management LP - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbFJEZUllUHI2bWpHOWxoc3ZhdjQtOXZFbWh1TDNmTVVLRzVaTnF0c1hjM3ozYzQtRTIzNnNvZkFCeW1fX1hsRWd4Nk01ZVJ5bW9CX3Bfdm13VjI1dUdLVldjclJ3Q1RJUDk0M2ZYTVBqeHV2TEJPaDVDaDEzTU0tcWV5cnlPUkx3b09MMWh6amtkSXBYUThxNmlLY0RNMGE2UGtTUXdIa0FjUTBHaExjQVBMbEMydVJXVnJ3TTA3SmlqU2ZFaVpQam9rMWJPZlNaS2xtYw?oc=5",
@@ -52,13 +59,6 @@
         "summary": null
       },
       {
-        "title": "INTC Stock’s Next Boost Could Be Here: Report Says Intel May Land Korea's SK Hynix As Major Customer - stocktwits.com",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMWJaV1MwbXUzanFQdjJWQUxVNmJUSF9Ra2xUUGlMalk0VjV4NFVQeE5BX3IxSnhyejZNMTlBVnhwWFFxN0V4ZWlELWNDRm51Z0NJR2NWWlZTOEFQbnRERVBoMFdWWS1CZ0hocTVmUF9xNnhjZlFobUtCdFNPeUg1WDhnWFliSUpXTC1weW9od1hydG4tY3lDcDV2VWpmeDAzVExDNFFnQkMtOUNkSzNvWWhJM2dqR1R4ZE5RSjZKV0N2bTMwVE5fZWt3RUdqcTFkdWdhMUlVNFJuRi1keF9wUmtrTmdibjVRUEN0eW5aNk8yU2pxTnc?oc=5",
-        "source": "stocktwits.com",
-        "publishedAt": "2026-09-05T07:36:02.000Z",
-        "summary": null
-      },
-      {
         "title": "Intel Corporation $INTC Shares Sold by Beacon Pointe Advisors LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcF95Y20taE9XYXRrWGdpR3NpY3dLaU5xdjZkeENMVjV4WllXUS15eVRrcm5UWHlaRnpfZTM4WEY5UmJnSEN6dEF2X21kQVBodFQ5bnBpTlBZcDVoZzJjdGhvb2xoREtENzNYYjI5bGRnRWN4blFmcktkM3ExVlZMdjl0dWFXRUtIY3dLRS1meWRTbG1pNjJMb2tQb1JXeWo0TUpBTDRTNW1DLThqWDlkTDVhTjdKTGl2NGh6Mk5UWXU5aEE?oc=5",
         "source": "MarketBeat",
@@ -66,9 +66,9 @@
         "summary": null
       },
       {
-        "title": "INTC Stock Still A Buy After 230% Rally This Year? Jim Cramer Sees More Upside Ahead For Intel - stocktwits.com",
+        "title": "INTC Stock Still A Buy After 230% Rally This Year? Jim Cramer Sees More Upside Ahead For Intel - Stocktwits",
         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQnZod2lYMUNWUE5IUlJrMy1NeU9GTHZObmFJSGxuRnAySlVGZDRZV3FtWlN4VlZDdXdFM19xZHEwdkh2akJwOHIwY3BOWU5sTkkyUFVNbjhyZjVzTVpLR0dVWjNNLVEwRUxBYWFLcVdWSUVneXJIVVExUTlrNVZVb0RVRzhTdUd0YkM3bFcyUkVaM0hUMXBtUDhPSUx6STVNNEtRckE0Slh5cjZrQlcwbk5pLVJGT2RYNWZBS0xIZDh6eElZZGxaQkZEZUxndVd4ZmNSQjNuQTE2akxzYTFLZFdyY0pISXZId1gteU5oNA?oc=5",
-        "source": "stocktwits.com",
+        "source": "Stocktwits",
         "publishedAt": "2026-09-05T05:56:39.000Z",
         "summary": null
       }
@@ -131,9 +131,9 @@
         "summary": null
       },
       {
-        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - infostockdaily.co.kr",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
-        "source": "인포스탁데일리",
+        "source": "infostockdaily.co.kr",
         "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
       },
@@ -147,9 +147,9 @@
     ],
     "APPL": [
       {
-        "title": "How to Buy Apple Stock (AAPL): Everything You Need to Know - fool.com",
+        "title": "How to Buy Apple Stock (AAPL): Everything You Need to Know - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZEdWbTZGX09hRmZxNnBCcG95eTB6NFJLekZ3TU1CV215ZHpyYVN2ODNCNGhOTHVUZElRemFmZnBjRE5YZEtxeUpGNUVKN3lVSExjSUZYal9tZ1VtS0p6Mk5RTU1vczZpWmhxV0MwTS15LWxNZXR3MlM5MUNvQmJYVUtJSkoxWXB0YVlzTmE3akZxV2JRS25obnllcDlKZjBHRENfQTZIYzY5LVkybWlFaWMtVDljdExBS29LQURuUWtMZ1Z5TmNxUFd1WHQtUHBSdFlxRGZsNDN1SWdDd3RYa2lHTTlBR2lJX0NpSTdZeDd0VDlSSVAtWFBNMVpvbkR3SUlfYXVhTVRvV0lQTC1jNkZQWTE2R1VLVFFUREJpaw?oc=5",
-        "source": "fool.com",
+        "source": "The Motley Fool",
         "publishedAt": "2026-09-04T22:24:51.000Z",
         "summary": null
       },
@@ -161,9 +161,9 @@
         "summary": null
       },
       {
-        "title": "Apple Stock Forecast: AAPL Tests $330 as John Ternus Takes Over as CEO - fxleaders.com",
+        "title": "Apple Stock Forecast: AAPL Tests $330 as John Ternus Takes Over as CEO - FXLeaders",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmZfV0hIVVFlNlZnNlF2OHVuOE9XV19TMFZOVTM5cHpseWZJMEhicDZpWEtFOHNucmlLNm93UkdQbHI4ZDR6WnZXOFdJQkdHMkhzelRUbjZLNXpUN0pGTjJxVzN3NHRYS3RJTmo5eDlrR01ERHQyaGtPWTc0cXJUc05IZDh5R3BDUjhCYQ?oc=5",
-        "source": "fxleaders.com",
+        "source": "FXLeaders",
         "publishedAt": "2026-09-02T11:52:56.000Z",
         "summary": null
       },
@@ -182,9 +182,9 @@
         "summary": null
       },
       {
-        "title": "$Apple (AAPL.US)$ Read my previous post about APPL PUTs at the 315s on 8/26/2026. - Moomoo",
+        "title": "$Apple (AAPL.US)$ Read my previous post about APPL PUTs at the 315s on 8/26/2026. - moomoo.com",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXUxd1BMZTA4YjVMZmd2Qy1MbUEtanptMERLSWpjLW9OcDdIbk1zRWZpN1NkOTBfRmkwQzQ0eGlFenpVNGxBUGxWd2ZjNGhvY2x3U2NMbWRxZC1zZG9TXy1lWUZVemtKLTZVV3lCSkxpMXpxVGRHR1BiUmtTalRkeUZYeW81Vk1kaU1GMWpoWkwya3pPand0ckRDRnVCY1I2R281dWNaSWs?oc=5",
-        "source": "Moomoo",
+        "source": "moomoo.com",
         "publishedAt": "2026-08-27T08:44:13.000Z",
         "summary": null
       },
@@ -210,9 +210,9 @@
         "summary": null
       },
       {
-        "title": "AAPL Stock Ticks Up Premarket As New Foldable iPhone Details Emerge - stocktwits.com",
+        "title": "AAPL Stock Ticks Up Premarket As New Foldable iPhone Details Emerge - Stocktwits",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVp6ajM3SU9ZcE02cHM1c0haV2o4eWUzaFp5SERWM282SUlaY2hJMGZPa3U5bks4bmpzZmtwZXJsS0RrS2QwT05VT1hFZkRDblM4Z05Ha1lJYS1TS0VoWmpkamZVZlFHdmNmeXFHWFJaME91dzhfd1lqNEZ2eW53Ny1aRmc2Qlh5SHF0RG5JX21pbjRRUWdFUl9QTlZ3Q0VHR0N5TVZXRTFkNU9zUGxDRjFBVjFUNWt5WklZUS1VOV83aU9GQlYxSlBNMUI?oc=5",
-        "source": "stocktwits.com",
+        "source": "Stocktwits",
         "publishedAt": "2026-08-24T08:36:23.000Z",
         "summary": null
       }
