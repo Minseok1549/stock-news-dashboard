@@ -1,12 +1,40 @@
 {
-  "generatedAt": "2026-09-05T22:38:29.516Z",
+  "generatedAt": "2026-09-06T03:02:16.788Z",
   "articles": {
     "INTC": [
       {
         "title": "Why Intel Stock Climbed This Week - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcU1WQ1MtdHl1empNNXJwcGdqNFlyQ1BhYmotaG9uSFNBa0NIMjduSVBjT3RNMUxCaHRONzBVazZXU1h5X25BRElucXl2S2ZuOWR2T2k4Q19CRzhzazFacDdZaVV4YTJOWVpEX1FsQjFrX3VkVWNvOEZMY0lMaGJ5VE5B?oc=5",
         "source": "The Motley Fool",
-        "publishedAt": "2026-09-05T22:31:16.000Z",
+        "publishedAt": "2026-09-05T23:20:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel’s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+        "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-05T22:58:25.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why Intel Stock Climbed This Week",
+        "url": "https://www.fool.com/investing/2026/09/05/why-intel-stock-climbed-this-week/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-05T22:40:17.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why Intel Stock Climbed This Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEo4NGxQQTlqaUVlUTBDX2toR1ltcC1GbDEzYzVoemFBa3o5blZTdjQzR0YxaWw5TzN2ZzNnM3o3aXkzYVlqMjlOZG53NmU5cTJ6N1ZQeWxYbmRiQ0FhSENTdFpxTFUxbjhza2xpbjNSQzd5a1YtWGQxSEEwR2E5YWdQR2pObGhsVjVDOGRUQWhkR1hkS19GOA?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-05T22:40:17.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why Intel Stock Climbed This Week - AOL.com",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43OGM1QnFPS1llbFdsSzdnaGQxQzloMVVmWmlvN25qc01zZ0pUQzJNX1JtTE9WVXZtOFlSUUVCWU5zVkNoRmQwWUR0TmZoc0xMR2hsbHF4a0dMck5hOU5MbE9KMjVzLTlnd1lfYnQzUVNyaTFEQmFteWllM0M?oc=5",
+        "source": "AOL.com",
+        "publishedAt": "2026-09-05T22:40:17.000Z",
         "summary": null
       },
       {
@@ -17,17 +45,10 @@
         "summary": null
       },
       {
-        "title": "Intel Stock Adds $21 Billion; a $200 Target Would Make It a $1 Trillion Company - TechStock²",
+        "title": "Intel Stock Adds $21 Billion; a $200 Target Would Make It a $1 Trillion Company - ts2.tech",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTkQxOG5oQ0hITU0xazF0OEU0TkdibjZSWDF6dHFnMUFVWXd4R2Y5Sllnb19BbU8tcFF6cFNMb1RjWVBNOTRVT240LXJuT2dFbURQaDhwV0tpV295SXUtcEhfTHJtR0ZqZkNVWGZBbGVwMXc4NzBwWkp4Qnd4dzkxejdMaFdCVkFha0lyLVRUR053M3VQLXlOTVUzOGg?oc=5",
-        "source": "TechStock²",
+        "source": "ts2.tech",
         "publishedAt": "2026-09-05T15:32:29.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel’s Big AI Bet Sends Shares Surging Higher - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3dZYVpXeE9ValVVUlVNQV84RmFIRkJhZzNBV0VINlctelM4WDVva0tnOU9wMUJfQUNTT1E1WHdrRHU2bGxZY1A1QU4ydkg3M3Rwbmc0OTA5NjJqNlVfdXZseVdWQ29mQldyU1pMaTlNX0ZhRDFtVXctcVlxNU5yWGFCSll4cmJ6cGg2YlZrZlRRaVJ4MUE?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-09-05T14:01:59.000Z",
         "summary": null
       },
       {
@@ -49,27 +70,6 @@
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVDNnbnVXMWFhUV9TWGs4dXl4VlpQVVFUaHltbzlueEhxZEoxaG9kNDZ4dkhpbU85U1RsWkE5Z2lSRTRCb04tVGlfVVRJYnByM1N0aG1xRXM4U0VDdW1EOXlXdm01RE10UGR2YVA3bDhIbWwtTDFoc1Z3S2U1Q0dnc0lDYi0zNXAxX0FxZS04akxPcThCcnhoOTZMeGdybDg0dU45ak9hMjlKRWotSm9kdFNiY2hyVGpYVExiNE0wTTJIMnY1Y3ZfdlJiaHhwVk1GWExjTS1yTm8?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-09-05T08:46:01.000Z",
-        "summary": null
-      },
-      {
-        "title": "Kingsview Wealth Management LLC Sells 8,455 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUllQ041bDVpck1VbmNSNngwSURid0gzWmJkZE50eUh2a0FXRFNQR2g0WTJFQTNlNDM5OHd4bk5JQXQ0Q3Y3ZE5RUXczZVI1VnFrdkRwTlc3YXFDLWRxb0hQVHNkTXpVOTgzektlMzU4Mk9CTE5HOGZwdGxHY284aXZETFYzZXBKRjg0Z05iREt6ZFF0NGFWM3gtTFJmRHhSdFF4Z3FiNlU0TGc0OGFsMlN0YTV5aHlZZ0dtOEZmaEhXS25laFJYTWJrMlQzaWRUZlE?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-05T07:51:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "81,871 Shares in Intel Corporation $INTC Acquired by Glenview Trust Co - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWdoSEY0YzNUNHZGSVlpaVJOS1dzZkpYa0lyVFB3WGJqeGhsMFJLelVKdF8wVkd2aFlVak0tTkVvRnI2eEYyd09WWXJsQ1N6WVFjQXVxRUM4WTBCVXV6a3ZGMUxKNTN3NUlSd1BQZk1CVHZvVVdxQmlfQWV4a0NzV0ZWamUwYjhkV3k3YXJvN3RrOUNRQUtNNVY2Vk1zSDZlcnhFdzVsYWlRc0lIWFZlRW5NdmJmaC1WaWxaTFpGTGI2VUs1azZkcQ?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-05T07:51:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Sold by Equitable Holdings Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeFp4QXk4Ml9zeHN5VGtLYlZkY19wUzlmWnFtZVQ1X2Vtd2l6bHJDSEdMaXJOQzhPSFF0enlnOE13d3BUOVVtNmZ0NlFNX3hkSGJVVnRVWm9HMlZrak5nQlY0ZGRHanN3SDdJYnpaMi1tSUxaN0lrMXpxT2RlQ1BMMmQ5dUhyS2JnMDllMkhVcnhyNUVEZ2dJQWFhdUxfYUYyb1VOQmtlVmtYX2hWYWw2MXl6NzJXbmRjS2tmV3Vn?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-05T07:49:46.000Z",
         "summary": null
       }
     ],
@@ -117,9 +117,9 @@
         "summary": null
       },
       {
-        "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금] - 서울경제",
+        "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금] - sedaily.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS3ZDbTU2SEhjbks1UG5pMXhucGQ0b2ZELUxEV3BVT0N0bkl3aTc1Q2FVRUgxNE5xM1hnTkJUbDdpd2tPcjNDSnV3VTk1Tl9VMFHSAVNBVV95cUxQUDJyQzRQZ2ROY0dhbW5Jc3VvXzFxMjZvUFVTekkzeW83YU1zSzhBRTAtcndzblRPY29pd3RmcFp4c1ZEUTRMeUlfZVdIWXNfWW03bw?oc=5",
-        "source": "서울경제",
+        "source": "sedaily.com",
         "publishedAt": "2026-08-06T07:00:00.000Z",
         "summary": null
       },
@@ -131,9 +131,9 @@
         "summary": null
       },
       {
-        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
+        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - sedaily.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlHSAVNBVV95cUxQcUVTRnB3UXpKbEdKdy1mbl9FNDdxWHlGeWVNaDlVWkpWbzFKSUxJSHh2eHdpRWx4XzFiOTdVd1NsSlktbUJfRDVyQnRVNmZCQklSYw?oc=5",
-        "source": "서울경제",
+        "source": "sedaily.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
@@ -168,9 +168,9 @@
         "summary": null
       },
       {
-        "title": "Today in Apple history: Steve Jobs prepares to take on Apple - cultofmac.com",
+        "title": "Today in Apple history: Steve Jobs prepares to take on Apple - Cult of Mac",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LMEVxQmZJcG5YZWNjVFVBYm5IZEMzX1FJSWlKX2NPMzBJTFVoSTBsVTVCbXJ2aGZmSGt0T1FaMjkyU0J2cVcwNTNhekllaWdUdnYyS2szNmRmbFhyNkJOYU9qdEZRenFmanE2eGFTSFZBSVNUNjlV?oc=5",
-        "source": "cultofmac.com",
+        "source": "Cult of Mac",
         "publishedAt": "2026-09-02T07:00:00.000Z",
         "summary": null
       },
@@ -186,13 +186,6 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXUxd1BMZTA4YjVMZmd2Qy1MbUEtanptMERLSWpjLW9OcDdIbk1zRWZpN1NkOTBfRmkwQzQ0eGlFenpVNGxBUGxWd2ZjNGhvY2x3U2NMbWRxZC1zZG9TXy1lWUZVemtKLTZVV3lCSkxpMXpxVGRHR1BiUmtTalRkeUZYeW81Vk1kaU1GMWpoWkwya3pPand0ckRDRnVCY1I2R281dWNaSWs?oc=5",
         "source": "Moomoo",
         "publishedAt": "2026-08-27T08:44:13.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple (AAPL) Stock Forecast for 2026, 2027, 2028–2030 and Beyond - LiteFinance",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjhTSUdRdzFBRjRyeFFZUS1oRU1VWlpUa3hVYi15dmhad3BudXpNNXVOczUzUV9XN0ZlYkFmc2t0Z2Jna1BoOVBlWVd2Q3lOX1pmRjZ5Y0FRblcySjlYaERjZ21sWl9samhoZUFpUWFTUEZPLURyTjBXMUZuNU9LQ21jQTRtaF8xaVQ4bGRxMmFuRm94ZnV4QkxkSDdzQjlE?oc=5",
-        "source": "LiteFinance",
-        "publishedAt": "2026-08-27T07:00:00.000Z",
         "summary": null
       },
       {
@@ -214,6 +207,13 @@
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVp6ajM3SU9ZcE02cHM1c0haV2o4eWUzaFp5SERWM282SUlaY2hJMGZPa3U5bks4bmpzZmtwZXJsS0RrS2QwT05VT1hFZkRDblM4Z05Ha1lJYS1TS0VoWmpkamZVZlFHdmNmeXFHWFJaME91dzhfd1lqNEZ2eW53Ny1aRmc2Qlh5SHF0RG5JX21pbjRRUWdFUl9QTlZ3Q0VHR0N5TVZXRTFkNU9zUGxDRjFBVjFUNWt5WklZUS1VOV83aU9GQlYxSlBNMUI?oc=5",
         "source": "Stocktwits",
         "publishedAt": "2026-08-24T08:36:23.000Z",
+        "summary": null
+      },
+      {
+        "title": "Bank of America predicts big changes for Apple after Tim Cook - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBRaUU1WmFVdGZ3TXNWRVVpVmJ4WU9IRVZVeFJZNk9CSzZ0amZkdzJjMGFLVlpTbmFhV1RBTXZXYjNJOEJMVHloTzBHTzlhVFJ5OG5lQV9oTkp2OUs2R2ZJUENaUmVmT2pRX2hSM1FZbUNoV3daMk1GR1pTUQ?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-08-21T07:00:00.000Z",
         "summary": null
       }
     ]
