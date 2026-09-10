@@ -1,111 +1,118 @@
 {
-  "generatedAt": "2026-09-10T03:11:32.039Z",
+  "generatedAt": "2026-09-10T10:39:50.667Z",
   "articles": {
     "INTC": [
       {
-        "title": "Intel Stock Hits $106.24—Is the Turnaround Worth $561 Billion? - TechStock²",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPelQyTDFOdjB5SU9ieEFIUFVqMEt5N1QxM0lXLVpMNm9OdFJFN1B5a1dCWHVrZEM3SjV5R0VQZXZZbXNNTjR6dUZYRUpZVlBDU3o2VDZCelAteW41MU04OWFVSWlFLVZzUDNQT0NtSWtqeXp6aTlQWFl3WS1CXzVXZE9UUGo2clU?oc=5",
-        "source": "TechStock²",
-        "publishedAt": "2026-09-10T02:48:02.000Z",
+        "title": "Piper Sandler initiates Intel stock coverage at Neutral on valuation By Investing.com - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTmJQN1pUS0lkRkw0dGd1VDREbTZoZTJOMjh0LVduNzd2RzdzY0NRVFNTWXJtNlVDR0FLZGZLbVZrWnVxcWdsNmx2NURtX1gxaVBpV0J3LUVvQXZyQ3VOY2tGZXUyN1dYRXpOUmZpaWthSzczVk16V3psVHBEYzI5MTRpcVFUdWQ1OUxycWNHc0RYUF9KYzJrX2k3ek1IejM5Y05JMU9QUzdfZkQxWHJEWlI0Um5IMEFnUnpBREpBSUwybUFSMFZxOQ?oc=5",
+        "source": "Investing.com UK",
+        "publishedAt": "2026-09-10T10:30:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel stock surges 9% as surprising turnaround takes shape - thestreet.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3czYWpkYzBCQ3pPU3dmWHNSVHhEaEJ2VV8zSlVhbVB0R0U3VERlQ3pMSU53ZnBhUFBYMFVZOWpjOE9jcEhPcnFWZ0huYWVVZnFudnJnSkxQOTN3Mk5sY1NCRnlrSUU4NzAzSGpPcDB3Yy1lX0VrcjFyVHVZV1ZCMnhhOFI1U2JaSThLNDdNTG9RSm5FOXdydUZaQk5UMmp3ZXc?oc=5",
-        "source": "thestreet.com",
-        "publishedAt": "2026-09-10T01:24:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Certain Performance Stock Units of Intel Corporation are subject to a Lock-Up Agreement Ending on 10-SEP-2026. - marketscreener.com",
-        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZDJXQ0FDYnV0WnlsMktIdjktbEozUFVaZDR2blM4N2dpZmNweHlLb3JPYURyTDl6dUtrd1pIejdScF9YM3ZuLWVBekUxcUNLQkJsbWZpMmhtZ1RUREtObW5JRVY5NzBPa01oR0xfZThVdS1JZUJrOWRURWk5ckVTVUdVZDJ2VEhBU0o1TUtlS05XZURLN3JTajhtdy11UnJjdzJ6VXczWlVRUXp6ZUN3aU9FV1F0OWVrU0JlSUtCOUhUd1ZlcjVhbDNuQVRnUUNPMUpzaGZISWRYM3BTLVpsaUNYQ3QzM1RZ?oc=5",
-        "source": "marketscreener.com",
-        "publishedAt": "2026-09-10T00:23:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
-        "url": "https://www.trefis.com/articles/614719/marvell-or-nvidia-which-one-costs-less-per-dollar-of-profit/2026-09-09?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-09T23:02:12.000Z",
-        "summary": null
-      },
-      {
-        "title": "AT&T CEO Stankey Details Fiber, Wireless and AI Growth Strategy at Goldman Sachs Conference",
-        "url": "https://www.marketbeat.com/instant-alerts/event-att-ceo-stankey-details-fiber-wireless-and-ai-growth-strategy-at-goldman-sachs-conference-2026-09-09/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-09T22:03:31.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Advances While Market Declines: Some Information for Investors",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-advances-while-market-214502373.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-09T21:45:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Advances While Market Declines: Some Information for Investors - finance.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2xocEU5QlpoZklCc0dtM0VEdmpiZFlwTnNpd19xLTFfc2RKdjAzeHNzdnVkM3R3RzRETWItZE9QNEdZVmdrM2dZR0pySS1HZUNST0VWYlNQbVU4SEkySlpCdE1XcXpGZEg1MDZVYWJseXdOSG9wZzd4U2U1bFJPWndFZHlJbVQ0dGRoZUpiVk5ES1RZbWFualFxdzM3UQ?oc=5",
-        "source": "finance.yahoo.com",
-        "publishedAt": "2026-09-09T21:45:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) Shares Up 1.7% - Should You Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmxuTzFLLXZta1NyQmN1YVI3UlFwQWE0d0tld3BwMUEtQVdta2RIRk9SSzc1TUFqMFNleHpmeldqckdWVzliSmFwTkV1dXUzazhxOG9WU2ZURmlXVTNZeHVpa1ZrRUFlX1FIRVluT191Z2ZmbVhjWFVicVM0WDhhaUJvRWxSNzhmR0FrR1V1QjVhTlRaSTBiUGdJVFB3Ym5OQnFXcmxaaWs?oc=5",
+        "title": "Intel Corporation $INTC Shares Bought by Saudi Central Bank - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGxnZFp6elI2NWpWVjFGUlk0TmlQVldveGV3QUFmLXduS2I2RWxvNXNBMEZ5VWZHSzQ4VllZcnQxMTlyVFZmRE03Q1NpVVlrTHVxMGJKYmZadHFkT2I4eXJ5U1hVaVFyZldrcXZRMXpvUFFOVVVySXAwWHBQRE9reDNWMXVUVkpkZ09KN05faHZvMjkxemEzMXBUc0ZZRUp4ZWEyUndRVWVOaEE3SHZ1YkVXS0puZ3pTMERZ?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-09-09T21:32:08.000Z",
+        "publishedAt": "2026-09-10T09:10:21.000Z",
         "summary": null
       },
       {
-        "title": "Intel (INTC) and ASML Move High-NA EUV Into Production. Can the Economics Catch Up?",
-        "url": "https://finance.yahoo.com/technology/articles/intel-intc-asml-move-high-210140854.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-09T21:01:40.000Z",
+        "title": "Intel Corporation $INTC Shares Sold by Operose Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMm9Sd1o1aGhNZEI3REctbHhXemFoUERxT2tEUUUxMzZ5MlJXdUdOUXFFQ3JiZndadFlfd2hLWkk4cVlhb0hyVXZRMjNES3FZc0lSYjFNYnVWOHY1R0FSWUxwYnZ0U0NTUm43SjNvYkZfRUl3NmdONUVLSDg1WDN1ZS1JTE4xRG1mcnh0SDdqM00xeUNVSUpBdEZ6UTJhTTgxVW1nVkQ5ejQzbHZKak54MGM1ZDJnMzc3Q0M0?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-10T09:10:19.000Z",
         "summary": null
       },
       {
-        "title": "Could Apple (AAPL) Stock Win as Intel Corporation (INTC) Fades from the Mac Ecosystem?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/could-apple-aapl-stock-win-205116718.html?.tsrc=rss",
+        "title": "Intel Corporation $INTC Shares Sold by Figure 8 Investment Strategies LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3l6TElfZWNMVXVScllsNlJaRUM5U0FsY2FKLXVPTFJhLWtlc09JM3ZkLWpudVpwaGpHeVVraElEdWstNFRLa051aVFRUTd3bjIzS0hXdDhYTTdHVUZYVmVKOURCVW10VHNROUxINnJMakNFSHJReVFNc0Q5WFdqanZ2eWwwRDQwME5fcFItTlJQdjhmTjRsSXNnS2k3Yno1RGNSV1ZiV1JHQTVlYXlxU21JVlBKQ05zRnZURjh2eEsxY1hONUF1dFRxbVBLdw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-10T08:14:03.000Z",
+        "summary": null
+      },
+      {
+        "title": "Compass Financial Management LLC Acquires Shares of 6,716 Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdW1keTNTaVlJZ3FmenlqTTZlbWZQaDVWY21HRnhfQ0JTV3lEU0RTSk9RYmd5dkpCenRSemFMQ3paQkJjY0t0V3hvalJYeWd6b0d6Rk1PZGp3eU4yLXJlcWl0RzhJeEJuNEY4NkhHLXNUeTRWZUM2WTZnQ1lEMldGb29UblpuMW1meW5OR1pISEpmQTdFdHJ4SWZPTkNacFZyb3JfMzBZQTNCTmpDVm9Qa0E2N1VIbWZzbzZSOWZ3TUV6Z0hnbW1nM2ZaS1dRU21pc3d3bDFWQQ?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-10T08:09:56.000Z",
+        "summary": null
+      },
+      {
+        "title": "Azimuth Capital Investment Management LLC Reduces Stock Holdings in Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYW9wdnVlRFhpVGJneUpVSWtVb2VDRFNjX1lmZXVYOUJxcUZkaFZteXcwNWgyMzV6QXVFQ1A4WlZsVDFCeFZfZkNKT2tyUGdMX1lEZm03VndTR0hBOUdYRl93cW04Q0xjLVpQdWh5ajJ5MnViREZxWVdxVjhabnJVVHBub21UbmJYeTZlaTh1NE1Yb2tsekN3blo0V3daNnRzZHdQY3B0aW9GbmNEam5RdUx1UHR4SG5QeFJXakd3Q01MS3I1aVdEZjNhbDg3M1liLVpYeG5nUWtDUkVLbV9oekVRWEpwZw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-10T07:18:06.000Z",
+        "summary": null
+      },
+      {
+        "title": "AlphaGrep UK Ltd Buys Shares of 12,718 Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQS1CWEx5YVVSM0hWM28tRHBjWWNvY19WWHo1QmwwUVpUQjdjQS1YaHdWNUtCWjVRYmt4M3B2M2NiMmIwaFozdWtKVVJ0OGlyU0lLS2FENGVZaHNnR2k1TmZ3aFJEM0daVjBxcDgwbTA4ZmdzZnFUcmdXYl9qbDRVVXQ5NzZXTF9JUlBDNm44aGdoNDdGcFFvaTJXbFFvTHNxemowYjB2M3RpbTFTLWlwQ1NOTnpkS2tqWUJZWUxB?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-09-10T07:13:57.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Rides A 5-Day Winning Streak To A 19% Gain - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa3lEbWVKNnZXT3pwb1FCOHk0RG5OWTNRM04tYXcwaV90c3F6eWxjUjdZNkJIbzFJODhlUTJVTmxMbTdyWDRlLXpNX0tqdlloU3lPYXNPbjdDa1dXU1NqQVExdHBwRXFtcHh1Yld3VUlhc2RpSkNkWDI1Nm5sanpya3E5enlvQzBXYU9nSmhSWEZrZGJud2NOa1NEbGxwYk9IcGdsb3o2S2hhZ0E0dXdJalVYbGU?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-09-10T07:10:40.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel stock heads into the open after a 9.1 percent jump - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWNuRXVLMUMwaHVDdGFyZ2FSb0tWUDZzcVNOcW4xMTB1eUU0Tks5X0w0YlN6NmhaTEpqV3FlR25jSjQzcEhrTDlrcFU0VF9TUXByOGVJRVYyODB6aVp4eHF5b085VkhGS01zemxRdTU2QUtMYmtiblVnZFFMQzJiYnI4cjdBams5dDVhbWVMazNuUW9PcWVuaTc0OHhUSm9mOG1JdFJLMkJLSDlxZm1ZWGNfZ0xTWkdJQ0VN?oc=5",
+        "source": "ad-hoc-news.de",
+        "publishedAt": "2026-09-10T06:05:48.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel stock surges 9% as surprising turnaround takes shape",
+        "url": "https://www.thestreet.com/investing/stocks/intel-stock-surges-9-as-surprising-turnaround-takes-shape?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-09T20:51:16.000Z",
+        "publishedAt": "2026-09-10T04:24:23.000Z",
         "summary": null
       }
     ],
     "005930": [
       {
-        "title": "2026-09-09 코스피 오늘 인기종목 30개 주식시황 집중 분석 (+ 005930, 삼성전자, SK하이닉스, 반도체) - minsimnews.com",
+        "title": "삼성전자, 0.37% 하락 마감…외국인·기관 수급 엇갈림 (+005930, 삼성전자, 주가, 수급, 2026년 9월 10일 수요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SkN5WG5uejctUkhvSTdtdTVOYTRiRUZZYzFPeEV1VTZfSzVoSlJQOXl5TUZ2MUpxMmJrTDRJQm1UOUE4bDFUaVMtaWpaZVV4QWZMSEtYV0tuNnBNZDN3cXdFdmdqcmtvMURlWQ?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-09-10T06:44:04.000Z",
+        "summary": null
+      },
+      {
+        "title": "2026-09-09 코스피 오늘 인기종목 30개 주식시황 집중 분석 (+ 005930, 삼성전자, SK하이닉스, 반도체) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03eU80OThtREdRREZPTW5pemFCQl9fWVZIenhmQ0tUTnAtV002ajB3cGc5cHZ5MkRpem43V1RtODlFZ3IwTTR1X0xBNkM0U3dDdktNT3FVWVRYeEFELS10Q2gwck1Gc0xsMWpLcA?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-09-09T07:55:44.000Z",
         "summary": null
       },
       {
-        "title": "2026-09-07 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 두산에너빌리티) - minsimnews.com",
+        "title": "2026-09-07 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 두산에너빌리티) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbTctRGpsaHhFc25RdU5YNGxfSE42dUZNUW04Q3NBb0NTaHhra0N6NFFYMndYNUxMRFFjRVlqc2p2akt5Slh6YUp5Skk3bElBbjBiTVBLOEE2aFZlUkpVN1B6cG1UMTFEV3kxNw?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-09-07T07:53:59.000Z",
         "summary": null
       },
       {
-        "title": "2026-08-31 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, AI, 반도체) - minsimnews.com",
+        "title": "2026-08-31 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, AI, 반도체) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbmtmdzQ4SklGUmx2ZFJjdmF3T040cUlQOUxlRFJxbExaSWN6bjhpQlU0S3NrTGROQ2tlbVZvOEpyZUF0OVhJVDNlNWRrX3JJOEFYRzhiMTM3ZjluR1lYVEZtaGZ1b29saGE1NA?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-08-31T07:53:05.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 2,500원 상승 마감…외국인·기관 매수세 유입 (005930, 삼성전자, 주가, 외국인, 기관, 2026년 8월 31일 일요일) - minsimnews.com",
+        "title": "삼성전자, 2,500원 상승 마감…외국인·기관 매수세 유입 (005930, 삼성전자, 주가, 외국인, 기관, 2026년 8월 31일 일요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tMEJnU2Rha3dXOHhjSnN6bGp5UmR4b1FfbnRKQkliaFNUOXZOUzl6T21WbFladnlNSVRZS05NcXRDMTFoRXB6M0k1UTFDZnZqbjJadXhqZ0hiSkl4ckpzcDRTcjJ4Mm9ucVRBag?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-08-31T06:41:39.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자 6.89% 급등 마감, 외국인·기관 매수세 집중…거래량 폭증 (005930, 삼성전자, 반도체, 코스피, 2026년 8월 12일 수요일) - minsimnews.com",
+        "title": "삼성전자 6.89% 급등 마감, 외국인·기관 매수세 집중…거래량 폭증 (005930, 삼성전자, 반도체, 코스피, 2026년 8월 12일 수요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EUy0xM3lsUVpwOW53ZmVHVDZnOC1yYjNudk9mUXR3a0t0SDJtZXByNUc4WEE0NVNxbVZhS0VxOGFnNjRlcWc3d0R6SHg4MmRNREQwOU5sTE1EZ0xSY2ZDcml6b3gxQkwxS2JCRw?oc=5",
-        "source": "minsimnews.com",
+        "source": "민심뉴스",
         "publishedAt": "2026-08-12T07:00:00.000Z",
         "summary": null
       },
@@ -124,9 +131,9 @@
         "summary": null
       },
       {
-        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - 네이버 프리미엄콘텐츠",
+        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - contents.premium.naver.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
+        "source": "contents.premium.naver.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
@@ -135,13 +142,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vbzl0bVo4bkFSRU5uemVySUJWWUFTN1NORWcxUGtEVlNhTWtaRDdtZ2I3emVxQ0o2bVdaRmRBczI1WTZ2RzF6UUc4VnliQ2ZNOWNIam00VUJweXJFbWlCSXFaR3U1YnV0d2t5YmJlbWZmczdralE?oc=5",
         "source": "인포스탁데일리",
         "publishedAt": "2026-07-29T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[생생한 주식쇼 생쇼] 삼성전자(005930) 실적 발표 이후, 하반기 순환매 장세 대비 전략 - 매일경제TV",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vNXpOYllqZEVVSUFzWm1IeE5tVGZISU9zTmtwSmxMekxlZ2V4STZ0VzNfeThTTUI3dXM2Z2dJRmpKVUdCbkEyRTl3Z3hHeXpIX2d0NHRONnFDcVVyT05yY0lzNExyeWFw?oc=5",
-        "source": "매일경제TV",
-        "publishedAt": "2026-07-07T07:00:00.000Z",
         "summary": null
       }
     ],
@@ -161,9 +161,9 @@
         "summary": null
       },
       {
-        "title": "DELL Expands Consumer PC Reach: Can It Challenge HPQ & AAPL? - The Globe and Mail",
+        "title": "DELL Expands Consumer PC Reach: Can It Challenge HPQ & AAPL? - theglobeandmail.com",
         "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYTlPa05fRzVlc1hBRW5HV0FQa0ljZU9Ib2VqZG9zdkF3WGFzR3czTVFHWUNGQy1HRkxKTlp1YWNsQXJXM2R1aHBRWXpxUk5sVUc3NDhvWnRWbjdtdUpZR3Fmamw3c1l0YUE5anpCREFGQ2g3UnVCMGlUanh1WHc0eTkwNEpjR1l5YzJyT1JpRDY0RGJfS2dyWmprWnhmWVUweVItUTB6MG56empNWnZSTDBpbS1fc2FBMHVqbFZwOThMTG5tTDRsc2lGZ21hWEhteVFrYjRVQQ?oc=5",
-        "source": "The Globe and Mail",
+        "source": "theglobeandmail.com",
         "publishedAt": "2026-09-07T17:56:30.000Z",
         "summary": null
       },
@@ -192,21 +192,7 @@
         "title": "Apple shares are doing something they haven't done in 20 years. Here’s what’s happening - CNBC",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGVkZkNuYVFsVEo1T2NXLXlBbkhVTWlDVmdUNFdWQmwwemtEZWdxZmNxa3hhY3dfUzFNdHZKalFIbmg1M3gxMjIzLXBRSlJTRkRacUNSbWdkWk5YLWFvcVhzeVM1eVhVQkFFSnlGd2d4N1ZIX1ZBdDc2c3hBbUxteWdDRjNsd3BIQnBRZ044cDlwdFJDT1ozUW50dTNtX3RpR0RmRTV6Nk5TcmVwUm93ekp0RHVudW00RURoUdIBwgFBVV95cUxNdGE3eXFqSUNlNUpHZi1WSlEzOGNybW44aTg2TEQ2V3MwVGEtOFFEeHlxZzBIX3NaZ2VqeWQxQldPSkNMMDhaaEl6aDlXNDZqZWdlZVlpelY2QzhnZVlGWVRfR2VTWHlacUtYU1FmaDVHTVpuMzF4VnFrWkRkRlJtVExsWWhWZ0NwQXozWXR0WVp0dkNuWlM5TVZtRlE0ZWJZZXJ6eWE0cG9Sb0tmZS0xcEZlSXBvRXBMSDJfbllYUlBhZw?oc=5",
         "source": "CNBC",
-        "publishedAt": "2026-09-02T12:10:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple: Cook Avoided The AI Trap, Ternus Should Too (NASDAQ:AAPL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUENuNU1ZSjZIa2x2SGhuRjEzVUFkV3FldnA1LW5tN0k5alR5ZnJ0cUs2Z1kxZnVCaDdaQXJFeTh5RXJGazh1WlpXNUVJNXZSU2ZveUZkZU04NURiaU81WFBrWmRQS3pUVExFVHE1Yl9COVlMbVUxOTY4cTR2YnFHbDNvWEwwdGEwRmdEclp2X19pUVU?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-09-02T05:21:25.000Z",
-        "summary": null
-      },
-      {
-        "title": "AAPL Stock Price Target Hiked Ahead Of iPhone Launch – But Analyst Still Sees Downside Amid CEO Transition - finance.yahoo.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tPQW1hRF9rY3lnb082Q3RiLVg0Vl92cll4LUk0SGU1NTBMUE03TGRCaG93V1VGcTYzdEFuU0FQZXRyS3Q0aFJTNllZdGJ6c09HU29sTTBiaHhCNmdhbHd2Z3JKeWNweHY0cjhvOFJONXdkVkRMU0diVzRIc3RYOXdlbGxjYUtJcDJjVmhSNWYxbVVUOVBiYUJR?oc=5",
-        "source": "finance.yahoo.com",
-        "publishedAt": "2026-09-01T07:00:00.000Z",
+        "publishedAt": "2026-09-02T07:00:00.000Z",
         "summary": null
       },
       {
@@ -214,6 +200,20 @@
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMllaTUpCc3BsTFhWVEdDU0s3X0dtdzlMUzRTU1VSR3k2ZzRmbXpPVzNZcEpYa19yWVVfd2dGWVFxYzE1ZS1TQVNzU1Jic2Y0Qkt6Z1QwMFcyeGlBS296SHMwaGNJV25NWjdfaU9IMkZKbF9nZHlEYnZ0aWxfNVQtYmxsWkQ5cFhLSGl3bHVZVTlUampvWnU2SmJR?oc=5",
         "source": "Moomoo",
         "publishedAt": "2026-09-01T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "He Gave His Grandson the Apple Shares Instead of the Cash. The Grandson Sold Them at 0% and the $40,000 Gain Simply Disappeared. - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPN2tMOGVHWG5Fc2FQc1dTMFh4TDF0MFhQZkhoMzhBaE43bDY1cU9QbGRreVhEeWx5RzE4VFFHNlM3MTh1cmlxTE1Na3lraDFtcDZkNHcycWFDY0FTb0tDRV84LUhOYjFZTEhTNW5fWUdPNmJib2Zkd21YZXZTQVp0em4zck15eWswMnAxbzA1R3h5eXI1TkZXT1NFLTQ1TW5oMGVpS2JWMTRXQVltMm1GNk9GaHoxQnJHX1ZuYXpxMmtsQ3Zna0dsN2k2N0lBTXAxNjV4RnhSVFh1ZE5VRENybDZMbllvdlZjZFRKVnZ3TVhraUsxQ2ZBOXBWRkhqNGlVeUpQOA?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-08-31T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "How Much Upside Can AAPL Stock’s Growth Deliver? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXA0MTlsc29SNHlhRzh2ZU0tWnI3aXJHUnBtd0FRT0hrMkNfWWZpYkFKLVFOT1BROG14OVVXTWtNMzVCdFNzT0pnOEp3UXB6YjY0WVhOQ2lPNFZ4SC1Ia0VxYVlGbERSM1JQb2FUSU1WcFVidEMxamdNUHBURjJpYnIzWEhIeXQwR0h1M0FBYkhkX1I3RmNJYUtubzROQ0E1MGROZGJkV1QwcEU?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-08-28T07:00:00.000Z",
         "summary": null
       }
     ]
