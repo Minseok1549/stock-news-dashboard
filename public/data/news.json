@@ -1,79 +1,86 @@
 {
-  "generatedAt": "2026-09-11T10:38:52.591Z",
+  "generatedAt": "2026-09-11T15:53:53.566Z",
   "articles": {
     "INTC": [
       {
-        "title": "Intel Corporation $INTC Shares Sold by DMC Group LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDJtT2VWM0pDWG9LalVSTlFfRllpcU9FOXRyU1Z3Z09QZnRMeWltb3VEV2tndVNRSWFRdkpsR05Xem4zeS05ZjdmTUlwbERDYnR6dktiendPeFhLYnZ1b3ZWeWpwWGJJS1BUNHlvNWhXeUQzelV4TnhDcGVjdk0ycEZER0pZaFIyaHQxa1MzUjlDUExhOGlLSm5ES0NFcjQyRDk4VDN1VENhLWkwanZNQVV3?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-11T08:02:07.000Z",
-        "summary": null
-      },
-      {
-        "title": "California State Teachers Retirement System Buys 924,690,115 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNbl8teEZ1eDZKaWdYZmpSTW45bTZWX3NKekVmVnlVOUdIb3FFZlpsS2lmeVBQdGg3RnhKeUoySUR1QmRnQVI4UG12TWZaeU92QWVEMHNXYURRQkhrYmV3MHgwdTIzLUtEeHFXT3d3TTRnRXM1NE1mMVhweXhVRExudzY0Y2hBdUVyZjJxTFY5bzB1UVJ4UXpKS2FkT256eUJHU3lXWGlwRDNhUGg5M2p2RkZ5b1RQZHliYzNzeXIxU2E4Qm1IQXdmMFZuMjViSkhuRFRIeXdrUEpXeXpjNzZkNlFXcEtoQWc?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-11T08:02:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Acquired by HighTower Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXo0QVBNU3J4SG9RRW40NXFtRl91MTI4LVQ2VFplQ2VKTGZBSXZFWlBEaGprSFBHM3RYeDBhVnNIMXZjY0dCMXBfOXVLaF9oQlp1TmJVUHM2QWRyVTNmNEpuQm9ZRVVpQWN0cFBMaG1taURQMUV0NTE2Z0tsNmt0Sm5aUWhIRmgtSVUwTFpXYmZabU8zVm9mOVJZYnBrNF90djA3RGVaaWtxbzlQMkNBcFNGa1JUNTc3WVBESG1MU2hpSzg?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-11T08:02:03.000Z",
-        "summary": null
-      },
-      {
-        "title": "Ameritas Advisory Services LLC Grows Stock Holdings in Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlJ1VzFWLS1qZ25jcEJ6VXc5WTJST2Y1SE80bGxNeDI3cldPbDcxczNBc3BjT09DUkVMZEp6alhkcjRuX2tSelBsc29sekJ2QWlLaThPQVJkZlNvaGs4VWJIOVlSVURxbVQwMUpPS3pvYXlSdldiZE1YdTFBRUtEOUxEeHdLMFA0ZHpwYU5KczE5YUVOMXNmNThBSnBSQi1tSmJUdURZOF9XcGVNUE51ZTY2cmFxdHBtSjNzVG5kczFhakVFenM4dEZySndaNlJzM3FYSQ?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-11T07:06:57.000Z",
-        "summary": null
-      },
-      {
-        "title": "INTC Stock Returns to $100 as the Price Hike Fails to Hide Intel Turnaround Risks - FXLeaders",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUWpBdWI3QXoxZXJNYWo4Q1dMZlpqd2hHN081NkNBVHNMVmhWc09DUV9wQXhWTFU0QnViM2xLeG01YjVZMUJ3WXI0N0hOczNzckRYZFN1bW1WLVR3MUlpaXV4SGhiVWREQzBMYUVtb1g2MHdTVmd5bFV3Y2sxcGF5RzllcmxiOWpnUFZSQmdodjY4NlBSOTN4cnNjTmg3N3o2LVFLQlpBWFJKTUR2VUQzSERvTFNBeUtkS3ZGNjctUGc?oc=5",
-        "source": "FXLeaders",
-        "publishedAt": "2026-09-11T02:53:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock Drops 5.6%—Why $100 Is the Real Test After Its $20 Billion Raise - TechStock²",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjY2Qm5zYkc4c2xxMnBXQ2FqaW5FdER5VXgxeDFyb0V0a3BrMTdnYmRFbjk5a0ZfRmFVNnlULXBXdmpuT0VZY2ZHVWRGRzE3WW1kMk1TaWR1ZldRaTc0S0xZVWFyVjM0WF85ZnpyaktBaFQ4S1ZMMXRHTVVjNW9DTmZyaVpyY0h4TlBIQkx4b3pobkJVSHRoZVhB?oc=5",
-        "source": "TechStock²",
-        "publishedAt": "2026-09-11T02:32:37.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel stock price: what investors should know now - eciks.org",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FMDZzN0pqaVVPdGlMMVhyaHNSZEdDWTJMczFBUENhaF9RY2tlZ0NrTVFxMVNXdU9qY2dINVFralRtSVVGbFkwbXJlbGhfb2FFZktGR1BsYjk0dUE?oc=5",
-        "source": "eciks.org",
-        "publishedAt": "2026-09-11T02:14:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corp (INTC) Shares Fall 5.6% -- What GF Score of 66 Tells Investors - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1JsWk9BUTFhNW0yNHBYbHlza0F0MDY4SjdiNTZ0dHh1cnBsaW5oN0JfYUFhZGFQQUNFams1NEpldjVScGdOZEY5R0p2YWVrWTBENTRrcGF3VVZtMmkxN09xNmgzQ0hEZUt3b2xsRTJNQUV3ZFF1ZnFMQzJna0Fxd2J2cDEyWmRSRU9zUmFGbzMySklaTmhoYlV3TWJzNVh6LVRneVJaOHI?oc=5",
-        "source": "GuruFocus",
-        "publishedAt": "2026-09-11T01:40:59.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) Shares Down 5.6% - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEx4Xy14Nm5FaXo4MzMtZzRabC1xblZRVGNGR2Y3UTJ1ZE5oWHVvNXZnZHhCQUFVdGtwQTVlTHlBNFBlVGtQdmRUVjZ6Z2NjcG10RjJ1dUkwTWItUUl0QXJKcy1BMFctMmpQQW95MmZZUnh1Yms1SEtkWFE1WFp4R3lEQkI1TXRTTmRVLVFrZElfTHBOUEpXbmtQQVJHc0NwQkhHd3pMU1gxNHM5cGFmb0Zn?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-10T21:56:27.000Z",
-        "summary": null
-      },
-      {
-        "title": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
-        "url": "https://www.trefis.com/articles/614901/qualcomm-stock-looks-cheap-but-is-the-discount-deserved/2026-09-10?.tsrc=rss",
+        "title": "TSMC Price Prediction: One Number Could Define the Stock’s Next Move",
+        "url": "https://247wallst.com/investing/2026/09/11/tsmc-price-prediction-one-number-could-define-the-stocks-next-move/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-10T19:57:33.000Z",
+        "publishedAt": "2026-09-11T15:30:54.000Z",
+        "summary": null
+      },
+      {
+        "title": "Prediction: This AI Stock Could Be the Next One to Shock Wall Street",
+        "url": "https://247wallst.com/investing/2026/09/11/prediction-this-ai-stock-could-be-the-next-one-to-shock-wall-street/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-11T15:00:52.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel shares jump 3% on report of 10% chip pric... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUhudFR5MmhWTDJuTDVKd2lsczMtMkQyZDZ1UVJmVV9yY0JvNGZ3dzhPYnFPekdKcFhhVzh0SWppT1ZpQXFlYXZyT3Vic0gzZzdlb0htQTBIMGdLandIZXZiTktKR2JvTWduc3ZUNk8wbmNGNTE5WUFjOVlndXJ3S0pnUGxGSlFFWWxFbllSbHV0RFo1M2o2WlpMcThCQ1VBMHRKM0R2TXpORXM?oc=5",
+        "source": "Pluang",
+        "publishedAt": "2026-09-11T14:35:15.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Climbs 3% on Chip Price Hike Report a Day After Piper Sandler Went Neutral; AMD Rises 2%, Taiwan Semiconductor Drifts",
+        "url": "https://247wallst.com/investing/2026/09/11/intel-climbs-3-on-chip-price-hike-report-a-day-after-piper-sandler-went-neutral-amd-rises-2-taiwan-semiconductor-drifts/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-11T14:17:44.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation Stock (INTC) Opinions on AI Chip Packaging Developments - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVprZ3kwLWFvWlJlc1B4RGlxXzF0R2F0b3VOdnh2V0JmejBzRWQ2dlVGVlg1Nm56X2ZBSEcyMzFNS056bjJfRTVRM3FwY0dZemZ3ai1nLW9YOC1LS1NNUTg0SFJ2S2tuZnJDZjd1cTRLYlpBS1Bld09USjlhZVctb0EzdWxkZkNmX1BzbUpYbkQ0MzdNTUtKUkh0R0I5bDJaRzNnSVVaUXpEU2h3Z0Jv?oc=5",
+        "source": "Quiver Quantitative",
+        "publishedAt": "2026-09-11T14:13:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corp Stock (INTC) Opened Up by 3.33% on Sep 11: Facts Behind the Movement - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZnJoUTI5b21rQWJVWWo4ZTlSNHdNTkxLb1BJeTVFMndBVktMMGotRzJULVlxcHBqSDZ1WE1aNV9xUFBYZmxpeWEwdEt0Z2pveGxfXy1EaTBsa21LVWdjcGkwWDRVV1c4bElmYm5pZnpPaTJRR0tSd1hJMUNqcVFZd1pSUWQxRjBBWVhn?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-09-11T13:47:22.000Z",
+        "summary": null
+      },
+      {
+        "title": "How Far Could Intel Stock Fall After More Than Quadrupling In A Year?",
+        "url": "https://www.trefis.com/articles/615060/how-far-could-intel-stock-fall-after-more-than-quadrupling-in-a-year/2026-09-11?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-11T13:44:23.000Z",
+        "summary": null
+      },
+      {
+        "title": "How Far Could Intel Stock Fall After More Than Quadrupling In A Year? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMHMxR3FBRzUzY1I2NDE3bldOaUtiUVB2RThGOGtlaGNDLU1GTDc2RUlENzJtTWR0bXp1empCYzZmV1lJWDZsT2lEOWQ2R2ptYlVwSFhtcWtlM2FfZmJYbXBTc21Fal9vNTZMdVh6WjdVeHI4YlUyVDAzZHEwT2dHNzJObWlnZlhFT3YxcnFvMnd5TFFEdDg1YTQ2dVIwR3llNlJwSGprOUVHRjh5UmltVFpDT0RoOWk1T1dzeGVFNUxVQnM3b3E5RQ?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-09-11T13:43:57.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why the driverless company Intel controls just bet on a Florida shuttle startup",
+        "url": "https://247wallst.com/investing/2026/09/11/why-the-driverless-company-intel-controls-just-bet-on-a-florida-shuttle-startup/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-11T13:29:24.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel stock hits $100 after 300% surge; next ea... - Pluang",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEMwR2x4UlVsaUE5MkxJZTFyZmdCNkRWYnlMRjNFQ3RPUkowMGlsQTROZENIUXF2amFTQlVZT2ktOTN2MmhpeGVRTnpiaWd1bVpVTW40aklsTkVJWU5lOGlERjBYaExCZU8yczJWck43aUMzZlJTVUNmTTgycVl4ZDQtdWZ3RUVqZzFER2UyV09qem8?oc=5",
+        "source": "Pluang",
+        "publishedAt": "2026-09-11T12:58:11.000Z",
         "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "삼성전자(005930) - 매일경제 마켓",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2puTmlQV2FZdzBmVFV6N2VxNmdDemkzLU5icnNCbHExLUgxT1E3dVVXaGUwNVJ3OXk3bm94dW8wVkNfNkFEZjBVUkF0U0JRdGNNa0Q3RUJERjRiSGVSVUdiRTQ4T1Y4N0NqenYxOTBTcGd4OU5wUjlya3pDbzJIMkppeWt2WWZXcVE2blNzdl9zaV80RHlvYWRB?oc=5",
+        "source": "매일경제 마켓",
+        "publishedAt": "2026-09-11T15:12:02.000Z",
+        "summary": null
+      },
       {
         "title": "삼성전자, 0.37% 하락 마감…외국인·기관 수급 엇갈림 (+005930, 삼성전자, 주가, 수급, 2026년 9월 10일 수요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SkN5WG5uejctUkhvSTdtdTVOYTRiRUZZYzFPeEV1VTZfSzVoSlJQOXl5TUZ2MUpxMmJrTDRJQm1UOUE4bDFUaVMtaWpaZVV4QWZMSEtYV0tuNnBNZDN3cXdFdmdqcmtvMURlWQ?oc=5",
@@ -110,9 +117,9 @@
         "summary": null
       },
       {
-        "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금] - 서울경제",
+        "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금] - sedaily.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS3ZDbTU2SEhjbks1UG5pMXhucGQ0b2ZELUxEV3BVT0N0bkl3aTc1Q2FVRUgxNE5xM1hnTkJUbDdpd2tPcjNDSnV3VTk1Tl9VMFHSAVNBVV95cUxQUDJyQzRQZ2ROY0dhbW5Jc3VvXzFxMjZvUFVTekkzeW83YU1zSzhBRTAtcndzblRPY29pd3RmcFp4c1ZEUTRMeUlfZVdIWXNfWW03bw?oc=5",
-        "source": "서울경제",
+        "source": "sedaily.com",
         "publishedAt": "2026-08-06T07:00:00.000Z",
         "summary": null
       },
@@ -124,9 +131,9 @@
         "summary": null
       },
       {
-        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
+        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - sedaily.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlHSAVNBVV95cUxQcUVTRnB3UXpKbEdKdy1mbl9FNDdxWHlGeWVNaDlVWkpWbzFKSUxJSHh2eHdpRWx4XzFiOTdVd1NsSlktbUJfRDVyQnRVNmZCQklSYw?oc=5",
-        "source": "서울경제",
+        "source": "sedaily.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       },
@@ -136,30 +143,9 @@
         "source": "네이버 프리미엄콘텐츠",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "삼성전자, 주가 급락에 배당 매력도는 급등 -미래에셋 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vbzl0bVo4bkFSRU5uemVySUJWWUFTN1NORWcxUGtEVlNhTWtaRDdtZ2I3emVxQ0o2bVdaRmRBczI1WTZ2RzF6UUc4VnliQ2ZNOWNIam00VUJweXJFbWlCSXFaR3U1YnV0d2t5YmJlbWZmczdralE?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-07-29T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
-      {
-        "title": "Apple (AAPL) Technical Analysis - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRjZ5RGxiUjNNc2g0akxOWHlUOXozQk85MXNzaF84cTZMUUVSMXEyRDZ1SVBGQW1JTlc4TXY5cGhhMlV3Q0hUakpIV2xNVVNpWm5fZnhlN3NuMkNDQjNfNURES2JCUQ?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-09-10T02:59:21.000Z",
-        "summary": null
-      },
-      {
-        "title": "DELL Expands Consumer PC Reach: Can It Challenge HPQ & AAPL? - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjg5QkxsRHUyN3BRSlpFRGhuOVdSdERITDBxSHZJb0VXaF95bDdPWUs2Um05eXZsZ2tJUlFCV3dvczJoamlHSFpiWjlYTzV1UmRxenViUWpGY2RzcE1NRDZnVkctVmN1NGZxcXlnUEE5YUtCeTUyU0lCYnZucHpBNGhoRDkyQ3NVYm9UMkYwTGJ5WTF2SUV1TC1fM3JFblNGcWRiUGhLMFFYd0JwejhEZUdUeXdXWXgtakpjT2hjYnY2emN6X1JBMG1oeXB3d3B6VFpOdU5JSFM?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-09-07T17:56:00.000Z",
-        "summary": null
-      },
       {
         "title": "DELL Expands Consumer PC Reach: Can It Challenge HPQ & AAPL? - Zacks Investment Research",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYkY1UWZIcWQ0SmpGdW05MlV2Uzdxa1VkeE1fLXdTUGJPWENjOFFlUktsX0hhOGVubW83cFd2Q1ZCSEJ2amVaX3FIMzFrdGJvSUNveW03aVh0ZnJWQmRHYXY1ZjlJQ2V1eExrTVNWaU5xVDhJdkVsdFJtSGo0TmtJNVBkbUllc3VjSEl0Wjl2LXhiY00yTEM5YnJod3VvZw?oc=5",
@@ -196,23 +182,37 @@
         "summary": null
       },
       {
-        "title": "AAPL Stock Price Target Hiked Ahead Of iPhone Launch – But Analyst Still Sees Downside Amid CEO Transition - Yahoo Finance",
+        "title": "AAPL Stock Price Target Hiked Ahead Of iPhone Launch – But Analyst Still Sees Downside Amid CEO Transition - finance.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT0tPQW1hRF9rY3lnb082Q3RiLVg0Vl92cll4LUk0SGU1NTBMUE03TGRCaG93V1VGcTYzdEFuU0FQZXRyS3Q0aFJTNllZdGJ6c09HU29sTTBiaHhCNmdhbHd2Z3JKeWNweHY0cjhvOFJONXdkVkRMU0diVzRIc3RYOXdlbGxjYUtJcDJjVmhSNWYxbVVUOVBiYUJR?oc=5",
-        "source": "Yahoo Finance",
+        "source": "finance.yahoo.com",
         "publishedAt": "2026-09-01T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Here's How Much You'd Have if You Invested $100 in Apple Stock in 2010 - Yahoo Finance",
+        "title": "Here's How Much You'd Have if You Invested $100 in Apple Stock in 2010 - finance.yahoo.com",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclhnQlJ6SE0wUDdMOG1XY3BmN3o4U05iVlpSMXlCNzEwSGFNMEJXWURpMlVIUTlITkNBbGJSZXJTUGtqX3BZVzBZbS0tZWUxOWFXeHJBOVVPdTc5U28ybU9xZWNlZmRJTkl2TlhzVVd5RHVYNlprLUs3OTNIUFBUVlNyTUpaNTM0aXlsalBfLUotaGdhMVRocA?oc=5",
-        "source": "Yahoo Finance",
+        "source": "finance.yahoo.com",
         "publishedAt": "2026-08-30T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Dear Apple Stock Fans, Mark Your Calendars for September 9 - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGhtMXFESllJMkxXTVhKUGhLMDk4MWxVdWtoRkhfUUJBb2lUeHB0M0VodkNLNmFCU3RqTkg0Z184c3pqLS1Rdm9ocnM0UERYaXhMdlA2VmVDMktmNHVrMkZKWnJqVzVxWG1zQzIzOEZJNlY3TE9UZ0xfX2F4OTM4cHJFa1o1VW9XU1NlTEk1clBtN3FTcnExMElpV3pVQkR1RFY4?oc=5",
+        "source": "Barchart.com",
+        "publishedAt": "2026-08-29T07:00:00.000Z",
         "summary": null
       },
       {
         "title": "How Much Upside Can AAPL Stock’s Growth Deliver? - Trefis",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXA0MTlsc29SNHlhRzh2ZU0tWnI3aXJHUnBtd0FRT0hrMkNfWWZpYkFKLVFOT1BROG14OVVXTWtNMzVCdFNzT0pnOEp3UXB6YjY0WVhOQ2lPNFZ4SC1Ia0VxYVlGbERSM1JQb2FUSU1WcFVidEMxamdNUHBURjJpYnIzWEhIeXQwR0h1M0FBYkhkX1I3RmNJYUtubzROQ0E1MGROZGJkV1QwcEU?oc=5",
         "source": "Trefis",
+        "publishedAt": "2026-08-28T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUd0NThwNElUVlBkb1VrQXRBVDRPaHhqdFRNbzl6RmE3RHZMNEhoS0xkamFvSDNwdWpqODFIRXZlRnpEVVotUTZUMUotXy11RmFLZllaSG1yMDlBOWhwbGN0MzloX0hqTVJWMmVteG50elJjSmo1bkxKb1BYa2VXejRGQ1NubDgya3prc2ZHTExNa1JHS1VZel9TNGM?oc=5",
+        "source": "Barron's",
         "publishedAt": "2026-08-28T07:00:00.000Z",
         "summary": null
       }
