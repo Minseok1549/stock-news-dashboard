@@ -1,79 +1,86 @@
 {
-  "generatedAt": "2026-09-14T03:30:01.697Z",
+  "generatedAt": "2026-09-14T11:52:09.677Z",
   "articles": {
     "INTC": [
       {
-        "title": "Signaloid Announces Appointment of Quantitative Finance and Cloud Veterans to Advisory Board and Senior Commercialization Roles",
-        "url": "https://finance.yahoo.com/technology/articles/signaloid-announces-appointment-quantitative-finance-030000269.html?.tsrc=rss",
+        "title": "AI stocks fall after Amodei, Altman, and Musk back AI slowdown",
+        "url": "https://qz.com/ai-stocks-sink-amodei-altman-musk-slowdown-091426?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-14T03:00:00.000Z",
+        "publishedAt": "2026-09-14T11:23:32.000Z",
         "summary": null
       },
       {
-        "title": "MU, SNDK, INTC, AMD: Chip Stocks Slide After Anthropic Calls For AI Industry Slowdown",
-        "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-intc-amd-chip-stocks-slide-after-anthropic-calls-for-ai-industry-slowdown/cZtlF2pRBRT?.tsrc=rss",
+        "title": "Wall Street Fear Index Jumps as Brutal AI Selloff Hits Market",
+        "url": "https://finance.yahoo.com/m/c34bdc24-b2d8-3b0f-b815-acfb43f93b56/wall-street-fear-index-jumps.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-14T02:20:18.000Z",
+        "publishedAt": "2026-09-14T11:15:14.000Z",
         "summary": null
       },
       {
-        "title": "MU, SNDK, INTC, AMD: Chip Stocks Slide After Anthropic Calls For AI Industry Slowdown - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSllsUVJYdGdsYVFkeWtpT1d3SHRYS1lvbkhtcUVtRFJfTVEyUmVwRjNsSG8xMGNrSEhtYVoweFE4dFZzMGFoeHdBTVJCcklCZVYtZFVwaTBYSzJMQkFSaUg3dUw0VXBNOHQtdENIUUdoQ3RCNkJ1YXZFaWVsV3FTVmNrYjl3MUVfV3lBRzVRTQ?oc=5",
+        "title": "Intel Shares Fall 6.4% as AI Development Slowdown Debate Weighs on Chip Stocks",
+        "url": "https://investorshub.advfn.com/market-news/article/36173/intel-shares-fall-6-4-as-ai-development-slowdown-debate-weighs-on-chip-stocks?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-14T02:20:00.000Z",
+        "publishedAt": "2026-09-14T11:03:50.000Z",
         "summary": null
       },
       {
-        "title": "Intel (INTC) Tackles Encryption Bottlenecks, Is It Still 80% Undervalued? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUGh4cGljREl6QmpDUzQ5dUcwSmh1NXJqX3ZfOWxBazZWUWFqQ3hfVW9ZbXhta3g0UlJwdzhyeXlmaC0yT2s4bF9MeWdGUjUtcm9rMEpVRlFWY0JBZndHNF9QaDNYYXJ0VjRBYkhNYnEzZllTSzRCWVE4LWhsTkp5NlJVZ19oVjJaLWJzQWNoMXR0M3A4T2l6TkQ3VkRGMERGMGpuZUUtckttdkdaWlRycWhkRVZ1ald4TW5zU1F4WDR4N1dEczV5STVB0gHPAUFVX3lxTE85b25NMWp4UWY3SmRQZklSYmsxQk10anp5c090UkpmejVCZkR0UzFyQ3RiZDRTdmZUWjR3X2ZhS3VBaDdTY1pFX2NJV3o1ZkJ6dEcwamUyTU9GTllkTHkyYW83T2xfazdSbVdST21OU0dqejNPQ21EUWZBdUx4SWdNdUlaNG1KNHk2OGl0VlB0NGJuVUczOTg1bEt3ZE5yaFpnbUIwQms0Y28wd0xOUFVvVjFjTFVpSWlJckktUzRuYzZIZ2o5dXhCclpKR0ZWYw?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-09-13T23:38:41.000Z",
-        "summary": null
-      },
-      {
-        "title": "Forget Intel. Buy This Tech Stock in September Instead.",
-        "url": "https://www.fool.com/investing/2026/09/13/forget-intel-buy-this-tech-stock-in-september-inst/?.tsrc=rss",
+        "title": "Intel, AMD, Marvell, Oracle, CrowdStrike, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/bc210ef9-85c0-3967-9c05-a582a3653b08/intel%2C-amd%2C-marvell%2C-oracle%2C.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-13T20:50:00.000Z",
+        "publishedAt": "2026-09-14T10:51:00.000Z",
         "summary": null
       },
       {
-        "title": "Forget Intel. Buy This Tech Stock in September Instead. - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUW01cXpZX2pKX0hRZ2dmdHdzV3dybjNLSEEtOEEwcHo4cGFwekFDTFQxZ2NHNFhXZnB2UUpHVlpHMTV4aXF6eWlRY1l4REcwazVzVWQ0My1uQUVkeVFMaldUS0g2dERMODVOXzhxWG1xb1U2VHcteTZ6Yl9WTkk5cnBMTFFoRlpGcVRaUUpZakpQaEF2bnJF?oc=5",
+        "title": "Intel stock slides as AI leaders urge AI development slowdown: Buy the pullback? - Investing.com Canada",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdnc1b2F5Y1Z2a3VlSmJJZkRRNm5PVEU4ZjNlTlhldkdqdlg0N1JjSkJvSlQ5dlNmYmJ4OG5uSlZONV85N2N6aGpIQkctaHhEb3RMajBudUFoanNSTnZXRVJxWEUzdzdDZHVUZF8xT3lXdjZlcUxzOHBJOVEtbEN6ckNYektKQk56Rld5SXgzUmNZdGJnbl9ac0QzQTREQzREREJGTVd0bDBkdlAxbWJqYUZRRnU2dTZ2NDcxMTRPUTVPbzhSTEJ2VFdIcDRjT1JTV2RIV3hR?oc=5",
+        "source": "Investing.com Canada",
+        "publishedAt": "2026-09-14T10:38:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "AI stocks slide after top industry CEOs call for slowdown of technology’s development",
+        "url": "https://www.cnn.com/2026/09/14/business/ai-stocks-slide-slowdown-development-amodei-altman-intl?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-13T20:50:00.000Z",
+        "publishedAt": "2026-09-14T10:19:49.000Z",
         "summary": null
       },
       {
-        "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
-        "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html?.tsrc=rss",
+        "title": "AI Stocks Are Tumbling. 3 Reasons Not to Panic.",
+        "url": "https://finance.yahoo.com/m/b8eef073-7c8d-3984-9c8f-cd29bde0ee6e/ai-stocks-are-tumbling.-3.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-13T19:10:52.000Z",
+        "publishedAt": "2026-09-14T10:11:00.000Z",
         "summary": null
       },
       {
-        "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html?.tsrc=rss",
+        "title": "Wall Street’s new pair trade: Long software, short chips",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-pair-trade-long-094010240.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-13T16:59:17.000Z",
+        "publishedAt": "2026-09-14T09:40:10.000Z",
         "summary": null
       },
       {
-        "title": "AMD and Intel’s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVk9GbUxnakNvQzJzWUVPZ2dtWGJGZUlqeTBQQXB2TF9BeTR6eExLdENJN1Y0Q29KRGZsZjVyR3RVWUZ4RDMtM2Z5dk4ySmZzOVZoVmp4TmRtbFdSM1FKZld3TVJZRVlmcUFzSTRDR1VKSk5nYWtwQ01WVjVhM0U4N254UVpKLUhNdVJCWEJCcGw2dk5pd3pIMHF3OTk?oc=5",
+        "title": "Why is Intel stock sliding today? By Investing.com - Investing.com India",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd21rd3RYRGRrckdVeFVYTEJiNUJyaHZva1FMYmVFeDVmZU9jdV9GTjQ0NzZUYWl0SEN6Nm5lSTFlRjdyZ09tZjZhc0hvNm1HbnRJTUJTeHh1QjRGaHV6VnhZVGlZLUswa290WkpnbFBuVTlDZ0Itb2R4RW56WFcySUdxWE1jNThQbWNlSE5DaG5lZEM3OVNGNw?oc=5",
+        "source": "Investing.com India",
+        "publishedAt": "2026-09-14T09:39:59.000Z",
+        "summary": null
+      },
+      {
+        "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning",
+        "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-09-13T16:59:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "Predicting Intel's Value by 2030 Could Make It Worth a Look Right Now - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGxqYWp3MnBKTEpuaUcxNzJxQmUxa240V1dzdXRscXF6ZTZlZHZRenpQMm9jTUVqazZNOFFFSGdiZWVXTVVSbHA2VEVEcDBrTUw2QVplNmhDdzRTTWJpMHo4YXhNb3dwNWNBcHAxWmJmOXU5Sk51VzQ2THU4SjNIcDZYSFpLSnhPWWlSdHF1cDhUb1FBbGoxdw?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-09-13T15:23:00.000Z",
+        "publishedAt": "2026-09-14T09:36:37.000Z",
         "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "삼성전자, '2026 그린수소 글로벌 포럼'서 차세대 EHS 히트펌프 기술력 선보인다 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wZ0duQUxVVXYxQlFZSWZzdUM5Rl9IODZzN0RoNFQxM1EtelUwZHFMV0c1eVFDTE9QUEprNlkybGo4RkV4ZGtaWmFBQXBKWTdGZzVuSGRYRWxEQkpnc252enNtaGtQMGxXbkltNkwwdE9tNkoxcWc?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-09-13T23:20:56.000Z",
+        "summary": null
+      },
       {
         "title": "삼성전자(005930) - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkgxLTVXTTRPbndtenNiZF96Y0ZTNTNHQzdWZWJvbTlBYjdLdVhVc2JOaWN5UE1vczBwWDVTMXlhRDgwOWFOaGU2aHd4MjdmcTJ1NmJfWkNoZktPWXJKcmdUZTF0b0E2bHlJWDhpTnduRDZyZV91RldEYnhFa0tKTEFWbm0wUHhMano4OXhfZ05hSWxvLTBOd3Rn?oc=5",
@@ -86,6 +93,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SkN5WG5uejctUkhvSTdtdTVOYTRiRUZZYzFPeEV1VTZfSzVoSlJQOXl5TUZ2MUpxMmJrTDRJQm1UOUE4bDFUaVMtaWpaZVV4QWZMSEtYV0tuNnBNZDN3cXdFdmdqcmtvMURlWQ?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-09-10T06:44:04.000Z",
+        "summary": null
+      },
+      {
+        "title": "2026-09-04 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, SK하이닉스, 스카이랩스) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByZ1RtSE44YnVfMmdoM3lpam1aNVc5cU1saTdtdEN4V2R3cm9DMXJEbjYyb3Flczc0ZG9LeGRHMFlweHplV1pVY09LRkkzakNNVlhHbzhhbDljOEY1enJ0QTJFdUFlVkpXaXdTMw?oc=5",
+        "source": "민심뉴스",
+        "publishedAt": "2026-09-04T07:54:48.000Z",
         "summary": null
       },
       {
@@ -117,13 +131,6 @@
         "summary": null
       },
       {
-        "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS3ZDbTU2SEhjbks1UG5pMXhucGQ0b2ZELUxEV3BVT0N0bkl3aTc1Q2FVRUgxNE5xM1hnTkJUbDdpd2tPcjNDSnV3VTk1Tl9VMFHSAVNBVV95cUxQUDJyQzRQZ2ROY0dhbW5Jc3VvXzFxMjZvUFVTekkzeW83YU1zSzhBRTAtcndzblRPY29pd3RmcFp4c1ZEUTRMeUlfZVdIWXNfWW03bw?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-08-06T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
         "source": "인포스탁데일리",
@@ -134,13 +141,6 @@
         "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlHSAVNBVV95cUxQcUVTRnB3UXpKbEdKdy1mbl9FNDdxWHlGeWVNaDlVWkpWbzFKSUxJSHh2eHdpRWx4XzFiOTdVd1NsSlktbUJfRDVyQnRVNmZCQklSYw?oc=5",
         "source": "서울경제",
-        "publishedAt": "2026-07-31T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - contents.premium.naver.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
-        "source": "contents.premium.naver.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       }
@@ -168,9 +168,9 @@
         "summary": null
       },
       {
-        "title": "Apple shares are doing something they haven't done in 20 years. Here’s what’s happening - cnbc.com",
+        "title": "Apple shares are doing something they haven't done in 20 years. Here’s what’s happening - CNBC",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGVkZkNuYVFsVEo1T2NXLXlBbkhVTWlDVmdUNFdWQmwwemtEZWdxZmNxa3hhY3dfUzFNdHZKalFIbmg1M3gxMjIzLXBRSlJTRkRacUNSbWdkWk5YLWFvcVhzeVM1eVhVQkFFSnlGd2d4N1ZIX1ZBdDc2c3hBbUxteWdDRjNsd3BIQnBRZ044cDlwdFJDT1ozUW50dTNtX3RpR0RmRTV6Nk5TcmVwUm93ekp0RHVudW00RURoUdIBwgFBVV95cUxNdGE3eXFqSUNlNUpHZi1WSlEzOGNybW44aTg2TEQ2V3MwVGEtOFFEeHlxZzBIX3NaZ2VqeWQxQldPSkNMMDhaaEl6aDlXNDZqZWdlZVlpelY2QzhnZVlGWVRfR2VTWHlacUtYU1FmaDVHTVpuMzF4VnFrWkRkRlJtVExsWWhWZ0NwQXozWXR0WVp0dkNuWlM5TVZtRlE0ZWJZZXJ6eWE0cG9Sb0tmZS0xcEZlSXBvRXBMSDJfbllYUlBhZw?oc=5",
-        "source": "cnbc.com",
+        "source": "CNBC",
         "publishedAt": "2026-09-02T07:00:00.000Z",
         "summary": null
       },
@@ -189,9 +189,9 @@
         "summary": null
       },
       {
-        "title": "Dear Apple Stock Fans, Mark Your Calendars for September 9 - barchart.com",
+        "title": "Dear Apple Stock Fans, Mark Your Calendars for September 9 - Barchart.com",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGhtMXFESllJMkxXTVhKUGhLMDk4MWxVdWtoRkhfUUJBb2lUeHB0M0VodkNLNmFCU3RqTkg0Z184c3pqLS1Rdm9ocnM0UERYaXhMdlA2VmVDMktmNHVrMkZKWnJqVzVxWG1zQzIzOEZJNlY3TE9UZ0xfX2F4OTM4cHJFa1o1VW9XU1NlTEk1clBtN3FTcnExMElpV3pVQkR1RFY4?oc=5",
-        "source": "barchart.com",
+        "source": "Barchart.com",
         "publishedAt": "2026-08-29T07:00:00.000Z",
         "summary": null
       },
@@ -203,9 +203,9 @@
         "summary": null
       },
       {
-        "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
+        "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - barrons.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVUd0NThwNElUVlBkb1VrQXRBVDRPaHhqdFRNbzl6RmE3RHZMNEhoS0xkamFvSDNwdWpqODFIRXZlRnpEVVotUTZUMUotXy11RmFLZllaSG1yMDlBOWhwbGN0MzloX0hqTVJWMmVteG50elJjSmo1bkxKb1BYa2VXejRGQ1NubDgya3prc2ZHTExNa1JHS1VZel9TNGM?oc=5",
-        "source": "Barron's",
+        "source": "barrons.com",
         "publishedAt": "2026-08-28T07:00:00.000Z",
         "summary": null
       },
