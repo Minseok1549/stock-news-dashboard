@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-09-22T03:25:07.195Z",
+  "generatedAt": "2026-09-22T10:59:36.743Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Stock Jumps 12% as CPU Demand Outruns Supply - FinanceFeeds",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhc3pUb1FCMHNPbXY5bUFFX3dHdDJuU1Z4bVBaTzcxaS1mbEpxbWZ5ZGRTQVl0dWNYMEwza0VzeUdqS00tQjhwcFh0alVaUEN6TjcwY0M3SjcxZE1tcXRGdW54b19qVE9HcUNjQjdDOFU?oc=5",
+        "source": "FinanceFeeds",
+        "publishedAt": "2026-09-22T10:29:21.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD, Intel, Salesforce, GameStop, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/18d3b8f2-8dd8-346a-8f40-e32a180cc1b3/amd%2C-intel%2C-salesforce%2C.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-22T10:04:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD, Intel, Salesforce, GameStop, and More Stocks That Explain Today’s Market - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Cblh5VTY3T1cxMkFueE1LU3RZNHQyOWVyd0dNdW5mSW5UaVprVFM4ZVNBSVpJclRSTWY1cDRvLVB3aVdzRWJRNDltX3MzZER3a0lqc09EX19fSDBmX1p0RnhHTDQ?oc=5",
+        "source": "Barron's",
+        "publishedAt": "2026-09-22T10:04:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Odessa Appoints Mathew Abraham as Chief Executive Officer",
+        "url": "https://finance.yahoo.com/technology/articles/odessa-appoints-mathew-abraham-chief-093000988.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-22T09:30:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meta's Muse Shows Broader Adoption, Will Benefit AI Supply Chain",
+        "url": "https://finance.yahoo.com/m/a2c4d6d4-b97a-394e-b427-d4c11a4b9f3b/meta%27s-muse-shows-broader.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-22T09:09:53.000Z",
+        "summary": null
+      },
+      {
+        "title": "Astera Labs Stock Jumped 12% Yesterday. The Street Sees 14% More Upside, Here’s Why.",
+        "url": "https://www.tikr.com/blog/astera-labs-stock-jumped-12-yesterday-the-street-sees-14-more-upside-heres-why?ref=yahoofinance&.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-22T06:18:21.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (INTC) Sees AI CPU Demand Squeeze As CEO Flags 50% Fulfillment",
+        "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-sees-ai-cpu-051505418.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-22T05:15:05.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel stock heads into the open after a 12.14 percent gain - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc09pQ1pZcExEeWFiSzlxUnNXYWF6UWVOaTkwYlR3WnByNGxZVy1rem9yZEdOcG93WWRUQWI4Y3psN0tjSHMyMGFJV2I4RVJmMFV6NTkyVDFsbkdFWUNjemZKSERJb0NsRlE5ZkRMZ3FBRE9xelhEWi01dzJDRG4wWUU0M3VYX0JNU0JiOXBmczJVenc4WHRIUnVBYmtySnVzSWF5X19FTGR3MW9ZaVRsbmNqc0ZGLWozYjhkRGpn?oc=5",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-09-22T04:52:03.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meta Stock Is Still Too Cheap - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaVpmLUNzNENtaFkwdzhlR0M4TEVwTlRsUlRUUWFWQmFZSlRwRzZyVkZTdVh0NFhRenRhNmZHTE1EMXRBZDZ4VWY2ZERMQlpEalhGbmo0eVh2cU12MmZpME02b245QU00dGVwalR3T2loNVlobVoyeElpS0VGY1NBNmlSWGhhazBrcS1CNTIteklXV1NfWkVQU1BlaTIwYmMxV3R5N3duMTdKYzVOcWhabGtESm01cVE?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-09-22T04:50:10.000Z",
+        "summary": null
+      },
       {
         "title": "ARM, Intel, AMD Surge As Meta’s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
         "url": "https://stocktwits.com/news-articles/markets/equity/arm-intel-amd-surge-as-meta-s-muse-ai-fuels-fresh-chip-demand-bets-retail-turns-extremely-bullish/cZMP4iNRBIq?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-09-22T01:50:51.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Intel, Arm, and Other AI Chip Stocks Soared Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYUpxaWE0cUt5UjI1ZFJhZEt4OEdUZFNucHJGZm11OFZBMWtkOHpzbzBweVF4OVRLZGxqdmZvLU1kMklIR29ad0J2UFpZUG5ZeGpFOVV6clZOU1JTaGJ1NTRZQXhVVzk0R3hMTTR0VVlMVk1ma0tpOUhjZ3hBMEZzMDlma3N4TWdTSDdWZHZ2V0RGZw?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-09-22T01:42:07.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Intel, Arm, and Other AI Chip Stocks Soared Today",
-        "url": "https://www.fool.com/investing/2026/09/21/why-intel-arm-amd-ai-chip-stocks-soared-today/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T01:03:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-        "url": "https://finance.yahoo.com/m/bc32a5e1-f207-3311-ba0b-143bb01bd032/dow-jones-futures%3A-falling.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T00:59:28.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T00:22:25.000Z",
-        "summary": null
-      },
-      {
-        "title": "Trump, Xi Meet on S&P 500's Best Day Since Early August: Will Markets Stay Bullish?",
-        "url": "https://beincrypto.com/trump-xi-summit-best-day/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-21T23:20:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Silicon Valley Capital Partners Purchases 10,406 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcTlVZC1PQUVQaEludEZvaTVSelg0MllDeWh5YW5hbVZ4eFp4emhCZGFjTExvaVluTkpPVE5weXBLRWVFUC05WUppcHpkeTViaWY0QU8wLUNPb3Z3MGJ0X0xUYm9yTXJkQUQ3T3BVZnRYTi1SM3d6QTE2dGN5U2NtVldHdV9WaklEN1ZiSnhOZmI2RlFJNkFLcnQ0dXB3QnVlNmdnZWNCdTVNSUNXWnNsdVNxd0JTaTQ2N2xTYmYyMldfekhKaXR0c1dwcE5FbGdmS3ZJSkdrR0g?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-21T23:14:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/communication-services-tech-heavyweights-push-210945542.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-21T21:09:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Tech strength sends Intel higher by 12% (INTC:NASDAQ) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSUpWVmxxeE8zMTF5cFU1VlRWU2tIVTNqU0dTemtKR0NuYmQ1RUQxcmYwVzlLMGE2WnlDRjRyZW1fT0loZGZQcEQ0RDlReHZ6LVRBcXU5aS0ycHBOLTdvcjdtV1JZV1M3MFVKMENKd2JDcmhfYmdhcExOdGlvYnVLQWFn?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-09-21T20:53:32.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC), What Is Driving Fresh Attention Now? - simplywall.st",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkVkX09fdnhhYllfVjVrcVdKYXZ5UGptZlViNUJqcWhDeTU1dGxlS0RYM0pyenZKX3RpRHJuTk9hZ1R1YkI2RnpPX2xkRWdFRGhRTURZalFTalVwUkc1R2ZZUjRzRmVtWFN0dUNkQzkyWXFFdU93VTE2THUwWlFfQmtMdUhRaUlGUkdNNVNIRzd3dHd2X19fNkVlWUFlRUtUTk9xZnRXUXdqdFdzNUFoUkZCZ1pHaVnSAbwBQVVfeXFMT0VDWXBZWUdVbVJ1WnY2cGlhLTdHczZfS0YxTFlReENaR0JnYzNacGk2SEg4M2dGWVJ6THJkeHY5WklvdWVNR0h0aUZXbGJmaGRjU1RPTzdwamdMbEkyX21xaFlKdnhGUGZwN2RCTEUydUZmMm51ZTRlU2lXcjUyamJmQkFzNFNuUk9JaTRibTVnTm5adXZYWDQtWmR4MzRLdEdYUXBzeVRSMk5iY0NjYmttZk9aX2lkZDVYRnU?oc=5",
-        "source": "simplywall.st",
-        "publishedAt": "2026-09-21T20:42:04.000Z",
         "summary": null
       }
     ],
@@ -138,9 +138,9 @@
         "summary": null
       },
       {
-        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - 네이버 프리미엄콘텐츠",
+        "title": "🧭 [HBS Chart Compass] 삼성전자 (005930) - contents.premium.naver.com",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
+        "source": "contents.premium.naver.com",
         "publishedAt": "2026-07-31T07:00:00.000Z",
         "summary": null
       }
@@ -175,10 +175,10 @@
         "summary": null
       },
       {
-        "title": "Apple: Duo Won't Move The Needle (NASDAQ:AAPL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91N3RzclR4YURMOGdqOGNTbjgtWHhXOVdfbklDQ0tGektXNTUyc3RYS0VtcnZNWTdRaFBzUUR3RnlYdnNZTXQyOGFVMTl3N1FadFlMYlc4MGRVT2drLWZMU2xqd25uNndXbUIydTZ4RUR0NzRiU1dodVFCbw?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-09-13T07:00:00.000Z",
+        "title": "Apple iPhone Demand Should Hold Up On Higher Carrier Incentives, BofA Says - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXR2MUpCNzVocjlpUWIwa011enhrdXZhWWVDU1E4dnNFMkVzMVBsYTI3UmEwc1AyRkM2X0Q5Rk84TUZCbGQwREtUQ211bVZzaDdXcEY1WExPQUs1VEluWWoydXRPR01oeXdTNEg4NnpUMmhiZmxDLVZsNW5qRU9nczhKdHFFbWNRZVZkMGRKdUtwVTNqZHRxX1RMNGNwZk9vVDZ2WUttV3p0VzRjRy1DcmtXVEtLaW5QbVVHRkJoRWNWdmFsSHFkaXg3VWdqUUEwN1M0?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-09-17T08:32:15.000Z",
         "summary": null
       },
       {
