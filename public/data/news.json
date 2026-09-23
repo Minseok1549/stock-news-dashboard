@@ -1,86 +1,79 @@
 {
-  "generatedAt": "2026-09-23T03:25:58.624Z",
+  "generatedAt": "2026-09-23T10:48:33.316Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel: The Party Is Only Getting Started - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQm83WDZ3TTRQb1BnZU1fclBRSlRBZloyRlhHMEJZU085NUd6TVlpU0V6NGJWUGJ4ekdRTVdjSF9YNER0cE9Bd0wyUHhjX0hFRTljWERJUENrV2M3eDNMRWFhMmY0R3Bmc0VWUnVzY1pidV9ZQUlYdEdYeHVsZHFSS1g3YlZLUEk?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-09-23T09:42:56.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Price Forecast: INTC Nears $125, Can AI Server Demand Push Shares to $140? - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZGMwenNzeUZwcFVzcllxeXl1empBT1FleElvd2pOOTdQUlhMX0lrLUJlTG40SFFvazVLOC1tSnNOZ1EyRTFIa1dzT3BGdkVMTTNlNU9vYnpFVTVlQVhGbHkwM3M4U3RQYlk3YnJfSnVqZzZDanBiV0hSb3dDNGUxMkVBNWdfOUpPYjZqenBvX3FqSTRpc3ZYeDZzaUFCV0l3Y21pNnV5Zlc3ZE0zYUFia1M5dzJneEJnZ2h2V1k1WWFPX3p5WDdyWg?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-09-23T09:03:09.000Z",
+        "summary": null
+      },
+      {
+        "title": "Muse AI Makes Meta Connect a Must Watch for Investors",
+        "url": "https://finance.yahoo.com/m/d09aef63-1fc6-3483-bd83-00a62d8cc598/muse-ai-makes-meta-connect-a.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-23T07:15:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+        "url": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-23T04:33:16.000Z",
+        "summary": null
+      },
+      {
+        "title": "SK Hynix Is Eyeing Intel’s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVFpfRTJkNXVuRXc2MElhWTZWQ0tHcG1kZWQ1bGdhNlYwX2NXWlpNRUFGT2UtZFNLcy1xeG5QUHZ3QldnY2RGR25sQVBsOFB1U3d1aFlBZWRVMEE5bkRpN2NvVXJBbmg5NzR5RVZHbWhzMGk5Y0pva3BtajNkdGc0cHhheTVfVGExLTQ4c081V3U?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-23T04:33:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia’s AI Networking Moat. AMD Could Benefit",
+        "url": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-23T04:24:33.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-09-23T04:17:10.000Z",
+        "summary": null
+      },
+      {
+        "title": "AI Partnerships Might Change The Case For Investing In Intel Stock (INTC) - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOenRySHFkSTdfYkRlaGcwMjVKUFYwU2o3NTFGUzdGZ2xCQnd2TDJxaVYzaEVHb3NIZTJUZHFmcDNXZkxJQVpkU0MxSEQ3bnFkZjl3SllncExVWWg4dVdvMkJNS2RnSXVTV3JGLTVKVWg1N2l0Yzk4R0dldk9pTlE3NVZrWmJHOFVfcFNOQjNFLVJFSmZnc09xVG10ODRYc0JRblhQb25SS2pjSzNocjhQcWtXMy1aX1hRNjlWdWxaVFJtZ0JNQ2VuaVBn0gHPAUFVX3lxTE9nVERCMFFjQjRzRVlnWGs0al9ER2N4TDJBcjF5RmRnS2s1bVMzSEphZjZhUTNtVzgxMW1idEdteGF0c041WkJWSFZjSTJ3TGFWTkFVVFUtZGVmdkZkaGdfWFVLNUZrTHJuTW5ac2lpUTBlb2xYU3h2R3BieUVPVmd4S2lLclBUdFA5djJZejl4cGl1U1pvYnRONlJKa2h6T3M5a1FPMkVrUmZLMGtwV1NZU2xkRmtVWkR1TE10ejkta2p0LU9xUTJrYU91XzBsTQ?oc=5",
+        "source": "simplywall.st",
+        "publishedAt": "2026-09-23T03:45:08.000Z",
+        "summary": null
+      },
+      {
+        "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmJlSXBIOEc4cGpIbFNWLVlYMFNER3EtcHJGa2lSd3owTUJoQ182Y29MbzVmNlJFbkI5QXU2d2ZobV85RE1naE1yd2pxZ1A0cDJySTc1RE5HaEdFZ2pHUmgtV0xaN1Y1TGpLVVRNVjZRNmFKMzBlVHVCclJPV2NtM3Aya04zdE1JM3gtaTgyeUJIelNVbEVJWnVoTkE?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-09-23T00:35:00.000Z",
+        "summary": null
+      },
       {
         "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026?",
         "url": "https://www.fool.com/coverage/better-buy/2026/09/22/asml-vs-intel-ai-chip-stock-better-buy-2026/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-09-22T23:55:01.000Z",
         "summary": null
-      },
-      {
-        "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026? - fool.com",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZmJlSXBIOEc4cGpIbFNWLVlYMFNER3EtcHJGa2lSd3owTUJoQ182Y29MbzVmNlJFbkI5QXU2d2ZobV85RE1naE1yd2pxZ1A0cDJySTc1RE5HaEdFZ2pHUmgtV0xaN1Y1TGpLVVRNVjZRNmFKMzBlVHVCclJPV2NtM3Aya04zdE1JM3gtaTgyeUJIelNVbEVJWnVoTkE?oc=5",
-        "source": "fool.com",
-        "publishedAt": "2026-09-22T23:39:01.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (NASDAQ:INTC) Stock Price Up 1.7% - Here's What Happened - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWF6M19GNFBsaE1hd0d3TUF4ZHQ5TEYyeG9WYVI2QzBBZGI4LUpZV1c4MUx3THc5bmNnZE11dWNlZi12dDc5WGI5VVNwVXh5aXA5bldVbTBnZ0d1NHdmUmVEVEI4cERTMzhsRkZNWFFEQWNpN01rOTVMNlc4X3hTU204TlREc3NsV2J1UnhYMm1rWUpxam5aeHpFSS1BdTlSNHFWZ2RvbTN2UGhBYk9ydVhFb3Mwdw?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-09-22T21:49:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Stock Moves 1.71%: What You Should Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-moves-1-214504558.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T21:45:04.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel (INTC) Stock Moves 1.71%: What You Should Know - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT0x4V1pVWWxJQ1k4Qi1tVUg2eFhwMk02cGczT3ZReEh2ZVdjbXNoTnJPVjZnMW1mUFhOT2hOcnprSWNMS3FXUDFXQTJsamZaZ3RMcENXQk1JTVBPb0UzRTdrY1hRZU9jSGJ0aTE5SDRBV2pVQnB2S1lMRU4wVnU4cGZfVHRqXzF5SWI1WV9DdnM4U1E?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T21:45:04.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel stock ends the day 12.14 percent higher at USD 121.78 - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXkyaW9nTEJieHl1c0lNMFp2WHg0X2h1MFRNWEU3dml5SmRBTTdrRWMwMFotS180M0NnUVRRLWJzeGNZZmFHRi12dUNKNjZyQlhVeWJxMmtDc3JmM0N0QzNLRDJ2Qk1uc0k2YS03VVNIMk1hSXhuUkpkU3d0UWFjS1ZScnZzNWNwRVg5RzZoQi00ZlJyaEFpUEpuRzBDWUZvZGRIUnNJVktxTTFua2gxV1pLYy0xaEtNZUE?oc=5",
-        "source": "AD HOC NEWS",
-        "publishedAt": "2026-09-22T20:47:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "Top Analyst Reports for NVIDIA, Berkshire Hathaway & GE Aerospace",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-nvidia-berkshire-202400005.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T20:24:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Should You Sell Your Marvell Stock Now That Higher Forecasts Are Not Enough?",
-        "url": "https://www.trefis.com/articles/616152/should-you-sell-your-marvell-stock-now-that-higher-forecasts-are-not-enough/2026-09-22?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T19:44:12.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel stock jumps 25% in 5 days, driven by AI s... - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjRITFk4Yzd1SHNHWFB1NEdJUENBNVc3TmRjOVRuT2R5SFdrRm5nSGNUNDc5NHBkNW9uWXRSeWs5cHZTcFpWQ3d3ME95MWlJOFNfRjVSdVRyLTByMFJNRUlEV1BpVmlqejVZeWJkeDQzY0tSck5ad2pmYTBReVVfNWtGbVRHLTFCMzNPeA?oc=5",
-        "source": "Pluang",
-        "publishedAt": "2026-09-22T19:23:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD Stock Just Sent a Huge AI Signal",
-        "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-just-sent-huge-190755384.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-22T19:07:55.000Z",
-        "summary": null
       }
     ],
     "005930": [
-      {
-        "title": "삼성전자, '2026 그린수소 글로벌 포럼'서 차세대 EHS 히트펌프 기술력 선보인다 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wZ0duQUxVVXYxQlFZSWZzdUM5Rl9IODZzN0RoNFQxM1EtelUwZHFMV0c1eVFDTE9QUEprNlkybGo4RkV4ZGtaWmFBQXBKWTdGZzVuSGRYRWxEQkpnc252enNtaGtQMGxXbkltNkwwdE9tNkoxcWc?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-09-13T23:20:56.000Z",
-        "summary": null
-      },
       {
         "title": "삼성전자(005930) - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2puTmlQV2FZdzBmVFV6N2VxNmdDemkzLU5icnNCbHExLUgxT1E3dVVXaGUwNVJ3OXk3bm94dW8wVkNfNkFEZjBVUkF0U0JRdGNNa0Q3RUJERjRiSGVSVUdiRTQ4T1Y4N0NqenYxOTBTcGd4OU5wUjlya3pDbzJIMkppeWt2WWZXcVE2blNzdl9zaV80RHlvYWRB?oc=5",
@@ -107,6 +100,13 @@
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tMEJnU2Rha3dXOHhjSnN6bGp5UmR4b1FfbnRKQkliaFNUOXZOUzl6T21WbFladnlNSVRZS05NcXRDMTFoRXB6M0k1UTFDZnZqbjJadXhqZ0hiSkl4ckpzcDRTcjJ4Mm9ucVRBag?oc=5",
         "source": "민심뉴스",
         "publishedAt": "2026-08-31T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼전·닉스, 6일새 자사주 8조5천억 사들여…\"46조원 더 산다\" - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GamVEUUlrZHlOSlh1ektpSzdsX09UVDA1TnNCX2pUek9VTE9nX0NfOHpySW13VWVWSk1Kamw4U0szOVB1YWdOdmhzN0FhUERTdlVESHN2bnY1VWfSAWBBVV95cUxQQmp0NlRzQnhXeGI2R1d2YlY0X0xSMVdpYmNmVnJpN2V5czQtT05VRUY5d0hkMVJ3Tjc4TkhqOXBrWi1xVnRSX1ExaUV5MWFjQ3EzLTg0TXpOR0FNSWZkQlc?oc=5",
+        "source": "연합뉴스",
+        "publishedAt": "2026-08-28T07:00:00.000Z",
         "summary": null
       },
       {
@@ -168,6 +168,20 @@
         "summary": null
       },
       {
+        "title": "Apple and Taiwan Semiconductor Manufacturing Just Announced a Cutting-Edge Chip. 1 Stock Offers Far Greater Upside. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeThFS045b19iSkRLSkVYRDcxVmZOREt0WDRiNkxlR2ljaDZrb0xPWEVNY1pnLWdwa3QzWHNuZ3hsU2NJZXo3ckhLdTdmaTBnOF9RUUJfU3JhT0R0eWJ2S21lX0lkQW0yN0hZa2RDQW5HaERyV1I2UVVONmd0ZnY1YVR5dGJyTTU2cV9OZzFzUElmZHRrWHFV?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-09-12T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Bank of America resets Apple stock price target after iPhone Duo launch - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkJ6LWVGbWFRdU13Q0VmWlNwd0UwM29zTkR0Y3R0Rk5aTXduQTNodEpZZmJaZDZ5QXhodThKb2U5Ulg5U2ptekVlZW9ScEpGbkJJV2liZ1llTWVSSXJ1NFVDazhoTk5LUEpNazFkX3hwQ3ZWWTRDNWFyZkoxcVA5bUo5Y3NVMUd0VFRRb3hYa3BMUzdrNUVPQU1CMWpJODNJYWJoWFcyN0dpR2pVTE4xQmJ3?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-09-11T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "Morgan Stanley renews Apple stock forecast after iPhone Duo launch - thestreet.com",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWJHT3hvalJJZlZ3V1JBc1k5SjdCbFdXVUFydnJEVTZpVEgyWHhEWHV2YXBJdGtSdHRvdWtWQzVOUUhuNGJvdXN3SWVlVk4tMERyOTM4NF84UUROb3hlMkMwMEdMZEJtV254aVJhZXVjaktkWmY5RU92WHFDOXpvcTNwWUp6NUdESjRvTkp1amp3R0lsZTNkenJfNnBsZw?oc=5",
         "source": "thestreet.com",
@@ -175,45 +189,31 @@
         "summary": null
       },
       {
-        "title": "Apple's iPhone Duo Distracts From Wearable AI Advancements - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU2ZEX3pweXRlYUxYZTE4QXVtbXRyeE13Y2hsUnpXMVpfMmxXdnpYSTBSUU54R24wS21hVkhJN3BSMHNRX0h3R0YyR0s0S3A4UGdMZTBlZkEtejNrN0Ffa0JUYXJyRGFIcVVGa25HVEh0b0IwWlJNNjNuZ3BCeXBOQlFsNW5Za3JseFU0YXgwREw?oc=5",
-        "source": "Investor's Business Daily",
+        "title": "Josh Brown says Apple's stock chart just gave you a classic 'tell.' What it means - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHlWbkszYXBpQXBFRG5uSTRzRmtCRHJpYW1wYVdrdnBwa2NWZUF4aFI1Znh4ajdFbnVieVU4SVNBZ1F6bV9uM0FvRlk3NENmRDdIaVFCSUJrbDhVa1RlV0t3Vmk2V3ZocmJ5REI4LXVkd2FYNWhkMzJ4ZDR6bFpLMVl4QS10WkJicWtlUUpSSDE5allmZEs5bTdnVGNmTDJNSTRMbzA1ZTJRWU1DS2tTT3dxaGg?oc=5",
+        "source": "CNBC",
         "publishedAt": "2026-09-10T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple: The $2,000 iPhone Changes The Investment Case (NASDAQ:AAPL) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT044WXZ5dVlmV3NjWVRBcXpGMko5bGN6aGIyZG1qemM5TVlUb3lWVFpWTE1kNDh0NS1TTllkRGJLdm9hWTNSNDRHVG9KSkRmam81ZUhhd1ptc3p0RkZFRDZudl9zUnZYRWhZY3Nidlg5VGM2c3gyUF8tRjVqeGlJbno3Q3RNNWJxLURhOTk1VFRDN1dQ?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-09-09T07:00:00.000Z",
+        "title": "Fantastic News for Apple Stock Investors! - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmx6OFFPSE5yc0VCYXp0MzdrbGtSZkY4Z2FqTWVkNjZoWjl3aEZDVHZYTzRVRnZkY2ZlejRUVmxZYzJpTVFfUGcxSGpvT2p6QXJreGRSUUJFTzNvUVU2cXlFamRGbU56eUNqeWtVc3Q2aWpQdE9ZVFNLaklYUnMzZzhpNHJKcl9UUmE0?oc=5",
+        "source": "The Motley Fool",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple Stock Pares Day’s Losses As iPhone 18 Pro, Pro Max Debut At First Launch Led By John Ternus - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHhtVldtMUpxQ004MTNJYjBzclR2ZUcxckNzVFFQUEVqbXhwWUxzdXBHb2d0dzZvYThia28tdDZKNERuOVpGZlNkeHV1Xy1IR19iR2UzU1dOXzRfWUVHMGpadUJ4T2lWVzBMNDRJalBjYTZvZ3RzVmJvZGJXR3lMWUdXbElXU3lMck5kMFpSUzZQZGw5NzlIMGZNVDY1M3hfNngtY3VORVlwVkhmbmwxQmZjRkl0Ym5tRGM5T0RLV2hFeWNSbEE?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-09-09T07:00:00.000Z",
+        "title": "Apple Is Betting That Big Screens Can Outshine AI - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ2taMFRqS1huR0FHcW5qM3dkc0ZFUnY5UmRNVGd1Nm5mcnlhWm5vcFZ0Q2pVbXQ3SHQ4Z2FRS0lwZXdoWlEzb1VKcFhmQmFDVERkOTVBMHNoR3lPMFpNZDAxU1JPYUZhclV4QVItYWRYY3Rzb2pTWkY4NEF6YzQwTWRnT2c?oc=5",
+        "source": "Barron's",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "Is Apple Stock a Buy Now Ahead of its Product Launch Event? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQUlrVzNmUEptY3hNRW92LWFmdGdnRV9Nb3dRbW96QXVDUUdNV001Ujh0REJaU3JqN1g4M09rSHVheTJFempDWU1WeW1sNU5JX2x3bnFLQjhLTnJGTWgzOHhieVp1STNsZ195X25ZeVBYb1ZweHFPcEV4OUEwcDlTZU5SbUtrREZlVVNib29zWTBTN1g3?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-07T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "iPhone 18 Pro Event Could Hit Apple Shares, KeyBanc Warns - MacRumors",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQckpxclVYbHM3TGNZM1pIeVY4ODdKODBpbjFKVVpSZE4zLXNjRlgtZU9HYmJaTG9CcW5VYzVkZ3pFTFFfM3ZReHRwbngzSXVYaE00Q1J5bWctbDh6eFh2Tm1kVWk0VGJvdWthbF9yRWZLc3lvTHlWa0V1ZVJQRW5yQ1k4SWgyZjQ?oc=5",
-        "source": "MacRumors",
-        "publishedAt": "2026-09-07T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock: September Surprise Could Be Bigger Than a New iPhone - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSlNDVnpjMEg4LVVRWGthQzVuVndKQ01uOFRYVU1Lb1NHYmpSb2dxN2NzZnl0SFQwUnZQSGdxdllVSjY3cmlCaUtLU01rbVBZVWVWZzNUZGFzQ1RfaXZPclJfaTVkSlhIeGdEVXI2Um0zbjNVQVQ4WTdtNGd6S21sQTE2ZlZQczVjekFZejZSUktyRlljeFQ2MXVQOFpEMWNuSzFV?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-06T07:00:00.000Z",
+        "title": "AT&T CEO drops a hot take on the new Apple iPhone Duo - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdTJGNUJCUTdYQnpoSVVBbXVlT096bmpPaldud0p5S3JBeF80aVhxX3BkbEJBTkM0ekdXZGdFQml4cERDUXNBZGJXMnJPZFktZGh5d0pSeU93R3k0RWZWa0xCN3p2SVc0a01Tbk5RanREU2ZsYnRWSWFISFdob1BOZXFub2VuYnZmVkdGclEtNXBqbHc?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-09-10T07:00:00.000Z",
         "summary": null
       }
     ]
