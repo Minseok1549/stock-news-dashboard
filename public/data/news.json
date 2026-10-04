@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-10-04T20:53:19.406Z",
+  "generatedAt": "2026-10-04T23:49:44.867Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Broadcom vs. Intel: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+        "url": "https://www.fool.com/coverage/charts/2026/10/04/broadcom-vs-intel-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-04T23:36:28.000Z",
+        "summary": null
+      },
       {
         "title": "Intel stock heads into October 22 earnings with Q2 growth - AD HOC NEWS",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEFkdE40c2pLT3JDVXBiSnVzcDVQSzBINi1tMkFtdGRha3I3N3hjUGVQZnFPU0NibHVOM1FweVhYZTZ5d09rSUV6YnNoSXlQSzlFbFJjNWl1czdDdi1RVzFidUNjWHVEYmxVMjBVb3IyRERMVUcyV0tKUXgzWENXOXNQSGhzNi1OWnFfeV95ckw3LVRPdEVha21mX004UHJhOEUxSkVvb2dsMmc0OExEajRyMjBtNnI5bEQ4cQ?oc=5",
@@ -45,13 +52,6 @@
         "summary": null
       },
       {
-        "title": "INTC Stock Still A Buy After 230% Rally This Year? Jim Cramer Sees More Upside Ahead For Intel - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQnZod2lYMUNWUE5IUlJrMy1NeU9GTHZObmFJSGxuRnAySlVGZDRZV3FtWlN4VlZDdXdFM19xZHEwdkh2akJwOHIwY3BOWU5sTkkyUFVNbjhyZjVzTVpLR0dVWjNNLVEwRUxBYWFLcVdWSUVneXJIVVExUTlrNVZVb0RVRzhTdUd0YkM3bFcyUkVaM0hUMXBtUDhPSUx6STVNNEtRckE0Slh5cjZrQlcwbk5pLVJGT2RYNWZBS0xIZDh6eElZZGxaQkZEZUxndVd4ZmNSQjNuQTE2akxzYTFLZFdyY0pISXZId1gteU5oNA?oc=5",
-        "source": "Stocktwits",
-        "publishedAt": "2026-10-03T21:42:09.000Z",
-        "summary": null
-      },
-      {
         "title": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth",
         "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-views-intel-intc-201026810.html?.tsrc=rss",
         "source": "Yahoo Finance",
@@ -75,16 +75,16 @@
     ],
     "005930": [
       {
-        "title": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은? - 네이버 프리미엄콘텐츠",
+        "title": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은? - contents.premium.naver.com",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXFZU3ZHSk53YzU0UnRtQnE3bTl2R3lJMV8wd252Mk5VZUoyZ25RUVVKcThmM3IxeE5NTzZpUm1Ba2hNanR0WjA5WXc2TFNKZ1M1ZS13VUJpSHdtbmoxQzBrWU4wOTh1eWpNQWZwaGczUlplY3U0STRiYjB3NkotTjZfblQzQQ?oc=5",
-        "source": "네이버 프리미엄콘텐츠",
+        "source": "contents.premium.naver.com",
         "publishedAt": "2026-09-29T00:11:35.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자, 메모리 업사이클 장기화 전망…목표가 63만원 상향 -유안타 - 인포스탁데일리",
+        "title": "삼성전자, 메모리 업사이클 장기화 전망…목표가 63만원 상향 -유안타 - infostockdaily.co.kr",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBna2FyRFlpX2dSb3B4Nm8zRlJLaTBGZjVTeVo0Qzhad3ktaVE1SlFTYklNR3ZGQUo0YzQ2TlBya2k4WV9XUE02N2FzVDBETVNXT0FOdWhPejhxVTdja05OVE5IMkVVOFJqQXdQYUNOSkF4LXUxdnc?oc=5",
-        "source": "인포스탁데일리",
+        "source": "infostockdaily.co.kr",
         "publishedAt": "2026-09-27T23:05:53.000Z",
         "summary": null
       },
@@ -147,9 +147,9 @@
     ],
     "APPL": [
       {
-        "title": "Jim Cramer sees a huge catalyst on the horizon for Apple. How to play the stock - CNBC",
+        "title": "Jim Cramer sees a huge catalyst on the horizon for Apple. How to play the stock - cnbc.com",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWJqVnVPczBQTlZXUTNTVVNNSXpCSUFlU01CcWFZTS1WWnBDcVlkb3FWcFdWd0dyRlBiTEpISHAyWmg1N0dMcG9jTFR1QXlvd1RlUVlaS2pfQ3ZkQWpremNGMTFSdmxmdS14bnJuU1l6cUtCcDc4Mlc4ZlYxLVJHS2FtUDdqeGo0Vk1nRU4wdE9ocnV6OTNkRm5HZTcydzNkZDNQekZoZDlrRmpGbkdKNzc5OFljdw?oc=5",
-        "source": "CNBC",
+        "source": "cnbc.com",
         "publishedAt": "2026-10-01T19:23:49.000Z",
         "summary": null
       },
@@ -189,13 +189,6 @@
         "summary": null
       },
       {
-        "title": "If You Invest $500 a Month in Apple Starting Now, This is What You’d Have in 2030 - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQTVmQ3ZtYm95aHJWWVdXclZtNXc0SHBRdGdWRml3MFhIdnRDSTY0cXRpZkdnOXkwWkVtNjZyT3R2RWVHeFJfSDZBT0FiaW5XVDIyNFd6UnRsSmVTYXhvZk1pNkN6MFJQeGw1MGxkc0JTTGFUd1JMRnhsNGtpUGlITFpWX1ZCU2QzQVJ5dDdxQmV1S1g1YnVVVDJLZjFjNExLX0hfMWI4SGNHQUdEX2JMS3A3NmFjUkhsRjg0ay12dw?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-09-21T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "Apple Shares Are Trading Near Record Highs. Can They Climb Further? - Morningstar",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVVctWXBNbW5qV0ZQSVFqZ0FUY0k1TGszMkhrOW1vMEpnU1otXzV1ek40cU9pbWotLTRtS010dDF5anRnVjZ1YS1sUDRYdGpoRm14REpRekFlM1NqNTRkdmhkc2p6am4xdWUzZUt1blVQVTVPUmJBc1VNM2FfOFlIZlViODRESnR6YVR2Zmc2OFFYRXdsdnRURkhWQ1JnbUJPNWdiMjdrb0VZYmN3Zmc?oc=5",
         "source": "Morningstar",
@@ -212,6 +205,13 @@
       {
         "title": "Morgan Stanley renews Apple stock forecast after iPhone Duo launch - thestreet.com",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWJHT3hvalJJZlZ3V1JBc1k5SjdCbFdXVUFydnJEVTZpVEgyWHhEWHV2YXBJdGtSdHRvdWtWQzVOUUhuNGJvdXN3SWVlVk4tMERyOTM4NF84UUROb3hlMkMwMEdMZEJtV254aVJhZXVjaktkWmY5RU92WHFDOXpvcTNwWUp6NUdESjRvTkp1amp3R0lsZTNkenJfNnBsZw?oc=5",
+        "source": "thestreet.com",
+        "publishedAt": "2026-09-11T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Bank of America resets Apple stock price target after iPhone Duo launch - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkJ6LWVGbWFRdU13Q0VmWlNwd0UwM29zTkR0Y3R0Rk5aTXduQTNodEpZZmJaZDZ5QXhodThKb2U5Ulg5U2ptekVlZW9ScEpGbkJJV2liZ1llTWVSSXJ1NFVDazhoTk5LUEpNazFkX3hwQ3ZWWTRDNWFyZkoxcVA5bUo5Y3NVMUd0VFRRb3hYa3BMUzdrNUVPQU1CMWpJODNJYWJoWFcyN0dpR2pVTE4xQmJ3?oc=5",
         "source": "thestreet.com",
         "publishedAt": "2026-09-11T07:00:00.000Z",
         "summary": null
