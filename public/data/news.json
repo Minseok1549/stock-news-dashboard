@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:49:44.867Z",
+  "generatedAt": "2026-10-05T04:10:48.331Z",
   "articles": {
     "INTC": [
       {
@@ -7,6 +7,13 @@
         "url": "https://www.fool.com/coverage/charts/2026/10/04/broadcom-vs-intel-what-revenue-trends-tell-investors-about-these-artificial-intelligence-companies/?.tsrc=rss",
         "source": "Yahoo Finance",
         "publishedAt": "2026-10-04T23:36:28.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel 'Nova Lake-HX' laptop CPUs will also reportedly share Core Ultra 4000 naming with desktop CPUs - TweakTown",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUFJIdnRvcHNTbUVGaFJSUmpOMFFmLV8tanJzZFR0NlVSakFPbnJTNTVINlQ5eF9BbDk2Tl9mZ0NKMGFxMVhRT3hTWDlPQ1NiNlRETDBDZTFKeGZsUVBWOHFDR3U1RTRwUEdCQkdlOUhMSlNIYnE0dkM3NkxQY2NROVJzNDVOemd5WklaeWl2WnNQMkRzQ0dweXBjUEphcjkycVVxZDZYQzB6WU1zNi1Kb1VsTlpTX2J5eGxuVkVKUzhHU3JEUDNhX3ROVzI1U05JMGRsR05NbjI3aE5mWk9oVQ?oc=5",
+        "source": "TweakTown",
+        "publishedAt": "2026-10-04T21:10:12.000Z",
         "summary": null
       },
       {
@@ -59,13 +66,6 @@
         "summary": null
       },
       {
-        "title": "Jim Cramer Views Intel (INTC) As A Winning Turnaround Amid CPU Demand Growth - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmtrdG5odDVSSXlGOUVxeVNuaVBGWThKX2pPVkhSd3dvUlc5T2d1cnVZWnRqSDdLRmd5ZWJaSnFrQ1hXZkIyQmZWS0JPWmw2cGkyeXVHb3FtSlYyMHUxNC1SSnVBdjBEdG5QNDE5VUU3QUpxZmxIZ3hiUVhIV25BS2FpanpBM19hSkJ5TzRKU1dYSE9Ea0xN?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-03T20:10:26.000Z",
-        "summary": null
-      },
-      {
         "title": "Intel (INTC) Data Center Comeback: Real Recovery or Just a Supply Squeeze?",
         "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-data-center-comeback-195750952.html?.tsrc=rss",
         "source": "Yahoo Finance",
@@ -75,9 +75,9 @@
     ],
     "005930": [
       {
-        "title": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은? - contents.premium.naver.com",
+        "title": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은? - 네이버 프리미엄콘텐츠",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXFZU3ZHSk53YzU0UnRtQnE3bTl2R3lJMV8wd252Mk5VZUoyZ25RUVVKcThmM3IxeE5NTzZpUm1Ba2hNanR0WjA5WXc2TFNKZ1M1ZS13VUJpSHdtbmoxQzBrWU4wOTh1eWpNQWZwaGczUlplY3U0STRiYjB3NkotTjZfblQzQQ?oc=5",
-        "source": "contents.premium.naver.com",
+        "source": "네이버 프리미엄콘텐츠",
         "publishedAt": "2026-09-29T00:11:35.000Z",
         "summary": null
       },
@@ -86,13 +86,6 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBna2FyRFlpX2dSb3B4Nm8zRlJLaTBGZjVTeVo0Qzhad3ktaVE1SlFTYklNR3ZGQUo0YzQ2TlBya2k4WV9XUE02N2FzVDBETVNXT0FOdWhPejhxVTdja05OVE5IMkVVOFJqQXdQYUNOSkF4LXUxdnc?oc=5",
         "source": "infostockdaily.co.kr",
         "publishedAt": "2026-09-27T23:05:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자(005930) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON2puTmlQV2FZdzBmVFV6N2VxNmdDemkzLU5icnNCbHExLUgxT1E3dVVXaGUwNVJ3OXk3bm94dW8wVkNfNkFEZjBVUkF0U0JRdGNNa0Q3RUJERjRiSGVSVUdiRTQ4T1Y4N0NqenYxOTBTcGd4OU5wUjlya3pDbzJIMkppeWt2WWZXcVE2blNzdl9zaV80RHlvYWRB?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-09-12T07:00:00.000Z",
         "summary": null
       },
       {
@@ -117,10 +110,10 @@
         "summary": null
       },
       {
-        "title": "엔비디아 실적 확인한 고수들, 삼전·닉스 줍고 실리콘투 던졌다 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOU4xTXp2ZGFuTjhJSnZ2U19FQkhPcTdRX21MdnpmS1NPbkJQek1QTnlXYkF0RHJiSzV6TDQ3bFVBdkF1emQ3Zjl3Z2ZhdTV0WEHSAVNBVV95cUxOLU04NlROaGZ0NGtnT0hHRVV3NHRndW50RFhJWk85TnM4R2MyQ0EzUUdoNmROd01nZHJjNGc1aURISEFOYnZlSERoOUd5NVpUZV9ubw?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-08-27T07:00:00.000Z",
+        "title": "\"삼전 주식 소각하게 해주세요\"…주가 급락에 '금산법' 개정 목소리 - v.daum.net",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DUWM4VGtSX0lzZnlpaW04S0UzZGhQRWVNWW4tcFdMRkxkU29xZFRqaGUzSnRrQVpfUWsxd0RDUDZxWFl5ekpocVRsSGpOa3c?oc=5",
+        "source": "v.daum.net",
+        "publishedAt": "2026-08-25T07:00:00.000Z",
         "summary": null
       },
       {
@@ -131,25 +124,32 @@
         "summary": null
       },
       {
-        "title": "‘100조 환원’ 기대에 삼성전자 담은 ‘상위 1%’…SK하닉은 차익실현[주식초고수는 지금] - 서울경제",
+        "title": "‘100조 환원’ 기대에 삼성전자 담은 ‘상위 1%’…SK하닉은 차익실현[주식초고수는 지금] - sedaily.com",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ic2JJS1ZhQkFhdFhZVEtEcFpBd3hEUkxSNG1TSkRkdnpINkVYdVc4MlhwQzlITjE4VDZwVkdXb2dlN3V2UGtEV011c01ibHVCMGfSAVNBVV95cUxQMWV4b2hZX3BqWkEtcmJOQy1YZFFrYTduN1h1ZTM3aUdUak1LQndvaTQ3SWdNN09tU0llckRGUmpwNXZIYVYtd1Q2M1QxSXFQRmtCOA?oc=5",
-        "source": "서울경제",
+        "source": "sedaily.com",
         "publishedAt": "2026-08-21T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "삼성전자 2.00% 하락 마감, 외국인·기관 수급 엇갈림…거래량 변화 (+005930, 반도체, 주가, 투자자별매매동향, 2026년 8월 18일 월요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1udUpHX0o5T3E2NDBQbmR5bm5fVW5oYXdJS0RjcUg4bGt6akl4b3BJcHlMVWdFMGpYR0Z4a3hvMGJjSHdOMU1ySG5uems2RVQ1bFVvWUFvWF9BWkhpc1FwU1lWSDJjVnhpLUhCLQ?oc=5",
+        "title": "‘삼전닉스’ 주가 털썩…고수들도 순매수로 물타기 [주식 초고수는 지금] - sedaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmS3ZDbTU2SEhjbks1UG5pMXhucGQ0b2ZELUxEV3BVT0N0bkl3aTc1Q2FVRUgxNE5xM1hnTkJUbDdpd2tPcjNDSnV3VTk1Tl9VMFHSAVNBVV95cUxQUDJyQzRQZ2ROY0dhbW5Jc3VvXzFxMjZvUFVTekkzeW83YU1zSzhBRTAtcndzblRPY29pd3RmcFp4c1ZEUTRMeUlfZVdIWXNfWW03bw?oc=5",
+        "source": "sedaily.com",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 6.30% 급락, 외국인 306만주 순매도… 투매 공포인가 (+005930, 삼성전자, 반도체, 외국인매매, 2026년 8월 6일 수요일) - 민심뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41ZXZTR3NPclNvZXRybG9UU0pjM19EcWtqbnc4MkYtajJaaHBydmpPaktlNDIxU0JnWDVJOGpsZ1NNYk43d2JCRVVUVW02TXJyZjBZdWJkUktJTHRTMVVlR09HY2swTnVvbHo4dA?oc=5",
         "source": "민심뉴스",
-        "publishedAt": "2026-08-18T06:41:39.000Z",
+        "publishedAt": "2026-08-06T07:00:00.000Z",
         "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "Jim Cramer sees a huge catalyst on the horizon for Apple. How to play the stock - cnbc.com",
+        "title": "Jim Cramer sees a huge catalyst on the horizon for Apple. How to play the stock - CNBC",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWJqVnVPczBQTlZXUTNTVVNNSXpCSUFlU01CcWFZTS1WWnBDcVlkb3FWcFdWd0dyRlBiTEpISHAyWmg1N0dMcG9jTFR1QXlvd1RlUVlaS2pfQ3ZkQWpremNGMTFSdmxmdS14bnJuU1l6cUtCcDc4Mlc4ZlYxLVJHS2FtUDdqeGo0Vk1nRU4wdE9ocnV6OTNkRm5HZTcydzNkZDNQekZoZDlrRmpGbkdKNzc5OFljdw?oc=5",
-        "source": "cnbc.com",
+        "source": "CNBC",
         "publishedAt": "2026-10-01T19:23:49.000Z",
         "summary": null
       },
