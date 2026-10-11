@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-10-11T04:08:16.979Z",
+  "generatedAt": "2026-10-11T12:08:36.741Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel Price Forecast: Nvidia Picked Xeon 6, Invested $5B, Yet Analysts Still Trail INTC - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTJ0M002eEJBWW5ocUl6ai1nTkJ1WjFMMktJRWtzekFRcktQd1d1MTFOd1RwbVFQWk9hU25UUC16RzBnbXBXdWZwcE5pS2ROeVN1YXhFZlNjVVctMWg4SWI1Y2FJazZTOTg2OVd0OWpmMGFKczk0ejdZX090Mkg2TU1Tc2Z4b2EwaUJ5MkxITm1NLWxic2JFdDVJRGZjdTBwbVNETDFURk1jMHBQN0ZQV3BhYVcyT2JDYWR2S1hLMERJNWc1bmVwODBxcUN1YUdxMlNQemdJbktvdzQxV0pmZXVIX1Zfam5N?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-10-10T22:31:52.000Z",
+        "summary": null
+      },
       {
         "title": "SpaceX’s Terafab Probably Won’t Deliver Very High Profits, Despite Taiwan Semiconductor’s Limited Role",
         "url": "https://www.barchart.com/story/news/5743503/spacexs-terafab-probably-wont-deliver-very-high-profits-despite-taiwan-semiconductors-limited-role?.tsrc=rss",
@@ -31,6 +38,13 @@
         "summary": null
       },
       {
+        "title": "Is Synopsys Back from the Dead? EDA Leader Inks Deals With Amazon and OpenAI",
+        "url": "https://www.marketbeat.com/articles/is-synopsys-back-from-the-dead-eda-leader-inks-deals-with-amazon-and-openai/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-10T12:05:00.000Z",
+        "summary": null
+      },
+      {
         "title": "Oak Grove Capital LLC Purchases 116,750 Shares of Intel Corporation $INTC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX2ZFdVhnRlZxTWxmS2ZUSHl0MnE0QWp4T0s3SWtacldZek9NM2RuRXhqSFVBS3VuU0tKbGY0VmZIQWlYbTF4Q01RMlRmQmxzbEt4b0RaOG9uSmJpTTRpeWYxcmFJajhDX19WZklKMC1obUVTdm5kMGRuV3VLWTQ4bVN4cUlMakg1cmxScTQ3S3VINFFFTkpNRmNnZWNTeXBlN0MzcWFyTjJsbnRlZFZaN2FtbExSU0NCbE5PbEJLLUJMQTloQlBVVTJST3U?oc=5",
         "source": "MarketBeat",
@@ -57,37 +71,9 @@
         "source": "MarketBeat",
         "publishedAt": "2026-10-10T09:06:46.000Z",
         "summary": null
-      },
-      {
-        "title": "Is Terafab AI Role Altering The Investment Case For Intel (INTC)? - Simply Wall Street",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcGtldWVQWjNZUWJ6c0NFU3hVay1iOThiWUZxckhMeFlUVW1CeTdNalVvMTE1bVMzVGp5QWpORGprMmZPWG5PTGtZNnpwSnFBemx2SzJqY0NVLWEySV9lR2Via2RNV2pHT1dSS0liTkxlT2Zma2ZCclFBSTkzNlZYdWgwelYwWGVQVU9OOVpHV2k5LUhTMlBkRHNaSXBXbFlWbWRnaUlLUUtxRDE4WjlVSTFDVHRUai1ZMEptcHViZUdiWE1kdklQbXdR0gHPAUFVX3lxTE1UdnBWNW5aQU5pQjhaamF5UkgwOE5LRFI4V2JTc3ZrN2tiZjVBeXBiMkkwQUUwMU5iZW9VTHY3b2xveDBqWWlLYUNuZmw0M1FWd1ZNN3N5WE1pUFIwOVBIZVNldnU0bVQ2MzYtNHIxN2puWHVaUHUwRFZNQXRRLVdObzgxOGdXZWhVWXc2TzlYRFRaQk9UTkxjZnlFbzhtem9qTmtEdzExVEpmMktlbTNiYWlQd1ptNFNFYkVnUXVYTm1PS1BxcHpadnFLZ1dDOA?oc=5",
-        "source": "Simply Wall Street",
-        "publishedAt": "2026-10-10T08:40:44.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation (NASDAQ:INTC) Stock Has Average Target Price of $109.06 - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdThjeW15Zm1ISm9xM2Nzb2lrTXVuc1VrRnNLWUJxRE5lRzZKR1VYWDllb18zRmxJVkZybWwzVkhtVXE0aEJ6WWEwN1ZBeGRXaGE1QjQ4bms0UmxOOXBGZTJiVGpqRGtnVkRnS0hTaDhRNzE5c0dNZGxaYnZnREtFeURtcGlHeGdkd0lCazdoNjdiQ19fOGJ6eVNqTUctX2g2ZzllUEtZZU9JbVRFeUt2RS1URUlJdmNhazlhdEZQTHRaQzkxMVNGcHp6VTNRUQ?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-10T06:46:45.000Z",
-        "summary": null
       }
     ],
     "005930": [
-      {
-        "title": "삼성전자, 메모리 업사이클 장기화 전망…목표가 63만원 상향 -유안타 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBna2FyRFlpX2dSb3B4Nm8zRlJLaTBGZjVTeVo0Qzhad3ktaVE1SlFTYklNR3ZGQUo0YzQ2TlBya2k4WV9XUE02N2FzVDBETVNXT0FOdWhPejhxVTdja05OVE5IMkVVOFJqQXdQYUNOSkF4LXUxdnc?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-09-27T23:05:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "한 달 만에 ‘28만전자’ 탈환할까…삼성전자 순매수 1위 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wSzVSN1lGWkR4YVo4YlZsMU1tWEJyZ090cjdVUlNOVWtiOUhKSVhES2xvM0NTWE5FcnJhWWN5eFBPVngtVHhmdWxuV2JDZmxRcnfSAVNBVV95cUxORUwydGlDODNtdWRKYm1zcmUwYjFUOUk2dm1IbE4wSGZ2ODZob0tac1Zwb2xkblZiVVJHbGd3UGtJbi1hdWt5WGdUTzJzR1g3c191TQ?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-09-23T07:00:00.000Z",
-        "summary": null
-      },
       {
         "title": "삼성전자, 0.37% 하락 마감…외국인·기관 수급 엇갈림 (+005930, 삼성전자, 주가, 수급, 2026년 9월 10일 수요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SkN5WG5uejctUkhvSTdtdTVOYTRiRUZZYzFPeEV1VTZfSzVoSlJQOXl5TUZ2MUpxMmJrTDRJQm1UOUE4bDFUaVMtaWpaZVV4QWZMSEtYV0tuNnBNZDN3cXdFdmdqcmtvMURlWQ?oc=5",
@@ -143,6 +129,20 @@
         "source": "서울경제",
         "publishedAt": "2026-08-06T07:00:00.000Z",
         "summary": null
+      },
+      {
+        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-08-03T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlHSAVNBVV95cUxQcUVTRnB3UXpKbEdKdy1mbl9FNDdxWHlGeWVNaDlVWkpWbzFKSUxJSHh2eHdpRWx4XzFiOTdVd1NsSlktbUJfRDVyQnRVNmZCQklSYw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-07-31T07:00:00.000Z",
+        "summary": null
       }
     ],
     "APPL": [
@@ -161,10 +161,17 @@
         "summary": null
       },
       {
-        "title": "Apple Stock Lessons Every New Investor Should Know - MoneyLion",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zUmFqS1QwUmVBM3lNUDh0YUZoRFV1ellOMzlTNU51ekpYVW43ZTBZVlhydUZIZUxlT3p0VUI3ekRoVXJoeUVUd3FRZldzZlVsSEx5cUpIeU5wVUt1bFhTZGo0d0p5SzYxS3pPSFZwcm83Y0NpRmEwSXNEN1Q?oc=5",
-        "source": "MoneyLion",
-        "publishedAt": "2026-10-06T18:45:45.000Z",
+        "title": "Apple (Coinbase Tokenized Stock) Price: AAPLC/USD Live Price Chart, Market Cap & News Today - CoinGecko",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WM2xFMlliZk1DczJXZmgtMzdXcVV3Y0RlS04xamZNSEM5ZkdUT3NZdV9qQ2lXa18xSXhNN3VLU1pNaGF4SUtOb3B5LXdDbnpJZDJzcGFnM2ZwNWplRUdobnJ6T2I3cmxYSG14SlpSWl9tQjg?oc=5",
+        "source": "CoinGecko",
+        "publishedAt": "2026-10-08T04:22:44.000Z",
+        "summary": null
+      },
+      {
+        "title": "3 Ways New Investors Get Apple Stock Wrong - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlpxRTAzbGRuaFhBaFVOTmo4SmluOU1mVDkyRjJvcHFSY2llUEJ1QVJ0U0lEZ0FTRE1LcGFxOWFnSHZhcEhaZzBmX2JYR0RqZUhHZzJ0NS1fVDJEMGpoc2lEZ1BrdVlTNUttRTNLcHQ4dGtHQk11eWpxV01FT0pmbDc4MW1UZ2JpbTc2XzhpemNyR1REanI5Mg?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-07T17:00:23.000Z",
         "summary": null
       },
       {
@@ -172,13 +179,6 @@
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTBLY1ZmS2d1OVJCMWlTeDJpazlabDY1ZG44bnJOQUdudTZUMkNxRUFNcXBGbkJTM1ptaFRoWXF5ZG9FSnlabWtVUlBhWTlXdnNKcV94NmJDcHhfbllVLXhoekk5Qk1xMDREWXdVVjZNT0ZGOWRxSWhnZHZqaC1oZ05KSXA1Q08tMm9uN0RqS2MwYTZHTEM1UVlxT0ZQYkYyX21acE93?oc=5",
         "source": "Pluang",
         "publishedAt": "2026-10-06T13:02:59.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple insiders sold over $87M in shares in a si... - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xMVdNWXhtaW0tM25mSExyWjhTQldPM0JHYmZEcjBfQm1GdGU2QWxzRFBNaF9TX0U2YV83MmhKSlFVa2FUQ2pGU09YUGhzb0FwWVd0em8zQVd3Z3lFNVA0b1Q3VjR5MHFxWXA2c0dMVjBkaUNMMlJaT0U2Sk8?oc=5",
-        "source": "Pluang",
-        "publishedAt": "2026-10-06T09:44:24.000Z",
         "summary": null
       },
       {
@@ -196,6 +196,13 @@
         "summary": null
       },
       {
+        "title": "Apple’s new Mac Studio is in stock and already on sale at Amazon - Macworld",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjJ6c3gtdkt4bFkzMTQ4cVpmRW5HT2toLTJlMFpSdzhKaDFxaWlLZS1Vb2cycnp4T21sUE9vZEc3dTZiOEVBcFJuaHAySlBKVHpxSHJKQUtiZ0tfRFVDTlo2WGo2Z1NOREU1bmJDR3lxYk1mVEtBR1M0N3pCV29JMFJwTHJ5MXktNXdZYXJubUtseEJnUFVqWS1ZVFczWHRMRnNETVBqbDY2X243Mno5Tk04cWRkVWs?oc=5",
+        "source": "Macworld",
+        "publishedAt": "2026-09-25T16:02:22.000Z",
+        "summary": null
+      },
+      {
         "title": "Apple Stock Outlook: Our Target Leaves Wall Street Behind - 24/7 Wall St.",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYUhXekdQTV9hVFM4RHNuZl9tbnRJUlA3LTNCbUxYOFdFMnI4cTRUTnNtV0g0VDIzc2NNRVVHNW9Cemg0dGVjNXRfOC02azBnRzZKanRLSU96WVhPY0R2VXRRQWJ4T3NFbTZKejJlUVdVV3B5SndTdnVLOTRCOXBFWUN5MEFUM2dqbXVfM2hQWmw4MGVBeWY5aEVnSkNteTdmQzhF?oc=5",
         "source": "24/7 Wall St.",
@@ -206,13 +213,6 @@
         "title": "Apple: Why I'm Betting Against This Valuable Company (Rating Downgrade) (NASDAQ:AAPL) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSjhxSnV1akE0RG1qQTM5SmNldWFvYlR1OFpPbFFzeWtXYjZ1ZHR5YURaWlRWQXhkNnplU1FleWgtNWRqV1JlUWNyajQ0dEVvWllnQS1kMWtkTlBRNUpzTFRiOEpyb0lWTC10emd6ME1SWUxWeUIyUm1PMTBBLUhKM3lyVG40S0YyOEZETmhueDlGTVhYVG1tRGFvNHFRclNQbVdXTlYzRXcydGZh?oc=5",
         "source": "Seeking Alpha",
-        "publishedAt": "2026-09-25T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock Price Forecast: Where Is the Next Target Price After Record High as iPhone 18 Pro Series Demand Heats Up? - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3J2dDdkdHJjRnFzVjQ1OVZYUnF5eDdyaGJneXcxcW1OUmQ1ZkEyZzVwT28zajlZcTRQZzY1SEdMelRac2lOa1NTUFY0T1dEdHR1NTRlNjU3SlR4cEhRWl9LVXZodENvUWJILWE0eGFlMDhQSmxMamFHTXNIeGNnOVo1UGxkWWFrOF9QeExZdG9YWmxWMDEtQU9jd1pYMlNGeUl6MW1vTmxHdnQ2bmR1UWFxZERSNVNLcEhyV1pqaTdfY2h1V3llOQ?oc=5",
-        "source": "TradingKey",
         "publishedAt": "2026-09-25T07:00:00.000Z",
         "summary": null
       }
