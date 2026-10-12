@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-10-11T19:20:22.316Z",
+  "generatedAt": "2026-10-12T00:14:04.536Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Elon Musk just handed Intel a new problem Wall Street can't ignore",
+        "url": "https://www.thestreet.com/investing/stocks/elon-musk-just-handed-intel-a-new-problem-wall-street-cant-ignore?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-11T20:33:00.000Z",
+        "summary": null
+      },
       {
         "title": "Intel (INTC) Reaches 500 Million AI Tool Downloads As Edge Integrations Expand",
         "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-reaches-500-million-141135053.html?.tsrc=rss",
@@ -64,13 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-10-10T12:05:00.000Z",
         "summary": null
-      },
-      {
-        "title": "Oak Grove Capital LLC Purchases 116,750 Shares of Intel Corporation $INTC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX2ZFdVhnRlZxTWxmS2ZUSHl0MnE0QWp4T0s3SWtacldZek9NM2RuRXhqSFVBS3VuU0tKbGY0VmZIQWlYbTF4Q01RMlRmQmxzbEt4b0RaOG9uSmJpTTRpeWYxcmFJajhDX19WZklKMC1obUVTdm5kMGRuV3VLWTQ4bVN4cUlMakg1cmxScTQ3S3VINFFFTkpNRmNnZWNTeXBlN0MzcWFyTjJsbnRlZFZaN2FtbExSU0NCbE5PbEJLLUJMQTloQlBVVTJST3U?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-10T09:26:56.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -82,13 +82,6 @@
         "summary": null
       },
       {
-        "title": "2026-08-31 코스피 오늘 인기종목 30개 주식시황 알아보기 (+ 005930, 삼성전자, AI, 반도체) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbmtmdzQ4SklGUmx2ZFJjdmF3T040cUlQOUxlRFJxbExaSWN6bjhpQlU0S3NrTGROQ2tlbVZvOEpyZUF0OVhJVDNlNWRrX3JJOEFYRzhiMTM3ZjluR1lYVEZtaGZ1b29saGE1NA?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-08-31T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "삼성전자, 2,500원 상승 마감…외국인·기관 매수세 유입 (005930, 삼성전자, 주가, 외국인, 기관, 2026년 8월 31일 일요일) - 민심뉴스",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tMEJnU2Rha3dXOHhjSnN6bGp5UmR4b1FfbnRKQkliaFNUOXZOUzl6T21WbFladnlNSVRZS05NcXRDMTFoRXB6M0k1UTFDZnZqbjJadXhqZ0hiSkl4ckpzcDRTcjJ4Mm9ucVRBag?oc=5",
         "source": "민심뉴스",
@@ -96,10 +89,10 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 8,500원 하락 마감…외국인·기관 매도세 엇갈림 (+005930, 주가, 외국인, 기관, 2026년 8월 28일 금요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAweEdQbVhPQ0JISXN3YXZfM1VMdDlkN2RpQ2VYamhfUzN6RkUtSnMzX0RZWllCZ0I3Z3hHZm9ZcVFsWDYyVV9YbjM5ODBwN0ZHY2ZSdnREMC1HdkxBZ3A2ZnliVkRGNzlQSVNQRQ?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-08-28T07:00:00.000Z",
+        "title": "엔비디아 실적 확인한 고수들, 삼전·닉스 줍고 실리콘투 던졌다 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOU4xTXp2ZGFuTjhJSnZ2U19FQkhPcTdRX21MdnpmS1NPbkJQek1QTnlXYkF0RHJiSzV6TDQ3bFVBdkF1emQ3Zjl3Z2ZhdTV0WEHSAVNBVV95cUxOLU04NlROaGZ0NGtnT0hHRVV3NHRndW50RFhJWk85TnM4R2MyQ0EzUUdoNmROd01nZHJjNGc1aURISEFOYnZlSERoOUd5NVpUZV9ubw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-08-27T07:00:00.000Z",
         "summary": null
       },
       {
@@ -142,6 +135,13 @@
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlU2YVBMTk9TalFEdVlpTjRnb1ZtWlhuV1g3aGJPOHFVM3FIaW1PMGpEaGkzYUhvQW9WcEpPUGl6d0lEX1NucG92S0VFU2xtd2RodV83QUVZbER4Ni1TNldUYXk5TEdWbU1vekpHY3dzdFkyOW55Q2kxX0NaYUxUZF95alBHWUExY29F?oc=5",
         "source": "네이버 프리미엄콘텐츠",
         "publishedAt": "2026-07-31T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "상위 1% 투자자도 반도체株 던진다…SK하닉·삼전 순매도 1,2위 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40dEpZc2Z6bFdfQVY4emR6TG9iWldoZzBQNkNTSVA3S1hndFFYYlM3Y3J0SHk5cWI1SW04ZXpyVHlJU0tZZVNDc2hwVnBQd3hjTmfSAVNBVV95cUxNZ1RTbWw3Z2NaTkpSdGp2YWxydDI4ZmloYzB2UUUyR3VmMXF5YlVUYW1vOERjdVFDRnFBaXZBVWhRZzV3OExEblJSbXhpU2dKSEdjNA?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-07-29T07:00:00.000Z",
         "summary": null
       }
     ],
