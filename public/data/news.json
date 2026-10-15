@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-10-15T16:20:47.052Z",
+  "generatedAt": "2026-10-15T20:56:51.425Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel (INTC) Stock Dropped, So What Is Driving Attention Now?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-dropped-driving-191808161.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-15T19:18:08.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (INTC) Stock Dropped, So What Is Driving Attention Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0RqbDZsNlctVDJhVTAzOU8zLUQ5dHNqTHVMdWZ3LUEwMV9oUk83aTQwZlAyUW83dk1Rc2x1VGNPUi1BbzR6OGJCY1lEWFdRZDBSdFAzaDhBcUxiR2F2aEhzMFdjZktUN1RLR3BKRzlOTTdUT2hnMkdwOGdQNFBJcHI4eUM1OUtuZTBlZmFId3lpTnJNTDlVRE8xRjFyQQ?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-15T19:18:08.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stocks Fall 4.25% After Fatal Factory Blast; Output Impact Remains Unclear - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRTYzUng2Y0xoYjNPczJacTVUY2FtQ1RqZ0U3Zk1ZRFVWVkRxeHZiSVlqVDZRYTJqT2RVdFhPLUlNZEZyTnZBajI2MVFNOTVDXzhjNl9SWDZURjZqNElpRnBhdV9xNVdFcGpDNWF0VnFMUXZxMnN4b3pibHBBcTItLV96cU53N01Eb1FERHVGNGl2bVFNc3dTYkd4MnVEX3pmclVNYVhBZHB1M1lXWllQbU80SEVuQWFJem4wRTlEdGlhMXdPdXBDQXAxQ0ZGQ0xJZFdRbQ?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-10-15T19:09:07.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock INTC Rebounds Off $90 Support after Dive on Chip Supply Risks from ASML - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWGQ2M2FTckhEZk91Tk1lRTVVam1QRmt4Zmd1LUszem94aE1RVWt4U0RKOWxfeUZ6Z2puVmxqckNrRHRqTG9kWFp5N1Y2MzEtdEpGd1ZUYUJvRWZ1b0QtZUJjMENuU0VLRXBXRFJMbV84UVBSeWRrU3BlVzIwWndsOEdndkh1TmpvODlXZmNCSjUwQ0RzNjBlQzZsMlFhX1paSzhaVnVUcGItYms4U1dZTXE4Um4tX0UxdjV1UTRQRGZhMmc?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-10-15T19:02:59.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Shares Rise Over 3% After Key Trading Signal - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc0pZUFBZM2VsV1kyNHA5OXBhbTRoY3dMZGdfeWpXM0RzRVljN2RfcXhXenF0RmJyUFhCZEJOZ085OURXaE12MG5vNkVpWllVbnpkZ3VGUlVaVGQ2YWgyN0xULVpoN3E1WmQ1ZDY1c2JnRXZiemtDVW9WcDRsS0d4NTd5ZnJmMlp5ZWo1STJXWnFFMThjU1FKTkx1d05QQkVoa3FMNHBiaExhcnM?oc=5",
+        "source": "Benzinga",
+        "publishedAt": "2026-10-15T18:53:59.000Z",
+        "summary": null
+      },
+      {
+        "title": "Should You Buy The Dip In Marvell Stock?",
+        "url": "https://www.trefis.com/articles/618831/should-you-buy-the-dip-in-marvell-stock/2026-10-15?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-15T18:11:01.000Z",
+        "summary": null
+      },
+      {
+        "title": "FormFactor, Teradyne, Applied Materials, AMD, and Intel Shares Plummet, What You Need To Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/formfactor-teradyne-applied-materials-amd-173627052.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-15T17:36:27.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Stock Sold by Curated Wealth Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2I2clhJdkFleDVYOTh5b042akFJVXdFWUhzUVJMYTYwWlhadGh6SHgtWGVsVkJxRVMxcjY2bDc0V2d0M3BXZGk1RC12S2VLYVRpYTBvSzhMMVZLcjlMM1hTYlZ0a1ctMWR5RU56dUNvbldwT1J4cS1sdFdRQ3Zfd2JYUlpSZEIzdlJCQlB0SnRNVkNJS3pUWmZXSU9iRVdPUVcxQWZlS0wwRDltSDN2Y1JmMkxvVlo4WmI3bHhsb0EtbFE?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-10-15T17:24:03.000Z",
+        "summary": null
+      },
+      {
+        "title": "The Real AMD Catalyst Investors Are Sleeping On Isn’t What You Think",
+        "url": "https://247wallst.com/investing/2026/10/15/the-real-amd-catalyst-investors-are-sleeping-on-isnt-what-you-think/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-15T16:30:34.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Stock And 2 AI Infrastructure Plays For Data Center Growth - Simply Wall Street",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWRVMDlUVkxGYnZuM2wzZEl1ZkJXQm5BTU5abmZrLTM5YUtEOEpLUFBUTzBobk9WU2twb0pCWDBxeEdESHlXSE9rbDhmQUxBWi1zZFphbUdDU2RCZHF0V3NqSWFUN0hPOW4wajdOMlRRa3FjbFUwcW0yVmYzbDFia3lCTG9BbnVWSHo1RWVmZlhYeHVtWDJnZGNxVWpXODlwSVJRamZFbE9ta0RYam1xV0lkUm9GOW5qT0VweDNheU9mdTZpekw3Yml5RFLSAdIBQVVfeXFMUHBoWnVtaWhQdTVLRE1laVJxTFlOYjlWd3lETmJBSzFkVlhBUGx0REJCX0ZzVE5RdDBId0NXRmhtanBubHFPYW5sZVFOVVREeXoxOWFlU0xtZFhxeC1UYjZwN0tvY0x5TEN0TkdkUlFpTnUyWjllVHBtTkxMLUJKOWpmZHBYTENEc1M4Z2dwNWtvWUFYREthMlJsSG5SbWpzQmg5YjdyRXpFbGJXSDZKWW00c2hGcE0xMURCZk5Oa0ZfZ1l2MWdvRjJ0NGcwdS1QbFhn?oc=5",
         "source": "Simply Wall Street",
         "publishedAt": "2026-10-15T16:08:04.000Z",
-        "summary": null
-      },
-      {
-        "title": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short",
-        "url": "https://stocktwits.com/news-articles/markets/equity/tsmc-ceo-hints-company-could-back-up-customers-if-intel-s-advanced-packaging-ramp-up-falls-short/cZxWCNbRBrT?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-15T15:19:11.000Z",
-        "summary": null
-      },
-      {
-        "title": "TSMC CEO Hints Company Could Back Up Customers If Intel’s Advanced Packaging Ramp-Up Falls Short - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTV9GVkgxdnZJWlQ5cDhMT0E5bi1KS29YTkNqTjJGNnlWWlpOVHg5T3NuY2FXUFM4UEFfR25vRnY1cm9QSFVQa21ZZFoyTDJCTF9xSjY3OGVlM0NYMndhYmMta1doUUF1aDBNdFhJTUZGX1hRSnFfNHVJbXNoNGYwb0twUG5FR0VUSld2cHhrclR3MWxBVTl1TA?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-15T15:19:11.000Z",
-        "summary": null
-      },
-      {
-        "title": "BC-Most Active Stocks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017705.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-15T14:30:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why is Intel stock sliding today? - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2pfSHVsaFZWWS1NTkMxUXZfcXlHQWtVT0tITnVzajFGYUMydkVENjRieFZydjQwOGhfQXRPcEhEdkgxUGlaTEVUeDN0OFRBelh2dENwQ3Z4YW5wT1FVUGlfQU1nVy1Jei13Wm0tSHU5SThkcllQTDJOdkJLMW9HQzFxb0dvaVZ5WEgtR0UwWXYwN1k3WVhvN2V3?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-10-15T14:21:49.000Z",
-        "summary": null
-      },
-      {
-        "title": "TSMC Stock Falls After Blowout Earnings. Musk Talks Could Offset AI Chip Fears.",
-        "url": "https://finance.yahoo.com/m/daa2ad70-2429-337c-8d4e-660e86e01e04/tsmc-stock-falls-after.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-15T14:18:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corp Stock (INTC) Moved Down by 6.66% on Oct 15: Key Drivers Unveiled - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObFk2bHdxcThXRnZSZFdERU5YV01NQmVYR194UGhpd01weHFKY1NUVXp4dVJXQ2hJNUFwQ01XQ3FaMTJ0WGpGRlVhOTFrT0hqcmNHSFg3V3dxQmdxTVY4Yk81a1ZfVDBjZURrb2hxNU51bHJScklCdTBJQzJIa3JBMjI3Q0xkQUdzcTlN?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-10-15T14:15:40.000Z",
-        "summary": null
-      },
-      {
-        "title": "CoreWeave, TSMC, FMC, Rocket Lab, Schwab, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/b14bf4c9-b540-315c-a728-6230494d4f98/coreweave%2C-tsmc%2C-fmc%2C-rocket.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-15T14:02:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia stock falls amid concerns over AI financing",
-        "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-falls-amid-concerns-over-ai-financing-153440949.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-15T13:42:37.000Z",
-        "summary": null
-      },
-      {
-        "title": "The Case For NVIDIA Stock Rests On One Thing",
-        "url": "https://www.trefis.com/articles/618865/the-case-for-nvidia-stock-rests-on-one-thing/2026-10-15?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-15T13:42:36.000Z",
         "summary": null
       }
     ],
@@ -147,6 +147,13 @@
     ],
     "APPL": [
       {
+        "title": "Apple Has A Consumer Problem Nobody Talks About (NASDAQ:AAPL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDJnQ3dBYWI2Z2k4eXJVZEVEczZ1M3BQOWY4WEpkVVFZSU1QSTZiWTE5SXpJZFRxd3FGNExBNk5yZWZkcER6cGN0MFVMbUxOZTFfb3lkMkNHZzd5MFhvUlRTczVGX3c3UWhJeW9zdXZyTm54QVBOU0VWakNsTEp3OWp1LS02cmtVSkRCX19oYVVlQQ?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-10-15T16:15:59.000Z",
+        "summary": null
+      },
+      {
         "title": "Apple Stock Forecast: HomeView Broadens AI as iPhone 18 Faces a Cost Test - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFplb0RQNHBBWE5IR1A1UXZQWGxpVTBOUkl1SUVhNVNKNGZoVGt2NFpuNERQZWNpRFVkdF9nWFktTEdzUnVlVXFZeVBnMmljT1BMWG9ZRmRqZUdxSVRWMk1xRWRxUHZwN3AwSkpNaHlHWjhtMU1yYjFpZFpOZWg0N2c0X1k2Y1BZaklpQlZ2d0JQdHgwQktqMGMxejhmZ05US2Y2SG9oTU4yR2MzQVR4U2NiMmo1SlhQc0lNaGVqdjdsTlhuUlI1cA?oc=5",
         "source": "TradingKey",
@@ -165,13 +172,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
         "source": "CNN",
         "publishedAt": "2026-10-13T17:55:11.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSWlVaERqVVBsb2hTVzZaa3l2bkpRTGZVT0lzaGo2TDNNRzVKMkttcFRXV2U1T1RDLVBLNktsRmxVcTNtbXpmTGFLUHdsT3VmR1E?oc=5",
-        "source": "Yahoo! Finance Canada",
-        "publishedAt": "2026-10-13T15:56:29.000Z",
         "summary": null
       },
       {
