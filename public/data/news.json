@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T22:53:45.552Z",
+  "generatedAt": "2026-10-18T03:07:42.331Z",
   "articles": {
     "INTC": [
       {
@@ -31,13 +31,6 @@
         "summary": null
       },
       {
-        "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1ppZk5XR3dKM0lXNWYzT3R5OUJ2c2I4enhOU1FpM09LamR2bEJvSXRocjBaT0JLX2xkVnZTVnYtb0V6bkVTdjlZUFcwcEJ4eWFlekVteHZBYXZpWHRJM3NMWVRMLTRIdWF4Q2JPTzJnSGI5cDJOT0NlNUNuRWtob292RC1EaVJaR09oLUhlOFV1bktl?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-17T17:26:38.000Z",
-        "summary": null
-      },
-      {
         "title": "TSMC CEO Hints Company Could Step In If Intel Cannot Meet Customers’ Advanced Packaging Demand - Stocktwits",
         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNekkwR2pXNTByWk5UVE4xelJiU0RRM29meUg3bHpYeWdsWVo0dXQ0WVpQcktsaXNZQ2RobVJMMDNPbmpxRXg4dHE0TWhIajE2NzdkQUVGa1lNdWd5YVZvYm5WaWduRk1scmF2d296NFhOR09QVkZLOUxFcTExMTZMSXBDV21wUnVnYTM1OTNLMlRhcURMcUwxdWQ1TDNIUENueGRaaVVvOUVhUW14OTBKcmtQNG5ScXB2Z21FTlI4QjlmQU5XbXpEQ214MUNBZHR5QTZMblMxdTVGYWY5QkFWXzFTb3JFUFBzY0RpSDctSVB5Zw?oc=5",
         "source": "Stocktwits",
@@ -56,6 +49,13 @@
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYW13WElOOWhUeGtrdzNpWDBLVTNUZGlVdTExZDFwbWphRWxSUVpmUFdic21POVhOcTFFMk9wamdfLUdzX0FfbFZ6d0pQQml2dzV5SGpPZ1NVUTdVSTN2VVljN2xXLVJMT3NTNHlmWmFkRC10NXlwMTJxdzN4Z0JwZlNNblotNzNYTFpSaHNqWGlObHJfMkpfdzhkZ0VaNjFJQVJYNzBiMWxnZTJuUjVLS2tLbldwNnlpbVZwTkZ4dGxWVE1RQ3BOQ2tsREpXQU93Xy1GOTBvb2szT2lu?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-10-17T15:43:09.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Slides as AI Hype Meets Harsh Reality - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjlnZWNNUUM5VVI0NGdraGhrN29hekNOM1RKT1hXR3FmSElXOVlsMmNxZlBHVHlWZUlVdFNLMnNGbjQwckVCUE9iRnR2cGxRUDlWVnpSTnFkUW5KUXB3ekRXQ0VnblQ0MFNwNkFROGhHSHhnbGluN1pRdkx1RVZ0ZmFNTHFydVBaWVdta1pxUUtEdlNKaE9NaVE4bw?oc=5",
+        "source": "TipRanks",
+        "publishedAt": "2026-10-17T14:29:17.000Z",
         "summary": null
       },
       {
@@ -147,6 +147,13 @@
     ],
     "APPL": [
       {
+        "title": "AAPL Stock Gains 1%; Apple Is Expected To Ship 10M Foldable iPhones In The First Year, IDC Predicts - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX09aeVBWVTB2YmxXZ0xnMk52TVRZQ1A5aHNDTXkxNUhjeGVwQ0JxQkVOTEl2MlQyakxaS3FKUFRMbG9GU21qNlM4UTY1QUV5Vi1hVk85VXpYNjE2TmFxMEdZMVZlSy1udlA4ZjJ2dFdLaGpBRjIwVlZwSjFEZHljeVNfb19xS0ctN3ZfUVhFVU5TWUtYdWxDTlQxTlhUY3A4bHFuRG0wdGFPX1hOcG55VG9iUHRYcUJmVHRzMnVmWVVmQk1vM0w1c3lUZEVXWC03Yk5Va3RRTnctQnM?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-10-16T00:21:09.000Z",
+        "summary": null
+      },
+      {
         "title": "Apple Has A Consumer Problem Nobody Talks About (NASDAQ:AAPL) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDJnQ3dBYWI2Z2k4eXJVZEVEczZ1M3BQOWY4WEpkVVFZSU1QSTZiWTE5SXpJZFRxd3FGNExBNk5yZWZkcER6cGN0MFVMbUxOZTFfb3lkMkNHZzd5MFhvUlRTczVGX3c3UWhJeW9zdXZyTm54QVBOU0VWakNsTEp3OWp1LS02cmtVSkRCX19oYVVlQQ?oc=5",
         "source": "Seeking Alpha",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1VOZW5BcW9ncDVQMDlmZ3FZNmxvcXlYZGQ2MzV2TEVTWUt3MWlJQUN0dFB3enlhZHN3SjlXMzFJanpGdk44b2ZkcXRwX1hBNURSeEZwVmZKQzZpcVVkOWpmNjROTExtWW9XVVZUSnRBVy04aDFxejdGOGpMaWFjZkw4MlQyMEFwYnJKcGRmdmlVZFXSAZgBQVVfeXFMUDVnNVVadXhlSXJ0c2l5MHRPNXhFVWJhM3pXMlBZVTh6NWJubmNGT1RJN0NjdnBoYlM4N0ZLdHBDRUUxUk9wNHFsdGZfQXBVajVMMHo2akpjYm5CMHlHSEZfWVBfRzd2NUtKQnZPNDh6T1AtWThwdUQ0aE1VOU1NR1h3RjhFVmRKUFU5VkI4ajlNb09Kcjk5TVE?oc=5",
         "source": "CNBC",
         "publishedAt": "2026-09-26T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Just Gained 10% in a Month. What Will It Take for AAPL Stock to Finally Hit $350? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHFQS2dzeDd2LTBjbnJpLXZfbWNHRUloMWREcVJWZXJnbDhsNW12UTFhSEh3Nk5tV2pDYlNRNkxRS3E0TGdVX1hQU2MwS19VZnJLM2tMZEExcVVfOUJRdG1ndTlUcS1ZVE5EZk1oZEc4bWxydDh0bERibGlxcm1yYVJIZzNhRkxkMTZRbExxQ0FXc3dNYUE?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-25T07:00:00.000Z",
         "summary": null
       }
     ]
