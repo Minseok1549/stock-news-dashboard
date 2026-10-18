@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-10-18T15:24:22.147Z",
+  "generatedAt": "2026-10-18T20:07:41.215Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process",
+        "url": "https://finance.yahoo.com/technology/articles/intel-intc-lands-major-customer-151209880.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-18T15:12:09.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (INTC) Lands A Major Customer For Its 14A Foundry Process - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnJ6VWdXZUdjTXV3ZFprdzUxS1pkNlJPMEt6NEJybGo2SzZPdzFvc3NLM01KWXVrVlA1ZHZqQ3ZqcE9iZTBIaURfb3FwSjQ1WnpRLTdUT1lzRFFpYi1mREpfX1o5T0NLZi1fM3pUV01FSmtpUnppQTJZb19pR1g4dUNIOXVHdmJXRXZmeUE5RnBUZ3QtY3FN?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-18T15:12:09.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Corporation $INTC Shares Acquired by Robertson Stephens Wealth Management LLC - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUGh4amVKQ3VyTEhMRDE2Ny03VERJb0p3Z1EtRWx1X2xkSlBDUmlwbmxYVkxIR3lJcVF1bVY0QXVfM2M2c3pPLXlISzZkd1lkdDRTNWl0MDRPRnFTM042d2l5cDdjR3MzdWJEMnBRU3U1MDNsY09JWWxMaFJpZFRjaW5lOWVZekhSd0ZsZ0hrcHVKNFcyU2ZlVXFIdGltcW9iaUdSZGhvUkNXbXpBOWQ4UERsTFViOTFVazlBc2VuWHcyS3dzYjZFR2N1QmhfUnZoaktnNUJmdTAxLUE?oc=5",
@@ -57,20 +71,6 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-10-17T18:53:24.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins - TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSXd6Y2NMNmxnQ00tTXJuNlBXaS1Fdk9IX1lWTk43U3lnUXJ4X2c3X2pHYWpmMDlwN0ZYTm9aakdRc2FQT1JLZ3JKRUNKVmFsLVQ0V250Y3FpbjUtR0FOdDBrVDZ0X185WFBvSnVKQ1ZGMGRDdGZGRmRUMkFOZ2pPak9Xb0RPNWNGU1dVY1A3S1h5YWpGUjRHempyMi13MUpISTdscXJBWk5fejVCdTIyUUgycnQ5Y1pWRzk2SnRJMnZGWDhKZUxQYnd0WGVoUQ?oc=5",
-        "source": "TIKR.com",
-        "publishedAt": "2026-10-17T17:42:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock Fell Nearly 6% as TSMC Took Aim at Its Packaging Business. Here’s What It Means for Intel’s Margins",
-        "url": "https://www.tikr.com/blog/intel-stock-fell-nearly-6-as-tsmc-took-aim-at-its-packaging-business-heres-what-it-means-for-intels-margins?ref=yahoofinance&.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-17T17:26:38.000Z",
-        "summary": null
       }
     ],
     "005930": [
@@ -110,10 +110,10 @@
         "summary": null
       },
       {
-        "title": "엔비디아 실적 확인한 고수들, 삼전·닉스 줍고 실리콘투 던졌다 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOU4xTXp2ZGFuTjhJSnZ2U19FQkhPcTdRX21MdnpmS1NPbkJQek1QTnlXYkF0RHJiSzV6TDQ3bFVBdkF1emQ3Zjl3Z2ZhdTV0WEHSAVNBVV95cUxOLU04NlROaGZ0NGtnT0hHRVV3NHRndW50RFhJWk85TnM4R2MyQ0EzUUdoNmROd01nZHJjNGc1aURISEFOYnZlSERoOUd5NVpUZV9ubw?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-08-27T07:00:00.000Z",
+        "title": "삼성전자 실망감에 코스피 3% 급락…코스닥은 반등 - 프리진경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CYThVTEtVU0VXMEZESHlFUjlBXzZMQU1TM1MwUXNnUmp6bEYzS0tCaWd2VzdIZ3gwYlJBV1M4N3BUN1ZoMHZLLXdtTjV6dERmRE90NWpFMFQ3RE9Gc0lwLVZ4QnlGWk5vZktRcQ?oc=5",
+        "source": "프리진경제",
+        "publishedAt": "2026-08-24T07:00:00.000Z",
         "summary": null
       },
       {
@@ -146,6 +146,13 @@
       }
     ],
     "APPL": [
+      {
+        "title": "Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSWlVaERqVVBsb2hTVzZaa3l2bkpRTGZVT0lzaGo2TDNNRzVKMkttcFRXV2U1T1RDLVBLNktsRmxVcTNtbXpmTGFLUHdsT3VmR1E?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "publishedAt": "2026-10-16T19:04:54.000Z",
+        "summary": null
+      },
       {
         "title": "Apple Has A Consumer Problem Nobody Talks About (NASDAQ:AAPL) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDJnQ3dBYWI2Z2k4eXJVZEVEczZ1M3BQOWY4WEpkVVFZSU1QSTZiWTE5SXpJZFRxd3FGNExBNk5yZWZkcER6cGN0MFVMbUxOZTFfb3lkMkNHZzd5MFhvUlRTczVGX3c3UWhJeW9zdXZyTm54QVBOU0VWakNsTEp3OWp1LS02cmtVSkRCX19oYVVlQQ?oc=5",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU1VOZW5BcW9ncDVQMDlmZ3FZNmxvcXlYZGQ2MzV2TEVTWUt3MWlJQUN0dFB3enlhZHN3SjlXMzFJanpGdk44b2ZkcXRwX1hBNURSeEZwVmZKQzZpcVVkOWpmNjROTExtWW9XVVZUSnRBVy04aDFxejdGOGpMaWFjZkw4MlQyMEFwYnJKcGRmdmlVZFXSAZgBQVVfeXFMUDVnNVVadXhlSXJ0c2l5MHRPNXhFVWJhM3pXMlBZVTh6NWJubmNGT1RJN0NjdnBoYlM4N0ZLdHBDRUUxUk9wNHFsdGZfQXBVajVMMHo2akpjYm5CMHlHSEZfWVBfRzd2NUtKQnZPNDh6T1AtWThwdUQ0aE1VOU1NR1h3RjhFVmRKUFU5VkI4ajlNb09Kcjk5TVE?oc=5",
         "source": "CNBC",
         "publishedAt": "2026-09-26T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Just Gained 10% in a Month. What Will It Take for AAPL Stock to Finally Hit $350? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdHFQS2dzeDd2LTBjbnJpLXZfbWNHRUloMWREcVJWZXJnbDhsNW12UTFhSEh3Nk5tV2pDYlNRNkxRS3E0TGdVX1hQU2MwS19VZnJLM2tMZEExcVVfOUJRdG1ndTlUcS1ZVE5EZk1oZEc4bWxydDh0bERibGlxcm1yYVJIZzNhRkxkMTZRbExxQ0FXc3dNYUE?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-09-25T07:00:00.000Z",
         "summary": null
       }
     ]
