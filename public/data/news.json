@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-10-20T14:06:54.038Z",
+  "generatedAt": "2026-10-20T18:54:40.880Z",
   "articles": {
     "INTC": [
       {
-        "title": "Nasdaq slips as AI-linked stocks Micron, Intel and Sandisk fall about 2% - Quartz",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UcEdUT1NzX2RCOGw0XzVsV2NlOHo3YTN3Ykd1bVlKbWhWRFl0OExEbHVIUmdOVXBxMmpIeDR3MzZIa29UN1NYcGtsUlVEYVprUTJkT2lwTXQyWmEzSGx5OHJEOUVxd010bnlPNXUzM1JFdFE?oc=5",
-        "source": "Quartz",
-        "publishedAt": "2026-10-20T13:46:46.000Z",
+        "title": "Not Even Rumors of a Big China Chip Purchase Can Lift Nvidia Stock",
+        "url": "https://finance.yahoo.com/m/80cbc8ec-aaa7-3785-849b-f4bbd56ee635/not-even-rumors-of-a-big.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-20T18:21:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Prime Capital Investment Advisors LLC Buys 26,623 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNmkyR2hWQ2s3ZGtsUmQ0YXZ3bjE5eGtWSC1IeU1OcjRNQXJjNU1pSm5VNW9CYXQ3enhEYmlkWFZSNV95RzU1TWZJX0pDaFk1dHd1ZFpYYWpNLUdkbUhMR3cxWXI0RFdlb09QMS1ZYXpYdmhSRElNMXpNVlFBcElPNXhNcE93eVRiRGlMZFZLdHRpclpIZDRhWVpmckNRbklUdmtncUk0cEVhM19tal9WWHZHXzUweWd4NHNHeUpfR1FQS2ZlRnlWVTE5amFJbjJpZ29BbG0yd3lTUQ?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-10-20T18:10:18.000Z",
+        "summary": null
+      },
+      {
+        "title": "Most Active S&P 500 Stocks in Today's Session - ChartMill",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQS0wMWFycElYM1diQ0wxdTYzcWdQSkVjOWRkWjR6ZlZNam5UdVpGNHdtcnU1WThYZlpET05rTlRDUWM2TGRIYXdyRTRHMnZxVHV2VDlnZ2ZESUZoUmE0OXdnSWVPTUxDYW1fZ0gwNklPWjVfSGhzSV9zQWRDdjlGQ0pVY1Jib1dIQVdYZlZlcm5KLXJFSkpWekp4Zw?oc=5",
+        "source": "ChartMill",
+        "publishedAt": "2026-10-20T18:05:58.000Z",
+        "summary": null
+      },
+      {
+        "title": "INTC Stock Revives Again on JPMorgan Intel Upgrade Despite the BIS Chip Restrictions - FXLeaders",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ19ZdURxc0dkTFZ4UTlnOEVsYTF0LXJKX2RSV3p4VmVsdWFkWXNxZ2ZzNnFobDV6TzFIS0pOLTg3S0kxOTlNcmNZVkF5U2YwTE9qNEQzWnJUbVBtMy1yaVhleXpZeDRELV9XR0ZhcjF3NC1ua0hlRkN3djZSX3E1QkFZM1pQNXpVZDRjY2NFc1Z5SWxhQUItQmVFVzZWN0RLTzNIbk4tc21mV0xzbUNIcUFnZXhMWHdlVzlNYktQZlNIaTBibkE?oc=5",
+        "source": "FXLeaders",
+        "publishedAt": "2026-10-20T16:51:53.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Vs. Micron: Who Is More Exposed By Chinese Rival CXMT’s Progress?",
+        "url": "https://247wallst.com/investing/2026/10/20/intel-vs-micron-who-is-more-exposed-by-chinese-rival-cxmts-progress/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-20T16:45:12.000Z",
+        "summary": null
+      },
+      {
+        "title": "Photonic Integrated Circuit (PIC) - Global Strategic Business Report: Capitalize on 19.7% CAGR to US$5.5 Billion by 2030 as Broadcom, Intel, Ciena, Infinera and Acacia Reshape the Market",
+        "url": "https://finance.yahoo.com/technology/articles/photonic-integrated-circuit-pic-global-154700122.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-20T15:47:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Chip stocks shrug off a scary morning, but history says the shakeout isn't over",
+        "url": "https://finance.yahoo.com/markets/article/chip-stocks-shrug-off-a-scary-morning-but-history-says-the-shakeout-isnt-over-154222842.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-20T15:42:22.000Z",
+        "summary": null
+      },
+      {
+        "title": "The AI Trade Is Changing. These Stocks Could Be Next.",
+        "url": "https://247wallst.com/investing/2026/10/20/the-ai-trade-is-changing-these-stocks-could-be-next/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-20T15:00:35.000Z",
+        "summary": null
+      },
+      {
+        "title": "BC-Most Active Stocks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143041178.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-20T14:30:41.000Z",
         "summary": null
       },
       {
         "title": "Intel Falls Below $90 as Robotics Ban Hits Chipmaking, Stock Risks Falling Over 10% More - TradingKey",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORDV5ZGlmV29NdXFoZVltb2xRSmUxWElpZXNXdDQ5dHY1OXlTUHZQd0t4Y1VnbUtoQ2JKemRhdkRYTEluWmJjcWtMV3RISDJieFYxdmM2ZmtfLTB1ZjNHZjhCQzRNWkRZVVBwMWhUd0xLaHppZmpaS0ktU2sxdjhUNVNmVmpKa0xFRnBqR3FVbS10TU9PaUwxanBESEZUejlIOUw4?oc=5",
         "source": "TradingKey",
-        "publishedAt": "2026-10-20T13:12:01.000Z",
-        "summary": null
-      },
-      {
-        "title": "Chip stocks decline as AI-trade rebound fizzles",
-        "url": "https://finance.yahoo.com/markets/article/chip-stocks-decline-as-ai-trade-rebound-fizzles-130443167.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-20T13:04:43.000Z",
-        "summary": null
-      },
-      {
-        "title": "Will ASE Technology's CPO Roadmap Create a New Growth Opportunity?",
-        "url": "https://finance.yahoo.com/technology/articles/ase-technologys-cpo-roadmap-create-125100493.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-20T12:51:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "JPMorgan Upgrades Intel Stock Following Strong Management Execution - TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUV2eTlLUTUzOW5ubUU4aGNBR3pwbUhfTFJ3NjdPZ3pBTkFBNnJxZXhNelpibExJbG9pUzNxbGlmN0ZQY1hicEdhUlVrU1NhTVN4MzQ3anBnSGd4Z1NWMW8zUFUtaU9Veno5Rk1tcTFjRDVPakZJRWQtaDF3M08zWGRWSlNIWDlTa20w?oc=5",
-        "source": "TIKR.com",
-        "publishedAt": "2026-10-20T12:35:01.000Z",
-        "summary": null
-      },
-      {
-        "title": "JPMorgan Upgrades Intel Stock Following Strong Management Execution",
-        "url": "https://www.tikr.com/blog/intel-stock-jpmorgan-upgrade-neutral-management-execution?ref=yahoofinance&.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-20T12:11:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Stock: Sumitomo Mitsui DS Asset Management Company Ltd Boosts Stake - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUERWVTRiUmV0VGFlV3BpYURYUGIzcjV4WUpqRWdYTFdiQnNDbTN2ZjktX2F4a2xWdTY1SkY0TkIyZGh6SkpHTlplRTJMRjBLUnNBQ3pfSEtFeUNxWS04RE9NUDVhbEhNNzQ4cDZvQ0lER1h3U1dwZjBnbmVtd29Vb3lrWGs4ZXhaRlFiQUZrX3ZPclYtVFpnQTREOWkzaGVzVGVqWHh5R2hzVjFmXzFGMDBPWWN0RjB4OUZqNHl0ZVdWUkp0TXZRNWo3MzZZRE4zLWJfcm1yb3dNVjhRR3lKNDNmSTY?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-20T11:54:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "7,162 Shares in Intel Corporation $INTC Bought by Net Worth Advisory Group - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSXdSdENKbTZMY2V2bXJ3Y292azNIdFdmVTVzN3Z1VlBzU0tSVEdUNFh1clA4eklfZ0ZyUkpUTXF2Tk1rVVh0dEJFQkFxaWx5Z3hUSzlxUnVXYjBjRVhGREg5elYyUUtvNlBiMVdwbkhsZzktVTBINDV3akdFZTJfajFYblpSMFdNdXVfN1Y0UUJMdzZ6YUR0b1ZhNXpTT0dTQXJpWnVpVXhyNjdodUdtS2gzRzhNWlh5NXdibEVhNDdId1h1NEVrRFUzeW43Zw?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-20T11:26:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "Industrial Semiconductors - Global Strategic Business Report 2026 | Secure Share of the US$156.1 Billion 2032 Market as Infineon, Intel, STMicroelectronics, NXP, and Texas Instruments Lead",
-        "url": "https://finance.yahoo.com/technology/articles/industrial-semiconductors-global-strategic-business-102800770.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-20T10:28:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Extreme Ultraviolet Lithography (EUVL) - Global Strategic Business Report: As Conventional Lithography Reaches its Limits, EUV heads for a $34.1bn Market",
-        "url": "https://finance.yahoo.com/technology/articles/extreme-ultraviolet-lithography-euvl-global-083600585.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-20T08:36:00.000Z",
+        "publishedAt": "2026-10-20T13:14:24.000Z",
         "summary": null
       }
     ],
@@ -110,6 +110,13 @@
         "summary": null
       },
       {
+        "title": "엔비디아 실적 확인한 고수들, 삼전·닉스 줍고 실리콘투 던졌다 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOU4xTXp2ZGFuTjhJSnZ2U19FQkhPcTdRX21MdnpmS1NPbkJQek1QTnlXYkF0RHJiSzV6TDQ3bFVBdkF1emQ3Zjl3Z2ZhdTV0WEHSAVNBVV95cUxOLU04NlROaGZ0NGtnT0hHRVV3NHRndW50RFhJWk85TnM4R2MyQ0EzUUdoNmROd01nZHJjNGc1aURISEFOYnZlSERoOUd5NVpUZV9ubw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-08-27T07:00:00.000Z",
+        "summary": null
+      },
+      {
         "title": "삼성전자 실망감에 코스피 3% 급락…코스닥은 반등 - 프리진경제",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CYThVTEtVU0VXMEZESHlFUjlBXzZMQU1TM1MwUXNnUmp6bEYzS0tCaWd2VzdIZ3gwYlJBV1M4N3BUN1ZoMHZLLXdtTjV6dERmRE90NWpFMFQ3RE9Gc0lwLVZ4QnlGWk5vZktRcQ?oc=5",
         "source": "프리진경제",
@@ -136,16 +143,16 @@
         "source": "인포스탁데일리",
         "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlHSAVNBVV95cUxQcUVTRnB3UXpKbEdKdy1mbl9FNDdxWHlGeWVNaDlVWkpWbzFKSUxJSHh2eHdpRWx4XzFiOTdVd1NsSlktbUJfRDVyQnRVNmZCQklSYw?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-07-31T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
+      {
+        "title": "Apple Q4FY25 Results: Revenue est. $113.07 billion, iPhone Duo launch nears - scanx.trade",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMlMzUUdIWXNjSDFpczBrVVZmSGN2WnJNRl9UdGkzOWJKMkVKVkh6Qk1DcC04SnBmRVRLazMzM2Jabkc2SXJpU0pHQjU1WXNTa1ktaHlOakhvSm03S1FuRWhiTjVOUjVQb3NCR1ZobWY5eVZNcmw2ZjZTd1owZ2xubnQtenZTY3gwSmlYb0d1a2hEdG05WHNHWEdmM1R1ai03UFFldFFsR0RWSU0wOWNJSEZkUG5lcm14cW9MT2hyVQ?oc=5",
+        "source": "scanx.trade",
+        "publishedAt": "2026-10-20T14:23:30.000Z",
+        "summary": null
+      },
       {
         "title": "Apple Has A Consumer Problem Nobody Talks About (NASDAQ:AAPL) - Seeking Alpha",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDJnQ3dBYWI2Z2k4eXJVZEVEczZ1M3BQOWY4WEpkVVFZSU1QSTZiWTE5SXpJZFRxd3FGNExBNk5yZWZkcER6cGN0MFVMbUxOZTFfb3lkMkNHZzd5MFhvUlRTczVGX3c3UWhJeW9zdXZyTm54QVBOU0VWakNsTEp3OWp1LS02cmtVSkRCX19oYVVlQQ?oc=5",
@@ -158,13 +165,6 @@
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFplb0RQNHBBWE5IR1A1UXZQWGxpVTBOUkl1SUVhNVNKNGZoVGt2NFpuNERQZWNpRFVkdF9nWFktTEdzUnVlVXFZeVBnMmljT1BMWG9ZRmRqZUdxSVRWMk1xRWRxUHZwN3AwSkpNaHlHWjhtMU1yYjFpZFpOZWg0N2c0X1k2Y1BZaklpQlZ2d0JQdHgwQktqMGMxejhmZ05US2Y2SG9oTU4yR2MzQVR4U2NiMmo1SlhQc0lNaGVqdjdsTlhuUlI1cA?oc=5",
         "source": "TradingKey",
         "publishedAt": "2026-10-15T12:01:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple CEO John Ternus shares first memo to staff in new role - Mashable",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nQlRDRHhkc191bDQzZ3RfYnRZcThwRjBuNG1WSHJtakdxd2R6RFV1YW5QTFlaV01mYVo1cjEtcVZQd1l1NDVoY2stVjdVUTVQa3lOZi1ETVpuUFhYWXo5dFdZTnlyWU4zZmpLQXc5cjFiUmk3cVE?oc=5",
-        "source": "Mashable",
-        "publishedAt": "2026-10-15T07:00:00.000Z",
         "summary": null
       },
       {
