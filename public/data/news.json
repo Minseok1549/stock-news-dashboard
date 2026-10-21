@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-10-21T11:12:17.099Z",
+  "generatedAt": "2026-10-21T16:38:53.228Z",
   "articles": {
     "INTC": [
       {
-        "title": "Intel Stock Rises After Musk’s Cryptic Terafab Comments - Barron's",
+        "title": "Intel advances Arizona, Ohio factory projects as chip demand outlook improves",
+        "url": "https://finance.yahoo.com/technology/articles/intel-advances-arizona-ohio-factory-154654589.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-21T15:46:54.000Z",
+        "summary": null
+      },
+      {
+        "title": "Anthropic Has Locked In Over $600 Billion of Computing, More Than Intel Is Worth. It Still Wants More and That’s Big News for AMD.",
+        "url": "https://247wallst.com/investing/2026/10/21/anthropic-has-locked-in-over-600-billion-of-computing-more-than-intel-is-worth-it-still-wants-more-and-thats-big-news-for-amd/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-21T15:16:20.000Z",
+        "summary": null
+      },
+      {
+        "title": "Elon Musk May Have Ended the October AI Crash as NVIDIA, Intel, and SanDisk Rally after One SpaceX Quote",
+        "url": "https://247wallst.com/investing/2026/10/21/elon-musk-may-have-ended-the-october-ai-crash-as-nvidia-intel-and-sandisk-rally-after-one-spacex-quote/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-21T15:04:25.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD, Intel, Qualcomm among chip stocks to see price target changes at Susquehanna (AMD:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDNTSDBSVGxGSjFRd2doQ3hVNzN6ZTU1ZW02SUNRVW4wNGxSXzRhckdyS0tXRnJyNE9MdWZuZXJDdjBvWEZ1eDlwSlllcTJ4aEFPRGVMNS1tTTNXcVhQVXFNWW1XTzZha0EzTEcwVm41cUo1bW41VDdCU1FDbi1iRU9pMHhMWGJVbDRwNFNRU1dQTlRxeTJOQzFGNkVQZ1NNc0NTai1SWUE3QnhubzZuNnIxS3lsSTJT?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-10-21T15:03:23.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amd-qcom-targets-raised-while-intc-cohr-face-cuts-susquehanna-sees-modest-upside-for-chip-earnings/cZxM53zRBvK?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-21T14:30:29.000Z",
+        "summary": null
+      },
+      {
+        "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVlhVmwtMzY3VXU0T0Y4c0M1MUNpeE9pZE1GaWhBd0pSTTBoWEdJOXJSNVlOMDZRQk9aQ0N5R05VMFlHbUsyUUJfM003Z3d3R0JtTXYtM3ZPZGgwWTVjcTRYQ2QyMDNnZExhNWlHTTlkVV9rQWpnUTgyQ2tCZS0yTEtHbVlHRlE3QTZfM3N3a2V4enZIMlY3NHVn?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-21T14:30:29.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel stock: TD Cowen cuts target for Intel stock from USD 115 to USD 95 - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkhlNzNnUVVDSDVkaXk2SDk5SmVnQWNraG1PV2JMRmdremNBVm5RNU1wMmtqOVFDdkRINzU1RXBTbDRmUU0tUmlVY2NsN1pmY2FXZDJkc1RFZG04aUpXY0VYUElkWEdsSXo2Qm92Qk9jYUllTE1pWm1OMXI1bmpwano5dTJzblczX0ktUS1YN3h1M3d6QWhqWndSVVA3UmFzcDV2ZXo2SnQ4WmZ0amJFbUo3TGhNQXhfYm1uUEg4TGVqRVRQQ3NGVmNNaWl6ZFU?oc=5",
+        "source": "AD HOC NEWS",
+        "publishedAt": "2026-10-21T14:26:55.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Is Under Pressure After Musk Signals Terafab Breakthrough",
+        "url": "https://finance.yahoo.com/m/86456a7f-49bd-36ec-ac00-96590df2d6cc/intel-stock-is-under-pressure.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-21T14:05:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Stock Is Under Pressure After Musk Signals Terafab Breakthrough - Barron's",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PU1ExemV3azQ2ZFZjR1lOT21CcnM3cFlqOUI4SEkwZFBBVkdVelhBbDltV0ZhZjlsTlFYMGJVbUwxb05HR1Vna3VpMTFnWFpTdC1XZWtxaHJLT3RzY1hkUkNYcGdDaVZ2UWM1d05pMXZIcHlHSlE?oc=5",
         "source": "Barron's",
-        "publishedAt": "2026-10-21T10:49:00.000Z",
+        "publishedAt": "2026-10-21T14:05:00.000Z",
         "summary": null
       },
       {
-        "title": "Entravision Appoints Brian Krzanich and Gary Ferrera to Board of Directors",
-        "url": "https://finance.yahoo.com/media-advertising/articles/entravision-appoints-brian-krzanich-gary-100000611.html?.tsrc=rss",
+        "title": "After a 137% Run, Is AMD Priced for Perfection Before Earnings?",
+        "url": "https://247wallst.com/investing/2026/10/21/after-a-137-run-is-amd-priced-for-perfection-before-earnings/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-21T10:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Stock: Robeco Institutional Asset Management B.V. Raises Stake - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa0Q5NEd3dTJ2R096SF91TVZIWkc2VGhMN3dTWmh0VEJvNmhBSGxNaVBXUy1wdnBVVE0yclNRM0Q1RkZHajN3cGdVbkJETmZJMi1PVTFiN09aLUx5SjJUa21QNy1OdEtNc3hELUV1cXBHSVlNRHpSMzJ2T29RR1FZSjlUTF8xMFNPRWtlQnY1bzRGT0FZQ3JvNnJRNmRyU0ltRl9HSVBOX01JbU5kc0pEM2xZcFozeW0wWXpyUkl0XzRxX18ta3RodmFMTl9lSXdpdjFfLVZtNlM2WHM?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-21T09:47:10.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Sold by Nisa Investment Advisors LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRXByMU5WckpNdHFfbU54YVhmdm4zWXRBNEFVaVE0VDRpYmRZQlZXOHBCVW11TVZTRVQ0aDZyV2gxajdYMmc0SE16WWpZZV90elF6M0F5S056U1lSbEVucF9TT01uNURkcDNoZ3Q1di0yUThtdnpEcXZyazJGeHZTTHZpUHllMi1zT0hwOEo2SmtYaTJjOXJkREkzaVkxZC1BVlcxZmN2d3RtLVpGQTVuMlE0S0dQdTVNUFB1bG9oOGUxWUxKZXc?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-21T08:48:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "21,947 Shares in Intel Corporation $INTC Bought by Genoa Capital Gestora de Recursos Ltda. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZWlobzdQZW9DTDFMOUE3YkY3MjQ5YkFkVFJldmhUWGQtN0RFRkVvdEttdWV6S3NrY3JtU3QwbFRrMFlfcVdWZFBWWGtZZzY0VHhWOUU2bWsxd3RVWTN6QS1xS002MGZzQ2dXMHU2Y0VOcG9Db2lCRUhFME5fODRsc09QTktMTXhkdlMyWDR6ZENtbHZyMHVrV2lVS1A1RF93eWJPZGZ0bWYxX3BmRXZidEllLWUwVkFHZG1iOG8xYVFUWWZLTUVoVi1KMmVuVUhnUXJKdGRzV0huMWIzaW5WdTBR?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-21T08:40:04.000Z",
-        "summary": null
-      },
-      {
-        "title": "North America Semiconductor Silicon Wafer Market - Share, Trends, and Forecasts (2026-2031) | AI Fabs, CHIPS Act Incentives, and 300 mm Wafers Fuel Growth",
-        "url": "https://finance.yahoo.com/technology/articles/north-america-semiconductor-silicon-wafer-081800994.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-21T08:18:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Stock Sold by Focused Alpha LLC - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVU5qNjdTVzJyUzdzOVlJR083ZlVOV2g0X3R0YVNRU0k4TVcwemNGYWQtTTU5NTU2ZFFBRUlVLTk3WVlOb1hjeGFzVlZTWHBNSHp0dXBxYnNzb2dwUzlyd1l3X2ZKUGZUN0VoLVEwQUhOY1VVVG1ETi1NX0thLWFxamFQS2dGSUVsYjlWdzJKNUFobENGeHNPc0RCRi0yTkZBWXI3VzgwV1JLb3dQR1hKeHZHWEk1dw?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-10-21T08:06:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock (NASDAQ:INTC) Notches Up as JPMorgan Changes its Mind - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzAzUHZOa3V3bUlVaFoycS1WNmh3U244ZWcwRzg2SHluSUQwM1hrMDRlRUtsZ0Q5TVpJMjY3NG5fUFdNcm1xUm5WLXkzT1NvMDNqUGQyeGtUc3NuNW5ieDdDWGdFOWpwaHZxcTFKSmdKbDFVbTZyZHhNWkNtUzZ0Wk9Eak92V0FPRlRGdmlUVklmbk0zaG80?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-10-21T03:37:58.000Z",
-        "summary": null
-      },
-      {
-        "title": "CRWV, NBIS, NVDA Jump Overnight: Musk Says SpaceX Could Rent Compute ‘Several Times Over,’ Analyst Dismisses Glut Fears",
-        "url": "https://stocktwits.com/news-articles/markets/equity/crwv-nbis-nvda-musk-spacex-rent-compute-several-times-analyst-dismisses-glut-fears/cZxtV5VRBHk?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-21T02:37:20.000Z",
-        "summary": null
-      },
-      {
-        "title": "Major gold holder backs NVIDIA challenger",
-        "url": "https://www.thestreet.com/crypto/business/major-gold-holder-backs-nvidia-challenger?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-10-20T21:28:00.000Z",
+        "publishedAt": "2026-10-21T14:00:34.000Z",
         "summary": null
       }
     ],
@@ -110,13 +110,6 @@
         "summary": null
       },
       {
-        "title": "삼성전자, 0.37% 하락 마감…외국인·기관 수급 엇갈림 (+005930, 삼성전자, 주가, 수급, 2026년 9월 10일 수요일) - 민심뉴스",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81SkN5WG5uejctUkhvSTdtdTVOYTRiRUZZYzFPeEV1VTZfSzVoSlJQOXl5TUZ2MUpxMmJrTDRJQm1UOUE4bDFUaVMtaWpaZVV4QWZMSEtYV0tuNnBNZDN3cXdFdmdqcmtvMURlWQ?oc=5",
-        "source": "민심뉴스",
-        "publishedAt": "2026-09-10T07:00:00.000Z",
-        "summary": null
-      },
-      {
         "title": "엔비디아 실적 확인한 고수들, 삼전·닉스 줍고 실리콘투 던졌다 [주식 초고수는 지금] - 서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByOU4xTXp2ZGFuTjhJSnZ2U19FQkhPcTdRX21MdnpmS1NPbkJQek1QTnlXYkF0RHJiSzV6TDQ3bFVBdkF1emQ3Zjl3Z2ZhdTV0WEHSAVNBVV95cUxOLU04NlROaGZ0NGtnT0hHRVV3NHRndW50RFhJWk85TnM4R2MyQ0EzUUdoNmROd01nZHJjNGc1aURISEFOYnZlSERoOUd5NVpUZV9ubw?oc=5",
         "source": "서울경제",
@@ -143,21 +136,28 @@
         "source": "인포스탁데일리",
         "publishedAt": "2026-08-03T07:00:00.000Z",
         "summary": null
+      },
+      {
+        "title": "반토막 난 ‘국민 주식’ 달래기…삼성전자·하이닉스, 주가 부양 카드 꺼냈다 - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYVBsTVVRcUNrTURoZnRubFoybjRCb2M3SXhXZFJaRFBzeE02eURYRzN5SENxQzl4cFhLX3VoTU55RE5TZHBremY2ejZyNHVGTlHSAVNBVV95cUxQcUVTRnB3UXpKbEdKdy1mbl9FNDdxWHlGeWVNaDlVWkpWbzFKSUxJSHh2eHdpRWx4XzFiOTdVd1NsSlktbUJfRDVyQnRVNmZCQklSYw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-07-31T07:00:00.000Z",
+        "summary": null
       }
     ],
     "APPL": [
+      {
+        "title": "AAPL Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
+        "source": "CNN",
+        "publishedAt": "2026-10-19T17:24:19.000Z",
+        "summary": null
+      },
       {
         "title": "Own VGT? Here's How Much of It Is Really Nvidia, Apple, Microsoft, and Broadcom. - The Motley Fool",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmx6UGxZZ2tKejFNMVF6dVFZZXduVDdYQzAwRU4tQUt1SkIwNXJWLVYzdVVpVHhTci1QSDZ0QV9fTE9VRmxvenhCcWJsbzc1ZlliUW5QTW5iejI5ZEhsV1hHRi1OWEw3eVNJWFF4azRkQzJJMUxqSmYwMmNyd2ZPT3g1UkFFakloeElieUZOZkdrY3lhODhsZw?oc=5",
         "source": "The Motley Fool",
         "publishedAt": "2026-10-18T14:08:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "AAPL Stock Quote Price and Forecast - CNN",
-        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00U3JoRzhkckt5aVFxb1NVNnBndWhrcDM5N0NqUzZGUk8xQk04OF9jVWRULXh2RmlJaGpTS1FJWEREaUlNUnhfSHk2cm53NllX?oc=5",
-        "source": "CNN",
-        "publishedAt": "2026-10-18T08:01:34.000Z",
         "summary": null
       },
       {
@@ -203,16 +203,16 @@
         "summary": null
       },
       {
-        "title": "Jim Cramer is urging investors to buy Apple stock ahead of foldable iPhone launch - Quartz",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTThYTXNidkVveHltcS1DTTlueDhva2pPWHdmVUFKal9OWmtzYzlZbWNOeWtYUjRZM1oxaVJacGlPSTJvY0Z1elBZSlhTZzl1S1l6bUlibnFXNFNCZWY3NkdHcURWZTRKUGM2NC1ad1Z4dw?oc=5",
-        "source": "Quartz",
+        "title": "How Much Upside Is Left In Apple Stock? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjBMR3dKWDZZWGJZZnNPbC1ocHJoZzdQdFFmZkY2UHJfeDRKWndjRmowSHNYTnNlaXFreXA5QXVJUHMyUVF3SUlBSG00ZUp3Tm52dGZYMTNFSFB1Zk9UX1NkQnlqVndkN1M0ZmVpYXVndlZjSTVnNFVTVU83cWd1U0R4bXdabjc3amlVQmRCbGdwSHp2a2haV0ptNTNzWi1L?oc=5",
+        "source": "Trefis",
         "publishedAt": "2026-10-02T07:00:00.000Z",
         "summary": null
       },
       {
-        "title": "I Correctly Predicted Nvidia Would Overtake Apple in Stock Buybacks and Dividends. Here's the Better Buy Now. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWW00TDBpLS1UR3A4NVp4VlZLQV9TR1Bsbmg2MXBaX09VeFE1RjFiaWlwdzJHNkZXa1FnMlc1SlBSaHk4MUdscTVZWV9NMllRdjJhODdkeS0tRW1iRE1QSFd6N2pSOUxXZ1NrT1FGU2RRVVh5NE5zZDFZcWZkWHdScE05Tzdzamh2X2tIMVhwTFpLRlBKWlhr?oc=5",
-        "source": "The Motley Fool",
+        "title": "Jim Cramer is urging investors to buy Apple stock ahead of foldable iPhone launch - Quartz",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LTThYTXNidkVveHltcS1DTTlueDhva2pPWHdmVUFKal9OWmtzYzlZbWNOeWtYUjRZM1oxaVJacGlPSTJvY0Z1elBZSlhTZzl1S1l6bUlibnFXNFNCZWY3NkdHcURWZTRKUGM2NC1ad1Z4dw?oc=5",
+        "source": "Quartz",
         "publishedAt": "2026-10-02T07:00:00.000Z",
         "summary": null
       }
