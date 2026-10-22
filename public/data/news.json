@@ -1,75 +1,75 @@
 {
-  "generatedAt": "2026-10-22T16:44:51.968Z",
+  "generatedAt": "2026-10-22T21:12:53.561Z",
   "articles": {
     "INTC": [
       {
-        "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
-        "url": "https://247wallst.com/investing/2026/10/22/chip-stocks-fall-as-supply-warning-deepens-ai-selloff-marvell-and-amd-sink-8-intel-drops-7/?.tsrc=rss",
+        "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
+        "url": "https://www.fool.com/coverage/charts/2026/10/22/intel-vs-qualcomm-a-widening-gap-in-revenue/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-22T15:45:08.000Z",
+        "publishedAt": "2026-10-22T20:45:16.000Z",
         "summary": null
       },
       {
-        "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7% - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNURGVDdST2d0bF9iZUF1NnBoX3ZjRjI0Q2dlNU5mazRwcWl2OUtNdjNHNDd1N1pscHdQeDRVdU5OSzBBdzJjbzE1NGowckRMVFFhcVVULURQOFRtSFE0OHg4YU00bmN3Y0RiRWFtaGZjUkotVWlNVk5UTEs3V3hxWQ?oc=5",
-        "source": "AOL.com",
-        "publishedAt": "2026-10-22T15:45:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7% - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSHYtVnBnaXBZc3V3cXUySWxseXJNcVUxV0Vhb2R5SlFkMVF4aTRyemE3VDladG5fVVB4blJNb0YwR3BwTG85TUt4MG0xT2R4Q1dOMUFXcUNtSkFVejktNjVWVXlWRThLUVBoX1hHZGNQWnZPdjZCaXFqYzRFWm1IWXdoQzl0WjlpZ0hxclhpUWFZa01ERVFCMHRtTFdVUEtDRURXYW1lWnJxSlRVYmpiaEREaGphdmo3Rld6OUg4R1BaOUhXNGtadEZvOENFWlE?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-10-22T15:45:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "TeraFab's $16.8 billion bet to start producing 100K chips a month",
-        "url": "https://finance.yahoo.com/video/terafabs-168-billion-bet-to-start-producing-100k-chips-a-month-152024748.html?.tsrc=rss",
+        "title": "What Intel, Boeing, Nike Have In Common With Each Other — And Apple",
+        "url": "https://finance.yahoo.com/m/901193fa-8922-3df6-9417-b947a80babdc/what-intel%2C-boeing%2C-nike-have.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-22T15:20:24.000Z",
+        "publishedAt": "2026-10-22T20:20:09.000Z",
         "summary": null
       },
       {
-        "title": "Alliance for Open Media Sees Rapid AV2 Adoption Across the Video Ecosystem Just Four Months After Release",
-        "url": "https://finance.yahoo.com/technology/articles/alliance-open-media-sees-rapid-150000402.html?.tsrc=rss",
+        "title": "INTC, EVAX, RCAT Stocks Move Higher Premarket — What’s Driving The Rally? - Stocktwits",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMUhFMUNkaTFlZ1pSWDRMTmxHR25qQjMwRFZtelZ4SVhRSzVfOEJzUzNPMkt3Wjl3UlFBVmlEWDVFdHgxOU1JZDN0STdSbVNSc0d5ZUNwVlVGNjA4VE12WHhLRk93NHNZRFAxWFp1dzBXd2hFcW83YUpHQ2tfUkdSUzdLdzdnUGpBTzhQVVB4enhHTGRmSzhBaTRtUWY1cWlRVXNsLXZsMHBpcHNPSk9jWUN3S1F3SFJ4OVhZY1h1Y0d6dExnV0pyMi1nelc?oc=5",
+        "source": "Stocktwits",
+        "publishedAt": "2026-10-22T20:12:59.000Z",
+        "summary": null
+      },
+      {
+        "title": "Meta stock falls despite Wall Street analysts raising price targets",
+        "url": "https://www.thestreet.com/investing/stocks/meta-stock-falls-despite-wall-street-analysts-raising-price-targets?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-22T15:00:00.000Z",
+        "publishedAt": "2026-10-22T19:50:53.000Z",
         "summary": null
       },
       {
-        "title": "INTC Stock Alert: What to Know as Intel Hits Construction Milestone at Ohio Fab - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTUh0UkZVaHZ1UXY5M3lVOV84ZVdxQkxHSERIbzJma0NDVWpTV3BEZnZHZWFvYUNuWVExZ2FJWEVmRlZNTHJ3UHItZ043eXhnYVFxSWFEb2Z3OWloOWJQaUU2aXdXc0tINlp3QjZJcjczNWhyWFRZNlJuWDdIbXA0V0wtNXZNb0VmaEZBWXFHR3o1bXdGUmJGUFZuaWg1MzNrdTNXcjBDdHpSeklueC10ZFlRNEdtMkR0VnJxcDV1WQ?oc=5",
-        "source": "Barchart.com",
-        "publishedAt": "2026-10-22T14:48:12.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock Could Have a Turnaround Opportunity if These 3 Catalysts Deliver",
-        "url": "https://247wallst.com/investing/2026/10/22/intel-stock-could-have-a-turnaround-opportunity-if-these-3-catalysts-deliver/?.tsrc=rss",
+        "title": "What Does an AI Agent Need a CPU For? Why Nvidia Wants In on the Business Dominated by AMD and Intel",
+        "url": "https://www.fool.com/investing/2026/10/22/what-does-an-ai-agent-need-a-cpu-for-why-nvidia-wa/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-22T14:30:21.000Z",
+        "publishedAt": "2026-10-22T18:25:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel Stock Could Have a Turnaround Opportunity if These 3 Catalysts Deliver - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZU13bkZQNlZwcm1EeFdrc1g2enRfOXFPVVZzQmNnV2RDeWxuSzFzc1hjRFY5amRicFh3dGZhTFdBYV9lZFU5bU1KVTV3RHEwbDlVSDYtYm9odnpEdy1xZzRNa0V1SWMySnRIcUlmWDFITXpEekRiTHpHSWpiU1NfYjFwSUhwRXJCb3pCcUhCSjNldm9Md3R2MlJ0djNyak1obW44VEE4cG0?oc=5",
+        "title": "Chip Stock Rebound Comes Undone After Lam Research Stokes Spending Fears",
+        "url": "https://finance.yahoo.com/m/5712d994-c082-3a96-901a-7cb056f412a7/chip-stock-rebound-comes.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-22T14:30:21.000Z",
+        "publishedAt": "2026-10-22T17:50:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel Stock Could Have a Turnaround Opportunity if These 3 Catalysts Deliver - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYndQMHNHdFZoT2s5Q1FobVhKcVNJdV85ZHdxZWRtXzRCeWdSYjlzY0x3NU5TQU02bXBfUGh3YVgtQi1yZi0ycmdlQXZkNG1jYnJCQXViSDBDNHBwM1g0UWZtS1JicGxXcXZXdjVxdkhQQUpjRVRseUdPdDZsekJHYlNvd1Exc014SFJiMQ?oc=5",
-        "source": "AOL.com",
-        "publishedAt": "2026-10-22T14:30:21.000Z",
+        "title": "Intel stock may move 8.3% on Oct. 29 earnings report - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODNjR1VPYjhyM1lMbVJZZ1ZlcmJLXzE3TUkzd0ktS3FTc2ZGVEtxZWQ0UmIzVXdMY0Ffa0FEekFOTzhXN3JPcnpCeVVhV2Yya1gzWURfbUNIV0l1V1dXbjl6UHB2cUplNE5scHlGUFY3NVRXSy1aMEdqOTJyOEZLd0VBUnNvYl9idW15cHRfcXEzMXE2WEZwalR0eGFFRzQ4TE1saWg0OE0yWHdHYVJGSQ?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-10-22T17:47:49.000Z",
         "summary": null
       },
       {
-        "title": "BC-Most Active Stocks",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/bc-most-active-stocks-143017172.html?.tsrc=rss",
+        "title": "Could Intel be the next trillion-dollar company?",
+        "url": "https://finance.yahoo.com/video/could-intel-be-the-next-trillion-dollar-company-172549462.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-22T14:30:17.000Z",
+        "publishedAt": "2026-10-22T17:25:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel shares drop more than 7% after stock moves further below key moving averages - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUjk3MlVOY0VTVk5CcG5FZ1d1eGctMXFFVzNHeXVvbnpEZ1Nrb085QXN3NEsxSTk1R0NIbVNKVGN4MUNDUC1DN3VWNXl5RUNDeFd5eEZwTXhhcFZETkRfdEt3MVpJcDJkNU54eGFSamJsNkliUmU2U3FBeEh2YV9aVzhvb1pOS0ZTY2VlOQ?oc=5",
+        "source": "Traders Union",
+        "publishedAt": "2026-10-22T17:24:38.000Z",
+        "summary": null
+      },
+      {
+        "title": "Wall Street Says Cadence Is Successfully Monetizing AI Chip Complexity, but Will Valuation Still Sink the Stock?",
+        "url": "https://247wallst.com/investing/2026/10/22/wall-street-says-cadence-is-successfully-monetizing-ai-chip-complexity-but-will-valuation-still-sink-the-stock/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-22T17:14:19.000Z",
         "summary": null
       }
     ],
@@ -79,6 +79,13 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVnlpX3NYam40NTljQ0JvRlZld0xoekV1RTBiRGNRbko0NW5pcE5hU1YxSkljYmtvazFFYVNnWTc5bUZkODdNUjdRbU9ZQjZEQWfSAVNBVV95cUxPNC1Gc3YwaTc2QmFkNmlMa1RwVlAtQTJ3QXd5VXBreXBCM21SWmE1MVA3QlpYcGl3R216YlF1MkJ2d2lHaE4yUlZ1bHc5UHJzNnhlOA?oc=5",
         "source": "서울경제",
         "publishedAt": "2026-10-22T04:16:50.000Z",
+        "summary": null
+      },
+      {
+        "title": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은? - 네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXFZU3ZHSk53YzU0UnRtQnE3bTl2R3lJMV8wd252Mk5VZUoyZ25RUVVKcThmM3IxeE5NTzZpUm1Ba2hNanR0WjA5WXc2TFNKZ1M1ZS13VUJpSHdtbmoxQzBrWU4wOTh1eWpNQWZwaGczUlplY3U0STRiYjB3NkotTjZfblQzQQ?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "publishedAt": "2026-09-29T07:00:00.000Z",
         "summary": null
       },
       {
@@ -136,13 +143,6 @@
         "source": "서울경제",
         "publishedAt": "2026-08-06T07:00:00.000Z",
         "summary": null
-      },
-      {
-        "title": "삼성전자 목표가 '30만 vs 65만원'…증권가 전망 두 배 넘게 갈려 - 인포스탁데일리",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sWVVCX2ZGZTFKUks3d3lXTlhiRjFneGtqTnkxaml1aFJXd2JFTWVDS1pyV1dRSEJCLWQtaUtfS1p3QUFpWUExTzVBTDhqeXE3aC1OTTFyQVJiWkQzLTlxejh5V3hGVXI3ZFNFT2RxdHl0RHJCRHc?oc=5",
-        "source": "인포스탁데일리",
-        "publishedAt": "2026-08-03T07:00:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
@@ -158,6 +158,13 @@
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbDJnQ3dBYWI2Z2k4eXJVZEVEczZ1M3BQOWY4WEpkVVFZSU1QSTZiWTE5SXpJZFRxd3FGNExBNk5yZWZkcER6cGN0MFVMbUxOZTFfb3lkMkNHZzd5MFhvUlRTczVGX3c3UWhJeW9zdXZyTm54QVBOU0VWakNsTEp3OWp1LS02cmtVSkRCX19oYVVlQQ?oc=5",
         "source": "Seeking Alpha",
         "publishedAt": "2026-10-15T16:15:59.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Stock Forecast: HomeView Broadens AI as iPhone 18 Faces a Cost Test - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUFplb0RQNHBBWE5IR1A1UXZQWGxpVTBOUkl1SUVhNVNKNGZoVGt2NFpuNERQZWNpRFVkdF9nWFktTEdzUnVlVXFZeVBnMmljT1BMWG9ZRmRqZUdxSVRWMk1xRWRxUHZwN3AwSkpNaHlHWjhtMU1yYjFpZFpOZWg0N2c0X1k2Y1BZaklpQlZ2d0JQdHgwQktqMGMxejhmZ05US2Y2SG9oTU4yR2MzQVR4U2NiMmo1SlhQc0lNaGVqdjdsTlhuUlI1cA?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-10-15T12:01:53.000Z",
         "summary": null
       },
       {
@@ -206,13 +213,6 @@
         "title": "Jim Cramer sees a huge catalyst on the horizon for Apple. How to play the stock - CNBC",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUHFXR3F4a3ZxejRKd2tPQ0J2Ukpjd2VqQ2VmT1M3aS1NSEhVM21WZjNqYmQ4Q3B2QXE4QlkwRUlBT3JIOXJZTTdKYlZwQVpsMkFYR0F0Q2NZZFhYRnhUbm1TMXJ0ZThOcVBFejg4RVNlZkJGSVk4ZGU4ZEN4WkRaenUyYy1GVE9Ba1VBXzJtU0JCYjBqMVF4Y1ZWT0F0NHd5c19fRFJRN21NeU5GQ2gxNVFKOGJ6QU85N3F0bU1XTjgwXzliVXJyYw?oc=5",
         "source": "CNBC",
-        "publishedAt": "2026-10-01T07:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "How Long Would It Take $1,000 Invested in Apple to Become $10,000? - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNHpKTllpeEtnOUZnSEU0djVadHV4UXFQVzRfOEpPSkhFXy1jQ2s0czNGSFJoM1ZPMW1nUV9uNTJMcHFQSjZiWDZjZzZBczJmeVBOM093VHozUkZjckpKWEhSaWpWMnBXX2hDaUNHSC1DZWVWVnpwcS1RVFdfY0g2dU1CLWg0Q05CaUw4YlhaeEdGdHZtblNjLVQwZmczeHdhOWdRWEhLRXQ?oc=5",
-        "source": "24/7 Wall St.",
         "publishedAt": "2026-10-01T07:00:00.000Z",
         "summary": null
       }
