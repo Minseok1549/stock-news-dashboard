@@ -1,221 +1,79 @@
 {
-  "generatedAt": "2026-10-31T04:10:52.298Z",
+  "generatedAt": "2026-10-31T11:43:54.688Z",
   "articles": {
     "INTC": [
       {
-        "title": "Vanguard's Tech ETF Is About 10% Below Its Record. History Says What Usually Comes Next.",
-        "url": "https://www.fool.com/investing/2026/10/30/vanguard-s-tech-etf-is-about-10-below-its-record-history-says-what-usually-comes-next/?.tsrc=rss",
+        "title": "Intel Is Down 45% in October, Its Worst Month Ever",
+        "url": "https://247wallst.com/investing/2026/10/31/intel-is-down-45-in-october-its-worst-month-ever/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-31T03:46:02.000Z",
+        "publishedAt": "2026-10-31T11:18:52.000Z",
         "summary": null
       },
       {
-        "title": "Opinion | The trouble with Uncle Sam’s Intel shares - The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVkRMRWN0b1pkeEEwSDZrVWhXd1FzeWF5Sk1VZWU3YUt2T0pPYjBIWWk2aHZKZmxrM1hQbE1yeU9OTGpOaUN0Qjktc1VqeFJXSTRYNTlOT0xWWDhGMVE2R0dONHYtcWNaMTVReGpPdUZZNjBUQ1FMZXA0dFdna1htb2JSWWNmVllLbW96U1BoRGlfc1NqT3dxdmNDbnhmUQ?oc=5",
-        "source": "The Washington Post",
-        "publishedAt": "2026-10-31T03:40:26.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Drags Down CPU Rivals. Is it a Buying Opportunity for AMD and Arm?",
-        "url": "https://www.fool.com/investing/2026/10/30/intel-drags-down-cpu-rivals-is-it-a-buying-opportunity-for-the-amd-and-arm/?.tsrc=rss",
+        "title": "AppLovin, 8x8, Elastic, Shopify, and F5 shares are falling, what you need to know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-8x8-elastic-shopify-f5-095529415.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-31T03:20:01.000Z",
+        "publishedAt": "2026-10-31T09:55:29.000Z",
         "summary": null
       },
       {
-        "title": "Intel Drags Down CPU Rivals. Is it a Buying Opportunity for AMD and Arm? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYVVZdUVfNFZidjh4TTkzRUhzSlE5eWhnc0o3aEpTZFpLbWptOVhnVnNKSmxpT0FaTnNnNm9ITm1YaEtmUUVNUk1NY3RqUkpJcUY3YUMyVGplTXIzdTJ2Wko4Tk9nSzBuRE1la21UbjNFRUtad3l4UUdSb2cxY29jUFhwQkVoZDZoNjNoc01BV0Y4azlsa3ZF?oc=5",
+        "title": "Zeta Global and Commerce stocks trade down, what you need to know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zeta-global-commerce-stocks-trade-093129865.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-31T03:20:00.000Z",
+        "publishedAt": "2026-10-31T09:31:29.000Z",
         "summary": null
       },
       {
-        "title": "Why Intel Stock Crashed on Friday - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbk1JVDJ6SC0wYnAwSm9EcHUzRmpnRFNweFZNenF1c00yb3VOU05vVzFqaEx3dVJrQVR2TjQtUkFxRFlIQXF0SW02WDZHMjB1a09XVnZCeG1jT3ZNREJ0b1JlNEJmUGtCbHlFdElxUWxIc2xySnNYdWN4QUE3OHlBeV9n?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-10-31T02:48:52.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Intel Stock Crashed on Friday - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRmZIeEljcUJzRWI0UHFWRnFOak5BcXNXN05kZ1BDek9waWx2Zy01WUNSSEcxS2U4LUtqaXA3cWtwRURXZUxPWkt6MDVfRkowVExkNHpxQUNSaHpyMUE1MzJJX01OOFNkYkhqbU1ST3p1b3VjUFVQY2JSNGt0NnR0bl9qM2FQd016bkdCdmJEVGxPRVdBbWNnanNzbnVuMUQ5LTVfeGc4TVVneWl2REd0TDlvMUdRY28tT2c?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-10-31T02:41:57.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Intel Stock Crashed on Friday",
-        "url": "https://www.fool.com/investing/2026/10/30/why-intel-stock-crashed-on-friday/?.tsrc=rss",
+        "title": "Cloudflare, Fastly, Oracle, JFrog, and Okta shares plummet, what you need to know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-fastly-oracle-jfrog-okta-092329601.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-31T02:41:46.000Z",
+        "publishedAt": "2026-10-31T09:23:29.000Z",
         "summary": null
       },
       {
-        "title": "Stocktwits Weekly Spread: What Shaped Treasury Yields And The Dollar This Week",
-        "url": "https://stocktwits.com/news-articles/markets/equity/stocktwits-weekly-spread-what-shaped-treasury-yields-and-the-dollar-this-week-3/cZUK1ucR9ca?.tsrc=rss",
+        "title": "MongoDB, Datadog, Snowflake, Bandwidth, and DigitalOcean stocks trade down, what you need to know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-datadog-snowflake-bandwidth-digitalocean-091529883.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-31T00:54:38.000Z",
+        "publishedAt": "2026-10-31T09:15:29.000Z",
         "summary": null
       },
       {
-        "title": "Is Intel Stock a Buy After Its Post-Earnings Plunge? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUVzMW1feGNTVXdCSV9lTFI3U0QySFRSa1ZtWlBvUFFLTmpvTTZuNWktd1RLR3VmWFNBVGFlR3FtWWc2N216WVlpU0xxYi1BdFFqVkRpRUVOV1M2SWk3SFNCdVlxUm44U0tpUHQ1RDZ2Rk9HYmYyODk5enVSTkFBNUxVbTVmbURTcjNjbTNnb2RZVE5wd0xPRGdn?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-10-31T00:14:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "S&P 500, Nasdaq End Third Straight Week Lower As Investors Move Away From Tech, AI —  AMZN, INTC, LLY, RBLX In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-third-straight-week-lower-as-investors-move-away-from-tech-ai-amzn-intc-lly-rblx-in-focus/cZUKKlTR9cJ?.tsrc=rss",
+        "title": "Nvidia Just Dropped 11% in a Month. Is It Time to Sell, or Load Up?",
+        "url": "https://www.tikr.com/blog/nvidia-just-dropped-11-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261031-fqffr232&.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-10-31T00:05:39.000Z",
+        "publishedAt": "2026-10-31T08:06:57.000Z",
+        "summary": null
+      },
+      {
+        "title": "TSMC Just Dropped 11% in a Month. Is It Time to Sell, or Load Up?",
+        "url": "https://www.tikr.com/blog/tsmc-just-dropped-11-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&tlnk=yf-261031-7cwh2m2m&.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-31T07:42:08.000Z",
+        "summary": null
+      },
+      {
+        "title": "Datadog Stock Fell Nearly 12% as AI Spending Fears Hit Cloud Stocks. Its Earnings Estimates Didn’t Move",
+        "url": "https://www.tikr.com/blog/datadog-stock-fell-nearly-12-as-ai-spending-fears-hit-cloud-stocks-its-earnings-estimates-didnt-move?ref=yahoofinance&tlnk=yf-261031-f9v7747q&.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-31T07:18:19.000Z",
+        "summary": null
+      },
+      {
+        "title": "Coherent Stock Fell 11% as Intel and Amazon Earnings Hit AI Hardware Stocks. Here’s Where the Stock Could Go",
+        "url": "https://www.tikr.com/blog/coherent-stock-fell-11-as-intel-and-amazon-earnings-hit-ai-hardware-stocks-heres-where-the-stock-could-go?ref=yahoofinance&tlnk=yf-261031-x7rv5fc9&.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-31T07:15:12.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia Drew DOJ Questions and Weighed Backing Debt for an Anthropic Data Center in One Week. Here’s Why Its Cash Flow Matters More",
+        "url": "https://www.tikr.com/blog/nvidia-drew-doj-questions-and-weighed-backing-debt-for-an-anthropic-data-center-in-one-week-heres-why-its-cash-flow-matters-more?ref=yahoofinance&tlnk=yf-261031-mwmwxhm6&.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-10-31T07:12:22.000Z",
         "summary": null
       }
     ],
-    "005930": [
-      {
-        "title": "10.16% 지분 취득 의결한 삼성전자($005930) - 토큰포스트",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vVWFnUlNadXJLajNzWjNjRGFRRGRxQk5nTHdKdzB5MGpmY3BsRngtVGkweVZIc2F5ZnBXbV9TWXhDbnlWQ3RMTmZyRTBpMzZmMXBZ0gFYQVVfeXFMT1NVY3o2OFNjU2JkSlVISkNSeXVsVlFsemJaTGVocm5fNEZzdEFRenc0cy05UnVxcWhpZlY4Mk9TeklJSFNTU0pleGZvUTlKcDRWTnlnU3JxaQ?oc=5",
-        "source": "토큰포스트",
-        "publishedAt": "2026-10-30T13:24:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "\"하닉 8%·삼전 4%대 급락\"…키옥시아 쇼크에 애프터마켓 출렁 - 이데일리TV",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WREMwNnVHS1dOUUEtbFg1QW50RHNfOVpOcDV0OEhrN1NLdkUwTFJYTHI3bHpfODZmWXhiOHFzQU11aDJQMEVKSjgxQ0tTeklBWi1uVk0zLTg3QzJnaHREUFFuRXdlbVpKWUNydDlaSTNKT2pkWEUxZ3BzMA?oc=5",
-        "source": "이데일리TV",
-        "publishedAt": "2026-10-30T09:59:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "\"영업익 139조 전망\"… 삼성전자 목표價 40만원 간다 - 경제타임스",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fbzU1RUtWNUlDS0o1V2tYMlprbDFJME9SVm91SmNvQ2pfVDNHNFplZmhrX2N0LXhzbTJDLVhzV1dCeHF3Q2J6NUNwYXIzbGJpOUVB?oc=5",
-        "source": "경제타임스",
-        "publishedAt": "2026-10-30T05:51:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "[특징주] 알파벳 등 美기술주 급락에 삼전·닉스 장중 6∼8%대↓(종합) - 매일경제 마켓",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RbWJBaXphUTliTEZjX3FjZUZsbzIxbnpNcXV6eHNSYkxzVlRIckZlYTBmeTZvdEN5QWZfVDNCd25iRHpjVmp3Wnp4eW5QLTlSZFE?oc=5",
-        "source": "매일경제 마켓",
-        "publishedAt": "2026-10-30T02:20:29.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자 ‘최대 75조’ 주주환원 남았다…배당 받으려면 ‘12월 28일’까지[biz-플러스] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WSDA0YnhvYko1YWxta0VfM2xwMEFidlpieW9VTDhjQWlPNzhObVVCNE1zeGJFd1JuTlRnQWFNa09lNUl0Y1B2UXk1aDFqSFJCQ1HSAVNBVV95cUxNNEU3ejRQZGh0ZDR5aERiekhfSnVQYU8xeDRyRUVJYnNrclo4S3NIeU40Zk16RlZvRkdGM1RwZGpIVTRuSldLRW1GMUprQWlrVjF0TQ?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-10-29T22:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "[주요공시] 삼성전자, SK하이닉스, LG에너지솔루션, 삼성SDI, 현대건설 외 - 데일리경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqSWxYTUg0VEJpRm04ZENhUHlvUWFMYmd5bzFBeGlZV3NnZkQyT05wakp4ekd6ckRwVWxzYnBIQkVFZUpWMUZZbHB2WWFhQzkwaVdjZVRWZjlXcUdJQW5HSHd5X2ZRRkhSQXNRNg?oc=5",
-        "source": "데일리경제",
-        "publishedAt": "2026-10-29T14:58:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자, 최대 75조 추가 환원…상당부분 자사주 소각 - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10Mjk4ZXJQdjRNaXd2RURwT2R4YkJYV3NUeWJUQ3E5NmZ1T3ZtanUxalkyamVUZldOcVV2S1Z4RldsQV9nZlNDVUxjSzNEUm1Hb0HSAVNBVV95cUxPMXFoTk1nSE84Y1AzVXhyQUo1OER1aTE0MHJNaWRGbjd6azZBQy04bUUzU09pODRQWEduXzFZNUZXSEU2UEpBTVJkQlRDVXdWMmRoaw?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-10-29T09:29:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자(005930), 메모리 호조에 3분기 영업이익 역대 최대 - 토큰포스트",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xVGs2TUJUSGpuVXIxRGJVSDhycFFPdTRLZUthSkVIOXlwYXJqcUNzX21qQ0RIMDFaRnJuX2FMdjBNWGhzUkdfSS1IaFMxLW5VRWVSUElFYTLSAV5BVV95cUxNejBNNXhRMjRKYVZTZ1VnUC1XeVZ6cnpCVWxXWm1tcXZ1bzJLRXFhbUJRZnZvSW9VUnR2dThuT2oteU4zQzctLUxjdzhhNXl2aVI1LWxHRDNoRmxaajR3?oc=5",
-        "source": "토큰포스트",
-        "publishedAt": "2026-10-29T07:53:53.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼전 실적·배당에도 5%↓…코스피 6100선 찍고 하락 전환 - 이데일리",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQVhsU3BxSkhWdzZNVVlqWW9jTFIxS09ZNU5seTY4aXFHeXhpTmtlNTF5eUJsMXFhcFFZUFl1WEVlODlVYWtEaXQ2emJHV1M1TFFseFU4azJrc2daeDFvT1oxU0JFX0tveTFBN29VNFAtVFZMQ1NpV1V6eFZhUjRabA?oc=5",
-        "source": "이데일리",
-        "publishedAt": "2026-10-29T04:57:15.000Z",
-        "summary": null
-      },
-      {
-        "title": "신한투자증권, 배당받은 고객 143만명…2년 새 31% 늘었다 - 파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGYjNVLXlxVWh1cjg0bWFtMVEyMHRmZWhNYkt3VldqZkd3TERGdTRaaFJXS2VabS13dXdHRjRaS1puNmU5MnQyZjhyaWk5dnhMeFh3ZGVlMDhnQQ?oc=5",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-10-29T01:41:41.000Z",
-        "summary": null
-      }
-    ],
-    "APPL": [
-      {
-        "title": "South Korea $15 million fine keeps Apple stock trading steady - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3NQelAtMERpQi1BREh6aGNvQ1pSUlZiMDNxY2RQajBkeXE2VDBWNEZFMjU0SHFaZHZTVldzcVNTUGlNbXp4ZXJSTDBTcTc4OHVfMkJBWHo1YmFyTVZmM2J4em5yWWhJanRPeDI2LWlwZTdDUzBjcXVESmVCd2NXc0FDZU0tZlUzcHc?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-30T16:02:38.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple holds firm near $346 as tech selloff tests investor confidence - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU01iTWpFWElEVVVMR3lPcUJZUjQ5eVVXZG9qSzJVTmpGU3ZCb1Q0RWVmNnV4RlBYak9HQkJFVm0tbzZGdGNOMnhjLTFWdWMyb3VyaEZLanZ5dmE0RjQ5X3dzQmd5NkcwLVVuNXJISVczY0VLdjFpV3F4VlF3REFBMG5vYm1yNkc3U0xua0FnUVdRbFpJbjFxRlJHWXRXMVdyLUVja01DTjlaVngxRWxqeVJ3Nk9WU283ZEE?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-30T14:51:33.000Z",
-        "summary": null
-      },
-      {
-        "title": "AAPL extends gains as buyer support boosts upward momentum - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSDB4YUhCajFSTjlsMTRzcFhINTg3eWVtUTBla3V6aFM1R3ZWQll1bUF3emtQMzRZM01TdGN2TmhkakhNMzd5VUVWRG4xd2hmQ3dTZm92NXVCVnM1X1JIOUNuQ19WTklmR1E1MWN6Y002QmNiYW56REJQR0M5b2cyMHhnNDZBdDA?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-30T14:08:36.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSWlVaERqVVBsb2hTVzZaa3l2bkpRTGZVT0lzaGo2TDNNRzVKMkttcFRXV2U1T1RDLVBLNktsRmxVcTNtbXpmTGFLUHdsT3VmR1E?oc=5",
-        "source": "Yahoo! Finance Canada",
-        "publishedAt": "2026-10-29T22:44:24.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple stock price forecast: $354.45 resistance as AAPL gains 1.56% - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY09mb0JlX0dFZi1ZeWx5SGN2RVFnMG50Wmx5VEdVbDU4bVItOF9uV1VuVlZiRVQ0dEdJZWRUQ2VaTFFjMWtxbE1wS0VCMUM0OEZFWWFVNkdIOWp4V0pWVU5BOHhKeVZETlA0a0Npdkg1eVNBZVMzbUY4bkNwVlF2RkRSdlRDRmxzYmg4T0hWWmk?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-29T16:02:35.000Z",
-        "summary": null
-      },
-      {
-        "title": "Flat session for Apple stock as $341.22 support comes into focus - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUjUwZkRyWXBRY3cwNW54SW9ka1gzUEJjUWpfRnlMSU91WnhiU1NoNk5xeFpHbGZiV3ZHTnpKNDlRbS1DMTdqczhwR0xHTXliZVFuYllxV3k3MUZRV0RDRGYwenpvaXF4VjZrMU00YVVYbkMxVmxxejNzYVZKMms3Uml6TWQ4N2xJTDBkMHpLZw?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-28T16:02:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple stock consolidates near $346.38 support as buyer support persists - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFZGWUozUFNDN05pTnJRMWtDaC1HMC1IRlpyTXRoWFBzXzRTbjh0NFliS2xWNmRTS3hQVnMyV290RnppSk1RaWptcGIxQU1xcVZVbzV0WkNncVZoam01QWt6ZVAwa1BkOTJlR0VQOHFBN1hKeS1zbThPR1dUVURZNDRmWHdzR0tPS3VJ?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-28T14:02:27.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple stock trades flat after OpenAI trade secrets lawsuit emerges - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYnRtZVduX0l6Ung2YWxLYU1ySnc1azBUVWtKOFQ1UlZwMnowa25maXZzNzliRklqMmxid0V1OGRGZ3FFbUgxdzZDNDJORlJpX29NZmdaZWFQSFVLSTdPTkh5RVgyLWkxVXlkb0xSVXEyaWQtUWRldHd0TGRaZWZOeGRCaGVjcE94UmZ3?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-27T17:15:33.000Z",
-        "summary": null
-      },
-      {
-        "title": "-0.91% for Apple stock as $341.22 support comes into view - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnlHRUtVRXhNTEttWDF2ZXh3RkdMZml2RjNBNnk3TVFISUE1SWhFSlpHUFpwVWpudVlJRkhzcGl6Q084enE2bllmSHR4b1ZkYTRnUkVOdTZpN1Jrc2s3c2VFQnhtamxsZE10Y2NzQXpKS0pTdTIyTmVrYVFzTFJHVzNsRmJsN3BJQkVvNXp3dmQ?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-26T16:03:31.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple faces key resistance after iPhone Duo debut - Traders Union",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWJXUmVCOEQ2M3dNVHJKcHpVeW41ejZxeml6dXVBdTRoVWk3RFpsMzVGSmxpMXVYaWxXd0J2MEdrU1VPYnJiaHR4Nkg2a3Jrbk5QemV6RTdha2lNVHEzcC04dW5mbTUzbzJLc243RFk0TUVKR2traWFSMjVCR3NQY3U1SHdDVDNjUEw0NW5MZklocnlTUHhocGRQR3pic05RQ3c?oc=5",
-        "source": "Traders Union",
-        "publishedAt": "2026-10-26T14:59:54.000Z",
-        "summary": null
-      }
-    ]
+    "005930": [],
+    "APPL": []
   }
 }
