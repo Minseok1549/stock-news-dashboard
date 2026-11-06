@@ -1,84 +1,91 @@
 {
-  "generatedAt": "2026-11-05T19:31:04.255Z",
+  "generatedAt": "2026-11-06T01:23:09.526Z",
   "articles": {
     "INTC": [
       {
-        "title": "ASML Sinks 8% as Post-Election Chip Rout Deepens",
-        "url": "https://www.tikr.com/blog/asml-sinks-8-as-post-election-chip-rout-deepens?ref=yahoofinance&tlnk=yf-261105-h6q36m9v&.tsrc=rss",
+        "title": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-intel-falls-on-weak-fourth-quarter-sales-outlook-amid-chip-selloff/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-05T19:09:15.000Z",
+        "publishedAt": "2026-11-05T22:22:16.000Z",
         "summary": null
       },
       {
-        "title": "Why Intel Stock Is Down Today",
-        "url": "https://www.fool.com/investing/2026/11/05/why-intel-stock-is-down-today/?.tsrc=rss",
+        "title": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWhaVnNQQ0NfVzEtRm5QUzQ4WjYwMk9ES00ya1BXODBHclpwQ3lfN1lYUnA0b21VaERMQ2NWTVBMbHRGQkhJV0luNnlIbG5rSWl3YzF3YUhGNVBqWUY0U2pOcVZLemZCc2k4Y25DR2lvZ3hPZW5QMEd0LW9JZlg2NkNGQS1takVBTnhmam1QNGlkMHc?oc=5",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-05T19:07:02.000Z",
+        "publishedAt": "2026-11-05T22:22:16.000Z",
         "summary": null
       },
       {
-        "title": "Why Intel Stock Is Down Today - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wR2NGVUJPMXJKSUsyekVDSmFKd0psT3JRbW8yWUE5MW1RaURnMW1MMGgtWXhvNW5tLUQ0ZjlneFNQSFpTRng5MGt5OVBNX19yVzRBS2RkaHlYT3ZCRS1UbDFwdUtHLWJiaFVpem1UX0pmWmgxako4Q2ticXY?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-05T18:47:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "QQQ stock today falls over 5%: Why Nvidia (NVDA), Qualcomm (QCOM), Intel (INTC) and Marvell (MRVL) are dra - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNUZDc2RzT3FCTWFKdUQ4ZFhZVUN4MkpyYmw0eERwVkdXV0p3d2ZJcU42dmQ1bTlTaDRrX2h5bklMU01kMTNNZUlnWmJfV0JCTURsbTVtdzBpTXJpQ3RqbVZSTWp3UG9wbjIzNjhkdHFzTUtIbUQ1YlQ0S19DWmxCWkpmbGJiSk5STFE2dE4yNGFqMm5icExzQVdMc2Z1UVhoTEdjcHc3Ny0xZzNmaXFoM1hlV2MxaXJwTnlXYjNHcUN6eDFydThGSEdseE5RUXRraEZwakF2RElZRDBGbTI4NGEzb1NmaEJRSnluSjEyZV9uZVd1TnpkblJWdGpDTjgyQkI0X0JtNlpMZFlXMGt4WVRGRlVjMUp1TUZaWW9yRzdhZjZE0gGqAkFVX3lxTFBLMXVmTVB6cDhmdWYySEQ5SG56ek4xMXkwU3o2WkpnaVBsZWFsLUR3X1NFWVFkMkJkNzRHYXJ2aFAySk5CWGlibnBMZFBCd2VkMnMwcUJVNlBpZjFqNTBVOVhZSHBiRjEwcmNOcXdCbzY0NUZsdF9VZWJlbFl0Q25LSG5oQzR5NjlMNTN4eThJRmJ1anAxcnk5SWN2Q3ZwMEl1LXNvbnVyZ19IcGxQclVPOXVIOUlwQnJ6NF9kclpZYU1FZmRNU3lNbVpvRVM0RktGWmxLWlNkSE1ndExtS082cGJsTGVTc000SHM3Z0s5ZlNFVVVGTUxFSG5PN3R5VFRUb1dibkZjb2REZDhhTlpSanZyaUJ1SW9IdnBxUXdXOVFvVkdSM0stNFE?oc=5",
-        "source": "The Economic Times",
-        "publishedAt": "2026-11-05T17:50:08.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corp Stock (INTC) Moved Down by 6.30% on Nov 5: Key Drivers Unveiled - TradingKey",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSGMyaTh4UFliZENTVThZNThGcnlVSENGVHUydFFjY3MwR1RkelB2c3lxNS1pQ0R2d0FURWpEdGc5M0I5U1VzcGxtMjk2N3d3VVhZWXJFUVlZZjNPWXBWaDFEUXBuYkVxdnQ1QlBWZUY5VEVUc1FOZkg5TjB0bWx0T25IUlhlWDZGUDFJ?oc=5",
-        "source": "TradingKey",
-        "publishedAt": "2026-11-05T17:16:13.000Z",
-        "summary": null
-      },
-      {
-        "title": "What Happens If You Invest $1,000 in AMD And Never Add Another Dollar?",
-        "url": "https://247wallst.com/investing/2026/11/05/what-happens-if-you-invest-1000-in-amd-and-never-add-another-dollar/?.tsrc=rss",
+        "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-05T17:03:16.000Z",
+        "publishedAt": "2026-11-05T22:12:00.000Z",
         "summary": null
       },
       {
-        "title": "Why is Intel stock sliding today? By Investing.com - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM19HUkc1WWh4UmlKeW82Um9oLUg3eTA2V3dIT29xNW5INVhQVmdWQ2FSTUs4aldMOVpwSW93bW11TENsY1A0STFKbldyRXFvQXAtN3hnYTc1ZXN2b2lCUU1PMXA2MlRuM3c0MEdTbllTNDd6MjVjVW5rb2hxbVZCODc4Q29uck9jeURSYmduNk54blkwckwxTQ?oc=5",
-        "source": "Investing.com UK",
-        "publishedAt": "2026-11-05T15:54:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8%",
-        "url": "https://247wallst.com/investing/2026/11/05/amd-tumbles-13-nvidia-slides-7-as-ai-regulation-fears-hit-chip-stocks-intel-sinks-8/?.tsrc=rss",
+        "title": "Stock market tumbles on post-election reset",
+        "url": "https://www.thestreet.com/investing/stock-market-tumbles-on-post-election-reset?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-05T15:46:01.000Z",
+        "publishedAt": "2026-11-05T22:08:01.000Z",
         "summary": null
       },
       {
-        "title": "AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8% - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZXpOcVdYWWIyd0ZyaldnY3QxMFJUUk14d3E0UmpWVzRwakhSOF9lOUE1azgtTmxRMm55V1JWZ24wZmhsNlVjWHBtZW1DNTJLMmFRNjd1YS0yaFJ1cUxQQVhkdU14V0Mzb1VjbFBreGpFS3FjYUdnXzd1NkVYUUlEY05uYWVJVEgxaGMzbDhzMU5rZWpmNkxqcjdBT0lLMy1kWVlhN1lhbjB2TDFEOGQ4SEJ3YXAxUnpuMi1kMy1RdkZzZVFicVE?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-11-05T15:46:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Oracle Has Incredible News for Intel Stock Investors",
-        "url": "https://www.fool.com/investing/2026/11/05/oracle-has-incredible-news-for-intel-stock-investors/?.tsrc=rss",
+        "title": "Intel's stock crash shares an uncanny resemblance to its 2000 bust",
+        "url": "https://finance.yahoo.com/markets/stocks/article/intels-stock-crash-shares-an-uncanny-resemblance-to-its-2000-bust-215941388.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-05T15:43:02.000Z",
+        "publishedAt": "2026-11-05T21:59:41.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel's stock crash shares an uncanny resemblance to its 2000 bust - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbUtPSFBjWUV3SXZNWmo2UWdfcXBOdlJZYlpaUUZBWUpZNVBIX1VDSEs1aDdvZklUeDJTcWxmMGZhVUY2NVdmd1l2ZTVXUHF3cXp0RWtNWkg4NDc0TjRkdnZnX2NudXg4MEx6WTg0d3N1NXBVMl9FamJWMzVzUE45TzVITVVJU0pOOWU2Qlp5MHlSemNrbUZ0THhWaWJibmhUdlFMbE91ZFBuM1N0dVdJeTcwb1FTSVBxY2dHT28taG8yX3o1R2syRg?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-05T21:59:41.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbm9zY3JjdEl2T0M1RkVVQTZENEhQdTAzbE1UbVA5clNENDNtenpWQUZhY0szeEdFTE9kMDVvTmZpN2hkc0hvbG9IUEpuMDhVMXBwSkRVMEtQWGF3UVA3RW1pdkJsRUhPWVRoTXVva1hudGo1OUp4dE5UeEVCcHpTNjV0bGFQOXV4R1Q2aWtCS3lXcjFtN3ZzbFYtSG94a0VLY1VMTldfaUJGbXZqMzJsLU5nMW02blBhZ0c2VHVmODBobS1jcUktTS1LSjZaWFZmdHJpNVdhOUM0aHBROHB0UDR5ZmZLU2RZS3dPNA?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-11-05T21:40:47.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
+        "url": "https://www.fool.com/investing/2026/11/05/nasdaq-stock-market-correction-history-says-this-is-what-happens-next/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-05T21:39:01.000Z",
+        "summary": null
+      },
+      {
+        "title": "Is AMD Stock a Buy as AI Revenue Soars?",
+        "url": "https://www.fool.com/investing/2026/11/05/is-amd-stock-a-buy-as-ai-revenue-soars/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-05T20:39:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Sinks 8% as Midterm Chip Sell-Off Deepens",
+        "url": "https://www.tikr.com/blog/intel-sinks-8-as-midterm-chip-sell-off-deepens?ref=yahoofinance&tlnk=yf-261105-gw54wr25&.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-05T20:20:40.000Z",
         "summary": null
       }
     ],
     "005930": [
       {
-        "title": "코스피도 ‘블루웨이브’… 반도체·전력기기 급락에 5400 사수 ‘안간힘’ [이런국장 저런주식] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtb2xKckFlUjR3MlAyZHo5T0dNVG9MWXBtM3ItT21yNGFKMHNEVkdBSkZVYlJjOGxZQUpqVXY0OEZkMFZ0NGVmZXRCS1BpeTllaHc?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-11-05T04:37:43.000Z",
+        "title": "삼성전자(005930)·SK하이닉스(000660) 장전 10% 넘게 하락 - 토큰포스트",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5eUJRcnNIQnZ6UFpXUEdMTF9zMmxRNVhfajU1SV9nMk03dUZCY295QWljQVJzQ21GSWZGS1o1S0FrR3pHcWJQMDlOZ1FxUUhzVnhmTDBZaU7SAV5BVV95cUxPOVhLNmQ2dzJmVnhnclJpQnhRRlZCUWxsd0hCclR5QnJTMGs1cGN5b3JpS2NrT1hqWU16RnpkRG1jMlFaS29FRGs2ZXp0alVDUC1nWThXSDdoZ2JURXpB?oc=5",
+        "source": "토큰포스트",
+        "publishedAt": "2026-11-06T00:24:30.000Z",
+        "summary": null
+      },
+      {
+        "title": "유가 급락에도 외국인 코스피 3.4조 투매…달러·원 소폭 상승(종합) - 뉴스1",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQ2RBSUg1UDhtdkpWQVp3bWhETTlOMEpaM1Z0a1VVLWJnaHFPdjk4OXBKaVB4ZFFKM2dMQVZtYTVEREk4aU5XOWprNDhMMU5rajliZm10TzdxT00?oc=5",
+        "source": "뉴스1",
+        "publishedAt": "2026-11-05T06:50:32.000Z",
         "summary": null
       },
       {
@@ -110,20 +117,6 @@
         "summary": null
       },
       {
-        "title": "삼성전자 최대주주 측 보유주식 10만3838주 증가 - 비건뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tOE84U2JKaE5Vb2hVOHN4WWJwRWxKRGVCZFlvdzFOam5Rd1ViLVdrLXR4SjY2OE9LYVlzamZaN1BZTmxJSExFV2xLZ3FJd3U5di1HV2dNeTc1aUE2Y2xTbzhZbkQ0dw?oc=5",
-        "source": "비건뉴스",
-        "publishedAt": "2026-11-04T18:52:11.000Z",
-        "summary": null
-      },
-      {
-        "title": "삼성전자 보통주 4690주 처분 완료…예정량 이행 - 비건뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqN3I3bEQtQ01rV3l2Y1FKMmlSSzhxZmJybUdyQUxfZnNkeXd2Unhwb2ZnYkl0TjgtSUN5YUMzZnNtY2x3eE1LbGVVenlGby1EcXNTaHdmSHpDSEs4Zmo4UmZRTlc0QQ?oc=5",
-        "source": "비건뉴스",
-        "publishedAt": "2026-11-04T18:34:54.000Z",
-        "summary": null
-      },
-      {
         "title": "씨티 \"환율, 6∼12개월 내 1,270원으로 하락 전망\" - 매일경제 마켓",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pYWJZZDhDdkRVcDVZQzNSNTlaTnBWWE1Tb09IRExfZFNRWUlCX0Nyd2pJMXBva3lOb21NVENEUDNCd2dreWtzbDZ2MDRlX0QyOGc?oc=5",
         "source": "매일경제 마켓",
@@ -143,77 +136,84 @@
         "source": "Traders Union",
         "publishedAt": "2026-11-04T02:06:29.000Z",
         "summary": null
+      },
+      {
+        "title": "한투운용, 글로벌메모리반도체TOP3채권혼합액티브 ETF 상장 - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95V05IWXd4VnY5YnpHbWVCU0FhcHZ1WG52ekpaTndXcEV4NzFuS1JpSGxLVy1GZmZybmZCMHo5bV8xbkY2ZmVGTll4Q1Z3aGFxb1M5RmNiVThXcU3SAWBBVV95cUxOcjY1YjRUdXl3Q2dsQXFnaVV6NGlGT1VDMEJ3MTR1YzdoWnAxM2o0bGxSS0lrVGo3MzBoaWhqa1VmaU5iYnp4aXBnY1NSVlBhdkRXS25Lci1jTTBXcDhRMWw?oc=5",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-02T23:53:35.000Z",
+        "summary": null
       }
     ],
     "APPL": [
       {
+        "title": "Bank of America doubles down on its Apple stock bet - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM25XUUloZjJKX21WYVZWamxJeVlodXN3V1MzZUVsNzhuWUZ5VmduWG5HbTJwWGp4aUV0akoweEVNRWs2T3NubFdaOXRKX3I4Y0RwQTNSRUV4TWgtbnBaZW5kRktyOTlzRkhKTElQUnZzMU5YZlJPTDdvYWloT1pJUk90Y2JCMXRyVnRwQ0w1eV94bjFtRFNwb0Zn?oc=5",
+        "source": "TheStreet",
+        "publishedAt": "2026-11-06T01:07:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Stock: Record Revenue Ahead, But Memory Costs Will Eat The Growth (NASDAQ:AAPL) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3JpaXBrc0w2MVBlQ3I5cnBjY0RJUENhYWNOWlEyMTBOdjZIN01DWFdWNXFMeVRveldMdC1KaFBETHZXdHdKbjNOVFpGV3dFUUpUZUFUNC0zQW5fR0ZlWHhYeTU0aEtvQ2xfa2NtMXRESHJzZEQyV3ZOa3p5MWh2dFNjR0NaT3lmaXdTdi1hVU52ZUxNSnFEMEZPNjVSLTdpT1RUcEV1OA?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-11-06T01:05:22.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple (NASDAQ:AAPL) Stock: Insider Jennifer Newstead Sells 2,399 Shares - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVR4Rk5QbjRWb3ZQN3MtQXIyUDNOZDVzQkJsU24zcElwMXRfazRrbDh6bGZBRHFfS05CdkZjSmpyTnI5Y0I3cUdieEZKRkJsN1R5WDFDbkgxVUtNcld6X2xTZHhZeG96WFJHSVh6X09XaFp6LWFHZ25XVzczRlczeEYxRkR6RDZvRUk4R0RvNUdkOVhVaWVValgzcThoT21xYm90WTM2Vmc3aTFBM2VIV21vaXViN2FhbnlMT0ctRUlCZVg3Z2VsNQ?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-06T00:20:06.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple SVP Jennifer Newstead sells $781,474 in stock - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdF9YLXhsTHptUVVIOTdzQko4a0pyWmwyMUM4Z1hZVk13bG5HRWFtbXMtaHRCenMzSU90eVFPVGJPRkhsREc3MURWNUVCZ1QyQ0ZFeWFxM1B2SGx1Q00yRTZVTWI1dFNZa3MyZHRqeF8wSWV3b01yb0RsNE9fZ0RzbE8zUXF5Uk9NS3FFRERsUjlueEZoRDdpcjBPU1ZDNVowaldRR1hTaFk4eW12U2JrZTdmNEI?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-11-06T00:12:59.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple SVP Jennifer Newstead sells $781,474 in stock By Investing.com - Investing.com UK",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0hOQWZLN250OUJYYXFPTmd2MEdQTFpJN2xaQWRkRFh2dzhLcGZwa0FrQ0pCUUU2V2F0YVlMcUZsa0owbkNubEJRYzFjTlE5VXlLdVVUU2FWQklHLWtvRkdvaE10WVJMQU1iT3lISjBCUW9SdmpaVnYyTzhkeWZ4MmJtWkMtQUlpWFJkeThBWVJGc1ZjRU03UG9zbm1vb3JyVkJwQ1FZa2QxVUF1TlNv?oc=5",
+        "source": "Investing.com UK",
+        "publishedAt": "2026-11-06T00:02:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple (AAPL) legal chief sells shares at $325.75 under a preset trading plan. - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWRuenVQMWh6ejBGSFVZSVBOcFZDTFVxUkNYTFZ4dUFUZ043NHEtS1czMmo1V0g5cGxEZndtMXpEMThfOERTMUJXUHBjSndERFFnbUR0SFV4ZTJONkhsVVlzY0htSy1FbGhVRnptWnctMEFITEFKMThZcWFqM2gzR2pGcTd3NC1QVFNMS2l2bzJNbmN6bzc1OE5JZHlnWHhvOWE5ZGh3?oc=5",
+        "source": "Stock Titan",
+        "publishedAt": "2026-11-05T23:32:22.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings - Zacks Investment Research",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3BtZ2ZKNFBwWHBZNmxVQ3lDUjhtbzdsR0NxZnRZZlIwc05vUVdKTDNFTEpfdktHNV91UGxmZ3lrSlVrZGV5eWM4RjBzcHBpcnc5WDdiYk5mcjNKRlVxeWlNaVIxT241NldRejBpalpWdUZVMzVjanpITkg2Zk9xNzhUWEtBSXBiVFVpQ1VUOU1PU2dObUxyNHVWNXl5Vmt3ZWZF?oc=5",
+        "source": "Zacks Investment Research",
+        "publishedAt": "2026-11-05T23:30:54.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple (AAPL) Stock Could Be 30% Overvalued Despite Record iPhone Sales - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObHl6UFg0RmRmWXdsZHllLVp6VWs5WHcxWTlraVhPR3hfdGtPMnJnTEkwZUxZakktLUNWU19hMS1aZnRhQjk4eERNN3RIbGZxM3pCVHotUjhwbmwyVUViTVctbFU3X1Nxb3JReE9aTm5JbTBXZWhyeU5zci1PTXV1REJJYjYtOFN4TEoweUc5Qi1GWU9W?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-05T22:10:28.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Stock Price Forecast: $7 Billion Investment-Grade Bond Sale Draws Strong 4.4x Demand, Shares May Hit Record High of $372 - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYmhPcGZ6eUpMbFgyeTl1WlZ0RFl2UWVxVU5KRlVXWVhaaEQ1czdHSVpfNl9Vc2diY3NtdUYxQlg1c1ZfZWg4MUZjbEtjYTNCOEhLelk2V2lnYnVUVUttR3ExRjZTa3BqUTg5YjE3dnRadEpnNU1EeXhSRERHMHk2YVNobjRGbEN3YThteVNEQXN3MkJOWENJdGtUOFhYQ0VpSndiLXRhN3RYVFlxdHR6S2p3TTIxMmxFLWVUb1ByZC1aYWNhR2RLZHVGQ0NkZi1JbnJZWFc2WGZaSTc2N05kWg?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-11-05T19:38:27.000Z",
+        "summary": null
+      },
+      {
         "title": "Apple Stocks Move Lower as Investors Revisit Earnings Quality - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzROdzlLLWw1bGJVOW5uS2F0UkEwVEVlNThlS21uaGZJS043Y1NrMFZrRWdtSGRKazMyM3U4cUJONlNQTkRSUnh1TTBIaG9YSzNMc0ExMTZjVXdObE55RDJGSWdSQ3QwU3JNVm11VGlyS2ZsNkZGYm5vWERiOWdXQ1h0Smp4bU1fdk1fbzlwMkZPRGFNQkZ3a2FLeFpvS3JBLUJmQjNRemZXc19t?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUVI2MEFva0FhMWItYzNMZkdJLTFDQjhOR2VYZnZjc09iZVJqRzFCUzdLTkJoOVYyYmtXdDdtVXdvVVJQQk9FbHppWG9xSEx5QmVNQmVlZXR1dndfM2YzbHI4NzlaN1NEdzNRS0d0SnFRR2taa0gtWGlibGhndzBDWkdjOFl5Z0d6dGZIRFExSkJrTzF6bkZ4T2thZkJZRXM?oc=5",
         "source": "Yahoo Finance",
         "publishedAt": "2026-11-05T19:20:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple and Home Depot join list of objectors to tokenized stock plan pushed by NYSE owner - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1lTSndhOXVoYmhDXzRqZzRPOGtmaVpCcGxZaVNkcUFjN3F0b05IQ1ZtUS01MHNNYzJ2UGN4a2ctTWthRGNxeW9rdUxxcEcxRmFfdm1KNWRJVEdfTDlQN2hFRHhvTGRsRFBrdEdKNzRQT3VFMkxIQ3ZSWGlpYm8xN3FDblotdWI5UDdZbDdjVkttODd3N2JEZmZRdw?oc=5",
-        "source": "Fortune",
-        "publishedAt": "2026-11-05T18:34:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "As chip stocks plummet, Apple quietly trims AI budget for employees - KRON4",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWlBzOG94X01KQm9vR2IxclNtVkY1ek5pdEN2eVRYWXdIbUk0ZEIwOHF6X3MtRG0wLURRMmdHVzhKQ3ZTV0JZTktFWC03UFBMbW1iMVNMbVZ2UTZKX3d1LW9zT2JmTGpjUV9Bci1DMXVFb1Z3MHZub094aU50a21YdGFrUDQyblFPaUM3VTZFYVZhcFlWc3JZSjVhMklQSC1EanVjYklOT0ZlNGgz0gGyAUFVX3lxTE1lb3U0YUF1V1Noa21aOGgxVmlGSXgzVlhCeFVvVC1DXy1DX0k4am9xQXA1dFhCU2llMXNWbXg4TnhIMS1IYklPTmVaeVAyREE5RHVoMTVhSGg0WFdxT0d3bTFCRzF1a2poNDM2THdyNGpTUEQ4Z2FsX2RfaENRTGthdTlFWm9PS0lDMnpiWENlSDdaYzhfTFN0NnptVlpEOVdvNWVIN0R4anQ4X1drZV9SelE?oc=5",
-        "source": "KRON4",
-        "publishedAt": "2026-11-05T18:00:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Plans $7 Billion Bond Offering for Stock Buybacks and More - GuruFocus",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLTJ1ZHU4SHJYa0VmN3JkNk80WXptbkZ1Q0xHWXAtVF82X1dqWjE1LTRzbTRhMjRidjY4U3RicnZkREJRMWJPSFoxOHIyd2FGRjRlZjFxeGVaTVhGdGNleGRoQ3h6NW5WZGVYNVVCMmpfS3VSdFVrbUV1MXkwSEtpTXpyTmJ1YXRia2lvVUVWbGVzVzhxMEg4V3p5Yms2XzA5R1gwdQ?oc=5",
-        "source": "GuruFocus",
-        "publishedAt": "2026-11-05T17:40:29.000Z",
-        "summary": null
-      },
-      {
-        "title": "Is a Democratic Victory Good News for Apple? ETFs to Consider - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONGpFc29aTWlGTWlWSjVRRFo2SUxGcER4eGtrbmo3aXlhaDBkYkZTNnFCcTNmdTdWZGswejRESFFUU0U4RXlBa1lGYXN2dVR0ZHpEN0lhSUNTVFN4ak43blFKZHlpem91ZU9xV2JRWS1yOWktangwQ3hMZFdsc1BYT3JHazMtZlJMcWpxMUF3a2VzY01MZ0RkSXJuUzdwWEVfTURBZDFSX2FFd2JJa1pvS3ZFTDR3OWtlWmdQSnNnZ3JvVlJrdE5HUzlhMzMzRnh1NVRVLVRFdHI2S1RFOEE?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-11-05T17:16:59.000Z",
-        "summary": null
-      },
-      {
-        "title": "Qualcomm Says December Won’t Be Its Biggest Quarter Anymore as Apple Walks Away - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTkVwUkQ2UGtWUFRkVHJwVDBKajFQREJYQ2xzZHllRUM2R0ltWFZUV09aVG1mcnAzT1k4UnJpQmozellERnNsZmR5UE52eUxnV1pRNzBXVG9keWlYTFFoZGVpZGRNRDgyNC1LekNKLVVKRlFscVduSUtUSWoxME5aamNiVENCOE5lUjZYSXZjVVcxMFhMMGtkVg?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-05T17:14:44.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Shares Fell Despite a Double Beat in Q4. Don’t Let Anyone Tell You the Results Weren’t Great. - Barchart.com",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQTRHYTExRFVsT052T1IxVlUybGNaNTA3enVrNTBqNU1SYXV5UDV6YmtoclVFV0s3WW5ydHI0M0p4VWVrMDRWQnduTzQyWFJOWXZUeWhYN3FQUWZvQ3VBZ1J4V01DajFuaFFqTmJJRF9ZWVFRdVl0cGREbGlQako5OS1WNTFHS3hvNklqOWlJX2FnSnJXODhEWmxkdWtnVFRvb2NzTXJKczV6X0RWWXNZX2FoZlNCNy1TczJ3Y3llVUg3Z1pkdXU5VEl5TGRadGw0WWk4NUtB?oc=5",
-        "source": "Barchart.com",
-        "publishedAt": "2026-11-05T15:25:13.000Z",
-        "summary": null
-      },
-      {
-        "title": "Arm Stock: Earnings Show It Has an Apple and Android Problem - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuVjZBaXd6TElWMGlscnN2dWNpQ0Q2RWQ0a1FGWTZra1VXV1I0ZkVudDZ6OWI5Qy10VXpwdVBIRF9qZGxLaE5QTU5GeVl5bUx1Vi1Lanllc2dzUkpSOEg3ZW41ZENIUWVwb095WEh0VUJwRnRX?oc=5",
-        "source": "Barron's",
-        "publishedAt": "2026-11-05T15:04:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple: Sell - The Premium Without The Growth - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTnBacUN1bkpIOUlpeW51dlp2dnZraUR6Y0VjbWxRWERtVUIyMDd4UXhxdkJ6Yi10Uy1hWU5UVWNLaGdvVW1xVG80SXEtbTZ1dnVrRFk1aGdfZEt2U1RURWZ3dVI0aVg4aV9TZURmNk1fYU9qZkR1b2tPdHp6aFB6YjBSbDFjc1ViZkE?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-11-05T14:52:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock Is Up 22%, but 1 Slowing Business Could Test That Valuation - AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qTFc0dlVDWDJCMXBpajJnTnFRdWZaZk9HaG1iX0FqR0tkZDBUaWZJa0VCcXhnN0lpVzF3U1d0dGxIM25HZjNIZXlpUjB4SjZXWkpoMTM4N0NfdjdTeXdFdWVYc2REVUM0cDdtNzJnN3Y3X2FPV3pv?oc=5",
-        "source": "AOL.com",
-        "publishedAt": "2026-11-05T13:50:00.000Z",
         "summary": null
       }
     ]
