@@ -1,79 +1,86 @@
 {
-  "generatedAt": "2026-11-11T04:49:17.686Z",
+  "generatedAt": "2026-11-11T13:37:05.331Z",
   "articles": {
     "INTC": [
       {
-        "title": "Institutional Flow in Intel (INTC): 55% of the Options Money Is in Puts - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlc1T1ZCWE4xR2NILWhDRnM4QVNwS2FvaGZlNXdacWcwZktWTnh0U3RpR1VuZHdTWExaOUxuQzB0X3drT1AwbU41U0VxTk5qRlFwVUJPd1dGSlkwQ0NySGlhQ0hTVXJlVnNQLTVuczdjOF9KajZ2NXIyMUVXOHRXNDJPdU5CV2JpSFB4VDJrVFo2YV9wLWFkUC15ZmVEeHZrRUNOUGVCNlhEc1BFTklB?oc=5",
-        "source": "Moomoo",
-        "publishedAt": "2026-11-11T04:00:43.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel vs. SK Hynix: Which Technology Stock Is a Better Buy?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/11/10/intel-vs-sk-hynix-which-technology-stock-is-a-better-buy/?.tsrc=rss",
+        "title": "Server CPU strength persists as AMD and Arm gain share: UBS",
+        "url": "https://finance.yahoo.com/technology/articles/server-cpu-strength-persists-amd-132222608.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T03:20:02.000Z",
+        "publishedAt": "2026-11-11T13:22:22.000Z",
         "summary": null
       },
       {
-        "title": "Intel vs. SK Hynix: Which Technology Stock Is a Better Buy? - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVV5cTN4NHRaSzhwaVJ5YlRrZ1BkZUloRE5rbFBnZV9SWUxDZS1ra0xwNGZma2FQU2ZaZVJjWF9NUnpZQzB2bXJnYVN0bG1LU2JPTlJrYmVCUDFyTV9FaE0yZzZXVHlMUUE0ZVdjVnV3R2l6UHAxczB6bkU3V3JxU2gxSW9SQ1luZFJtR1BjVGVxMFJ0TnVaNExvMXE2V1RoR3RQSkNaZEs3Wl9WMXc?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-11T03:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Quantum Computing’s Next Winners May Not Be Quantum Stocks",
-        "url": "https://247wallst.com/investing/2026/11/10/quantum-computings-next-winners-may-not-be-quantum-stocks/?.tsrc=rss",
+        "title": "Nvidia, chip stocks rebound premarket after CoreWeave lifts revenue outlook",
+        "url": "https://finance.yahoo.com/technology/articles/nvidia-chip-stocks-rebound-premarket-120006021.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T02:24:42.000Z",
+        "publishedAt": "2026-11-11T12:00:06.000Z",
         "summary": null
       },
       {
-        "title": "What Would It Take For AMD Stock To Move Higher?",
-        "url": "https://www.trefis.com/stock/amd/articles/623964/what-would-it-take-for-amd-stock-to-move-higher/2026-11-10?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T01:09:44.000Z",
+        "title": "Two conference appearances are planned, and Mobileye may webcast its investor chats. - Stock Titan",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYWtPZXoxTnNwd0NHSlQ3Z2UtMjhaUVc1Skx0T2pnN25QZGIyZTJFM2xrUWNoN3V6cGFLQjFHUXZ1MTltZHdONWhZZTFGS2M2alZWS25VVDN3dkVuR2c5d2JpLXFqQ05mNG9HZ1JfcjR3elE0bFcwc19hVzczMHhFV3dYMTBBdUlEQ0gxX01CYzhNYWwwdlJ3eWk0V1lSWmxqU09MNXkzYTNsWFlkbFhlYTAzQVN0eDloTTFF?oc=5",
+        "source": "Stock Titan",
+        "publishedAt": "2026-11-11T11:30:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel (NASDAQ:INTC) Stock Falls 2.1% - Time to Sell? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeFVKNnVZQnZMT2J6OExRR2NCNUFueDcyTnFIcGhiVkhnclExSTVEWkRucW1tUGpVUmlENkRyRWNHV2hlaUFmQ09aZ1FxYTA1Y1VQaUFlbEpBaEpPZ3lxanc0azhzNGxCX2RnMFJIRjU1WjFzTXhtQWFmQWRCVVRuYVk0dFkzbUxDbmxNdG5GU001cWVOY0VJYzhueEI1VGQtajJ0Z1JtVzE?oc=5",
+        "title": "Intel Corporation $INTC Stock Bought by Illinois Municipal Retirement Fund - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeGl4cGRDaXJweG04ZVBEd0pzQzFjbklNVm4tOEFHdk92NkR5MVBmblJUQjd6d3dFQkFaNWEwWks1Z1oxNnZPV3hwanBnS2FuN2JsMklnTTBfUlZvLTQySDJ1Z1ZjWFFoR3U0cm5VWkFGM0REa2U0cVRGSkFpQk9oWHFzVTRtWERsMGNuczZRckI3YXJpTThsRzlBaGd0Y1VLYVhZYXhHeVlScld5d3I1RThqN3pQNHQ3TGpoand1SXdGbnBmZ3hzR3pmTy1HYUk?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-10T22:36:21.000Z",
+        "publishedAt": "2026-11-11T11:25:19.000Z",
         "summary": null
       },
       {
-        "title": "Intel Stock (NASDAQ:INTC) Slips With Another Push into Edge Computing - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ1ZSNmtBeXZYOV9Ga0RtRHRrY2Y1LUhpREZjY2ZnOHk2d0NwNlJrdEZkdkMxQ0Z4c3dxTnRiQWFuU29CeTJ6Mk45UDlfS0RhV0tMaDNWNlZLMVZaLUZUcjMyWHZ4S2w1ckFSSkZ1Vi1wMEFBZTY2ZVV4WXVvcVZieUFsZ3dxRGh3bnRYVFZfZEhpQXZINjB1NW9LOVc?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-11-10T20:05:07.000Z",
+        "title": "Intel Corporation $INTC Stock Position Reduced by Knights of Columbus Asset Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObFFNMlY0SmdjaXpHNno5d1NXclBJeUEtTm5EdjUtaEozZlR1M2t3OFhPdndQRnR4VGhzSDdBanBzNm5wbVkyRUxCZjFhemxwOGZKSG9hLTZXSW13ME0tMVc2c3hJQnotLVNjUnMzRzlvSHFPdnoxYk1GcFp0VTVsM2ZXTmE0Z2FuNDByM2o0NkxoVG9pdGJXUUgwOVFMUGIwZ1hsSkxGbXgxUHBSRW5QRW9HYkpiYVBIcmpYcTlFVlR3V0NtYVBfT1Mya2RPWG9VeTNNdzlMXzdtQ0VnOERsajJ3?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T11:21:22.000Z",
         "summary": null
       },
       {
-        "title": "SQC Expands Executive Team With Appointment of Chief Manufacturing Officer",
-        "url": "https://finance.yahoo.com/technology/articles/sqc-expands-executive-team-appointment-200200111.html?.tsrc=rss",
+        "title": "Intel (INTC) Stock: $58.13, Down 2.09% Nov 10 - JournalArta",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0JDSmc5UjlqYm5LZnVrMUdBNFdfVG9XR3ZNRk5kV1FrQjRMUlc0b2ZBQTZLOVRqWGMwMS1iejBBbG9tN1Jmd05CblZBSDhPY2hiWTJlMXVnMHlKV1lVNExXc2JWT3F0bnVRS3VNOC1DQ3E0UnhlU0hrelRJRS1RSDFpOG9LZ2Z3OTlFWmdiRWlxX3BQRk9GT1lwMGY?oc=5",
+        "source": "JournalArta",
+        "publishedAt": "2026-11-11T11:05:16.000Z",
+        "summary": null
+      },
+      {
+        "title": "iShares PHLX SOX Semiconductor (SOXX) Buys $394.7 Million More AMD on Nov. 9",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semiconductor-soxx-110312093.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-10T20:02:00.000Z",
+        "publishedAt": "2026-11-11T11:03:12.000Z",
         "summary": null
       },
       {
-        "title": "Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-fall-1-82-193409911.html?.tsrc=rss",
+        "title": "ETFs Bought $360.9 Million of Intel (INTC) on Nov. 9",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-360-9-million-110129710.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-10T19:34:09.000Z",
+        "publishedAt": "2026-11-11T11:01:29.000Z",
         "summary": null
       },
       {
-        "title": "Intel Stocks Fall 1.82% as Chip Rally Fades and PC Slump Clouds Q4 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYmg4VUhVMWw5c1l3T29mVGxPTFZUeGpNbVZwUWhvbTRQMWlXUGtfc0pEM040UzQ3ekNtSkM2NHdzSVlkeGRpT2xDZVRRWDlUajRlaHZNZk1HeUc3ZVdmR194MFBxQjdsYURsYy04bE1jNFlZeURrZTFWUzhBX2tTb0daSU83b0RndHd4Snh4bmhWektQZWwxRTRkODlYeDg5MmdaMVBNRlVoMGMwWG90NVdLRTEwd081bG1VWUpueFljMzA?oc=5",
-        "source": "TradingView",
-        "publishedAt": "2026-11-10T19:34:09.000Z",
+        "title": "Keybank National Association OH Sells 15,990 Shares of Intel Corporation $INTC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGExR3BvY0E1MEF3akZkZDN4NjNXNXZMUUZpWjk0SXh2UUtucnd4dEFuV2JrM2J0TGljQ0NLSzI0MU02SHdpX0ZsOVA5QUFSRWZ0YWowQmViQ3VZY0l3ako4RWo0QUFZelRLdEJnLWtqcDl3QWhhQ1V6Z0h3bnZrX0hDRWVjM0JpTkFsekRoMFA5TGw4bUhScm1DekR2bndiZ0pWdGFfa1NLend1NmNPakFrSW04WTh3T0Y1WjEwQ2VVeTJjLUZkUGJ4YTg1QmZOUm1R?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T10:59:16.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Shares Purchased by New York Life Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZHo5T3RqWDBWN2FnNlp5UU1ja2tNc3hNVEVFZmZUUnpDREQ0WXAtM2NrbDh2VENiNGFjU2NMa2J5T3VXeTZndGZ0ck1kYTQ4RVdYakZvN054VnBoS0tmQ2tuajR1dUdMeXlSMWRXMGE3emV6MmdEVXZEZnk5T0hSVHlxaWZQeGhNRDVvellrUmxfM1BpNzZMZjQ1OW5ndWZ5QlBSVGpmNGtLVWExa1hXeUtuZHlqYTlmSkI3T3FVdkRCOXpTX2pSQ3JjcXg2UjZyYjd4OXRJdVF2WjA?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T10:45:11.000Z",
         "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "삼성전자, 국내 기업 최초 '15년 연속' 동반성장 평가 최우수 획득 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBabDFOV2pLTTR1a3FXa2ZIZUtpOEdHNVQweXFLTFktbS1wRlVKZHZGdUlaYWZwaGU2dDBBSEs0emRZNnhMOFBGSzFFMHdzSzNNMjhsSDM3RW01QldGZ01wWDB1Njd2UHlfT1l0ekZPOWFfT2xpMVE?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-11-11T04:08:06.000Z",
+        "summary": null
+      },
       {
         "title": "삼전·하닉 팔고…한 달 새 40% 빠진 삼성전기 담았다 [주식 초고수는 지금] - 서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vME53b0o4d0l5bVQ0TDJLODZoYXdPcEFNbkFJMnRpLVJsQnhXU1JoQU1IajM2NkpoTEtOLXFsNW9laGhwMXFRYVp0S0RYOC1yc3fSAVNBVV95cUxQR2cwNElWNlM0ZjNUTERWcmR2bm14UUtKS19xd2J2NWJ3ZlROVDMxSVdiWnlQYmxPbjFuZGUtSWdnQjlGdmtDeUtMMGhzQjExR01DWQ?oc=5",
@@ -82,10 +89,24 @@
         "summary": null
       },
       {
+        "title": "‘블루 쓰나미’ 딛고 코스피·코스닥 급등…매수 사이드카도 발동 - 경북신문",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRc0pCOF82dTZwc2E2UDNYaUFENUEwZzZVVmNJOXE1RHVHN0NLMUQzZEVDa19XTW81S2FRODRrQm9idnNnVTlwSUZnMDBVUHAzSlVnS0stM1E?oc=5",
+        "source": "경북신문",
+        "publishedAt": "2026-11-10T02:07:23.000Z",
+        "summary": null
+      },
+      {
         "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등 - 연합뉴스",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ca1cxV0padjJQendMaFI4dlJ2S2dVUllwY2RQakd6UVVNR3U0UUY0R21BcnRGcE8xT2dkLXRhcmN1b3lDWUp5elhYTmptcy11RHVjVFNLckE4TUnSAWBBVV95cUxNV0ZZUmtSN2VSVDd3ektRZkh6Z2lqZHFLWERVMmxvTm5QZmQ3SFp6LUNwaEh6Z195dC1jQTZNSW5SeWVUQ1haVDVxVnFyY3ZkbmRBMlQwMXI1alJzYkI5Q1Q?oc=5",
         "source": "연합뉴스",
         "publishedAt": "2026-11-10T01:47:37.000Z",
+        "summary": null
+      },
+      {
+        "title": "소액주주 24% 늘었는데 보유주식은 10% 감소…대형주 쏠림 심화 - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGFEVG9DelNlNm5RVjI1RnNEZ2lkSl8zWUhHQnRPTkZwNFFiZkZrUU9QQ3Z6LW5CaE5uZlR4eEJFUXpBTDU1VGVEMzEzWHVVa2hIVUg3R2RteEJ0YVFuVGxzemxrVWdzdHU4c0dBR01fLTFSdzE4QkctQy1VZXFvbWhTcmhwVU5j0gGcAUFVX3lxTE1LOHRpcVZNSUhKZlVlbUlrcUYyNHc3aG03RC11Yk9wT2d1bWdZR3c5UDdRc19CbElWSnJ1dngzbmRkV0plQWxKTWxTaHBQd08wV29VdUhtSHZPdHlZM0h5VEdOQmdJNWZJNERyM255UkdBNjREU2YtUVBlUlFmNW5iUVhRYjlRRzJ6TnNDd3RSekt2VmVoc05maG1zZA?oc=5",
+        "source": "Chosunbiz",
+        "publishedAt": "2026-11-09T22:22:00.000Z",
         "summary": null
       },
       {
@@ -110,13 +131,6 @@
         "summary": null
       },
       {
-        "title": "ELS '폭락장 후폭풍'… 866억 원금손실 위기 [ELS 원금손실 공포] - 파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tSlZ0RnBxQl81OUZ2bVpXVHNqZWxULWxYSzhDNTZvT19UUGo2bkJlMFRBOWRpT1hJRlFtZ2kwck9MbUlRU3g1ODgtYjlETFF2c1BQcWZJTmJrQQ?oc=5",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-08T09:18:05.000Z",
-        "summary": null
-      },
-      {
         "title": "20만원 무너진 삼성전자 시험대 올라…반등 조건은 '외인 복귀' - 뉴스1",
         "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOVjJZWWVXVWxpZjdGdTBjaUdzRlRCOU43a1NseDQ0aGl6ZHdyWjl6WENuZUpLU1Qtb3BDcXBTWkJKN0tLNHktUlJpNHdpd3Ayank2WkJrZjg1b0VfSFdV?oc=5",
         "source": "뉴스1",
@@ -129,91 +143,77 @@
         "source": "서울경제",
         "publishedAt": "2026-11-08T02:16:01.000Z",
         "summary": null
-      },
-      {
-        "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByejRkajZnSWpHWVA4TlZpY3lETTB1RFI2NUh3NUVMMUVLWmJPUXd0OWJ3ME1Ba3ZGUWxFVUpmeFAxNlRXS1llS2QwYS1ubTllcGhZSnhnQ3p0UjDSAWBBVV95cUxOdy1MQnJCZ01HcXJTRWs2dHBsTFV3R2tpQXdmdWQwNldIbWRmYTNpWGJqYXh4UE9aajk2VG1WeWtrTHRsMHMzLV9HV0o5dThZbGhYOTdEOFZHRkVENVBScmM?oc=5",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-07T21:10:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "美 'AI 규제·데이터센터 둔화' 악재 덮친 증시…코스피 5,000선 턱걸이·코스닥 5%대 폭락 - 프리진경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lRDhnWTRldF83ajVCdEQ0Z1VySG4tMjIyNlQ4OEthUXlhSEtEM3VwUVlRX0g0NHJ5eW12bW9lbnBHQzBPRVROWVdsam91dXhSZnVPZk9NUVlNNmJUMTREN1I5dXFEY0RYWGd2dA?oc=5",
-        "source": "프리진경제",
-        "publishedAt": "2026-11-06T08:34:57.000Z",
-        "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "Apple: Capex-Light AI Amid Regulatory Uncertainty (Rating Upgrade) - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZTA4SG95UkQwOXZ5amtHTXJlT0ZsNE5lejVQZDBudkFRS1BsbVo2WjV4a1cwYUNvVUdfZ1dKZTBJZHZIRUh0Y3hCc1BPd2hFU0FXd3VKTDhnNGdoYUxhMjNHUHpWcFNPcDh3WWtZdGJpNlZ0eThnNVZmU0hGb2lFdEdSTDdJWS0zSmQ1MlFDTHYzanRNSVRFX1RvVTZwQnBJMXVyR0tsUVFxb0JxSkc4?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-11-11T03:02:00.000Z",
+        "title": "How Much Capital Gains Tax Does a 61-Year-Old Owe on $750,000 of Inherited Apple Stock? - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEcya1lrbDZjcEQ1Sm8ycExEN3RidVJHb3ZKd0JXUGtmSzN5UlAtbGFaaS16VnBGRmdMTGZKV01RNVhQTWhLYU9SVTA2djhCVnpMX2FwMU1pbDhnRWYxeDJHcGZ2X3NEdUtOMHphZERjTFNZSDc3VmVGTzZfUkN0MHBmM29STUt6cUdLQnJNMEhBMVh0Y0hpeGVsNUs3WEYzT3hKeVhWakZQdnhjSlRDdWJIQ1lyM3ViVXA5bGZ1Q3VvTjRHcmFFUkh4dWRUcFZIUFVFcnNtcHRIX2N6eFJ0NGZBcmctLWc?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-11-11T13:03:00.000Z",
         "summary": null
       },
       {
-        "title": "Is Seagate A Better Way Than Apple To Own AI Hardware Demand? - Trefis",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjBOSkdBRWFKRG5tUHhYNXlNb2htaGdzQTVQSkVMa2ZabUlXdlFLdEt1OHpvZEFxczJNNDN5ckYxTjBvOTdDMFp2YWNwcnZ5RWpnM1RhVlRHdUNDSTRzWWJ0eERfVTFIRWdOTURQeDVpUllXeFNVWlc1ZDlteFVrVVpuS1JpSXJWQ3gxNFluU29wUjRjVjNMc1ljVnNxbXNETWlVa2djdU9pLVA4Zk5CS1p2d3V4T1Qwd2c0M2hB?oc=5",
-        "source": "Trefis",
-        "publishedAt": "2026-11-11T01:50:23.000Z",
-        "summary": null
-      },
-      {
-        "title": "Crypto News: 67 Companies Including Apple and Meta Reject OKXICE Tokenized Stocks as Pepeto Buyers Back a $0 Bridge - TechBullion",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSnhRUEV2UGpWbTZ6RVc2T2xyZnVrcVVCanA4R05vLVFtWEVOd1JDU2lEY1BLX1JQdmVMdXkyb1k3UmduQ0pRYlpKb2JuYldLRnhQeXlnY044d1dRU21VZ2dWU1RJM0tSVUtLakl1ZDFLS1FobVkycnhCTWRGbzI3XzY5WFc1Tjhqc19NS3JlVDZoMjBFTjlaTzZvWmRFSlEwUlFCNmJWTzJNd1pCUl9jc2xrcEdIT3kteVRUaldQSHJ1Y016SHJ2WU5PNktHbGJSOEhpbQ?oc=5",
-        "source": "TechBullion",
-        "publishedAt": "2026-11-10T21:30:21.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple (AAPL) Faces A 38% Premium Following Fresh Debt Issuance - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeElvQXI0RHF2Vkd4cDBoMEVpc3VJcHBKY3NLMVNRbXBMUFNReTlTbF9Zb08wZUVTNFNCUjJfRS1BeE11MGp5YjV3a21qOGZlbkRlTUxvcktRNVNSWElFREN6NTZsVjltVnRKWEVKZ3JVVE9ETkQzMmZfS1V6WUF2bjNITkdObzI2c0pkbU1BU1pqMEpNZkV3?oc=5",
+        "title": "Buy, Sell, or Hold? Wednesday’s Top Upgrades and Downgrades: Akamai Technologies, Apple, BILL Holdings, Corning, Form Factor, Guidewire Software, NVIDIA, Riot Platforms, Toast, and More - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY1E4WHJBUDN6Si1uSzdsOEtQalM2MWpsazJseTl2TkdmT1RDbWlYSHVkWHBMc2Q2Mkx0aDRmaWVVaDVKcHZWMUJFNXdfbnFaSV9GNzRna3BWZkhyLTFrSm51WFRQR2FLa1dPR3JYQlgzVEduNEV1RWZPX2xVZzdRODZRWXM3d1BiRFhyb3l3dHQ0ZUEtRzl3?oc=5",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-10T20:07:56.000Z",
+        "publishedAt": "2026-11-11T12:57:12.000Z",
         "summary": null
       },
       {
-        "title": "Apple’s Dividend Is Tiny, but its Business Advantage is Massive - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGdXVG14d1VDTmh4TmJRcml4dWdFSjl1azdPX1pQaEZXWDR5WnFRd19ZMGowYnhRYmxpSmpOUkk0NjU3SE9nbTd1QjBBcElBVVoxRDVQWDlBaDJOUHVfUlFzTDdnTlpYYnU5MVRfWjdra0NrbWp2LWRLbnYwVXk3UWlUbVRNWFNySXg0OFdxc0xwSmFUYXF4SWxOT2FzcEY5VGFfai1B?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-10T19:29:39.000Z",
+        "title": "Apple (NASDAQ:AAPL) Stock Rating Upgraded by China Renaissance - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGREVGhNRGJxVDQ3MmFsVHZGTEotMF9SYU8wZzQxWWlud3dpU25ic1U4T2ZUWUtvMzF4eXNvRm9qSWRtQ3lHVmNyVjVWWTVqeDZhaHJjcUN6eG1pM0stWTN4MEt6OThGbThLcEhXMjBlcVAyVEVZd0hoUTUzb0JXYUtxZ2E1Vlk5YVNOZm13Vkx0akYwUkpkNmdSYTZBQllSbFRZcEFibWhmMGIzdGhCbXBDN0o4azVPUmltV0pjMA?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T12:11:26.000Z",
         "summary": null
       },
       {
-        "title": "Who’s excited about stock tokenization? Not Apple and Nvidia, among others - CFO Brew",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTXBjMkRxa2VEZUcxTENSYndwczVqaUJVWFY0MkFKdlRaa0xZWkR5OFduUjVmbmtRUmtNTVBMNXowcFRsMXRXT0d1WXpIc0EySFRoVEhkWXoxTWVnWmF6VDZHU2kzdmdKTEwybjBoQ25tX3pzTEZiUHVhY0N2NDExSkZQQ1dqc3EwUjd0MGdkRndkdVNBbWdBcHhUX3VFU1R1dHE0V01B?oc=5",
-        "source": "CFO Brew",
-        "publishedAt": "2026-11-10T17:12:32.000Z",
+        "title": "Analyst sets Street-high Apple stock price target - Finbold",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EVnk4WWVtQ09BUkdtTDBENjEyZXRKaUg3VVFoT05ubzdrSjFBZzdVOFRVNG5qM1NzZ0VWNFhTTjFrZ0VJQTVoaE5IUkROVmlJVG05dFI1OHp3T3pweWd6T1l0YTdkYktLZm96MlFPNTVyeW1qV0JZdVhn?oc=5",
+        "source": "Finbold",
+        "publishedAt": "2026-11-11T11:44:57.000Z",
         "summary": null
       },
       {
-        "title": "Apple Is Holding Strong While Big Tech Sells Off. Is It Next? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaUN5WkdhUzhITHRDLVdFa3RqUS1peGd1QWpkNW84dlFBNlNXQUlRbWs0OGFSbk4ydnVtdEI3R2lwa3h5c2VpeUNndVUzTHlyTlRDNG14S2JHOV9FV1lTQzNjaU5sNHBIdTZJLU1Fa1FJaDAweGhmTHBlZTJSN2Z3NzVTN1VybkhzSzBpZDNyVzlSTDAwZzMxckxvQQ?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-10T16:54:13.000Z",
+        "title": "Apple (AAPL) Stock: $348.51, Down 0.62% Nov 10 - JournalArta",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUpaWVdPaHVGd2dQLXBWZHo0TXpUYWthUWxrUnYzNHg4TzRGWWZaVEl6dEpFaEQ0M3F0VmtqeTZ5YkpMNkthTDUtbWg5bXNZMXpLRnJBUUNzRHQwM09CVF9YSURjYjlGem9lOS1WVHhoZjRuLURYdUFEYWpndWtnOGhOY0dkX3JPT3FzcWtVZXdpM3ZDQzZEOGJSZkRaVHc?oc=5",
+        "source": "JournalArta",
+        "publishedAt": "2026-11-11T11:15:33.000Z",
         "summary": null
       },
       {
-        "title": "SpaceX or Apple: One Stock Is Worth Buying, the Other Is a Clear Sell, Says Investor - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY09Rd2VtVnJvdTFYVVNfQjJ0WDF5N3Q4eGREak9rYV9ycmJnZ1gzUGxoMHd0UXJrcjJSWHR4bEVaMDZaUDRGT0lPMlhxeGRpTEV5VlVrQUtCbXNKalRzZWQwUVNWck1GeXJXX205Z0NaMXdWMFBVa3BYNENWNTNqSzFqWG8tandnRml3TmlTVGYzZGg2WG9HcDFXSllPclQ3OW5NUGFrR1YxLTdIOUVrWm10YlJrRkc3MmxDcEx0dHU3dTRPZ283aXV0U1dQVVNWNHBFMHhtLVNEZkxUSXJxa2J4WVBNUQ?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-11-10T16:53:12.000Z",
+        "title": "Apple Inc. $AAPL Stock Holdings Raised by Root Financial Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ0ZFSG1ZZ2Myd250endSSjJJNjNEeW9PSnRTZWtPanZnaUMtNU1MTTNpcWVLMXZOdVEtRnVnenRscDlycnpsVzgtMjFYSFpsR2ZkZTlPZFBlRVJBZUJiMTFiLWpfUHFfbVhaekd0RVpnQ05oTzN5LWtaMXNaZGJndjNTQ05IN2FHak1nOW1wYktPRTllUXBwN04zZ2ZSQzNnRERrZzdPdmstUjdHVElCMHlCX1JGZFh1TFRGN0huYXVwcXAtQVNv?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T09:38:52.000Z",
         "summary": null
       },
       {
-        "title": "Apple Inc. (AAPL) stock price, news, quote and history - Yahoo Finance Singapore",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pbUxLdFVNSjJfVjFOUm9UYmFBYUVBRmV5Q3FJU3lfblNtbVNvZjI4N1hEdlVtTnBMYWRCMi0wUTVTUGdxMUhDb0plLWlmcWdqMEE?oc=5",
-        "source": "Yahoo Finance Singapore",
-        "publishedAt": "2026-11-10T16:27:52.000Z",
+        "title": "Apple Inc. $AAPL Stock Sold by Investment House LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVVSRERqVDdrOS01N0lHOWpJSjRFMDVDQjZPcjdLUWlISHlmZGVYV2FNbjEyQlV4WnNKMU5YaU9XZ1FTOEEzSDNCRjZ2NTJ5MUhVb0F6T1Y4WDNWRE1scll0LUtlWnRXYk5jZjJaZXA2V3AtZjRsYXpTOEphUFpnbU1zRk1JVjRMcnBfNlBCRE4tQmxFXy1mTnJIcDlDMFlVMHBDcjROZ25JRURVbmZJ?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T09:38:49.000Z",
         "summary": null
       },
       {
-        "title": "Apple Inc. (AAPL) Rallied 15% as Investors Reassessed Its Growth: What’s Next for the Stock? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTluMHhsdUl2LXpHekdlOUZIWmFHQ0t5M3c1LTJaNm9uUU9ENHJlQ25BNzN6SFJaaXd5NVE0SlJtMEl2UHBhNnllV0JXVS1GRGhJWUdEMjBxT1RhRDBwTmo1R2hnNTZpOVpPb3Z4YVl0My0tQTc0NTZMZzZKTnpGOHlNYXUtd252c3NSOE9vMFhybUc4?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-10T15:56:10.000Z",
+        "title": "Apple Inc. $AAPL Stock Purchased by Precedent Wealth Partners LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZUVNUGFsSURIQW9ncTNzcFVUNk0wLVRoRU96SDhtOHBycU04MXJXZW5ZTnVTU01rVW9PME9WMlYwLW50U1Fmd3ZBV3lpaEJaZUk5VWs4Y05NRGZIMHJVRmxuVzVWbERBQlpMcFUwd1JrbnlwS0FKV2JDVWRLemhpYlNhd2R5NWt1R01rRHBPdnJRdDVmb05iZGNHQXJ6dTBxbW5DamhwWmxhaFpna1BKQmxhV1hNYlJRbzVidktmQ3N2QQ?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T09:38:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Inc. $AAPL Shares Sold by Strategic Planning Group LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMlFqejZXLXQ4MTR5MXhlWFQyY2xvNXFtRzNOblktQUkwRE9BMXBudHkzRkl3M0c5aXh3VWt3SG52cDBVMG1lWkpzTXJteXJ6NWtabVNxZFdqd0I4aEpmYUVVcUNiYXVBc1p0TlRDdE1mYm92ZEZtSVg3ek5qRkQtaUNZb0RXNlY1RDZ1RTNzeTJmdUgyMlV2VWp4V25CeEFLYW9MZWE0U08wTE43ZTROZW1mLVotUDB4OXFN?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T09:38:48.000Z",
+        "summary": null
+      },
+      {
+        "title": "3,355 Apple Inc. $AAPL Shares Sold by Colony Family Offices LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLWxiRXdTZXU4MXVZY18wM1J6RXNRQVdDN0VxRENGbWttMjdqcVBGcU0wTS00OXYxVmlReDBMa19fV0VMNDFKX3J2dldQbXhIc1JuMTVmX3N5Y3VMNXlvSVBoOEdidXdYNEVHWnFfbGE2RjBRbVRhZzgzQlRBb2F0N1c4ZmNsQ2xBekc3bGxBY28xTU03WHBheGhMc0tFWGdtaklUNW5qeVZzM2VhQXQ0Mm85TC13NTJUbjNfUGNR?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T08:39:13.000Z",
         "summary": null
       }
     ]
