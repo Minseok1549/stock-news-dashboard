@@ -1,12 +1,68 @@
 {
-  "generatedAt": "2026-11-11T21:45:09.031Z",
+  "generatedAt": "2026-11-12T05:51:23.483Z",
   "articles": {
     "INTC": [
+      {
+        "title": "NVDA Fallout Pressures Tech Trade As Investors Turn To Cerebras, Applied Materials For Chip Demand Cues",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-fallout-pressures-tech-trade-as-investors-turn-to-cerebras-applied-materials-for-chip-demand-cues/cNGzlg3R99l?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-12T05:06:03.000Z",
+        "summary": null
+      },
+      {
+        "title": "Jensen Huang’s Future At Nvidia Hangs In Balance As Board Weighs Fallout: Analysts Warn Of Challenges Ahead",
+        "url": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-future-at-nvidia-hangs-in-balance-as-board-reportedly-weighs-fallout-analysts-warn-of-challenges-ahead/cNGzikhR99g?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-12T02:43:31.000Z",
+        "summary": null
+      },
+      {
+        "title": "Warren Buffett’s 1991 Playbook Points The Path Forward As Nvidia Reportedly Prepares To Oust Jensen Huang. Buffett Said He Could Forgive Losses, But There Was One Thing He Would Be Ruthless About",
+        "url": "https://247wallst.com/investing/2026/11/11/warren-buffetts-1991-playbook-points-the-path-forward-as-nvidia-reportedly-prepares-to-oust-jensen-huang-buffett-said-he-could-forgive-losses-but-there-was-one-thing-he-would-be-ruthless-about/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-12T02:26:06.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia’s Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald’s Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results",
+        "url": "https://247wallst.com/investing/2026/11/11/nvidias-board-is-reportedly-preparing-to-oust-jensen-huang-when-intel-and-mcdonalds-pushed-out-ceos-over-workplace-relationships-shareholders-got-opposite-results/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-11T23:34:19.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia's Board Is Reportedly Preparing to Oust Jensen Huang. When Intel and McDonald's Pushed Out CEOs Over Workplace Relationships, Shareholders Got Opposite Results - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQN055b1I0UW1KVUFacjMxamVLbHN6RlVlT0stY2NOcG83RVd0WllCZUI5dTV0Wkx0cnNTM0lqNVBySHQ2UWZFQllLZjZGb2lTekRsRVFwa3puZ0wzV09xby1BSG1wQnBBcVdLaExIVE8ycFROb2JoaURXWTFaaFY2Z1BYRlgwSWNFblZ5Y2tSaFZ1aGt2TWxoLVNrOUNDUWJJWEpTUDM2TmlzMndlbXZlSkxVWkE1aTd6TjFyd0JHSDAwbU9zNGhxcHpURVlPdTh0RHZ0UkRhWVRzUGhST1hIUFRyakVvR1lnVVNQVmpXVDlYOXRiZjZIeDJWNTJveEExQXpqalRGMTAwaFRIdEhZdXVKeWQ4WDlZWm13dmpIZkF5MDRNbVlULUtfTEp5ODQ?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-11-11T23:34:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-intel-climbs-on-broader-chip-rally-as-ai-infrastructure-demand-lifts-semiconductor-stocks/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-11T23:04:34.000Z",
+        "summary": null
+      },
+      {
+        "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-advanced-micro-devices-jumps-and-not-only-because-of-coreweave-s-results/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-11T22:52:34.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel (NASDAQ:INTC) Stock Price Up 7.5% - Here's What Happened - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGtqX1JFcHZ5MkNzd2VCT3ZHZFV6NEI3elU5RFpOZV9XVnJyVk5mYy1NWkZTN0V5aFJtR29RY3pYMzJKWXVvUTJHZ0ZZbEIwcllKUmtpaFd5Ynh1LUc0cnhjVUppYWhoYUp0U3dreENQUlFFTHFwa0dPZy0za2M3YnVsQzJFNGpVTFFJSEVxWlNxbGVWYUIwN19CUnZ0ZEFNd18xakUwRzhZYWstUGpudDloNDMxZw?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T22:22:30.000Z",
+        "summary": null
+      },
       {
         "title": "Intel INTC Stock Recovers 25% as CoreWeave Earnings Boost Chip Shares - FXLeaders",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXpSdWVYaGJoc3o4YlR1bVFuZ29GemZJSG82ZlFoY21DM3hPdzNlN1NWTjczLVhrZnh6dFRraFY4NW1mZHRGWXplN2VBaTVRWVFZVkRVZ2JUUXNHemppOFppMHdqVzNDTUx3UTE4UXRiSFdYVG1fYmdLSDlTYXJJVzc1cDFTeVhlNXhla19qWmRiXzB2eUp2RDRTVDVzZHNVSXlOZWdSVy1paThHeGdVQw?oc=5",
         "source": "FXLeaders",
-        "publishedAt": "2026-11-11T21:15:22.000Z",
+        "publishedAt": "2026-11-11T21:16:03.000Z",
         "summary": null
       },
       {
@@ -15,65 +71,16 @@
         "source": "Benzinga",
         "publishedAt": "2026-11-11T21:04:46.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel Stock Faces 87 Million-Share Risk After SoftBank Deal",
-        "url": "https://beincrypto.com/intel-stock-softbank-87-million-shares-selloff-risk/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T20:34:28.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock Faces 87 Million-Share Risk After SoftBank Deal - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMUE1TDdkUnhEcm5kNTJDTnJLakhaYTZOVWJNbXc0bTZwODgxMlNUS0VncndCY3ZrZkpzRlh3b2RGaUR5MWhrOHdycl9qQk14bXlmNDUxaC1jNTVGajBiaTY4NTVQSXQ1U0Uxd1dLNDRpRWN3QkVfQ2xlUjdDdENPaWxnYmwyOVp0bU41SWg3d29fSUItbFYyMQ?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T20:34:28.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell Acquires Lumentum in Blockbuster $80 Billion Deal",
-        "url": "https://247wallst.com/videos/marvell-acquires-lumentum-in-blockbuster-80-billion-deal/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T20:19:34.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stock (NASDAQ:INTC) Jumps 8% on Robotics Plans - TipRanks",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhWdFBfNTlBQnFFRTdfSzQySU1zZDhrNUZRc19QSmk1bDVYcFVmM0hMOWt0NmhTQjUtMlVUVUZUX090Y3NzSXhRODgwendJT29PclhvN0M5QjMwTXE5dDRRaHlmX0pZcEsya1hrSDk2SGxhNk5TTHB5dUZ2ZEhrNkVMR3A?oc=5",
-        "source": "TipRanks",
-        "publishedAt": "2026-11-11T19:33:45.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-5-23-191018499.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T19:10:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMW81R3RPUXo3a2g4V1Q4OXNQVFdSXzFhYVlwRjNaOGVBN1djTENTcko5VFREOWNmclVuQXVDbVVUQ2k4b3NIRFRGazliQ3FPQzBkcjN0c1hfQUFjR1o1dHBmdTdnanVZdGNtQXMwRFZoZzNZdkxHZC1KT3ptUUFpU1B6NXl6aXZRcDU5WVBYLXJ5dw?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T19:10:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "Amkor's Communications Business Weakens: Can a Recovery Take Hold?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amkors-communications-business-weakens-recovery-171900627.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T17:19:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel’s Turnaround Could Rewrite the Stock’s Story",
-        "url": "https://247wallst.com/investing/2026/11/11/intels-turnaround-could-rewrite-the-stocks-story/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-11T17:03:09.000Z",
-        "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "“실적은 좋은데”…삼성전자 목표가 17% 낮춘 이유 - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblRQNjRmTVRsSWdzelMyT1NEeEpTMnJ0ZnhuTGlGZFZJRWxOUEFaeWJIYjUyclZYTlJGLVIwWjJYdE05QUFxLU50Q015ODNZYXY3VVVONEpzTkhTa3B2WExueUVublBLS1loRmpQbUIzNnYzZXE1UmtEVExKSHJoeA?oc=5",
+        "source": "이데일리",
+        "publishedAt": "2026-11-11T23:55:20.000Z",
+        "summary": null
+      },
       {
         "title": "삼성전자, 국내 기업 최초 '15년 연속' 동반성장 평가 최우수 획득 - 인포스탁데일리",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBabDFOV2pLTTR1a3FXa2ZIZUtpOEdHNVQweXFLTFktbS1wRlVKZHZGdUlaYWZwaGU2dDBBSEs0emRZNnhMOFBGSzFFMHdzSzNNMjhsSDM3RW01QldGZ01wWDB1Njd2UHlfT1l0ekZPOWFfT2xpMVE?oc=5",
@@ -136,16 +143,44 @@
         "source": "서울경제",
         "publishedAt": "2026-11-08T02:16:01.000Z",
         "summary": null
-      },
-      {
-        "title": "외국인, 지난주 삼전닉스 7.6조 던졌다…보유율도 수년만 최저 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByejRkajZnSWpHWVA4TlZpY3lETTB1RFI2NUh3NUVMMUVLWmJPUXd0OWJ3ME1Ba3ZGUWxFVUpmeFAxNlRXS1llS2QwYS1ubTllcGhZSnhnQ3p0UjDSAWBBVV95cUxOdy1MQnJCZ01HcXJTRWs2dHBsTFV3R2tpQXdmdWQwNldIbWRmYTNpWGJqYXh4UE9aajk2VG1WeWtrTHRsMHMzLV9HV0o5dThZbGhYOTdEOFZHRkVENVBScmM?oc=5",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-07T21:10:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
+      {
+        "title": "Why Did AAPL, XERS, ZETA Stocks Jump To 52-Week Highs Today? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMWRUdTlvaUw1Z21GaUpzdnRvTy15NzFsZkJjSUpIYS14anE5N3hBMVN0R2FlU1pDTHhkSGR3TEdoM2RzUGRhREZwRGx0blVyOWF6bUVmekdpMTY4alRveWNzRzBiNHJSak93REcydm5SZEFreEpOUWs0WE1aanVMRWJTc3FOVzZPSVhFblRyaTk?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-12T03:49:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia, AMD, SanDisk, Broadcom and Apple: Why These 5 Stocks Are on Investors' Radars Today - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHVtX1h4dWVyd08tc0Ntc0JPNU5YeTVncUtRVEx4VEpDcTRZVDVCUXZrbmVQNVFRUnRXdk9vS3o4VHRlUldGQjRzSGVQVmN5aHNWTEFEVkhuTG9TNWk4UWhaelQyd3U4ZmkybHdVVUxRcjEyQl95N0wtSzVmUHBFVTJQbGo5NzJkUGlBQjFldTVYbHpyTG9PajJ2M2ktckNMYlZHSGJqY1NzTk1FeHBqQkMyUXhJZ0VydUxieTQxNHRCR2x6SkRGQ01DQnQ2em9uV1ptTWxnZ1I1Q2JOb3c?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-11-12T01:15:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple, Wabtec Hit Record Highs, Among 14 Stocks New To Best Stock Lists - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdk1nTzJaNy1jOGlwbHNYUjVEcmdPQmpXYmh2b2d1ZDQxeXprUm5PTkVKWFJ5Y1Q3SVBMX3h1aE5NZXMwNWNMZXZGeWF1Z2NwNDJWQm9vQjdCNE5mM01xQTZNMy1LcThweExVeHB4b01pY24zNWtXdWN4aklpRnN6eEotb2taRDZNX09kRnNBeG5KdjNyMk83akVreFhiZw?oc=5",
+        "source": "Investor's Business Daily",
+        "publishedAt": "2026-11-11T23:44:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple shares hit new all-time intraday and closing highs - MacDailyNews",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZjk5WnMzYnRzczJsanN4LTdzdWFSa3d4MmNzejFfTUFzVmNpandCMWs1Sm1Gam9FX19UbHFVU3owSmwwZkNHTTF5TjhKSzZwVVdxdDZyS1NENVZuNEdlQ0tXOHlQbmFRT3FYSFkzTUM2NzB4V1UtUnNiNEZOYTNrT0JCTGU1V2lfQ1RLY2xuZ1FYZjRyRjZHa19LNmzSAaIBQVVfeXFMTXA2M3RNbFlfSXJKT3JLSmFTc2tub21XM2NPZ1I2RU1EMlFvTm5hNkFlV21BcXItMW1ZeUNOSVZuclFrX09ZR1JWM1VuWFVtV2FZVDdtYjlIUl9RRHdINE4zYzdIUllIdHRHMmRXVGcyVTQwNHp0eEx2bVNlbENmZG9VRzg3WTRZMWxxNHZPMmV1VXpwQksteTMtZURYRjZBc1Fn?oc=5",
+        "source": "MacDailyNews",
+        "publishedAt": "2026-11-11T22:25:17.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple (NASDAQ:AAPL) Shares Climb 2% Following Analyst Upgrade - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNemo2Z0FQb1k2VVVOZDJtd0VQZm9qYmMtbVZUOFliZkxwaGJDdnZ5aFQxUVM4UDBaeW5jR0didXJFWng4ZHB4MGg5X2Zjc1VSLXBhck1ZTWNFeUdlMmhiYUxoa1dNd29sb0tvSGlVWW5EWkR0SkVfMElwSGU2U0R6c1BsWXloeVVnMzliV1hpbTk2ZHRJdUdqd1FsNFg3dFA4UjhLdmtTQzM1NkNyS0tXdG1MUHVFdkJmNVE?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-11T22:12:36.000Z",
+        "summary": null
+      },
       {
         "title": "Apple Shares (AAPL) Look Expensive Heading into 2027 - Yahoo Finance",
         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM2lsenhVYnFXTUNRUHVQUkVxVEVMUDNwSzdFcDNnNWNRU3F2dDVGTHh2Zkh1N2laS1FtZHdzb2hQN3B6bHhrcUUxa2VFOWxzY1NlZTVwRFB5YkE4MGxjUHBueG1WQjRjUExnanJaZGZFSTQzX1Y0YTU3bmJ6UGNZYjNyaVdPenFDZHVhU0JlMUZySFBONHVDU2wxNnNIUQ?oc=5",
@@ -179,41 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmxQQWVoTG9sV05Xd1FpcDRNWllFRXUxZDB0VVd0YmQwYm9HbFJFWE5jZi1Cb1hqazl5NER2c2JKMWFscHcwZEkxUzN2UF9BamwxLTBfOGt1c0l4WHEwOWYxb2tDeGdfcDVPMDlsb2dvcjJwMXpKUHRMbkV0eGthalRaMFE5OUhHdEdPNQ?oc=5",
         "source": "Traders Union",
         "publishedAt": "2026-11-11T18:55:43.000Z",
-        "summary": null
-      },
-      {
-        "title": "Cramer Says Apple Investors Who Sold After Steve Jobs Missed Years Of Gains. The Stock Is Up Nearly 3,000% Since. Now He's Asking If Nvidia Needs Jensen Huang - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZDNyNlhheUJESWI4ZllBRHZjLXpQOXdzX29nVFFTYnlCR1dNYjk4NmlkWFBPVTg5MzVZb1Bzb045TXEwb0llTGNiLVBQUXlFbjRzbzROSjlHN0QtRkt4UzVqUTZVejF0WHB3Q2EyTGpCaXpmWUZnekd5b3BFdkVwQ0lhVTNXQmFOMVl4aWRkbVBjenNnVzZkbG9sdTl4UkhqQXk2Nkc4WFpET2xUVmxiNWJheGJjMmhZZzZ3bEpvRFpENzk1X1dUQk1GRmtYOEJrNWhza1ByS1Q2cW1iM2lVNU1NcGJKMXBGQ1JQaEZ3ZGp4anlFaDFpaFVwRE1la1RGOWZpUVF1cmdIQUpxMnBPOHQ0d2RpT3VTWDJHVzV4bGh5MFU?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-11-11T18:46:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "The Only 3 Tech Stocks I'd Buy With $5,000 and Never Sell - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3drZFMxRnRVNFlMaVhjeFlMYU8zS1dwTWdNRmU0SU93UjYwaDI2RE95VnozeHV0dnVHZWVjallJd29pSGUyNVhYdXJZWjV0OWx5LXVPbXRjMm5TWkVqNlNOcFlFY0QwUjRGTDluajZFVWdNSktEVFVDLXdoQTczVEU2cWZrZVNuRjFXcVJ4ZFZvYmR1TWlN?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-11T18:26:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "What's Going On With Apple Stock Wednesday? - Benzinga",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdW5ZN2QxY2xIN3lFT1dqRWx3dUxLYVlieklHV2IyVVVnVEJFZkNnWE83Q1JtV1Y3ZUcwWE0tcy13YmRMNmxDa0NmNlNWaDJYSFBJT3Uyd1RhblBSc1Jjenp1UFFZdWNCVTV4TlBBMHFYa2h6N2xGNG9PMm9lU2tpbnA3dk11MVB1MGFXTTZJTUhZMXVQU0RaLV90MEg?oc=5",
-        "source": "Benzinga",
-        "publishedAt": "2026-11-11T17:55:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Why Apple Stock Looks Like a Safe Haven After the Midterms - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOR3hKcFhWVFpvNHpjLVF3bHNIaml4UDE5R1VKd3drSWI1bXo4NVpnLUJuRU1QSEloYzRmdUFxOU1LVktYQ3dMcjdodWhkenhtU1Q0dk9tQWplTUVBZjNjcXZiSmh0UThEdUJCSjJEd0djOFd5YzFxZXl2YWhUZ29JcVNwNW5MNzVONHdSaEh2TU1tazlEUElLRlU3UQ?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-11-11T17:18:04.000Z",
-        "summary": null
-      },
-      {
-        "title": "Trending Industry Today: Coherent Leads Gains In Apple Ecosystem Stocks - Moomoo",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSlFBVTB3aV9LTnZCT3NkUkJvQ1dhTWtHTzFuUWZWZjlQZjh3TjRDekpaOW8zdENqYVVVNWhNQmxvYnRUY1dyN0tXSnJIdVRpMEFTbFFJT09sZDRSVVpUNEdGOGljS04xSnZrTUo5YmRLSWdyMjR4OGc0bTdESkVtd0lxNlI2MU9UTTJ6MW45d29aYWZFSjRPMVVSYnNaQUZ4QU0zeWVaWUEzV0JBVk1LMko0bVI?oc=5",
-        "source": "Moomoo",
-        "publishedAt": "2026-11-11T17:10:00.000Z",
         "summary": null
       }
     ]
