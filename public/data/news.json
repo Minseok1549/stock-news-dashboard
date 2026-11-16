@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:30:25.622Z",
+  "generatedAt": "2026-11-16T00:46:07.028Z",
   "articles": {
     "INTC": [
       {
@@ -14,13 +14,6 @@
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVVYyQy03TTgtZXppa2I2TDlJSzFDdC00R0tHLWhFajJKYUg4QnRvd0FwVFpJZFFoRlQ5ZTVhX3hRQjFLUUZNYmZ4VHQ4eVoyN3VrZ0ZvUHRva1BreUhpc0RYdDNXR0lsbEJQTEpTcEVYOVgtOW9VSTFja200M0FFbE4zQUZWZzg0eWVkZWxTdWZ0LV9EbjMwNzd6MzJTOGtIVTkxb0RVY3dRQ0pwZlAyM1Vsa2RYWGdR?oc=5",
         "source": "MarketBeat",
         "publishedAt": "2026-11-15T16:21:05.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Shares Purchased by Danica Pension Livsforsikringsaktieselskab - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdk90ajZqVnpvbVZpVE0tdVhob2ROZnlaNjFJYUhtYVhWYkE4YzAyTTVHYmp3OTFSSHMxdmpFMmZqd3dqYTRfMHdLaFVYOU51ZUhMell4ZVFvb1dxWk1qQzdOWXdWTkIxS1ZINkJOMkJ0eV94TWRRSWNTbDk0SV94amktd1NhUDlNTFFFZ3hWYWNOTmhnaUc3Sm9QcE5HVmtVbjZmelBBZE1wWTlldmFHSEFXeno1MmljVUtONGh4QVBUbVBPNWl3bURoc3V5LVNyaGNSQkZ6TXREYkdObHhr?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-11-15T16:04:28.000Z",
         "summary": null
       },
       {
@@ -71,9 +64,23 @@
         "source": "Yahoo Finance",
         "publishedAt": "2026-11-14T17:34:54.000Z",
         "summary": null
+      },
+      {
+        "title": "Soros’ Fund Made Intel Its Biggest Stock Bet Right Before It Halved - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeFhWN1VLTE1PenR3aFRkNDJhSlczVnViS0dTb0RVbjZBQzdvaGZfYVYwZkxGTWNFeGZvcFpTTTRWM3hLQ2dBQm1XQnc3YWtMb0NjdDltOFYwNW80QlNFTWxCQnV5MHJ3VHRZamhSbVJ6Q1RORUhSRTVsS0VacDFPODA3WXkwcEhiNGFzaGc2WGZ3Y2k5UmlCNXZn?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-14T17:34:54.000Z",
+        "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "삼전닉스도 관망세…엔비디아 실적·앤트로픽 IPO 영향 [이런국장 저런주식] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PTTRWbTVlOXptbU9SNmhlaGZmTVVzS1I2YjRyeENrWnBfZm9sWXBKQlVkNzFGbk13emE2VDZIN0g0Q3hnWG5JSlo2RDBzZVdYWkE?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-11-15T23:35:55.000Z",
+        "summary": null
+      },
       {
         "title": "삼전닉스에 몰린 빚투 자금 7조원…전체 30% 육박 - 이데일리",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQkNPWWs5ajNlTWlPcHhsekl6c0FoNGhPYV9EbVJaWExKalZFSkZxZDdQN3VlN3F3SGM5SGktVld5TUptRjVSU0FEVGNyR1kyd0RFOFhfSlhtZzI1WUNDN2lIeHA1NVBrbDhURXRsS0xTQzVxSEdoei1pVDNDUmdBZQ?oc=5",
@@ -103,13 +110,6 @@
         "summary": null
       },
       {
-        "title": "한국 간판주 버리는 외국인… 현대차 26년·삼전 17년 만의 ‘지분 최저치’ - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3hmTFBUZnAwUzViaFMyU19rWWVyOE9sQWo4YUJobDBLTklLZEstUFA1S3poSHBvZzh5TTNUQlRiNmRiYmZEUHlycktabk9OYUdob0J4YUczNXZhMFBTeXh0dXR4QmdxbzhOblhieWRjVHRIR20xTVpZdmMxVllGZ0pveEU1WDc20gGcAUFVX3lxTE15WU5weG9wdjhhY2RPcC1mQ2c2VEV6akNfVFhXYXlpWXZQTm1QYWNJZTRnM2ZraWo5TG9mYlduT215QkM0NUxDLW0tclpLSndWNU9iRXAwbE43TXdnWE10cXR0dC1EYmd5N1M2dG5WWjBhLXcxWkEzWms4UWItZXdNNmtqREpMTUswN2FEeVJUNUdvdXFCY2gyNDg3SA?oc=5",
-        "source": "Chosunbiz",
-        "publishedAt": "2026-11-12T21:03:00.000Z",
-        "summary": null
-      },
-      {
         "title": "“48만→40만전자”…실적 좋은데 목표가 낮춘 이유 - 이데일리",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblRQNjRmTVRsSWdzelMyT1NEeEpTMnJ0ZnhuTGlGZFZJRWxOUEFaeWJIYjUyclZYTlJGLVIwWjJYdE05QUFxLU50Q015ODNZYXY3VVVONEpzTkhTa3B2WExueUVublBLS1loRmpQbUIzNnYzZXE1UmtEVExKSHJoeA?oc=5",
         "source": "이데일리",
@@ -131,21 +131,28 @@
         "summary": null
       },
       {
+        "title": "삼성바이오, 유상증자 청약률 96.8%…폴리펩타이드 인수 속도 - 연합뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wTHFudUVfSU45VUVhcF80WDVqU1ZZNVBUbnFrWDMzSTkyckYycjFHaXV3dGxyRVNqaDczeGJVS0RwOHZ3NTFuazhpcmtKWk9ybVBlUE52aXF0TjDSAWBBVV95cUxQR2NlUHJDM2prTVZ2QzJrcVRWZGtfSGVuaTc3QmhhcXo2SGhuWWxGUGRXelR3b1JmdzZ6OFhJOFlLUXBWaW9jNFFCRW9pRjFqdXhwT1hoV3djTVAxT0JzTFo?oc=5",
+        "source": "연합뉴스",
+        "publishedAt": "2026-11-11T02:37:14.000Z",
+        "summary": null
+      },
+      {
         "title": "삼전·하닉 팔고…한 달 새 40% 빠진 삼성전기 담았다 [주식 초고수는 지금] - 서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vME53b0o4d0l5bVQ0TDJLODZoYXdPcEFNbkFJMnRpLVJsQnhXU1JoQU1IajM2NkpoTEtOLXFsNW9laGhwMXFRYVp0S0RYOC1yc3fSAVNBVV95cUxQR2cwNElWNlM0ZjNUTERWcmR2bm14UUtKS19xd2J2NWJ3ZlROVDMxSVdiWnlQYmxPbjFuZGUtSWdnQjlGdmtDeUtMMGhzQjExR01DWQ?oc=5",
         "source": "서울경제",
         "publishedAt": "2026-11-10T02:53:29.000Z",
         "summary": null
-      },
-      {
-        "title": "‘블루 쓰나미’ 딛고 코스피·코스닥 급등…매수 사이드카도 발동 - 경북신문",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRc0pCOF82dTZwc2E2UDNYaUFENUEwZzZVVmNJOXE1RHVHN0NLMUQzZEVDa19XTW81S2FRODRrQm9idnNnVTlwSUZnMDBVUHAzSlVnS0stM1E?oc=5",
-        "source": "경북신문",
-        "publishedAt": "2026-11-10T02:03:00.000Z",
-        "summary": null
       }
     ],
     "APPL": [
+      {
+        "title": "AI Product Push Might Change The Case For Investing In Apple (AAPL) - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckkyZl9JS2ZDWkdWVk50Y1ZoTFFoRjBOTWNveE03cnRpOWl2dUw2aVlPeU5SbmhJV0pMUERDSE41QVpUakJXZERsSGtsbjVVekUxSng1YzZkX3F0RkJ5bDZRbUJGVlR3Ny1KQzlYRDRPYy1WT05ZTFI3dHpaVTRfQUhxeWc4U1JmWnR6VjVjTzViUXdNZXJyWWFyUEpxeTZOSHVJelZVdU5MQ0ljNWhGLWZYWi1kSm5qZlR1b9IBwgFBVV95cUxPSmt2bXdhMTdGeUVvNzVndW5TNHJNb0lVQ3JSem9lYUNyWlhYZHBoMmtNM3dMWXVJNkJlY1AwR0cxQkNaVVlUVDA5QXZtbHhpZHNISzV6dW9DTWVCV1ptbi1ZeDMyUkNpLW5DZjFtRzhRVmdDY1o1ZkFqY1RfU2ItWFpPMERpQ1JYWER1X09sQTVBTUdmWlFzQXE4QnU2RmN3MkFoMGpzN0MtMmR0MExnd2ctai1kX1lMT2wwd3lzX0dMdw?oc=5",
+        "source": "Simply Wall St",
+        "publishedAt": "2026-11-15T20:23:38.000Z",
+        "summary": null
+      },
       {
         "title": "Apple Inc. $AAPL Stock Bought by Norris Perne & French LLP MI - MarketBeat",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNclN3a2VMNERXcE9vS2RWa3ktd25JZzRIMWE1eUhpa2RtRjFqUzduekRDWnlvOVRfMXZsMGxxOWFNbE8xLVBxZDYwTWtMSHRJTXgtcmwxaXIzb2xEekZMNHU2VW5aWFdQaGc5VGpVRXowcHUzLWJVRm5wcmpOajdwS2NLQkFpNVQwbHc4WEZJUlNTOW4yVXFNNnJIOUlKd3pjSzI1NDRoMW0ySFVaeHRPRWdYcGhJVEVHNGc?oc=5",
@@ -207,13 +214,6 @@
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOenpRVGNkY3djdmZuQ3pDbGVHNnozcWZnbGFxdHI2c2QtTzlFUUNKM08xMW1LUHFxbjhUVWI3cHNPNERYeFhMbF9qVkpyR1dNdWg1RURDX2JYSFJ6aGx3V3dOYngzaHZqYXdyc01fWkkwbmU3VDFLdzBsNVhOOVJYQmpISGM0S0ZQQkludkl1SHljUzhRQUk1aGliSHY3TXNkcnl0SkRxcVpOX2NoSzA1aGlpZmtqMElkbGRXTGs5aldrbUdtaVAwLXRMWjNFbGRzTzU0?oc=5",
         "source": "Investing.com",
         "publishedAt": "2026-11-15T01:39:22.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Stock Leads Magnificent Seven With 30.5% Gain - shattered.io",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YS2dWQjl1dlBEQ3Rvdmd4TGtkNFZubTdYTTh1bGYyS2g1ekNscW1CUHkyX0RpbmdjVUZZQUFnZkVGRHBfbVl0OE9jNjNsd3pyREZQYTB0TGNyTEItOEtLV1E4cV9YU3J6MWNBekFpQmtKbUpkd3VIQ2xhUDZYdW8?oc=5",
-        "source": "shattered.io",
-        "publishedAt": "2026-11-14T16:49:24.000Z",
         "summary": null
       }
     ]
