@@ -1,79 +1,93 @@
 {
-  "generatedAt": "2026-11-16T21:39:48.090Z",
+  "generatedAt": "2026-11-17T06:39:36.053Z",
   "articles": {
     "INTC": [
       {
-        "title": "Nvidia, Sandisk, SpaceX, L3Harris, Strategy, Tyson, and More Stocks That Explain Today’s Market",
-        "url": "https://finance.yahoo.com/m/a7938ba3-f917-3e6f-b865-2195ea15d9d5/nvidia%2C-sandisk%2C-spacex%2C.html?.tsrc=rss",
+        "title": "AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amd-mu-skhy-avgo-chip-stocks-ease-overnight-after-selloff-on-new-us-chip-restrictions-targeting-china/cNba10cR9gA?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-16T21:26:00.000Z",
+        "publishedAt": "2026-11-17T04:04:20.000Z",
         "summary": null
       },
       {
-        "title": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5%",
-        "url": "https://247wallst.com/investing/2026/11/16/intw-2x-intel-etf-tumbles-13-as-intel-drops-amid-shareholder-lawsuit-and-ai-chip-selloff-taiwan-semiconductor-falls-5/?.tsrc=rss",
+        "title": "Intel Tumbles 7% to Retest $50 Level, Risking 60% Plunge If Support Breaks - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkhqM09QclJtZVBSUmxpVTZmdDQ5SEJJTzNHTkpVcEFtcVJUOTgzMFdLc1ZVRTMxRVhYUWxiNlhwOFdHOGJDd0MwN1NpdmJ3LVlQNk9ucnFGTUFYVGVKRzBwT2dwZElEdGVGdy1MRWhJMW1OcWw1Skcwb1RvM3I3Mm1xYXQ2eXdtWjFHVU9IRW0zQXFJSzVIY25tTGU1bU4ycnRqODJHUEh4UQ?oc=5",
+        "source": "TradingKey",
+        "publishedAt": "2026-11-17T03:51:25.000Z",
+        "summary": null
+      },
+      {
+        "title": "SPCX Stock Dethrones Intel As Nvidia’s Biggest Holding — Druckenmiller Buys In And Tepper Ups His Stake Over 1,600%",
+        "url": "https://stocktwits.com/news-articles/markets/equity/spcx-stock-dethrones-intel-nvidia-biggest-holding-druckenmiller-buys-in-tepper-ups-stake/cNba0UWR9gq?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-16T20:03:12.000Z",
+        "publishedAt": "2026-11-17T03:45:50.000Z",
         "summary": null
       },
       {
-        "title": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5% - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdmtzY3otMWptM0k1dXpYalRVUm03VUxJZUhVYWpTc0hnT1IxTjVVd1ZCS3dhRmxUc0xiUXo0YTA2bjFheVVNM1dVLTZoV0xrdUpPZzlZNUlYekpHNWR5ZE44aU1MZHBVUzhhUERHODI2R2VlV1haTk1qQThkTUVKaFZIb05VRDFBUjZUZ2xmb3hqTWJ4?oc=5",
+        "title": "Intel Stock (INTC) Falls 7.0% After Shareholder Lawsuit (Nov 16) - Gotrade",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUDZ3dGRmcjZRRXBKOGNuX2V0T1o4bmJRTlRBMFk4ODR1cDRFVHp5WTZMblQyWFhrNTRGSmozX014bGVyZVJfb2xSb1FJcEFVTFRyNmU0MjkzamNPTkJxUWdVYzRtUEllUE9TT2VfaVBWTzVNVkh1X1BkUHFva1k?oc=5",
+        "source": "Gotrade",
+        "publishedAt": "2026-11-17T03:35:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26",
+        "url": "https://finance.yahoo.com/technology/ai/articles/mitac-computing-scales-agentic-ai-032200367.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-16T20:03:12.000Z",
+        "publishedAt": "2026-11-17T03:22:00.000Z",
         "summary": null
       },
       {
-        "title": "INTW 2X Intel ETF Tumbles 13% as Intel Drops Amid Shareholder Lawsuit and AI Chip Selloff; Taiwan Semiconductor Falls 5% - 24/7 Wall St.",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT0lEcGNlTVBvYV9uUEdhNHBMQnhEaS1DMXUybEYwTDdFWDNGc2hJendVWUM1M1ptTFVQMEs3cWlzWHFqZ3ZOOU5NNFhyMGpUTUVzWklhTjdnMF91WEd2YWNqU3JCQi0xaWJReEVOUmZrNjlETFo4NVgwQTI1VGVXaHhYaXZBeTRPeGpLSzZYbFVzWGVmTTRxNjlxZUZhS2hzaGRnQVRMRFFYSFpPdllWc2lMbFh3UVVyNWFld2ZqWWxUWUtXM3g2SDlUWmZ0Qjdka0Zxamc1ZlVBcEM2RjR2N0ZfWVl4em1fZW82WFM0cnBYcmM?oc=5",
-        "source": "24/7 Wall St.",
-        "publishedAt": "2026-11-16T20:03:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel “Trades at 34x PE for Just 11%” Growth, Says Dan Niles. Now Shareholders Are Suing - TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjZwbGliWGxMMHdZMEdKZEVfQzdyWXZSZEVST3VZLThBdUZjcS1PaXpVUktGUzJrWi1SOHV4SUw1Ym5mNWpjbDZ1Q2NNU1FWclc2ZFVhYXQxTzNEdS1sR3RfV2JkTHI2R3lTTlkydlE2QzlBZTZJVjlaUG90ZmVrRVBUT2NMTUF1cEJ5SnlLVlNuVUt4TGVUbEdBYTNOeFZIUWNuQ1B5M0c5eFBmbng4?oc=5",
-        "source": "TIKR.com",
-        "publishedAt": "2026-11-16T19:51:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel investors warned of securities lawsuit de... - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWxJdFlaXzBnZHFfLTZEcGRkd1FXSGxQcjZBdWVzS3UyNnVUZmNOY2JzdnVycU8zbGtESEE5cnVLbVprN2xGa1RuckxlYmJOZVZBR3dvYWJRNV9qRnBfLUhYTnZFZG03OHkxUjJiQ21neXNaVU5GWTVpbFBhUEc2ZEF2NVBITkxCMTJRN0pYam8?oc=5",
-        "source": "Pluang",
-        "publishedAt": "2026-11-16T19:45:20.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel “Trades at 34x PE for Just 11%” Growth, Says Dan Niles. Now Shareholders Are Suing",
-        "url": "https://www.tikr.com/blog/intel-trades-at-34x-pe-for-just-11-growth-says-dan-niles-now-shareholders-are-suing?ref=yahoofinance&tlnk=yf-261116-8m293332&.tsrc=rss",
+        "title": "Intel Sits 61% Below the Peak When Jim Cramer Called It His Favorite",
+        "url": "https://beincrypto.com/intel-below-peak-jim-cramer-favorite/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-16T19:39:34.000Z",
+        "publishedAt": "2026-11-17T02:31:09.000Z",
         "summary": null
       },
       {
-        "title": "What Mattered Most In Cerebras's Latest Quarter?",
-        "url": "https://www.trefis.com/stock/cbrs/articles/625166/what-mattered-most-in-cerebrass-latest-quarter/2026-11-16?.tsrc=rss",
+        "title": "AMD’s Nvidia Rally Fades: Michael Burry Calls AMD ‘Too Expensive As Eternal Alternative’",
+        "url": "https://stocktwits.com/news-articles/markets/equity/amd-s-nvidia-rally-fades-michael-burry-calls-amd-too-expensive-as-eternal-alternative/cNbah8GR9gn?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-16T19:29:54.000Z",
+        "publishedAt": "2026-11-17T02:20:02.000Z",
         "summary": null
       },
       {
-        "title": "Why Intel's turnaround will take years",
-        "url": "https://finance.yahoo.com/video/why-intels-turnaround-will-take-years-192703292.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-16T19:27:03.000Z",
+        "title": "Intel Stock Sell-Off Deepens After Nvidia Cuts Stake - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmlzcVRDWDhOYUlXa3htU0hKa3JKMGh4NkZpV1hoTXY3YzBVLUlWSVk4Q3Y5My15VFBxbEZyQVBqRmR0Z1ozaWtEZnEzdlZycHdkXzIzMDJtOHppbzdzamU0MjJyR0FENk9vU3pWNlNsZld3eTE4Z09Mc2U3d290bWp6b29vRjlXdl9IRmpGa0pTbVJvZ2h4eVR2czBMaWlTMER3cEh6UThxMXlIUWNKQ2ZXYw?oc=5",
+        "source": "Benzinga",
+        "publishedAt": "2026-11-16T22:48:25.000Z",
         "summary": null
       },
       {
-        "title": "Soros’s Fund Sold a Quarter of Its Berkshire Shares. Today Berkshire Reveals Its Own Trades",
-        "url": "https://247wallst.com/investing/2026/11/16/soross-fund-sold-a-quarter-of-its-berkshire-shares-today-berkshire-reveals-its-own-trades/?.tsrc=rss",
+        "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX",
+        "url": "https://finance.yahoo.com/m/481d5163-b671-396e-a2dc-5c0e57fb9c0b/berkshire-hathaway-slashes.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-16T19:23:00.000Z",
+        "publishedAt": "2026-11-16T22:39:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-tech-selloff-deepens-as-ai-leadership-crisis-rattles-nasdaq/?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-16T22:25:02.000Z",
         "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "복귀 노리는 젠슨 황 vs “쇄신 필요” 베선트…엔비디아 둘러싼 충돌 - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rOVIxdDZwdnBpZzJnNjJCeXU2aXFGNi1hU09wd185RHpzX1ZReUNVRU1lbWg5R3cweHZJTmJOb2NvWHJPc0I2RDVKNXlrUGg5cmfSAVNBVV95cUxPYko4VWNNbFV1SFFmck1CRDVkN3EwRTRGck55VzI3RzB3X1BPMGpINGFHYlRHSFJ5ekNPWDFMZzlZN3NkbkliTG92b3U1dnp4UE81TQ?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-11-17T01:27:54.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼전닉스 목표가 낮추더니…모건스탠리 “코스피 1만 가능” [이런국장 저런주식] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NNklNUVdhNmpSd0hPekx6WmVreEZXLWduRXF1akQzclRqNmRxNHZKVnVEMGFwSF9zUFZXYzZZLS1wSzY2bURjLTBBMnBGZ1Exc0HSAVNBVV95cUxNbzhWaTVyaUZwS1IzV0pEcjBoSUZUQXZhbGNyU21FUTlhMEFyd2xlLTJ6M29IZmpTZDhhUnQ3X3p2a2xqcWhvbUp3eEpUYVdCM1I0cw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-11-16T22:00:00.000Z",
+        "summary": null
+      },
       {
         "title": "외국인·기관 '쌍끌이' 매도 폭탄…코스피·코스닥 급락 - 프리진경제",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wU21TV3BwN21aWDZ6aVd2a1daSVhBZC00c0NzbmFxQnJBUjQ2U0tNdE8xQTlfbFNOQlJPOGhKOWhzNGxrNzlEZ0dzUkVBa3NkVHgwaFMtQXNpcmhyWjhXaUVick9EOEhvN3RJdg?oc=5",
@@ -93,13 +107,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMUnZQaWI2eGpiNFhQeFFDdUZTNWo4cUhJOUZUUlZ1cjVBdFRrLW1OWFVLWkM5NngxenBfQ25fU3RJTDNuWGtUNFFhbkgyTzYxOUHSAVNBVV95cUxQaDRncDBaZGppbGlCYkNqdF9hU0lnR2ZaLXlNV2dVLWFpU3JDZE96aXJYY1FNSDh1a1RPa3ZuMzItOGlyQlU0RFV6LVRrRDJ4UkpiVQ?oc=5",
         "source": "서울경제",
         "publishedAt": "2026-11-16T05:46:58.000Z",
-        "summary": null
-      },
-      {
-        "title": "영업익 500% 늘었다…디아이, 순매수 1위 [주식 초고수는 지금] - 서울경제",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TN1lmWlF6aE41TDJmNS1WNWlKTUxTUWptUDJjSkgzMm11S2xOSHJ1YTlaR3JLczFjM2x6UmlkdUE2SGVVYVpDUFN3RVBTcDJqNEHSAVNBVV95cUxPZ3pXemlrZFM4ZHgyajNqLVNSUUVtNUNFZXpSUkM0VW55V3B2cUZhTkpiVU9aakwwUzJsWEpTQVpEWFdFenprMnJQT21UMkM4TkFQYw?oc=5",
-        "source": "서울경제",
-        "publishedAt": "2026-11-16T02:25:37.000Z",
         "summary": null
       },
       {
@@ -135,13 +142,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UVWl5dHRwSF9UMmVZWVhCQTRpaDQxMUJmZkJfLUs2RkkwSFJqQXFjYU5LNkZTYmxTeEE5WE1NaEhCelR1RlkxblB5dFNac3gxQWfSAVNBVV95cUxON0NfQmFMbWNNUFFTR0JyWEpTVXFtd3NXMW1ZM1F3UTg4ejBrbElmOFpBYUFFSTV4Mjczd2d0SW1CbGxSUi1mMUhRWUFQSkludUh4OA?oc=5",
         "source": "서울경제",
         "publishedAt": "2026-11-14T01:51:44.000Z",
-        "summary": null
-      },
-      {
-        "title": "이재용 회장, 삼전 지분 1.58→1.75% 확대…홍라희 여사 증여 - 연합인포맥스",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14ZHlEQ0RVbGh6cFBZd1ZxVDhSQU1hckZYVHV5ZVFXejZIUGFoOExEd1kxRnVEUDFmbUlqRG16UHBkZUctamItLU5iZ1NpRDFfV0tNaGwyQnRWTkREUXhrell0WDZZMjFYT2dMVVBmYnI?oc=5",
-        "source": "연합인포맥스",
-        "publishedAt": "2026-11-13T08:51:00.000Z",
         "summary": null
       }
     ],
