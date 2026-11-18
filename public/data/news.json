@@ -1,84 +1,98 @@
 {
-  "generatedAt": "2026-11-17T18:10:06.461Z",
+  "generatedAt": "2026-11-18T02:44:29.967Z",
   "articles": {
     "INTC": [
       {
-        "title": "Intel Stock Slips as Nvidia Sells a Quarter of Its Stake",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-slips-nvidia-sells-175539227.html?.tsrc=rss",
+        "title": "Intel cuts more jobs as CEO Lip-Bu Tan's efficiency push continues - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjaksxcC0wNDZDNUYxdmdSMjVSTUluZ0pMajJhLWk1dlA1aGZJSzJFYjIwZnBjTUhWaXNHZ2xyc0Vma0xLeE40ZWhaZ1F3ZjBUR0hPR29rU1UwNndCeEVJQl9XUGRjdTVDSll6UE9Ld19OaDZpOEhWd01nSEpYQQ?oc=5",
+        "source": "Yahoo Finance UK",
+        "publishedAt": "2026-11-18T02:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia earnings spark after-hours rally in chipmakers, neocloud stocks",
+        "url": "https://finance.yahoo.com/technology/articles/nvidia-earnings-spark-hours-rally-010526744.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-17T17:55:39.000Z",
+        "publishedAt": "2026-11-18T01:05:26.000Z",
         "summary": null
       },
       {
-        "title": "Intel stock collapses; shareholders say they were misled",
-        "url": "https://www.thestreet.com/investing/intel-pension-fund-lawsuit-stock-collapse?.tsrc=rss",
+        "title": "Intel Stock Has Given Back About 60% Since June. Is It a Buy Now?",
+        "url": "https://www.fool.com/investing/2026/11/17/intel-stock-has-given-back-about-60-since-june-is-it-a-buy-now/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-17T17:47:00.000Z",
+        "publishedAt": "2026-11-17T21:57:01.000Z",
         "summary": null
       },
       {
-        "title": "Nvidia Dumps 25% of Its Intel Stake as SpaceX Becomes Its Biggest Investment",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-dumps-25-intel-stake-174458095.html?.tsrc=rss",
+        "title": "Intel Stock Has Given Back About 60% Since June. Is It a Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXpQdGE5M1haNmhNcEVxMkw2UERtd2FQazluZHJfcUlzUXF5SHV0S0dJZHZnYVExZ25YdzZkZmNVekRYeExhQ21fMmZ6TUdjdzQ4NjRuMVhIdWx2NHZFVGxKaE1pWUJkU0tkYjBJOGFvcWRjNTlCVkU3QUptbW9FUTNiaEcxSUdtSE0yWE50eS03dVBp?oc=5",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-17T17:44:58.000Z",
+        "publishedAt": "2026-11-17T21:57:01.000Z",
         "summary": null
       },
       {
-        "title": "Intel Corporation (NASDAQ: INTC) SHAREHOLDER ALERT: - GlobeNewswire",
-        "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQeWZ6a2RpZW9NaElWVk5MT09yT3ZQbXdWbm5xTnBZMGEtdFd0elpXaFR3VURhV3VhMlZwSFdhZ2J6Q016dGlMb0pWeXFKTXF4T3FmSHMyaG52bzFjaHNjSXRIODJpOGxtc1lJX3F1VWpjUzE1Qzg5YkJ0LTJDa0FxRUJJckdETEhPSmczd0pTeFVEaDA1cFZVN1hCRkNReFc0aGstaGh6Y1ZDQnBhVF9uMEphNGEwbXNyTURNdmxVdjBNYTVMM1Z1R0xiejhDUjZpRHc2WVVQVmJ0bzNJZHZTb0x3M2h0Q2xCaFAzNWFGUzMtOENUeGozbU1yZEx5ZUtWYkxrdTJQYXl6V21YdjBua2Y0VF9ReE56LU92NWd4QUZoZHQtV0dMUDlobW9yM3lodUxHSExKbUxZV1RpbU9JYUJYWkVPNTVGdjcyNmlXaWNFVTN4eWpNRFNvazQ?oc=5",
-        "source": "GlobeNewswire",
-        "publishedAt": "2026-11-17T17:38:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I’d Buy.",
-        "url": "https://www.fool.com/investing/2026/11/17/marvell-and-intel-are-both-down-at-least-50-from-their-2026-highs-only-1-is-a-stock-id-buy/?.tsrc=rss",
+        "title": "Earnings Boost Other Chip and AI Stocks",
+        "url": "https://finance.yahoo.com/m/8b12a732-4329-3c3e-95c3-e04f416a7ffa/earnings-boost-other-chip-and.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-17T17:05:01.000Z",
-        "summary": null
-      },
-      {
-        "title": "Nvidia (NASDAQ:NVDA) Cuts Intel Stake by 25% as SpaceX Becomes Its Biggest Stock Holding - Stocks Down Under",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JY3lsVFpTaUlkUzAzSzdRc2tGSmJ2d1hZZktrNFd2QkRORVV5S3Y5TUZaQWo1SEEwZlpTaGY3U2xpSHNmdGV2RHVKcXBOeE12NUlZRVZkYkE5SmNGbTUwM2J3OHVZWk5xWllJa0JUYktISk5UQUJ4RA?oc=5",
-        "source": "Stocks Down Under",
-        "publishedAt": "2026-11-17T16:55:10.000Z",
-        "summary": null
-      },
-      {
-        "title": "Marvell and Intel Are Both Down at Least 50% From Their 2026 Highs. Only 1 Is a Stock I’d Buy. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFBDRWtUcmFOa1hrWlFHM00xb1o5OGlQSi1uTkptcTZhSUR0TEM4aGQwZFducmpvLTFDcktDT1JyeFoyZTNmczRkOFVLN3AzMGV5eXZkNVBrQjBxT0E2ZUZHWFhxWnlRVEdaWm9US0FzcjhyQk5PZEh3Z1J0ckJScXJQSjF4QTBGRGR5U3FrN0tXdXdhZHV6TXhkNTJRVmMwU3hlMlNIRWY5dllvbVVXbXpwS1FJMnZqTWNFT00tU09hLV80clJoN0toVUJkdw?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-17T16:45:00.000Z",
+        "publishedAt": "2026-11-17T21:52:55.000Z",
         "summary": null
       },
       {
         "title": "Nvidia, Intel, Salesforce, SpaceX, Anthropic, Sandisk, Home Depot, and More That Explain Today’s Market",
         "url": "https://finance.yahoo.com/m/5d4c8ff4-57bc-3350-b217-681441a4f8b3/nvidia%2C-intel%2C-salesforce%2C.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-17T16:29:00.000Z",
+        "publishedAt": "2026-11-17T21:46:00.000Z",
         "summary": null
       },
       {
-        "title": "What Triggered Venture Global Stock's 5% Drop?",
-        "url": "https://www.trefis.com/stock/vg/articles/625834/what-triggered-venture-global-stocks-5-drop/2026-11-17?.tsrc=rss",
+        "title": "Berkshire Hathaway Slashes This Top 5 Stock; Nvidia Boosts SpaceX",
+        "url": "https://finance.yahoo.com/m/481d5163-b671-396e-a2dc-5c0e57fb9c0b/berkshire-hathaway-slashes.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-17T16:09:53.000Z",
+        "publishedAt": "2026-11-17T21:11:46.000Z",
         "summary": null
       },
       {
-        "title": "AMD Expects Its CPU Revenue to Double in 2027. Is NVIDIA’s Turmoil AMD’s Opening?",
-        "url": "https://247wallst.com/investing/2026/11/17/amd-expects-its-cpu-revenue-to-double-in-2027-is-nvidias-turmoil-amds-opening/?.tsrc=rss",
+        "title": "Intel shareholders sue CEO, CFO after stock rout",
+        "url": "https://www.cfodive.com/news/intel-shareholders-sue-ceo-cfo-stock-drop-ai-cpu/874979/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-17T16:04:41.000Z",
+        "publishedAt": "2026-11-17T21:01:40.000Z",
+        "summary": null
+      },
+      {
+        "title": "ASUS Showcases Full-Stack AI Infrastructure at SC26, Featuring Intel and AMD Platforms",
+        "url": "https://finance.yahoo.com/technology/ai/articles/asus-showcases-full-stack-ai-204300656.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-17T20:43:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia Bet Big on AI Stocks. Now They’re Getting Hit.",
+        "url": "https://finance.yahoo.com/m/302815a2-c453-3ac5-ad56-a00d836f551f/nvidia-bet-big-on-ai-stocks..html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-17T20:15:00.000Z",
         "summary": null
       }
     ],
     "005930": [
       {
-        "title": "다 던진 줄 알았는데… 외국인 '줍줍'도 부지런히 - 부산파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82SzdpUWxzLVNQdjlZZHRBZjR2blNWVm93MWJHS0pWd1VqNjR5WTY1eDZLYkVDVnBYOFhpbmpZOUlVb3NBWWV2WEdLNE9maEJnazJPMm9KYWEtb1Za?oc=5",
-        "source": "부산파이낸셜뉴스",
-        "publishedAt": "2026-11-17T09:19:00.000Z",
+        "title": "영상젠슨 황 쇼크에 AI 투심 ‘휘청’…주식·코인·금 동반 급락 - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odkF5b2MxZ20zajNycVVGemJwWnluUkh6OGM4cUJkdHBQUGhtaXJkREZNRG8yajRUOUZyZ2NTWVhSaDItdW12VW42OHNHai1DMUE?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-11-18T01:28:36.000Z",
+        "summary": null
+      },
+      {
+        "title": "“외국인이 흔들어도…삼전닉스는 팔지 마라” - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVBaY1ZsNkx0Y1YtazlSb0tKVVRtcnIwbHFZb3JNUWdWQ3hJTjJfRThNQTNMbnFaMk5DcTFZNVpjYW5QWm9SNTNCUVc5d2tuRUJnZlh4d3d3Z1BHVGJxWGJ4aUVpdk5kbmJKSDRFT3NiOHExdG1qXzkwYzlWbkl3Xw?oc=5",
+        "source": "이데일리",
+        "publishedAt": "2026-11-17T21:00:06.000Z",
+        "summary": null
+      },
+      {
+        "title": "다 던진 줄 알았는데… 외국인 '줍줍'도 부지런히 - 파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11aGI4SHFqVURONDQ4dVlFbDhOTGJvdUtPZzh1TVQ5M1M5WEItUzRkRUNMc1VKSHdfWmZhWDB4bHZXRzM2eTBxaHZuZmMzZ1d2cVVKNWp2NklVdw?oc=5",
+        "source": "파이낸셜뉴스",
+        "publishedAt": "2026-11-17T09:19:56.000Z",
         "summary": null
       },
       {
@@ -100,13 +114,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NNklNUVdhNmpSd0hPekx6WmVreEZXLWduRXF1akQzclRqNmRxNHZKVnVEMGFwSF9zUFZXYzZZLS1wSzY2bURjLTBBMnBGZ1Exc0HSAVNBVV95cUxNbzhWaTVyaUZwS1IzV0pEcjBoSUZUQXZhbGNyU21FUTlhMEFyd2xlLTJ6M29IZmpTZDhhUnQ3X3p2a2xqcWhvbUp3eEpUYVdCM1I0cw?oc=5",
         "source": "서울경제",
         "publishedAt": "2026-11-16T22:00:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "외국인·기관 '쌍끌이' 매도 폭탄…코스피·코스닥 급락 - 프리진경제",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wU21TV3BwN21aWDZ6aVd2a1daSVhBZC00c0NzbmFxQnJBUjQ2U0tNdE8xQTlfbFNOQlJPOGhKOWhzNGxrNzlEZ0dzUkVBa3NkVHgwaFMtQXNpcmhyWjhXaUVick9EOEhvN3RJdg?oc=5",
-        "source": "프리진경제",
-        "publishedAt": "2026-11-16T10:36:42.000Z",
         "summary": null
       },
       {
@@ -135,13 +142,6 @@
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPMTNuT0FHSGNWUXROdm11RV9mSnRWZ1lUTnpDWUJGemVMWjF6NnRmRlVxVkdZcU1ISHNTdXpvWUFkcFFYOURWSXhXT1kxVEN1cGfSAVNBVV95cUxNSGIxaFkwdmFRaEFUMV9SU05sRkE3MFRBcURQQ3VuVEZGN1dZNGUwNVR1MThRVHlqU1Z2WGV5UW9RcTVPZHNhd0J6MVB5YlBDeU53RQ?oc=5",
         "source": "서울경제",
         "publishedAt": "2026-11-16T01:57:50.000Z",
-        "summary": null
-      },
-      {
-        "title": "[특징주] 삼성전자, 보합권서 등락…하이닉스, 1%대 하락 - 연합뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hVmY3ek9ra3FGWkF4ZkMwTmpNZ25OZl81M19NMm9FcHE1TmdTeW9XNmtYVEtqR3FUUmlrakZveXVGRVJFREwtTzF6Vy1zS3E2VXA1QXJpcm9iQkXSAWBBVV95cUxPQ0NScnBzTU5Hblo0eGV6UXA1X3BSUk0wV0hRa0UzVF9MLWwtYWkzdTRVWGZWUnVuNWZZMUVING8tb3gzSm9KYUlQQXFDa2gxRFc1b3ZIbGdubUR0REVMa1c?oc=5",
-        "source": "연합뉴스",
-        "publishedAt": "2026-11-16T00:22:10.000Z",
         "summary": null
       }
     ],
