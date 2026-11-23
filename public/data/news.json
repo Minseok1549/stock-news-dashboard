@@ -1,79 +1,86 @@
 {
-  "generatedAt": "2026-11-23T01:25:02.881Z",
+  "generatedAt": "2026-11-23T11:49:56.817Z",
   "articles": {
     "INTC": [
+      {
+        "title": "Why Did AMD Stock Move?",
+        "url": "https://www.trefis.com/stock/amd/articles/627783/why-did-amd-stock-move/2026-11-23?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-23T11:18:17.000Z",
+        "summary": null
+      },
+      {
+        "title": "What Triggered The Drop In Marvell Stock?",
+        "url": "https://www.trefis.com/stock/mrvl/articles/627782/what-triggered-the-drop-in-marvell-stock/2026-11-23?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-23T11:18:17.000Z",
+        "summary": null
+      },
+      {
+        "title": "These stocks are rapidly gaining hedge-fund fans - Goldman (HD:NYSE) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1c5amxWbzE4U2pTM1RUcWRkX1Y4YVZPUU4wSVlGcmtjM2NZb1l4bWJucGdwRzhlTUZpYUJEU3NaQTlMdk80VllmaHBEMGMxT0NTVDBEalJKLXRBTXROZ1RlYTNlS3ZubWlnNlZnT2w0cTh5aE1vd2pKaE4wcjBfbkRoZGgtYmhrU1FwSXhhOV9FUXoyb29vTFRybGE?oc=5",
+        "source": "Seeking Alpha",
+        "publishedAt": "2026-11-23T10:58:45.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Stock Acquired by Polymer Capital Management US LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3NSdUlkbWhPbnVVa2dzbDVxZDJMWXJ6YVlMVVZyaUc0WmtLcHg5dUtMWGtVYmVsc01ITThTcVZRWjlwVzI1SXQ0bzhGZjVYV0x3SUFKM05tTnByZ1ZtVGdoYUZ3QmZYamRETFFsTFBYa1hzdzJTWkVQQzBlclZ3OGlaQUtNWEZWTGI3a25idVAxMXA2a2hUUVJ4T3M2SDRvckVHTkdYbkJwMTR4Nlh0RXNPUnpBQWdoSHE5Tm9sMVFiSTRmMkhNenpibThwOGtV?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-23T10:58:36.000Z",
+        "summary": null
+      },
+      {
+        "title": "U.S. chip and neocloud stocks rally premarket after last week’s selloff",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/u-chip-neocloud-stocks-rally-102133642.html?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-23T10:21:33.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Corporation $INTC Stock Position Cut by First Trust Advisors LP - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNXBKVC0wMkVtaHZJM2FkTXBuN21nTGlHVnlwZ3dmWnZOM29VMUpoZlV1Q2hyTlhZUjA5bXVlLTlXbmZ4WnhkeERqcjhFaVBYenI2M0hucHQwSTR6UTRkOHpZNllYZm9CMGZMeV9FY1dHQ1haRUNYQW9lbTA4eDBNSF9wb0RrNlFvcWc1cVpUVVJjaXR3aUZUUVV3bERGVk5Gek54Z0xsVXhycW4yUUhOQ2xValVRV3BYWnB6RUY0T0NBblV5cGlTWA?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-23T09:07:28.000Z",
+        "summary": null
+      },
+      {
+        "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave",
+        "url": "https://stocktwits.com/news-articles/markets/equity/nvda-intc-mu-amd-chip-stocks-rip-higher-dan-ives-says-bears-feel-validated-but-there-s-no-stopping-the-ai-wave/cNbYZnYR916?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-23T02:24:05.000Z",
+        "summary": null
+      },
+      {
+        "title": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says ‘Bears Feel Validated,’ But There’s No Stopping The AI Wave - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-23T02:24:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Intel Just Landed Its First 18A-P Chip Customer. What That Means for INTC Stock.",
+        "url": "https://www.barchart.com/story/news/8957190/intel-just-landed-its-first-18a-p-chip-customer-what-that-means-for-intc-stock?.tsrc=rss",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-22T19:30:03.000Z",
+        "summary": null
+      },
       {
         "title": "Intel Just Landed Its First 18A-P Chip Customer. What That Means for INTC Stock. - Barchart.com",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMEgxNkZmdjM1VGxmYm0zcXNzSDVJc1RBWkVBLXlzU0h3TmNkbTU1Nm9vWGRQcHBpMk1aMHlnYUQ5YXBuSmtFblo2bDJuUlp2aHA1QmlWRmhyOWtEdVUyY1N4NThJeDN5NzBrTVlfeWFkYjhiQWQ2MHQwVXFpNENDdGFfQ3JoYklZTE5UWWhmRmw5RnRsTjJURkJneDVNdlNXck1Da3JFR2RJT1FEakZZQWxNZW01Umx4OGVWMDY0MA?oc=5",
         "source": "Barchart.com",
         "publishedAt": "2026-11-22T19:30:03.000Z",
         "summary": null
-      },
-      {
-        "title": "Intel announces more layoffs as workforce shrinks by 7,300",
-        "url": "https://www.thestreet.com/technology/intel-announces-more-layoffs-as-workforce-shrinks-by-7300?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-22T19:17:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation $INTC Stock Bought by Meeder Advisory Services Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZElSa0JORDNxUFdQQl9SWUZkWlBnWUtIVU1QekhhdDRscVRXX2xpUy1VOXlvVTNZZ3BqMnNlR3hIMFI0V2JtdE9SRDNOZW4wcnpveFVBeDVXRFI3aFQ0TTFncFhvLVN2ZXBMY1AyUHlPbWNYREd0d0NIVzM3OU4ydlhnMTN1R2tmM2ZOczVzdGphemloWU0zOFB6NFJ2OXlXX1JKNm9ZUHhrY3VucTFKWUk3SlJIVEFTcXpqTVd0YWNjS2dCN3Vj?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-11-22T11:23:37.000Z",
-        "summary": null
-      },
-      {
-        "title": "A $37 Billion Fund Just Bought These 3 Stocks",
-        "url": "https://www.tikr.com/blog/a-37-billion-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261122-8gr2cg9x&.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-22T11:23:17.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record. - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPOElpWW00WkFCcU0xUk5uNlhLMjF0RjkwRnNPTkxaS1BoQk5raF9PVklrcVZyWW1TanFPN3BZY1dMUm9LYndCa3NDb0dsYU9CODFQUDFJeGgwWmc0bjdXbFdQdUoxNTZ3akRPcUkwamtLamF0RUJUeWpNc2F3SVhmZjR5YUNMUEN0SjhXa0pNMVVyZ21iYWxYRm1hbjRnek9aT1JkSEJGa0lGZ3FvU2VfQXNVaHduMjEzYk1KSGpVeTBWR0VmODlLdlRpeE9GUk01YnlTMnl1MF9wM3pPZGNYdG9QXzhSZHVKR1RrU2M1T3E2Umtlb1pGVnV1ZXU4OGJTNkxhRzYyUFhqbUN2UmJ6eTNkdy1rY0pxV2Q3MHZnZktWYS13VUdnc05VYS11UWRtejZVVmt5VUthSHA4OHFqcTNLTmRKalk?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-11-22T02:15:30.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record.",
-        "url": "https://www.fool.com/investing/2026/11/21/intel-says-it-just-signed-its-first-customer-for-its-most-advanced-chipmaking-process-the-stock-is-still-more-than-60-below-its-june-record/?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-22T02:07:02.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record. - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUdFaWdQMmxtLVJ5eHppUDR2d3JZZEVLOXNYX2kwWElXSnFQX0xqLTlrY2k0Qjc3eDAyNXJQOGUzQm1QQWNmSEstOHRQT2I2d3lLbUYxeXBEeENSenZvM1QzZi1OQzJ2VkRBbWtPVjRQTHdNeEd2d0lEOEFORkFHOU9pOWg2d1B0YkRBYnF3ZjQwNmN6azM5Ng?oc=5",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-22T02:07:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Says It Just Signed Its First Customer for Its Most Advanced Chipmaking Process. The Stock Is Still More Than 60% Below Its June Record. - The Motley Fool",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOdjFqZnNLcWY1dVFseEZoZnVWZUxSUWpqNUk1QnFTQll4RmNXc25vRHZfX0JfREt1RlFiN2FGQm16X3NFaVF3czFrbW1uNlVCelhaVDY1cWk0WDVUOUI2MlI1aHpnY3IxQ084VmoteGVRY3FqcjBlWGhYdkRJVjN3akJkbEJfQ0VpeFFQYjlfd0hxTkhOeWFvNUlXWDM4OWVraXZJNDJSSVJBLWVPYnJKS3A4c3JHX25TMGRHdUJub2t4a2liMEdWU2dmTkdzT25DTDNNcDNOZDR0dUJodHhOb2lsaEVIVnpqakZIRnIyU294N2NJNzAyRW1XRjVJLUdrX3RENGRzOFV1clEydlRv?oc=5",
-        "source": "The Motley Fool",
-        "publishedAt": "2026-11-22T01:47:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel's Turnaround Story Remains Firmly Intact, Buy The Panic - Seeking Alpha",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNEZpcFVidUVqWlFzQlB2U2U2TDZWYURaNmJNOVpzLWZyX0pjYWZMblQ2NmljQ01LUVk5cWFKQkNSUTZZZFFmejdKeEJfT1JDYXdYd2dseW52S21keGVWTXBNVGNLNlBVanVLUkdsSzNjSFBxbmxXRUswYzFEU3RXOGxlak56Uy1hcW1HZTRSVnhTR0FnMklVaTR4ZXI3cGhoTFE?oc=5",
-        "source": "Seeking Alpha",
-        "publishedAt": "2026-11-22T01:45:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "Best Semiconductor Stocks to Buy: Micron vs. Intel - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMWRraks5MGFHVDQzZTBMbUowRFF4clhFOVNxaHlvV1dCbFBIY3d2X2Jya2ZxUV85Sm5MWmNMalhEa09vNlREaFFQbEVuZDZ2YXBYVmZDVXJ4UG5EUnFjYm9DbkpYS2FiTkdUUFNOYm5DVDQyYm1LTWtXaXlzWlNmTVRJOV8wMFFQT3FiTEZVYWJ0VkFzTkpNYy1aOWx3RDFOU3VyODBMTC12eV8wRFdja0FUUlpqMkxsRU5Ta3JZTVNuNGhrQjNoYzVXNTg0Zw?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-11-21T20:42:20.000Z",
-        "summary": null
       }
     ],
     "005930": [
+      {
+        "title": "급락장 속 ‘고수’는 삼전·닉스 팔고 셀트리온·삼성SDS 담았다 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kdTVVOGE5OXFfamhiOW03TTU2X25VSjU5UktZVHNKbFBiM09qd3JaZ0dmUVRxS2xPOWNJQzlWdG9ocFdIeDdFRFdXYjh2NnAyR2fSAVNBVV95cUxPRVZ0UExLRHVfT3pQaWFFU0g2OTFjWXI1QUU2azg2ZlhYakZLNHdqZDVSY0llaTEwSjVsMlV6VkxLLU45akphN2NFWHJDRmlYeGZvcw?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-11-23T02:33:39.000Z",
+        "summary": null
+      },
       {
         "title": "‘긴급 대책’ 통했나… 코스피 블랙먼데이 우려 딛고 ‘선방’ 출발 [이런국장 저런주식] - 서울경제",
         "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1eWJBQmJfWGVVVjNmdTVGWHY3dW9DdVR5MDFIajRwZ1N6UHBkblZEMG1TQUQxN3dualh3aFo5TlhhN2JWTm9lRWxxdG9vMmo2NkHSAVNBVV95cUxQSGdQREpQSEFKTHhaWjlmS2IxSGxIcWRtNXBmUHQ0aG4teUN3NVhyVHBWTUhobVotOUszY21KeXFkZDJYQUZpR2c5VUhmU2pDWm5RRQ?oc=5",
@@ -131,89 +138,82 @@
         "summary": null
       },
       {
-        "title": "“외국인이 흔들어도…삼전닉스는 팔지 마라” - 이데일리",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVBaY1ZsNkx0Y1YtazlSb0tKVVRtcnIwbHFZb3JNUWdWQ3hJTjJfRThNQTNMbnFaMk5DcTFZNVpjYW5QWm9SNTNCUVc5d2tuRUJnZlh4d3d3Z1BHVGJxWGJ4aUVpdk5kbmJKSDRFT3NiOHExdG1qXzkwYzlWbkl3Xw?oc=5",
-        "source": "이데일리",
-        "publishedAt": "2026-11-17T21:00:06.000Z",
-        "summary": null
-      },
-      {
-        "title": "다 던진 줄 알았는데… 외국인 '줍줍'도 부지런히 - 파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11aGI4SHFqVURONDQ4dVlFbDhOTGJvdUtPZzh1TVQ5M1M5WEItUzRkRUNMc1VKSHdfWmZhWDB4bHZXRzM2eTBxaHZuZmMzZ1d2cVVKNWp2NklVdw?oc=5",
-        "source": "파이낸셜뉴스",
-        "publishedAt": "2026-11-17T09:19:56.000Z",
+        "title": "[특징주] 삼성전자 장중 1%대 하락 19만2500원 거래 : 기업주식정보 - 재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jekliaWJjb1A2UlVoVVY0UE80aVVOVE5NSVIzN3ZIWm5CQXJGaGZQOWwzM3JaNnBxeC1CTVhfMEJsOG1naGNhUDdIVQ?oc=5",
+        "source": "재경일보",
+        "publishedAt": "2026-11-19T01:20:19.000Z",
         "summary": null
       }
     ],
     "APPL": [
       {
-        "title": "Berkshire Hathaway holds steady on Apple shares despite 29% price rise and high valuation in 2026. - Pluang",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjFPWHRWUHN4Vm5LTG96cWljTWtTZDlmbE5sSVhjdmRFVVZzeUNlellWZVNSek0ycUF6WVUtdjI0T1FzRWpWMU1Gd2VOcDhwcHVIVXRndmswaFBkWVphRzFrcDI4WW1HN3V2Ujd2UTVLbXFVOUE1SW5YSDJZWmN3UFg2SUFlSUZkVHA0dk1SYW9ja0NNWDdpVXZHZkdRcFMwY0dv?oc=5",
-        "source": "Pluang",
-        "publishedAt": "2026-11-22T23:05:15.000Z",
+        "title": "Swap Cash for the Apple Stock Inside Your Irrevocable Trust Before You Die and the Shares Come Home for a Full Step-Up. Estate Lawyers Write That Power In on Purpose - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPYXNGNm1WOE1CUGY1SThSVno0Vjg0TjZHU015ZjRzUk9makhJZnBhQlZwb2xibDhleUU0QWdwU0ZpdlluamtFZ2gwYjNWVEpydnM4TzA3VVdhX3JXRzFMYTQxT2Zqb3BrMkRuMlZMM05LNjF5czBiT2ZoalBmNVhjZDJlMGZFQ2tBNnNLZlVXMUhFcnRxRUV0NEpCRHlaV2t3RmJXekotMzlBdWVUMm9WNUk4b0FPUjV1OFRjR1ZrSmw0RjhaZHJvTFdFcGZfVldmQlA1ZVI1TV9uanV3NVd2bkE5VFBtWkRKcnhvOHhqSmowYnZSa2N5d2tyOFRjcmx4Rm55RUVJVkduQUVLdmJSZC1QX2ZocXlzOE81aTJIQVpMOWkzYlQzU2lpVWd2Z1dFLUR4TndVQm9rQmM?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-11-23T09:43:00.000Z",
         "summary": null
       },
       {
-        "title": "Apple Is Now 25% of Berkshire Hathaway's Stock Portfolio. Here's What Holding Every Share Tells Investors. - The Globe and Mail",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNVjM0a1NPRUtCV1NzcGJTODNwR2d6UkdERGhnOXkwZlpTOU9iaVhUb20xbDhROFBPazNyTVRRMVBYVGRTUWFkc0d4MGJoRDQ3RXNUTVZMeUZNTjlSSDF6Q2JldGlDcjEyTEw3RERERnhyZnlGUlFlbFZsaDF5UmZTcnphR1hQMXdDVS1nRUVEVkhlQl9KNnpDZnRlVWpEbE9uRmRKN1FVdWFRYkQtcnpSRHZqR1FXaEF0TW1qaWppSXFMaG1ZYmZ6dlgtRzFDZVJLdU5Oa0s4S1ZRM09oc2lISXA0T19ZMG1Edk5ZNzB5dnlZU0ozb05RU2Y5c1BaanhwQWlOUE5kSDNOYWxCNzVhUWRqVlo?oc=5",
-        "source": "The Globe and Mail",
-        "publishedAt": "2026-11-22T22:55:46.000Z",
-        "summary": null
-      },
-      {
-        "title": "A $6.4 Billion Fund Just Bought These 3 Stocks - TIKR.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQkdSeHZBQUJSXzBjdVVLSWc5bTBzdjJFR1pZVTVHT2V6MkxSX280eWpESVZKbGd1Q05wekRQcW9WOURkRTh4VnRLd1prbF9ZNWVXM0tPZkd3dGJpZkFyTGg5am9GSTJtTHZjcllsRDRIOFhKUjdNVFN5OU1fM01zVFE5WjZYcjVpZXZpWGpEX3RyTTU0bUVZUTh3OTVKejM2Z2t4QUxBcUlPd09JdUdxd21n?oc=5",
-        "source": "TIKR.com",
-        "publishedAt": "2026-11-22T20:50:20.000Z",
-        "summary": null
-      },
-      {
-        "title": "Is Apple (AAPL) Fully Valued On App Store Trading Buzz And AI Hopes? - Simply Wall St",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV1dJNHNaQms4SWxNR2Nacmw0T1dLUWVmamVVOHlZUDVRZGU4VmFzdFhVUWRVSklYRGVFSHBwUlIzMVh6LXlLRHV0V2wxZjZTOFlNOEtYY3VpdC1ieGYyZ3VpU3RobktjRGp0blVwaHkxYnJCTTZveXA1NWtRVUZ3ODI1amZvZUQ3eEVPYTk4TW40ZlRZSFpTMzVRZ1lGLW5zMXg0cm9Oel9uOEROdGdVNm5qR3dGVmk2UmZR0gHAAUFVX3lxTE1kRnZhVnFYU3FnZFFTd2loazE4NjFIX1JvY1NGdlJBZm1sSjI0VmdVdUp2QVhkX214ZzgzZTVTWkpRZldueUloMVVFWUR0VzJWYkoxZlVKLXdTNkd1MzNMa1BMeGtYdlZLYWhRTFpIVEtuSVViZ1QxdTV6VTd1Q2ROVUEzTHdXRWZYYlptbl91N05uck9NRHdLMXpwMHNTbDdaaHRoYzQ0UzhNZXBsZTdUb0NkeXQ1TTVodDMzaTJYRg?oc=5",
-        "source": "Simply Wall St",
-        "publishedAt": "2026-11-22T14:06:41.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple Inc. $AAPL Shares Sold by Harbour Trust & Investment Management Co - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHU2VHNEWkpDWkhPVUdSZ2hQTHVxak5KdzZ1dGJRSWdiZDg2RGN0b0RReTNwSUhickRyUjB6OWJVUnNQSUk2eXBCVDZXaDZWQVdzNTM1ek0yUDhncVNLMDN3VFRNaElyVDhtTnlWN3RkeG9CdDRQenRBRFNBWmJ3aE5pVTh1ck9ScjN6bG0xYlA0Z2RzOEJEQ3F4bkpRZWRlY1FBZWNOd19kczFta21oMDc4NjdiaUVJLWxkX2RPWHVGT0lxb0Jhcw?oc=5",
+        "title": "Apple Inc. $AAPL Stock: MGO One Seven LLC Decreases Stake - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdzVkSk1BYW1HUThyQ0lrWVZlS3pCa19YTkJrajlVMmdnWk1FQ3p0QmdXRURoS25ReTgtMzRGQnFmSzdIR1JEeUluTlJjeHJXUDd2bG9XVUxXYlJUWHZhNEFnd3ZPNFlRRENEaDhsbnhuWlhDR2liSDNNLVNZeWtXbTNCTW5ETVdyYjBXRlltSWVodUhJNXhjck9QOWZ0ejBGVkRZYWpQd3JWT0pqb3BtYTI5RnVrdw?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-22T09:44:42.000Z",
+        "publishedAt": "2026-11-23T09:39:51.000Z",
         "summary": null
       },
       {
-        "title": "Apple Inc. $AAPL Stock Bought by United Asset Strategies Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd2R0dnZub2w2YVV1Ri1YRXBUdTRGMC02dVphM1F0R2Jtajh1SzlIMXBaQTFvNHZBNzJQeklrbEIwZDRPSnNTUE02Q0lPZjVrTVc1SmRDQjM3NDZKRkExUS1RUkhNQzc5Wk82ZGVSZF9lSnZWNXpkbExEQXJXMTJDa2s1aThidzdCdkZZSXh6M293THViTlQxTEJnSk1jVzNncHp4YmdvLUlIeGktLTBHSW5kU0p5NzJveV9r?oc=5",
+        "title": "Apple Inc. $AAPL Stock: Modera Wealth Management LLC Trims Stake - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjl0QS1aMFFyVTlkOEw0dUg3TWhuUVNKbUZXaVI4VDRLRjZUWFhwVXNvV2dkUXlXcjdNWFAybWpMWWpSVV9MeTNZUW5hTmgyR20xZ3F1d2F3VHJqTHM0a2U3Q2wxRDN5VjJjOEhfMHpZUlhYY09QVGZ4b29NczB4aTVkc2dEUk55TUh6R1pwcmpCOWZwRDNvb3pfdTR0NVZUVXA0YkowbnNUb2JUdmR3d3ZNbjdjSHJZUFJmNm5hNA?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-22T09:44:40.000Z",
+        "publishedAt": "2026-11-23T09:39:50.000Z",
         "summary": null
       },
       {
-        "title": "Apple Inc. $AAPL Stock Purchased by Sterling Financial Planning Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRFpnTGNEcDZQRGJReTd2Tkt1eEZac0xMTzlhLUdzSjBPOGRacEZzcjZHNnRnQTZqSEhzU1k0MGVQaEk3MW5DMjBQdkc3UDM3OHFHb05pVlk1d2dJREdLTktUbFVqTDcxaWRYdmM3Uy1JOFh5TVdxSWNUVklWdzBwQm9jSHpyZXZZMGJGcjZPQ1R6ZnVfQUItcklUTWZ4WmxnUmJSczhBYjRHMDNIdzJscG1VNVE1Qmp6eFVfcGNPSzRVeGxH?oc=5",
+        "title": "Lebenthal Global Advisors LLC Purchases 2,961 Shares of Apple Inc. $AAPL - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcENxRndGLVhzWjdUX181VlhEOHliWEVPTHY4MVlPUERRZkFQaEY1UWJOamdJSlA2RV9JdVRua2dibDlJVHhlek41WGJrVWtydXR5Q0RPMXgyLW5aTklmU0kwSElMRXlXZXNINFhYdzhCcU94YmwtamFJbFZtNGxCaXc2N0lTRlJHZEpuazZ6TF91WFNFWEdPSlJ3SHJoNG9LQWFpWTJMM0JhSC1NeEk4NXd3UjlYTW1UV1p2WWNfNzIzOWV0ZThHS1lB?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-22T09:44:40.000Z",
+        "publishedAt": "2026-11-23T09:39:50.000Z",
         "summary": null
       },
       {
-        "title": "Apple Inc. $AAPL Shares Sold by VIRGINIA RETIREMENT SYSTEMS ET Al - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVVluQUJ5UHBVazRON1pFeHlISnZKQWZNRktENWtyOWZyczBTblJFZC1kNU5vamlWaUdKOWtrM1pXVDgxcXhVVHRMTHUwaGF0OVFKMnVLRTg1Vno4ZmpRQ1RoM3Z6VDBQdFdQQm1CelR3emlyRl9RZTgzRFdWOTA4M3dtbDNfTGllcVhTVTEzOHB5Mk1OQXdQWjN0NkJReHJwZEw3NXhKNkRsZG42SGNtRGs2aVJPeWEySjk0b2E5U3djdw?oc=5",
+        "title": "13,200 Apple Inc. $AAPL Shares Acquired by Payden & Rygel - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd3BWUTc2b2EwQnpLOFVCdVlkLS1YZ0szc2pCRGRGSXhUd1N2T0M0X3NRalBqQjEzZFhvX04zaHA2MnJGNEFTZzRjc2pMSG02WWhyMmtBcm1FaElXRjd2ZFd3T2ZReU1VQmtiS0x4VjV6ZHJuWTFJc0hVWjJUMlNjSFRGREs5LXBXdGpaUVJtZ2JES1RZSTkzUUdRNHlMTkdxbGQ0ZWJUYzBCUHBGVWZweG5Zdw?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-22T09:44:40.000Z",
+        "publishedAt": "2026-11-23T09:39:49.000Z",
         "summary": null
       },
       {
-        "title": "1,772 Shares of Apple Inc. $AAPL Acquired by Livelsberger Financial Advisory - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVEptell5T1JienhYUl9zOFI2ZFBLbUpPR1NxUlpNekZob2FzOE1RUGZfWEViandycFJLWUdSaUd6c29iWlJubHV2WGFtcm1QaWJ1a2xObGRtaEhYRFpOcGxSX3U4YXMxUjJYUnJiRG1WeXVOTUN5MXZvYkF6QlFyaWxrbkxRQ2dCVzRLSDAzcHRuNlpxUy1tVjlueC1jNlhvVXBnV01kdUJvc3I1d3ZiZVZFZlcwSkdwalRLLTVTUExkNGNKZ3ZBZndVM3I2M2M?oc=5",
+        "title": "Apple Inc. $AAPL Stock Sold by Raleigh Capital Management Inc. - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcm1CLVpuU1QzUk9GQ3EwU1lvc3F3QjZPaUZLdllnY2p3eUFiU0Q5ZnN6VEU4OWh1RXdUR3BvTjFqZS00WkVBTzNIQ1BuYURXVzN0OUN4OUc0em92NFlTN1pQUW5IODBUQms0ei04MlZSUm54SnNGMEUwUGdnbjlseEZXX0FZaFZpOUV2MmV3dW9LVUgteVhpbzd1OElLdm9tQmxaMUNVNlk1SVRlcHRkaUJoVVh3SXowOWx6Xw?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-22T09:44:39.000Z",
+        "publishedAt": "2026-11-23T09:39:48.000Z",
         "summary": null
       },
       {
-        "title": "Apple Inc. $AAPL Stock: Everett Harris & Co. CA Decreases Holdings - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTVlNSzRQVm1MbVZPVlVFQ2JmdEI0VHBzenRCWnpKbW9oakNCZVNzRWdUaW1KYmNMR0xDdnJEOWVGTVFuQVh1LUxTb09UTkpYcUNUN2xEaVRUbl9xeEdIYmIwNUw4Y25BcDE4Q3pfZlUxQkM0Q3g4aG5lVlZvVm1hMGZwRl9LRXBfUHJsenhjRDFRZlBHb3U2a1EzbVlfVVpmekc0bmFkLVNtU2pVSXA3WWZUay0xN2M2Rl81MDd3?oc=5",
+        "title": "3,922 Apple Inc. $AAPL Shares Purchased by Whelan Financial - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTXZndzRHT0NjVnVLcUo4YjF5bXhtcWlSVDJQMmVLa0dVaWVjWldGeEdKbDUtUkxGbWMzRmJWS19rLVBmMW9ZbXdLallnWm94WUFHSnllSzluYm12anhacFBPdDl3alRueFYyTHhCU1picUFkX0FVWFVaYzZiN0hUQ0Zjc0Jvbm1lcWJuMmxteHQxVUx0Um5Xb1B5SC1qcHBHVWEtVHNVcVRtUGxEUUhIWlhNYVNxNnV1?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-22T08:47:48.000Z",
+        "publishedAt": "2026-11-23T09:39:48.000Z",
+        "summary": null
+      },
+      {
+        "title": "8,673 Apple Inc. $AAPL Shares Purchased by State of Wyoming - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVktUUt6aDBRX0Z6S1NxajRPb0lxQmo0QUI3bzNMSWtpamtDVEVNbks1QlRaMDF0Sld5dmFDTF94WkNhLXo1QTcyWC15TF9KRWVYbEFrc3U5VnZQN0VoVHpNek1ldjZhOU04Z2RjOVF2NHUxMFBxOU4tQUdyVTlCQXZYb3NVX0RXQWlfeVBDeC1hSmVyMjdacldQWms4YWt0SVo5X2U3WkROYjVnUXdFREZjbllaWkZT?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-23T09:39:47.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Inc. $AAPL Shares Sold by International Assets Investment Management LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQUxyWnkwaE9xLVJRb1JETzlhbEJUWEFxZGlLUUxuSi1MOWlmS2ExeC1IaDlDSzNZdWtTUjRzX1VYVDV4dW9VV2dhR3RwSURfR00zRThfNVpseEExbzgxZkdUUl92VWk1czRZMWNIb0NDR0J5cTdwTXIwSkI3VncwUjNBLThteVQ2OFZYYTVMUUdYUHBfb3YxQ0ZFY1o0b1hodmxNb09KNXJsdmJZMklxajlTekdTTFZxQ28yc0JTMWdHeWVUM09VMF85WnVudGZkdTNV?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-23T09:39:45.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Inc. $AAPL Stock: Fusion Capital LLC Lowers Position - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWHJxTnpUaE9ESXZ5dHpwSzVERkJ0WUJLZ2lQUmdpRlhKZDVVTXJyemJRZGFnbDhDTm5KWVZGU2xaWS1Xb0NDZTRCUmI2ZlhWaE5kZl9DeFlhTlBIUGdsTjQ3R2RzQzVQNGhlWGNIdElHcjNLQjdjWGpoa0Joa1FVSzcxTmptY1M5MTBnTnc3NTJKSl9OMzZNc1pjUmFQSUJfOHVWcXNuT2NnbFFGOWZoWDdQM1VzQjA?oc=5",
+        "source": "MarketBeat",
+        "publishedAt": "2026-11-23T08:31:17.000Z",
         "summary": null
       }
     ]
