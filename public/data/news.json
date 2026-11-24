@@ -1,148 +1,219 @@
 {
-  "generatedAt": "2026-11-24T08:30:40.308Z",
+  "generatedAt": "2026-11-24T19:57:08.319Z",
   "articles": {
     "INTC": [
       {
-        "title": "Jensen Huang’s Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom – And Analysts See Risks Ahead",
-        "url": "https://stocktwits.com/news-articles/markets/equity/jensen-huang-s-return-as-nvidia-ceo-sparks-ai-stock-rally-but-congressional-probes-loom-and-analysts-see-risks-ahead/cNbrt2TR9ju?.tsrc=rss",
+        "title": "Can Intel Turn Its Microsoft Cloud Deal Into a Bigger Packaging Win? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYWZvRHh2ZWstWlpIVmQ3a1RaWnhDLU9Pb1ZtUkZkaWU0eDlwTzcwM2NXQ28xWW94aW1rby1NWVNKZEVqWDd0a0FIQXBBam5RUWdBdTBESWhMdEhrbmhuM3F3MERLbEZHby1jcGNTbHVmcFQyZUZOVGxZWUswaUJaRlR4b3hKemZ0THJNTWd5V3UxRDdpaEJIaVJnOE5GVE5RY3dmbjdEWVZNUmxpV3hQY19kai1ITURhdGNZQ2hvM0cyNHpFUDFIOVhQYTNhZGRMM2RIVnljNkFrSjd2M3VaQVJ3Mi1SSW8?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-11-24T17:38:02.000Z",
+        "summary": null
+      },
+      {
+        "title": "Nvidia, Anthropic, Micron, HPE, Analog Devices, Insmed, Dollar Tree, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/f7fa0ed2-2c68-3b80-9261-c35639090d03/nvidia%2C-anthropic%2C-micron%2C.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-24T02:35:41.000Z",
+        "publishedAt": "2026-11-24T17:37:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel (INTC) Shares Jumped, What Is Behind The Latest Move? - Simply Wall St",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeElFWnFkc19seE4tSGtkcmxwVkhrRVc5cnJiSlZiWW9FTGVGNFhRQ3dQWWtHNDVBYXBRd0tYSUY3anBDUURGZ3FUd2RlbnAxMlVubzBiYnhjdkR4RFVWWmZSbVAzSU1vWlV1QmhIVm9MekRLRDJVY0pmSXVlMGEzMy1GRE51UlF4cFcta2QzdjBWbDdzMXJMcWxtd0JyY3dhM1V2U3JyQUE2NkozUm5JQ2ZJTm1PVVQ3clU4U3BGQmFVVU3SAcgBQVVfeXFMTU5UcEpyTS0tcWtqbzdoc3pfZUFEZG5ndnNLWm1YX0FfRUVOVGdmX0EyY0JsOVVTRlRPckZxTm1zZlVsZ0RELXFMcGZiTU93b005WUJwU2pQSkh3TXNUdHZGRGxvNzFGa0JtWmttekhMQmFoTU1tWm5Db1o4VWx2Q2VfeEZDaERYQldIRzVmUUVZSXh5cXU4YlF3YzctREJNY09qUVZYTlJ5ekFNdllmWFc5ZHhZWm1NeWFIMGtxTWl5dHFuNm5tV04?oc=5",
-        "source": "Simply Wall St",
-        "publishedAt": "2026-11-24T01:08:18.000Z",
-        "summary": null
-      },
-      {
-        "title": "What Microsoft (MSFT)'s Enterprise AI Partnerships Mean For Shareholders",
-        "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-enterprise-ai-partnerships-001743463.html?.tsrc=rss",
+        "title": "Why Is Microchip Technology (MCHP) Stock Down Today? Chip Sector Selloff Hits Peers",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-microchip-technology-mchp-stock-173109296.html?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-24T00:17:43.000Z",
+        "publishedAt": "2026-11-24T17:31:09.000Z",
         "summary": null
       },
       {
-        "title": "AMD Stock Rallies Nearly 8% as a Bernstein Analyst Remains Bullish Despite the Hunterbrook Short Report",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rallies-nearly-8-235832362.html?.tsrc=rss",
+        "title": "US manufacturing leaders urge policy reform to counter China",
+        "url": "https://www.manufacturingdive.com/news/us-manufacturing-leaders-urge-policy-reform-counter-china-house-committee/875612/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-23T23:58:32.000Z",
+        "publishedAt": "2026-11-24T17:24:00.000Z",
         "summary": null
       },
       {
-        "title": "Intel's 16% jump mostly tracked the chip rebound - Quantisnow",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa3hONUUta1VTdTVQNUxvN0xJeDhoY2tsOVVXZF9kRFNrR1BrTjFmZ05kYWRPazBHUFBscGpMd0JuOXpxaWpMOWt5TUg1LVVqdlN6ZlRVdUFQX3VOVVdOdDhIUExwS2lCU0g5bG1PM2RsRjdFd2tQbFJPbEFfVHAtaC1ORno4TXpuQ1cyRHNJdXRleElMNV8yakloTlhjM19NR3lraDZrMTdrZURiVVE?oc=5",
-        "source": "Quantisnow",
-        "publishedAt": "2026-11-23T22:11:23.000Z",
+        "title": "Why is Intel stock sliding today? - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc2swWDkzWkVlbi1UUUY2dTViU21Ya3JpQUFpWmRodDNxWGVwdWxRQWoxaFozaThYRVNPRVpEZFR2eDN1dWs2N3VITnNnRUJ4azB1akpWc09KMUo0WjV0WC1PVkh5S0s5YkZ6V0VyUkdoT0RLUVhFNV9RVFZUeXR6SlpXQXp2eGFGYkRsQmxiUWVETGZISU1TaVdB?oc=5",
+        "source": "Investing.com",
+        "publishedAt": "2026-11-24T17:13:57.000Z",
         "summary": null
       },
       {
-        "title": "Stock Market Today, Nov. 23: Advanced Micro Devices Climbs on AI-Chip Rebound After Nvidia Reinstates Jensen Huang as CEO",
-        "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-advanced-micro-devices-climbs-on-ai-chip-rebound-after-nvidia-reinstates-jensen-huang-as-ceo/?.tsrc=rss",
+        "title": "Why Is Intel Stock Down Today? Shares Fall 8.1% to $54.83 as Chip Rally Cools After 16.3% Jump - Around Prague",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1hzRkw4OWJpcE9GMHBjSFp0WV9KdlFKWC1ZY01nSmgxbkRrM2N2eGRBTVFBM21BNTRQNVdmcUljT0Y0dDNNc20zcDJjYTFPUExuQkItZ251ZENpQ3JIVDl4YmxYLS1INUREY2JFLTZVMnBEQlptYU5JWjJFTjd5S1lMbmFaWHQxeUF3UDFRSkE4QnQzbWxWMjh2X21fQ2lkOVg5WmpURDdzMmdWWHc?oc=5",
+        "source": "Around Prague",
+        "publishedAt": "2026-11-24T17:11:07.000Z",
+        "summary": null
+      },
+      {
+        "title": "“The Bank of Nvidia Is Back,” Says CNBC’s David Faber. Its Investments Rose From $7 Billion to $110 Billion",
+        "url": "https://www.tikr.com/blog/the-bank-of-nvidia-is-back-says-cnbcs-david-faber-its-investments-rose-from-7-billion-to-110-billion?ref=yahoofinance&tlnk=yf-261124-hfqgvgp4&.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-23T22:10:40.000Z",
+        "publishedAt": "2026-11-24T16:49:38.000Z",
         "summary": null
       },
       {
-        "title": "Newegg and ABS Bring PC Building to Fifth Avenue with a Holiday Showcase at the Intel Experience Store in New York City",
-        "url": "https://finance.yahoo.com/technology/articles/newegg-abs-bring-pc-building-220000219.html?.tsrc=rss",
+        "title": "Up 100% in 2026, AMD Will Trade at This Price in 2027",
+        "url": "https://247wallst.com/investing/2026/11/24/up-100-in-2026-amd-will-trade-at-this-price-in-2027/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-23T22:00:00.000Z",
+        "publishedAt": "2026-11-24T16:03:33.000Z",
         "summary": null
       },
       {
-        "title": "It's not over for Jensen Huang",
-        "url": "https://finance.yahoo.com/video/its-not-over-for-jensen-huang-215809126.html?.tsrc=rss",
+        "title": "Follow the Smart Money: This Billionaire Tech Investor Has Been Loading Up On Shares of These 3 AI Chip Stocks - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPaUF0M0kxeHFnejNwaGhsNUR0YldDWC05MlVYV0FzNENjMjJrVnhJMjlGU1dHYmRXbEV4b2kySDJVeUhCM2o3RnVndTRUWkpPVnQ3ZEVYTkV1cHlLX2U1Vm5Za0dHR1pSRTFLdldQalRvcG1jU1BFUmdOdFV5T2k4OG5YYXNnVmZRUjVIdXVCWG5PNWJaWXJMTXFPN3JqRnJfX0NrbDJKbmpRN2E5eDRPX2x2eFlaVmNZMExpRmVnU2Y1NmJXY2NYNldWSnAyU2hocGllNGNvdWIzS1R3TzhCLUhhdi1qaXNaOW1hZHA1X3diSFVyQlZjd2VCUkFfRTRsdGJYOFVMVjFCU1RJVENzajIzTFV2ZUVfX25RWUtoaWFRdw?oc=5",
+        "source": "The Globe and Mail",
+        "publishedAt": "2026-11-24T15:53:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "Follow the Smart Money: This Billionaire Tech Investor Has Been Loading Up On Shares of These 3 AI Chip Stocks",
+        "url": "https://www.fool.com/investing/2026/11/24/follow-the-smart-money-this-billionaire-tech-investor-has-been-loading-up-on-shares-of-these-3-ai-chip-stocks/?.tsrc=rss",
         "source": "Yahoo Finance",
-        "publishedAt": "2026-11-23T21:58:09.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel Corporation to Participate in Upcoming Investor Conferences",
-        "url": "https://finance.yahoo.com/technology/articles/intel-corporation-participate-upcoming-investor-213000154.html?.tsrc=rss",
-        "source": "Yahoo Finance",
-        "publishedAt": "2026-11-23T21:30:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "Intel plans three December investor talks, with public webcasts and replays. - Stock Titan",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0ozeGg4WVhFLTdTZzVJVVY4b2FHS1JHcm1UaEh0bEdESnVuWVpMcnZKMkdJLXByZnN4OC1uZTZnSDhNQ084Um5tazAtelgtaUZGcVgtam5EZHZBdVIySWhKeTJ1YXpQSUYwQWw2VTdkdUpmMnZEdEdaWndGUHVEMTY4TjNkTXhkcmtfaEtnRHlKbXN2NmRXajBfYmVGcGM5UHhhY3BmZWVRYXFl?oc=5",
-        "source": "Stock Titan",
-        "publishedAt": "2026-11-23T21:30:00.000Z",
+        "publishedAt": "2026-11-24T15:48:02.000Z",
         "summary": null
       }
     ],
-    "005930": [],
+    "005930": [
+      {
+        "title": "코리아써키트, 삼성전자 제치고 순매수 1위 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGVnlpX3NYam40NTljQ0JvRlZld0xoekV1RTBiRGNRbko0NW5pcE5hU1YxSkljYmtvazFFYVNnWTc5bUZkODdNUjdRbU9ZQjZEQWfSAVNBVV95cUxPNC1Gc3YwaTc2QmFkNmlMa1RwVlAtQTJ3QXd5VXBreXBCM21SWmE1MVA3QlpYcGl3R216YlF1MkJ2d2lHaE4yUlZ1bHc5UHJzNnhlOA?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-10-22T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "이재용 회장, UAE 현장 경영…'글로벌 삼성' 주요 프로젝트 점검 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIa3J6aTN4NGdyM0tCMFZKaHNYeU9fUTdFSHd6a1VibFFHOGJQUjliMUIwclFBRlhwU28waF9FRlZjUjNFUHh1dVNodlc5bWE3bHQ0Ui16RkpNdUYyRTRqNmEzTmNjTkVBY1RHdFdmM2dBLUZXMkE?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-10-22T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 ‘역대급 실적’에도 외국인 지분율은 ‘금융위기 수준’ [이런국장 저런주식] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNTFPSHJ6a1M2TG9KbXA3VWJsSWFFVjJqZmJKN0tVcHJsa004WGtXdl8xTllmOElzVDlrbkxkVjdRY0I2ZlZERXFPRWxvbU94NnfSAVNBVV95cUxQWVBZbTBWQjVlZ2c0WlpBQjY2VWdKQ0tMVDItcjF0T0FiRVl1dFZ2d1U1WGJvZTAtc2dkT21FNHdhRXp6UG9aVWN5ZG1IWU1IZXFrSQ?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-10-11T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "1000주면 배당 460만원?AI가 분석해주는 삼성전자 (005930) 상승확률은? - 네이버 프리미엄콘텐츠",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSXFZU3ZHSk53YzU0UnRtQnE3bTl2R3lJMV8wd252Mk5VZUoyZ25RUVVKcThmM3IxeE5NTzZpUm1Ba2hNanR0WjA5WXc2TFNKZ1M1ZS13VUJpSHdtbmoxQzBrWU4wOTh1eWpNQWZwaGczUlplY3U0STRiYjB3NkotTjZfblQzQQ?oc=5",
+        "source": "네이버 프리미엄콘텐츠",
+        "publishedAt": "2026-09-29T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "한 달 만에 ‘28만전자’ 탈환할까…삼성전자 순매수 1위 [주식 초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wSzVSN1lGWkR4YVo4YlZsMU1tWEJyZ090cjdVUlNOVWtiOUhKSVhES2xvM0NTWE5FcnJhWWN5eFBPVngtVHhmdWxuV2JDZmxRcnfSAVNBVV95cUxORUwydGlDODNtdWRKYm1zcmUwYjFUOUk2dm1IbE4wSGZ2ODZob0tac1Zwb2xkblZiVVJHbGd3UGtJbi1hdWt5WGdUTzJzR1g3c191TQ?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-09-23T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "“삼전 1000주면 460만원”…역대급 배당 앞두고 28일 ‘막차’ - 이데일리",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWtYRGpTR0FwTUtUak5ZM2wwc1ZpazFsMlFwYkpIOGZJdnotazl1Q0FDQnZLTjZZQkJKRWZneUZhOXR6cm5Mbk0zdVE2MXh3Q2hzZDE3ajh4SUFvT0lySFRGQTBFZ2lqNDQxVVNjcHlHM3FvdWZEUG1rZ01aUFVZdA?oc=5",
+        "source": "이데일리",
+        "publishedAt": "2026-09-21T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "[현장] 삼성전자 노노 갈등 확산… 초기업노조, 동행 소통방 '폭력·비하 발언' 공식 대응 요구 - 인포스탁데일리",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTME5Ub3d1elFrQ2I0bnpzODB3SVI1N2syanFMYjQzd1ZNcjFTR3Nyb3Y0bFhPNTVtTXRrTWVwZURTSjk1SUQ0azkxU3oydGdnSHNuQm1BWDZQZjZSc3h5aW1taUdqTEVkZl9oRExpU3RoNW1JQUE?oc=5",
+        "source": "인포스탁데일리",
+        "publishedAt": "2026-09-14T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "[뉴스락 주식네비] 삼성전자, 연내 80조 추가 주주환원 기대... \"10년 만의 재평가\" - 뉴스락",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbG9KMy05WDc0S1IzeE1lY0tXcEVMZkpsaGkyUzg0R0ExNHlnZ2RWM1F1T25xWHd2UTBhY3l2Q2lVbnNHWG05bkx4MDFmS2VrRUtRMHVSSFNia3h0dG0yOEg3UHlicGlTNExnRw?oc=5",
+        "source": "뉴스락",
+        "publishedAt": "2026-09-04T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "삼성전자 실망감에 코스피 3% 급락…코스닥은 반등 - 프리진경제",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CYThVTEtVU0VXMEZESHlFUjlBXzZMQU1TM1MwUXNnUmp6bEYzS0tCaWd2VzdIZ3gwYlJBV1M4N3BUN1ZoMHZLLXdtTjV6dERmRE90NWpFMFQ3RE9Gc0lwLVZ4QnlGWk5vZktRcQ?oc=5",
+        "source": "프리진경제",
+        "publishedAt": "2026-08-24T07:00:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "‘100조 환원’ 기대에 삼성전자 담은 ‘상위 1%’…SK하닉은 차익실현[주식초고수는 지금] - 서울경제",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ic2JJS1ZhQkFhdFhZVEtEcFpBd3hEUkxSNG1TSkRkdnpINkVYdVc4MlhwQzlITjE4VDZwVkdXb2dlN3V2UGtEV011c01ibHVCMGfSAVNBVV95cUxQMWV4b2hZX3BqWkEtcmJOQy1YZFFrYTduN1h1ZTM3aUdUak1LQndvaTQ3SWdNN09tU0llckRGUmpwNXZIYVYtd1Q2M1QxSXFQRmtCOA?oc=5",
+        "source": "서울경제",
+        "publishedAt": "2026-08-21T07:00:00.000Z",
+        "summary": null
+      }
+    ],
     "APPL": [
       {
-        "title": "Apple Inc. $AAPL Stock Position Cut by Cidel Asset Management Inc. - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGhxTG9kNC13dXU5VzllVXZLOGY0WTNmSWwyc1hqbWR3c01WNlVFSDFDZk5Yb2p3WGJiZTJGMEJZazBFdkx5NVJDY3BYRk5QUnNDejltU0ZQVk1uYXpYUTFoTGJPSzFqZm9mSHJMR05tZndvUVRGRDJFbEp6RldSdlFVYmh2RERwempLVkJ2Zk9wSTBjZjdYUS1wTnAxM0pvTDFLRHlZckE3SkNfWTQwV25GMXpCRDBmb2dEajBLc3FYUQ?oc=5",
+        "title": "Apple Stock Has 3 Things Going for It in 2027. Here’s My Price Target - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSUhjckIzQThzNXJUVXhqNzRLVUp1eEhsY1p2VDVNTGhOblRmOFJxXzRKV09wZkFhbmF1U3JIaEsxclB4Y0Fwc0RiajhCMGJDanpSbEVZdGg1SlhaNy1VNGxaTWJKU1RnUmdPSFMxdkxSYkFXb2F3azV3TGdlVVhDT1pmQldxVklzTXJiR3E2bVppNkQzeVE?oc=5",
+        "source": "Yahoo Finance",
+        "publishedAt": "2026-11-24T17:03:57.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Stock Has 3 Things Going for It in 2027. Here’s My Price Target - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd3Q4bDB2UEZPeThmaDdXeHBJNm8wcUU3ZzJmeWFTZTItV3lCeVVqQ1Bpanp6R3Y1SzlYZTN1M05PdGV6SFZBWU5JLWtvdGtfMlBGMHNMa1NwemRheFJPaVRUa09rQ3pJNVlxMGxWYkw0QzlDRXNGeU5jQXRjRHBHQ0toeTYtNTBQM1VOem9XeGNsUkxCUE0tanRpdHVJVDF0S21LcjVZWE9NY1hGRzQxVQ?oc=5",
+        "source": "24/7 Wall St.",
+        "publishedAt": "2026-11-24T17:03:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Will AAPL break higher as institutional demand and record revenue support buying? - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb1ZPRGhjM2h4N1lIOEswWW1JeHB0UVZVYXFVZG9fTlE2RjNLN0l6dGJ5ZFN2T1ZqcWRkMlhhenpFbDNyeEdMaFluTGFObUpSRkNOR3djMi00SWYyNTdqMS1EN3lvOG52MDQzTFlBNHNub1RKRnJmQXVBdndJQlFNdkVwTDJWT1I3TVNrTEdnWQ?oc=5",
+        "source": "Traders Union",
+        "publishedAt": "2026-11-24T14:02:26.000Z",
+        "summary": null
+      },
+      {
+        "title": "Can Wearables & Mac Revenues Add Fresh Momentum to Apple Stock Ahead? - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdzFrVFloRm9iYTZUa2pyZTFLUnpWT3otdS1MRV9QeVpKY1JrekdnR2Qza3h1bUFCTENMSEJzaGxDdldjUWZkTWxhdVBZeklocW5JZXY5aDB6bDZpRXJOdVMxd1RJbVZzR0llNFpMWWViaXNsbDQtV2x0V0ZiaDlMeG5lMFU0czVWMDhGUmo4cWl6MXQxaTNGRUlPTnJwbTVvWnk3WEhGOVZ2QjQ5eGtQTE1ZV1U1dUw1LWotR1BXWQ?oc=5",
+        "source": "TradingView",
+        "publishedAt": "2026-11-24T12:29:00.000Z",
+        "summary": null
+      },
+      {
+        "title": "Why is Apple Stock Holding Strong While the Rest of the Market Falls? - BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lLTBxd2NoU3o5dDd2N2lEd2VSc0VJYVJOV1BlOFl0NjBGSXRMeUdxMmp4cnFIbUJWVE81Z2hjOVdxQUJsUUJvRU15MGJ0X1hyTlNSekpWS080X2d4RWx5N051VUlWYUczdFY5V09Xdw?oc=5",
+        "source": "BeInCrypto",
+        "publishedAt": "2026-11-24T12:28:10.000Z",
+        "summary": null
+      },
+      {
+        "title": "What Changed In Apple Stock’s Story? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEVVdkd3OHBjVmhXRHRHaVJ2WHR3ZElLN0gxS1p5MVM3dlYxWlZFMmYtb3dIdkZXRnktcVBORG9QdVpoVmhxTklQRy1sY2ltdW9ySk11dTdaVHptUlJDUWNqN3dKNnpmRlFicEktZGNfc3ZGWkRmbkVveXRlQ2NhR2tZU21ZeHVBV1o4V1kwaDVycS1vdGswQTlyVnU?oc=5",
+        "source": "Trefis",
+        "publishedAt": "2026-11-24T11:18:49.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Inc. (AAPL) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TSWlVaERqVVBsb2hTVzZaa3l2bkpRTGZVT0lzaGo2TDNNRzVKMkttcFRXV2U1T1RDLVBLNktsRmxVcTNtbXpmTGFLUHdsT3VmR1E?oc=5",
+        "source": "Yahoo! Finance Canada",
+        "publishedAt": "2026-11-24T10:23:38.000Z",
+        "summary": null
+      },
+      {
+        "title": "Apple Inc. $AAPL Stock: Moss Adams Wealth Advisors LLC Cuts Position - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1BZMldHMWlfNG43bmhLQkhHMnl4alBvQWU5UTltVlNHNVk0dHFFOVFwbUVlbkllYlBKNGJ3NVN2T05ic0RRLVZPTnBYekY1NHNqek11NFJteHVBSW1OcGNad0JKVGwzRFpGRWp6ejZsMDJFT1JzdndBTFF6R1ViVS1uLTR2d1I1ajU4bVFlSTFwRUM1cFhNUVhldzdiQllGYldJNkZ3dTF2MUdyOWJidU1fTF90bVhtQzRYLUpMT2tQWm8w?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-24T08:28:05.000Z",
+        "publishedAt": "2026-11-24T09:59:42.000Z",
         "summary": null
       },
       {
-        "title": "Aviance Capital Partners LLC Sells 3,433 Shares of Apple Inc. $AAPL - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUdjWUpRVzlyQ1JiWl80Wnc5TTlfREktVmJ5ekRsVDFOWmVScFpvS0xPbGhaNV93dkFGcVFSV3BHT1pVLTNEZjBXV1VjdGhpMUhWWXk2cVpQc0hhQlNjOGdOaEc4M3F4WEU5T1VlUTFjYlpIaXFPNldpejM0cm1QVE9jeWZfZGdnNTA3S1BzWDktTmh3Wi1zM0d0ODlqaGtXcHB4djlKV204NEZVLWt1c011NDRRUTUyN0dDUWRPU0tmdXc?oc=5",
+        "title": "Apple Inc. $AAPL Shares Bought by ProShare Advisors LLC - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkFmNjl4OEFHZzNCM1ZhOEV3dEhJdjl5dEh1SHZNa0NCVEJ1aDlmZGI4SEg2elBPUDBBd0NKUUVhOFN1QnRldnBkaTZfNkM5VFhKZGlUYlVTSmtFSEZXQjFvMkp5U0U5emo4Zjk3NTJqQ1FHTXVrd1hqYmlmWWJoM1U4MER0azdQNWpFZEttTDRiZW9qVGRnaV9JdzRmVGNGZktOY2hFenVMWkdTRWlpektlNGc?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-24T08:20:08.000Z",
+        "publishedAt": "2026-11-24T09:59:42.000Z",
         "summary": null
       },
       {
-        "title": "Apple (AAPL) Stock Price Prediction: Earnings beat meets a fragile breakout - blockchain.news",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOS1BVDJIZG0zMDFKRF9hX1RpY0dmRHhva3lUdElDNGR6Q3NFNl95Uk5CbDZxaUx1MGFEQkwxVDI1dlFOOE9iTVlfWV9PM2M5U1lhTjJuaEFvYTJnMlI1emYzREM3Z1g5QUxfSHZNUFdYTHMyb1g2OXRjY09QNFZQbHVBbzBIQk00YmJFR1IxV0l5SGNNV3NYNkhUMjFIMms?oc=5",
-        "source": "blockchain.news",
-        "publishedAt": "2026-11-24T07:27:41.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple (NASDAQ:AAPL) Stock Purchase Revealed by Rep. Ed Case - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUN2UGNoSlhJMXdyVTZoM3dRU0hqLW9hQ2xfVTV3WllLWklhQlpkYnpHa1U4cUJjNXVySTZ2UWRnWk9HS004Wm5qeDFZV1FLcnFTTjJFN2F2STZvSUs5Z0I2eHhpWWt0dWIxdDgyYWJFOTZ5QzNZZnlDMkQ4TmY2ckpqM1g1a2VpZHYyb2Z5SElIUkpKWVN2aGRzRUZTcDh1U1ktSWQxVjBvZ1dDbDVTeWs0LWJRcXlEdDZF?oc=5",
+        "title": "Summit Global Investments Buys 41,338 Shares of Apple Inc. $AAPL - MarketBeat",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZmhvUGxyOVc0RmZfTWlYNkk4cEgwZW5xOHFNTThzNWhTTlItQmxFQ1p0QVRWc3RwaVpia1lwWTh1ZFJkaFBLbUhUa3MtVENVWWpLWFBoanNiWGFPdDlCTkw4ZDl5YlQzZXNYdFFiaS1iODhpMkxEX3pzZzd2NU92T3FmUFgtTzRIM25Sd3BfOVFmLW9yQjdNanB5THFaRlFieHF4TmY3Q2U5MUx2WmpUaHFxNFZUWFNENWVaaThRaw?oc=5",
         "source": "MarketBeat",
-        "publishedAt": "2026-11-24T07:09:47.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple shares bought by Ed Case through dividend reinvestment By Investing.com - Investing.com Canada",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0RnT2k1VnI2c1V1YVFNSU9HN3FRRTd3Q2V4OVdvMFJzY2dLSFQ1bmwtU2N2cVotU29tU2F3dEZSS3h5aG01RlE2dGJGZnd4WDVfbTIzLWwwX1pSM1VfaF9uejJjSkxtSm52THBQVE45WW1rT20xSUNCVjF3WklKY3l4SGJxYzdXN1BLaHl0X3d1WGlVV0dNaC00ZGpwdm5Zb0NQWS1FeTJFQUlMcG1iRXFkdVR6Y3ZEaUpLYUtB?oc=5",
-        "source": "Investing.com Canada",
-        "publishedAt": "2026-11-23T22:24:14.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple (NASDAQ:AAPL) Shares Up 1.9% - Still a Buy? - MarketBeat",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakV3dTNCZ1hYLXp3V0VrV0lxTEpoWUZ5NEp3R0VGZlpONDZqWXVNMnNHcEVZd0VtNXFjaDFoN0htaktyZHpyVXloSkZpUlI5bV8tb3pYWnRyOVdtV2tLMTR6TmNSRFVVQ0NGcTZnVEswT3pZeVdGcEljejg1Nkg4MzFIYkhuMVJGNEZnM0ljUkxzeXcwZTkwNDlBRHo3VzIyMlVQcw?oc=5",
-        "source": "MarketBeat",
-        "publishedAt": "2026-11-23T22:23:15.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple shares bought by Ed Case through dividend reinvestment By Investing.com - Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbjJnTFdnMXM4dGFUUXlhRW1XUXNmM01kSW9OOVJQcW5SMXo2ZG9sX2c0eGkyX2ZUTERidV9JNWpiTFJrdVRvS0JuUGtPNmpRaG1PNENnVHEyNGs0aXNTdnlPWEV4ZVdHV29yanBabFVqN1dMTG1MM0RqMnQ3M3RHTnhPc01DdVMyR0pHNDgycmxicXg0bTV0Z3pIZ3JjNGN1cVBFSlBVWkdqVjk1X29KT1dWbUJ0RzdB?oc=5",
-        "source": "Investing.com",
-        "publishedAt": "2026-11-23T21:09:48.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple shares bought by Ed Case through dividend reinvestment By Investing.com - Investing.com India",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMmdlV3FEU295Ylp1SXRQaUI5QjhDS1JmUXZNWUszSHlhZnEyQUNjZlp4bmcwV3pFenk4MjBhcGxfS21Oa3VGYnZxck0wRXFJclpuS0xmYk0xQURPcnRYaTY5amctZlp0SzFNNXdyMUVWWFN1Z2xNRk5uOWZqbFhpRWJsaDVKRmE0bGpWMGl4czdma2lRdUNmeDBQNjZSbE9TeXlmTHRnclAyM1NyQURJSU5BbVZHRkJqbkZFcWln?oc=5",
-        "source": "Investing.com India",
-        "publishedAt": "2026-11-23T21:06:19.000Z",
-        "summary": null
-      },
-      {
-        "title": "Apple shares bought by Ed Case through dividend reinvestment By Investing.com - Investing.com UK",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQW80b3BfYTM5OXExMzJTTFg2c3pBMmMwcm5UdnBRUzZRenBqbW9kRzh4eURFeF9icjE4WmJSZWtNeUhqRHhXRWExby01LXNYaE14NUZPMWlvN0pJWmZUMF93MlFrMHJnZldBY3JlTWFnbTg4VGN4TkVGcXdZM0hTYkRaUHZiN3pPNXRfdnBjMlRYaDlxcmVldHQ2NXJjZ0ttRVdWSk9fR2tPaUxVTUlUcVNDQzM1N0xpTFJfeFF3?oc=5",
-        "source": "Investing.com UK",
-        "publishedAt": "2026-11-23T21:04:00.000Z",
-        "summary": null
-      },
-      {
-        "title": "DAN IVES' 8 BIGGEST STOCK HOLDINGS IN HIS AI ETF $IVES. H - KuCoin",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiY0ZzRFR0SDNNdlQ2eVBJdGo0aTRKQTBOb0Y3Nk8zMWFUZjlwTW8yNUI4NXFLUmF5dENQN215MnMwaFFveGlPdy1tMW1hc2pkOXFncXpkVDRvNkx5WlpTQkpsaVFtZDJkNC1LaFpUY1dWcnc?oc=5",
-        "source": "KuCoin",
-        "publishedAt": "2026-11-23T20:07:03.000Z",
+        "publishedAt": "2026-11-24T09:59:42.000Z",
         "summary": null
       }
     ]
